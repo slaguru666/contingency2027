@@ -20,31 +20,38 @@ content. Session clock counts play time only and pauses for the break.
 
 | # | Day | Session | Game | System | PCs |
 |---|---|---|---|---|---|
-| 1 | Wed 27 | Afternoon | BLACK SUMMER — Last Flight Out | Walking Dead Universe (modified) | 5 |
+| 1 | Wed 27 | Afternoon | ANOTHER BLOODY TREASURE MAP | VANITY | 6 |
 | 2 | Wed 27 | Evening | AFTERIMAGE | Blade Runner RPG | 4 |
-| 3 | Thu 28 | Afternoon | DEAD AIR I — Ash & Amber | Call of Cthulhu 7e | 5 |
-| 4 | Thu 28 | Evening | THE FAVOUR | The Dee Sanction | 5 |
-| 5 | Fri 29 | Afternoon | DEAD AIR II — The Quiet City | Call of Cthulhu 7e | 5 |
-| 6 | Fri 29 | Evening | ANOTHER BLOODY TREASURE MAP | VANITY | 5 |
-| 7 | Sat 30 | Afternoon | DEAD AIR III — Full Volume | Call of Cthulhu 7e | 5 |
-| 8 | Sat 30 | Evening | THE CURIOUS CASE OF MR PARKER'S DIARY | Vaesen | 4 |
+| 3 | Thu 28 | Afternoon | BLACK SUMMER — Last Flight Out | Walking Dead Universe (modified) | 5 |
+| 4 | Thu 28 | **Evening** | DEAD AIR I — Ash & Concrete | Call of Cthulhu 7e | 6 |
+| 5 | Fri 29 | Afternoon | THE FAVOUR | The Dee Sanction | 5 |
+| 6 | Fri 29 | **Evening** | DEAD AIR II — The Quiet City | Call of Cthulhu 7e | 6 |
+| 7 | Sat 30 | Afternoon | THE CURIOUS CASE OF MR PARKER'S DIARY | Vaesen | 4 |
+| 8 | Sat 30 | **Evening** | DEAD AIR III — Full Volume | Call of Cthulhu 7e | 6 |
 | 9 | Sun 31 | Afternoon | *Reserve* | — | — |
 | 10 | Sun 31 | Evening | *Reserve* | — | — |
 
 ## Why the slate sits this way
 
-- **DEAD AIR runs Thu / Fri / Sat afternoons** — same session, three consecutive
-  days. A player who wants the whole arc books one time of day and never clashes
-  with themselves. Each part is written to stand alone for drop-ins.
-- **Wednesday opens on the two most physical games.** Black Summer and
-  AFTERIMAGE are the least prep-hungry on the day (AFTERIMAGE is already
-  finished) and the best "arrival day" energy — a hard survival run and a
-  noir case.
-- **Evenings alternate tone** against the afternoon's Cthulhu: Dee Sanction
-  (Thu), comic fantasy (Fri), folk horror (Sat). Never two bleak games in a row
-  on the same day.
-- **VANITY sits Friday evening** — the loosest, funniest game on the night the
-  bar is busiest and the table is most likely to be tired and social.
+- **DEAD AIR owns Thursday, Friday and Saturday nights.** Same session, three
+  consecutive evenings: a player who wants the whole arc books one time of day
+  and never clashes with themselves. Night suits it — this is the bleakest
+  material on the slate and it wants a dark room and no daylight afterwards.
+  Each part is written to stand alone for drop-ins.
+- **The trilogy runs at 6, the biggest tables of the week.** These are
+  document-heavy investigations; more hands means more of the archive gets read,
+  and every Act Two is built to split 3+3.
+- **Wednesday opens light.** Another Bloody Treasure Map is the arrival-day
+  game — a loose comic dungeon crawl for a table that is half strangers and
+  entirely unsettled — and AFTERIMAGE follows in the evening needing no prep
+  at all, because it is already finished.
+- **Afternoons carry the variety.** Zombie survival (Thu), Elizabethan horror
+  (Fri), Nordic folk horror (Sat) — each one a complete change of register from
+  the Cthulhu that follows it that night.
+- **Never two bleak games in a row on the same day** is now impossible to fully
+  honour, since every evening is Dead Air. The afternoons therefore do the
+  balancing: Thursday's Black Summer is the only other genuinely grim game, and
+  it sits before Part One rather than after it.
 - **Sunday is deliberately empty.** People leave, energy drops, and two reserve
   slots absorb overspill demand or a re-run without new prep. If Sunday evening
   never fills, that is a feature.
@@ -53,23 +60,25 @@ content. Session clock counts play time only and pauses for the break.
 
 | Day | Games | Prep-heavy? | Notes |
 |---|---|---|---|
-| Wed | 2 | One (Black Summer) | AFTERIMAGE is a port — read-through only |
-| Thu | 2 | Both | Heaviest day. DEAD AIR I must be fully finished well in advance |
-| Fri | 2 | One (DEAD AIR II) | VANITY reuses the existing convention rules digest |
-| Sat | 2 | Both | DEAD AIR III is the arc payoff — needs the most playtesting |
+| Wed | 2 | One (ABTM) | AFTERIMAGE is a port — read-through only. Gentle opening day |
+| Thu | 2 | Both | Black Summer, then Dead Air I. Heaviest day of the week |
+| Fri | 2 | Both | The Favour, then Dead Air II |
+| Sat | 2 | Both | Mr Parker's, then Dead Air III — the arc payoff, needs the most playtesting |
 | Sun | 0 booked | — | Reserve |
 
-**Consequence:** eight new-or-ported games is a real workload. The three CoC
-games share a setting bible, NPC lineage and art direction, which is what makes
-the count achievable — treat DEAD AIR as one production with three outputs, not
-three productions.
+**Consequence:** three consecutive nights of six-player Cthulhu is a demanding
+run for one GM, and the three afternoons before them are all new material too.
+The trilogy shares a setting bible, NPC lineage and art direction, which is what
+makes the count achievable — treat DEAD AIR as one production with three
+outputs, not three productions. If anything on the slate has to give, it is a
+Sunday reserve, never a playtest.
 
 ## Prep deadlines (working back from 27 Jan 2027)
 
 | By | What |
 |---|---|
 | End Sep 2026 | All eight scenario drafts at v1. Trilogy bible locked. |
-| End Oct 2026 | Pregens complete for all eight. First desk playtests on DEAD AIR I–III. |
+| End Oct 2026 | Pregens complete for all eight (three sets of six for the trilogy). First desk playtests on DEAD AIR I–III. |
 | End Nov 2026 | Playtest fixes applied (v2). Handouts and art briefs written. |
 | End Dec 2026 | Art generated, handouts laid out, GM console modules built. |
 | 10 Jan 2027 | Print pack produced: sheets, handouts, GM screens. |
@@ -78,7 +87,8 @@ three productions.
 ## Open logistics questions
 
 1. Confirmed slot times from Warhorn — the table above is assumed, not verified.
-2. Table size cap at Searles (does 5-player seating work in the game rooms?).
+2. **Table size at Searles: three of the eight games seat six.** Confirm the game
+   rooms take a six-player table comfortably, or the trilogy drops to five.
 3. Whether the DEAD AIR trilogy can be flagged on Warhorn as a linked series with
-   booking priority for players taking all three.
+   booking priority for players taking all three nights.
 4. Power/table space for the GM console tablet in the evening rooms.

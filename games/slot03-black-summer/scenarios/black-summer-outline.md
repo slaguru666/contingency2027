@@ -1,4 +1,4 @@
-# [Contingency 2027 — Slot 1] BLACK SUMMER: LAST FLIGHT OUT
+# [Contingency 2027 — Slot 3] BLACK SUMMER: LAST FLIGHT OUT
 
 > *The plane leaves at dawn. You have three chits and five people.*
 
@@ -9,7 +9,7 @@ shape and the rules modifications. The full scenario is written against it.
 
 ## Overview
 
-- **Slot:** Wednesday 27 January 2027, afternoon
+- **Slot:** Thursday 28 January 2027, afternoon
 - **System:** The Walking Dead Universe RPG (Free League) — **modified**, see below
 - **Setting:** New York City, six weeks after the fall. Late autumn, rain turning
   to sleet. From a Manhattan basement to Floyd Bennett Field, Brooklyn.

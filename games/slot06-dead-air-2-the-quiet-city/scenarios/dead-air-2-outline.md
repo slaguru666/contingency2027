@@ -1,4 +1,4 @@
-# [Contingency 2027 — Slot 5] DEAD AIR II: THE QUIET CITY
+# [Contingency 2027 — Slot 6] DEAD AIR II: THE QUIET CITY
 
 > *October 1962. The gates are shut, the phones are dead, and the test is on Friday.*
 
@@ -6,22 +6,24 @@
 [trilogy bible](../../../docs/dead-air-trilogy-bible.md) first.
 
 **Reconciliation note (if the table played Part One):** this scenario assumes the
-Soviets took the discs from Berlin in 1946. If the Part One table sent them west
-instead, open with one line — the material was recovered from an American
-facility by a KGB operation in 1951 — and change nothing else.
+Soviets took the lacquers out of the chamber under the Führerbunker in 1946. If
+the Part One table sent them west instead, open with one line — the material was
+recovered from an American facility by a KGB operation in 1951 — and change
+nothing else.
 
 ---
 
 ## Overview
 
-- **Slot:** Friday 29 January 2027, afternoon
+- **Slot:** Friday 29 January 2027, evening
 - **System:** Call of Cthulhu 7e
 - **Setting:** **Sosnovy-9**, a closed city in the Urals — a place that is not on
   maps, whose residents have no address, and which exists to house Programme
   SIRENA. 22–27 October 1962.
-- **Players:** 5, pregenerated — the programme's own staff: engineers, a
+- **Players:** 6, pregenerated — the programme's own staff: engineers, a
   physician, a political officer, an archivist. They are not investigators sent
-  in. They already work here, and that is the point.
+  in. They already work here, and that is the point. Drop order at 5 and 4 stated
+  in the pregen file.
 - **Runtime:** 3h30 play in a 4-hour slot
 - **Content warnings:** Soviet state violence, coerced labour and the camp
   system as background; institutional cruelty to people who have done nothing
@@ -65,11 +67,18 @@ on Friday, at 06:00, someone is going to close a switch.
 
 ## Plot summary (GM truth — players never see this page)
 
-The twelve Berlin lacquers reached Moscow in 1946 and became **Programme
-SIRENA**: an attempt to weaponise the Sequence as a broadcast psychological
-agent. Sixteen years of work has produced no evidence it can be aimed and
-abundant evidence it does *something*, which in this system is enough to keep a
-budget.
+The twelve lacquers taken out of the flooded chamber beneath the Führerbunker
+reached Moscow in 1946 and became **Programme SIRENA**: an attempt to weaponise
+the Sequence as a broadcast psychological agent. Sixteen years of work has
+produced no evidence it can be aimed and abundant evidence it does *something*,
+which in this system is enough to keep a budget.
+
+Nobody in Sosnovy-9 has ever been told what the room in Berlin was *for*. The
+1946 file in the archive says it plainly, in a German engineer's account nobody
+has translated since 1949 — that the Reich did not build the chamber to project
+a weapon at its enemies, but to make one broadcast at the moment it died. The
+array on the ridge above this city is the same idea, built larger, by people who
+would be appalled to be told so.
 
 **The array** — a phased transmitter across the ridge above the city — was built
 to project the Sequence at range. It cannot. What it does is expose everyone
@@ -125,9 +134,10 @@ wants to say "industrial accident".
   report form with a box on it labelled *cause*. Establishes the city, the wire,
   and that the players' own signatures are on things.
 - **Act Two — The Files.** The long act: three departments, three partial truths,
-  one archivist who has been quietly indexing this for years. Splits well —
+  one archivist who has been quietly indexing this for years. **Splits 3+3** —
   archive track and medical track, each holding half a revelation. The 1946
-  Berlin file is in here, and returning players will recognise the ledger.
+  Berlin file is in here, with Vehr's account and the ledger, and returning
+  players will recognise both.
 - **Act Three — Friday, 06:00.** The transmitter hall. Sorin is already there.
   The options are all written: let him do it, take his place, cut the feed and
   face what the ministry does to a city that fails a test, or expose the

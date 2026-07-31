@@ -1,8 +1,8 @@
-# Slot 6 · Fri 29 Jan, evening — ANOTHER BLOODY TREASURE MAP
+# Slot 1 · Wed 27 Jan, afternoon — ANOTHER BLOODY TREASURE MAP
 
 *The map is genuine. That is the problem.*
 
-**System:** VANITY (Tim's own d6 pool game) · **5 players, one per class** ·
+**System:** VANITY (Tim's own d6 pool game) · **6 players** ·
 4-hour slot (3h30 play) · simple D&D-shaped dungeon crawl · comic on the way in,
 straight-faced at the vault door.
 
@@ -12,7 +12,8 @@ straight-faced at the vault door.
 
 **Status:** outline. Next: full scenario draft to v1.
 
-**Remaining prep:** scenario v1 · 5 pregens (one per class) · the map itself as a
+**Remaining prep:** scenario v1 · 6 pregens (one per class, plus one variant
+build inside a doubled class) · the map itself as a
 physical handout · rival-party cards · art (woodcut/scratchboard, matching the
 VANITY rulebook) · desk playtest ×2 · print pack.
 

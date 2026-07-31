@@ -1,4 +1,4 @@
-# Slot 1 · Wed 27 Jan, afternoon — BLACK SUMMER: LAST FLIGHT OUT
+# Slot 3 · Thu 28 Jan, afternoon — BLACK SUMMER: LAST FLIGHT OUT
 
 *The plane leaves at dawn. You have three chits and five people.*
 

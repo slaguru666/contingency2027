@@ -1,4 +1,4 @@
-# [Contingency 2027 — Slot 4] THE FAVOUR
+# [Contingency 2027 — Slot 5] THE FAVOUR
 
 > *He kept his side of it. That is the problem.*
 
@@ -21,7 +21,7 @@ unhurried hand. Either way, **the list reached Dee, and Dee took it.**
 
 ## Overview
 
-- **Slot:** Thursday 28 January 2027, evening
+- **Slot:** Friday 29 January 2027, afternoon
 - **System:** The Dee Sanction
 - **Setting:** **Skelthwaite**, a lead-dale village in the West Riding of
   Yorkshire — April 1587, six months after Faversholme

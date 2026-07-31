@@ -1,4 +1,4 @@
-# Slot 8 · Sat 30 Jan, evening — THE CURIOUS CASE OF MR PARKER'S DIARY
+# Slot 7 · Sat 30 Jan, afternoon — THE CURIOUS CASE OF MR PARKER'S DIARY
 
 *The last twenty pages are in his hand. He has been dead a month.*
 

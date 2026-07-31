@@ -1,4 +1,4 @@
-# [Contingency 2027 — Slot 7] DEAD AIR III: FULL VOLUME
+# [Contingency 2027 — Slot 8] DEAD AIR III: FULL VOLUME
 
 > *Berlin, now. Eighty years of secrecy, and it goes out live at midnight.*
 
@@ -6,7 +6,8 @@
 [trilogy bible](../../../docs/dead-air-trilogy-bible.md) first.
 
 **Reconciliation note:** this scenario needs exactly one thing to be true — that
-at least one lacquer disc survived and reached the West. Every Part One and Part
+at least one lacquer taken from the chamber under the Führerbunker survived and
+reached the West. Every Part One and Part
 Two outcome allows that, including the ones where the players thought they had
 destroyed everything. If a previous table burned the lot, the surviving disc is
 the one Vehr kept in his desk rather than the vault, and that is a *better*
@@ -16,15 +17,19 @@ opening line, not a retcon.
 
 ## Overview
 
-- **Slot:** Saturday 30 January 2027, afternoon
+- **Slot:** Saturday 30 January 2027, evening
 - **System:** Call of Cthulhu 7e, modern day
 - **Setting:** Berlin, January 2027. A Kreuzberg record archive, a Charlottenburg
-  auction house, a Neukölln studio, and **Teufelsberg** — the abandoned Cold War
-  listening station on the rubble mountain, where the closing set of a broadcast
-  festival goes out live at midnight.
-- **Players:** 5, pregenerated — no agency, no badges: an archivist, a mastering
+  auction house, a Neukölln studio, the car park on Wilhelmstrasse that is all
+  there is to see of the Führerbunker — and **Teufelsberg**, the abandoned Cold
+  War listening station standing on a hundred metres of the city's war rubble,
+  where the closing set of a broadcast festival goes out live at midnight. *The
+  arc ends where it began: on the Chancellery's own debris, which is in that
+  mountain somewhere.*
+- **Players:** 6, pregenerated — no agency, no badges: an archivist, a mastering
   engineer, a music journalist, a historian of the East German security
-  apparatus, and one person who has been hearing it since childhood.
+  apparatus, a promoter's fixer with festival access, and one person who has been
+  hearing it since childhood. Drop order at 5 and 4 stated in the pregen file.
 - **Runtime:** 3h30 play in a 4-hour slot
 - **Content warnings:** self-harm and suicide; mass-casualty risk; drug use in a
   club setting; flashing-light and loud-audio content described in play (state
@@ -67,9 +72,11 @@ will not stop for anything less than a reason.
 
 ## Plot summary (GM truth — players never see this page)
 
-The disc is **one of the twelve**. It travelled west in a document dump after
-1991, mislabelled, and sat in a private collection until the owner died and the
-estate went to auction in May 2026.
+The disc is **one of the twelve** pulled out of the water under the Chancellery
+in 1946. It travelled west in a document dump after 1991, mislabelled, and sat in
+a private collection until the owner died and the estate went to auction in May
+2026. Its label still carries the unit's catalogue mark, which is the thread the
+players pull.
 
 **Kasimir Adler**, 34, producer, bought lot 118 because the label was pretty.
 He sampled fifteen seconds into a track called *Amber*. It did well. It did well
@@ -127,11 +134,16 @@ listen to it deliberately.
   catalogue, a dead collector's estate, and the growing realisation that the
   players have all heard this already. Fast, sharp, lots of screens.
 - **Act Two — Provenance.** The long act. The archive holds the 1946 material
-  (returning players meet the ledger again) and a Soviet file from Sosnovy-9 that
-  arrived via a 1990s dump. Meanwhile: the platform's takedown process, the
-  festival's promoter, and Adler himself, who is reachable, reasonable, and
-  cannot be convinced by anything except the thing the players cannot prove.
-  Splits well — archive track and Adler track.
+  (returning players meet Vehr's account and the ledger again) and a Soviet file
+  from Sosnovy-9 that arrived via a 1990s dump. Between them they give the whole
+  chain: a room built under a bunker to make one broadcast, and every state since
+  that decided it was an asset. There is also a walk to the Wilhelmstrasse car
+  park, which is a flat rectangle of tarmac with an information board on it, and
+  which is the most frightening scene in the act precisely because there is
+  nothing there. Meanwhile: the platform's takedown process, the festival's
+  promoter, and Adler himself — reachable, reasonable, and unconvinceable by
+  anything except the thing the players cannot prove. **Splits 3+3** — archive
+  track and Adler track.
 - **Act Three — Teufelsberg.** Night, the rubble mountain, the radomes, four
   thousand people and a stream. A decision, not a die roll: cut the power and
   cause a story; get Mila to the desk and have her surgically strip the Sequence

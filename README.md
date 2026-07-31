@@ -17,21 +17,24 @@ days. Ten slots; eight scenarios booked, two Sunday slots held as reserve.
 
 | # | Day | Session | System | Game | PCs | Status |
 |---|---|---|---|---|---|---|
-| 1 | Wed 27 | Afternoon | The Walking Dead Universe (modified) | [**BLACK SUMMER — Last Flight Out**](games/slot01-black-summer/) | 5 | Outline |
+| 1 | Wed 27 | Afternoon | VANITY | [**ANOTHER BLOODY TREASURE MAP**](games/slot01-vanity-another-bloody-treasure-map/) | 6 | Outline |
 | 2 | Wed 27 | Evening | Blade Runner RPG | [**AFTERIMAGE**](games/slot02-blade-runner-afterimage/) | 4 | **Port — con-ready (v2.2)** |
-| 3 | Thu 28 | Afternoon | Call of Cthulhu 7e | [**DEAD AIR I — Ash & Amber** (1946)](games/slot03-dead-air-1-ash-and-amber/) | 5 | Outline |
-| 4 | Thu 28 | Evening | The Dee Sanction | [**THE FAVOUR**](games/slot04-dee-sanction-the-favour/) — sequel to *The Princes Bride* | 5 | Outline |
-| 5 | Fri 29 | Afternoon | Call of Cthulhu 7e | [**DEAD AIR II — The Quiet City** (1962)](games/slot05-dead-air-2-the-quiet-city/) | 5 | Outline |
-| 6 | Fri 29 | Evening | VANITY | [**ANOTHER BLOODY TREASURE MAP**](games/slot06-vanity-another-bloody-treasure-map/) | 5 | Outline |
-| 7 | Sat 30 | Afternoon | Call of Cthulhu 7e | [**DEAD AIR III — Full Volume** (2027)](games/slot07-dead-air-3-full-volume/) | 5 | Outline |
-| 8 | Sat 30 | Evening | Vaesen | [**THE CURIOUS CASE OF MR PARKER'S DIARY**](games/slot08-vaesen-mr-parkers-diary/) | 4 | Outline |
+| 3 | Thu 28 | Afternoon | The Walking Dead Universe (modified) | [**BLACK SUMMER — Last Flight Out**](games/slot03-black-summer/) | 5 | Outline |
+| 4 | Thu 28 | **Evening** | Call of Cthulhu 7e | [**DEAD AIR I — Ash & Concrete** (1946)](games/slot04-dead-air-1-ash-and-concrete/) | 6 | Outline |
+| 5 | Fri 29 | Afternoon | The Dee Sanction | [**THE FAVOUR**](games/slot05-dee-sanction-the-favour/) — sequel to *The Princes Bride* | 5 | Outline |
+| 6 | Fri 29 | **Evening** | Call of Cthulhu 7e | [**DEAD AIR II — The Quiet City** (1962)](games/slot06-dead-air-2-the-quiet-city/) | 6 | Outline |
+| 7 | Sat 30 | Afternoon | Vaesen | [**THE CURIOUS CASE OF MR PARKER'S DIARY**](games/slot07-vaesen-mr-parkers-diary/) | 4 | Outline |
+| 8 | Sat 30 | **Evening** | Call of Cthulhu 7e | [**DEAD AIR III — Full Volume** (2027)](games/slot08-dead-air-3-full-volume/) | 6 | Outline |
 | 9 | Sun 31 | Afternoon | — | *Reserve — re-run of highest-demand game* | — | Held |
 | 10 | Sun 31 | Evening | — | *Reserve — pick-up / open table* | — | Held |
 
-The three **DEAD AIR** games are a linked Call of Cthulhu trilogy running in the
-same session slot on three consecutive days, so a player can book all three
-without a clash. Each also stands alone. See the
-[trilogy bible](docs/dead-air-trilogy-bible.md).
+The three **DEAD AIR** games are a linked Call of Cthulhu trilogy running on
+three consecutive **nights**, so a player can book all three without a clash.
+Each also stands alone. It begins in a room built under Hitler's bunker that
+appears on no plan, and it is about what the Reich's occult programme was
+actually *for*. See the [trilogy bible](docs/dead-air-trilogy-bible.md),
+including its **Handling the Nazi material** section — a design constraint, not
+a disclaimer.
 
 ---
 

@@ -1,4 +1,4 @@
-# [Contingency 2027 — Slot 6] ANOTHER BLOODY TREASURE MAP — a VANITY one-shot
+# [Contingency 2027 — Slot 1] ANOTHER BLOODY TREASURE MAP — a VANITY one-shot
 
 > *The map is genuine. That is the problem.*
 
@@ -9,12 +9,17 @@ Crown* (Continuum 2026), which is the proven VANITY convention structure.
 
 ## Overview
 
-- **Slot:** Friday 29 January 2027, evening
+- **Slot:** Wednesday 27 January 2027, afternoon
 - **System:** VANITY (Draft 13) — the house d6 pool game. Table copy of the rules
   digest carried over from Continuum 2026.
 - **Setting:** generic high-fantasy, played broad. A market town, a bad road, and
   a hole in a hill.
-- **Players:** 5, pregenerated, one per class
+- **Players:** 6, pregenerated. VANITY has a closed class list, so the sixth seat
+  is a **variant build inside a doubled class**, not a new class — a different
+  fighting style, lane emphasis or loadout, with the audit maths shown so it is
+  provably legal. Give the two doubled-class heroes a Vice pointed at each other
+  (a Rival, or duelling Glory-Hounds) so the extra seat brings table chemistry
+  for free. Drop order at 5 and 4 stated in the pregen file.
 - **Runtime:** 3h30 play in a 4-hour slot
 - **Content warnings:** cartoon violence, greed, one genuinely unpleasant moment
   at the vault door. Nothing that needs a warning beyond the usual line.
@@ -34,6 +39,9 @@ hands the GM a Bane. At **6 Banes → THE RECKONING** (2d6 table). No HP —
    should feel like one.
 2. **Funny on the way in, straight at the vault.** VANITY's register — the jokes
    buy you the right to play the last twenty minutes completely seriously.
+   This is also the **arrival-day opener** — first slot of the convention, people
+   still finding the room. It has to work with a table that is half strangers and
+   entirely unsettled, which is exactly what a loose comic dungeon crawl is for.
 3. **The joke of the title is the premise.** Everyone at the table has done this
    before. The scenario knows that, says so, and then makes the map real.
 4. **Rivals, not monsters, are the pressure.** Three other parties have the same
@@ -99,7 +107,7 @@ that no one person qualifies — and then nothing leaves at all.
 
 | Section | Budget | Cumulative | GM checkpoint |
 |---|---|---|---|
-| Introduction | 15 min | 0:15 | Pregens dealt, one practice roll each, map handed over |
+| Introduction | 15 min | 0:15 | Pregens dealt, one practice roll each (six seats — keep it brisk), map handed over |
 | Act One — The Tavern | 45 min | 1:00 | Map read, at least one rival party met, the road taken |
 | Act Two — The Road | 40 min | 1:40 | One fight won, one rival party outmanoeuvred or joined |
 | Act Three — The Hill | 35 min | 2:15 | Vault entrance found; the two who are still in there met |
@@ -131,11 +139,15 @@ door when the party arrives rather than trailing them.
 1. Does this share a world with *The Vain Crown*? A one-line nod (the same
    peacock motif, a mention of Nettlebrook) is free and rewards returning
    players.
-2. Five classes — confirm the VANITY Draft 13 class list is unchanged since the
-   Continuum build before the pregens are written.
+2. Which class gets doubled for the sixth seat, and confirm the VANITY Draft 13
+   class list is unchanged since the Continuum build before the pregens are
+   written.
 3. The map handout is doing heavy lifting: it must be attractive enough that
    players read it in Act One and dense enough that they miss the terms. Prop
    design needs a dedicated pass.
 4. How mean is Act Four allowed to be? A table that splits the hoard perfectly
    gets nothing out — is that a valid ending, or does the scenario always give
    them a way to leave with *something*? Current lean: valid ending, and funny.
+5. Six in the weighing room is a crowd. Confirm the division scene still gives
+   every seat a line, or give two of the six a specific stake in the split
+   (a debt of their own, a rival's offer) so the conversation has sides.
