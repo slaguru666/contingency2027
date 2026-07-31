@@ -39,6 +39,8 @@ without a clash. Each also stands alone. See the
 
 | Path | What it is |
 |---|---|
+| [`docs/one-page-flyer.html`](docs/one-page-flyer.html) | **Advertising one-pager** — print A4 portrait, or use the rendered [PDF](docs/Contingency-2027-flyer.pdf) |
+| [`docs/one-page-flyer.md`](docs/one-page-flyer.md) | Same copy as plain text, for Discord/Facebook/email |
 | [`docs/schedule.md`](docs/schedule.md) | Slot grid, running times, day-by-day GM load, prep deadlines |
 | [`docs/warhorn-blurbs.md`](docs/warhorn-blurbs.md) | Player-facing, spoiler-free pitches for Warhorn submission |
 | [`docs/dead-air-trilogy-bible.md`](docs/dead-air-trilogy-bible.md) | The linking truth, arc rules and hand-off state for the CoC trilogy |

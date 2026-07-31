@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Contingency 2027 — Games by Tim Evans</title>
+<style>
+  @page { size: A4 portrait; margin: 11mm 12mm; }
+
+  :root{
+    --ink:#14120f;
+    --muted:#5d5751;
+    --rule:#c9c1b6;
+    --accent:#7a1f16;
+    --paper:#fbf8f3;
+  }
+
+  *{ box-sizing:border-box; }
+  html,body{ margin:0; padding:0; }
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    font-size:9.2pt;
+    line-height:1.32;
+    -webkit-font-smoothing:antialiased;
+  }
+  .sheet{
+    width:186mm;
+    margin:0 auto;
+    padding:0;
+  }
+
+  /* ---------- masthead ---------- */
+  header{
+    text-align:center;
+    border-bottom:2.5pt solid var(--ink);
+    padding-bottom:3mm;
+    margin-bottom:3mm;
+  }
+  .kicker{
+    font-size:7.2pt;
+    letter-spacing:.34em;
+    text-transform:uppercase;
+    color:var(--muted);
+    margin-bottom:1.6mm;
+  }
+  h1{
+    font-size:31pt;
+    line-height:.94;
+    margin:0 0 1.6mm;
+    letter-spacing:.015em;
+    font-weight:600;
+  }
+  h1 .yr{ color:var(--accent); }
+  .where{
+    font-size:8.6pt;
+    color:var(--muted);
+    font-style:italic;
+  }
+  .where b{ color:var(--ink); font-style:normal; font-weight:600; }
+
+  .standfirst{
+    margin:2.4mm 0 3mm;
+    text-align:center;
+    font-size:9.5pt;
+    padding:0 6mm;
+  }
+  .standfirst b{ color:var(--accent); }
+
+  /* ---------- grid ---------- */
+  .games{ display:flex; gap:8mm; align-items:stretch; }
+  .games .col{ flex:1 1 0; min-width:0; }
+  .games .col + .col{ border-left:.5pt solid var(--rule); padding-left:8mm; }
+  .parts{
+    column-count:3;
+    column-gap:6mm;
+    column-rule:.5pt solid var(--rule);
+  }
+  .game{
+    break-inside:avoid;
+    page-break-inside:avoid;
+    padding-bottom:2.4mm;
+    margin-bottom:2.4mm;
+    border-bottom:.5pt solid var(--rule);
+  }
+  .col .game:last-child,
+  .parts .game{ border-bottom:none; margin-bottom:0; padding-bottom:0; }
+
+  .slot{
+    font-size:7.1pt;
+    letter-spacing:.2em;
+    text-transform:uppercase;
+    color:var(--accent);
+    font-weight:700;
+    margin-bottom:.7mm;
+  }
+  .game h2{
+    font-size:12.5pt;
+    line-height:1.05;
+    margin:0 0 .9mm;
+    font-weight:600;
+    letter-spacing:.01em;
+  }
+  .parts .game h2{ font-size:11.6pt; }
+  .sys{
+    font-size:7.6pt;
+    letter-spacing:.05em;
+    text-transform:uppercase;
+    color:var(--muted);
+    margin-bottom:1.3mm;
+  }
+  .hook{ margin:0; }
+  .hook em{ color:var(--accent); font-style:italic; }
+
+  /* ---------- trilogy banner ---------- */
+  .tri{
+    margin:3mm 0 2.8mm;
+    padding:2.4mm 4mm;
+    background:#f2ece2;
+    border-top:1.6pt solid var(--accent);
+    border-bottom:1.6pt solid var(--accent);
+    text-align:center;
+  }
+  .tri .th{
+    font-size:13pt;
+    letter-spacing:.16em;
+    text-transform:uppercase;
+    font-weight:600;
+    color:var(--accent);
+    line-height:1;
+    margin-bottom:1.4mm;
+  }
+  .tri .ts{
+    font-size:7.5pt;
+    letter-spacing:.16em;
+    text-transform:uppercase;
+    color:var(--muted);
+    margin-bottom:2mm;
+  }
+  .tri p{ margin:0; padding:0 4mm; }
+  .tri em{ color:var(--accent); font-style:italic; }
+
+  /* ---------- footer ---------- */
+  footer{
+    margin-top:3.5mm;
+    padding-top:2.4mm;
+    border-top:2.5pt solid var(--ink);
+    text-align:center;
+    font-size:7.6pt;
+    color:var(--muted);
+  }
+  footer .big{
+    font-size:8.8pt;
+    color:var(--ink);
+    display:block;
+    margin-bottom:1.2mm;
+  }
+
+  @media screen{
+    body{ padding:8mm 0; }
+    .sheet{
+      background:var(--paper);
+      box-shadow:0 2px 26px rgba(0,0,0,.16);
+      padding:12mm;
+      width:210mm;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <header>
+    <div class="kicker">Wyrd Sisters Games Club presents</div>
+    <h1>Contingency <span class="yr">2027</span></h1>
+    <div class="where"><b>27&ndash;31 January 2027</b> &middot; Searles Leisure Resort, Hunstanton &middot; five days of gaming</div>
+  </header>
+
+  <p class="standfirst">
+    <b>Eight games, run by Tim Evans.</b> Two a day &mdash; one afternoon, one evening.
+    Four-hour slots, pre-generated characters, no system knowledge needed, safety tools at every table.
+  </p>
+
+  <div class="games">
+
+    <div class="col">
+
+    <div class="game">
+      <div class="slot">Wed &middot; Afternoon &middot; 5 players</div>
+      <h2>Black Summer: Last Flight Out</h2>
+      <div class="sys">The Walking Dead Universe RPG</div>
+      <p class="hook">New York, six weeks after the fall. The army&rsquo;s last plane leaves an old Brooklyn airfield at dawn and boarding needs a stamped chit with your face on it. Between the five of you, you have three. <em>The queue at the far end is longer than anyone wants to think about.</em></p>
+    </div>
+
+    <div class="game">
+      <div class="slot">Wed &middot; Evening &middot; 4 players</div>
+      <h2>Afterimage</h2>
+      <div class="sys">Blade Runner RPG</div>
+      <p class="hook">Los Angeles, 2037. A memory designer is dead in his studio and Rep-Detect has the case with a whisper attached: <em>rogue replicant</em>. The whisper comes from a corporation, and it is a lie of the useful kind. Nobody here gets to be right &mdash; you only decide who pays.</p>
+    </div>
+
+    <div class="game">
+      <div class="slot">Thu &middot; Evening &middot; 5 players</div>
+      <h2>The Favour</h2>
+      <div class="sys">The Dee Sanction</div>
+      <p class="hook">Six months ago you left a witch finder at a crossroads with a list in his hand &mdash; three villages where the evidence didn&rsquo;t add up and the verdict came anyway. Dee took the list. Now Garratt has called in the favour, and the village has its own view. <em>A sequel that stands alone.</em></p>
+    </div>
+
+    </div>
+
+    <div class="col">
+
+    <div class="game">
+      <div class="slot">Fri &middot; Evening &middot; 5 players</div>
+      <h2>Another Bloody Treasure&nbsp;Map</h2>
+      <div class="sys">Vanity &mdash; a light house d6 game</div>
+      <p class="hook">You bought a treasure map off a man in a tavern. Yes. You know. So did four other groups this week, and by Tuesday there were three parties on the same road being extremely rude to each other. Here&rsquo;s the thing, though: the map is real. The vault is where it says it is, there is a great deal of gold in it, and the old man who printed four hundred of them <em>wasn&rsquo;t running a swindle. He was recruiting.</em></p>
+    </div>
+
+    <div class="game">
+      <div class="slot">Sat &middot; Evening &middot; 4 players</div>
+      <h2>The Curious Case of Mr Parker&rsquo;s Diary</h2>
+      <div class="sys">Vaesen &mdash; Nordic Horror</div>
+      <p class="hook">A parcel reaches the Society: the field diary of an English naturalist who drowned in a northern lake last October &mdash; posted three weeks after he died. The first sixty pages are ordinary. The last twenty are in the same hand, plainly and unmistakably his, and they are written from somewhere outside his own life. <em>The final page is dated nine days from now, and it describes your arrival.</em></p>
+    </div>
+
+    </div>
+
+  </div>
+
+  <div class="tri">
+    <div class="th">Dead Air</div>
+    <div class="ts">A Call of Cthulhu trilogy &middot; Thursday, Friday &amp; Saturday afternoons &middot; 5 players</div>
+    <p>One pattern, pressed onto lacquer in the last winter of the war. Every government that found it was certain it was a weapon.
+    <em>It was an advertisement.</em> Three eras, three investigations, and an audience that keeps getting bigger.
+    <b>Each part stands completely alone</b> &mdash; take one, take two, or take all three.</p>
+  </div>
+
+  <div class="parts">
+
+    <div class="game">
+      <div class="slot">Thu &middot; Afternoon &middot; Part One</div>
+      <h2>I. Ash &amp; Amber</h2>
+      <div class="sys">Berlin, February 1946</div>
+      <p class="hook">You catalogue German science before the other lot get to it, and it has been six weeks of frozen filing cabinets. Then an address turns out to be a broadcasting annexe that officially never existed, with a sub-basement somebody deliberately flooded. Two armies are digging for the same room.</p>
+    </div>
+
+    <div class="game">
+      <div class="slot">Fri &middot; Afternoon &middot; Part Two</div>
+      <h2>II. The Quiet City</h2>
+      <div class="sys">A closed city in the Urals, October 1962</div>
+      <p class="hook">You have worked here eleven years and long ago stopped being curious about the tapes. On Monday the gates shut for an &ldquo;administrative period&rdquo;. On Tuesday a technician takes off his headphones and walks into the lake. <em>On Friday, at six in the morning, someone is going to close a switch.</em></p>
+    </div>
+
+    <div class="game">
+      <div class="slot">Sat &middot; Afternoon &middot; Part Three</div>
+      <h2>III. Full Volume</h2>
+      <div class="sys">Berlin, today</div>
+      <p class="hook">A lacquer disc came out of a box of Cold War acetates at auction and sold for four hundred euros to a producer who liked the label. He sampled fifteen seconds. You have almost certainly already heard it. <em>At midnight it closes a festival, uncut, live, to two hundred thousand people.</em></p>
+    </div>
+
+  </div>
+
+  <footer>
+    <span class="big">Booking opens on Warhorn &middot; sign-ups also taken at the event</span>
+    Contingency is a members-only event &mdash; membership &pound;10 per year, &pound;5 if you volunteered or GMed at a Wyrd Sisters event in the last year.<br>
+    Every game is run with pre-generated characters and full content notes on its listing. Slot times as published in the event schedule.
+  </footer>
+
+</div>
+</body>
+</html>
