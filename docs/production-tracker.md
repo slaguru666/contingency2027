@@ -25,7 +25,7 @@ Everything else can proceed without them.
 
 | # | Question | Blocks |
 |---|---|---|
-| 1 | Was Witchfinder Garrett on screen in a previous game? Nothing in the Continuum 2026 or Contingency 2025/26 material mentions him. | THE FAVOUR — Act One shape |
+| 1 | ~~Was Witch Finder Garratt on screen before?~~ **Resolved:** yes — *The Princes Bride*, Continuum 2026 Sunday Slot 7, Faversholme Oct 1586. THE FAVOUR is now written as its direct sequel off the crossroads Tangent scene. Remaining sub-question: reuse the seven *Princes Bride* pregens, or build fresh? | THE FAVOUR — pregens only |
 | 2 | Does Ilse Brandt (Part One) return in Part Two, and does the Brandt name carry to Part Three? | DEAD AIR II and III — Act Two shape |
 | 3 | Trilogy pregens: three fresh sets, or one lineage across the eras? | All three DEAD AIR pregen sets |
 | 4 | Confirmed Warhorn slot times. | All print, all timing tables |

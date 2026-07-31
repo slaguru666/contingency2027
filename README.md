@@ -20,7 +20,7 @@ days. Ten slots; eight scenarios booked, two Sunday slots held as reserve.
 | 1 | Wed 27 | Afternoon | The Walking Dead Universe (modified) | [**BLACK SUMMER — Last Flight Out**](games/slot01-black-summer/) | 5 | Outline |
 | 2 | Wed 27 | Evening | Blade Runner RPG | [**AFTERIMAGE**](games/slot02-blade-runner-afterimage/) | 4 | **Port — con-ready (v2.2)** |
 | 3 | Thu 28 | Afternoon | Call of Cthulhu 7e | [**DEAD AIR I — Ash & Amber** (1946)](games/slot03-dead-air-1-ash-and-amber/) | 5 | Outline |
-| 4 | Thu 28 | Evening | The Dee Sanction | [**THE FAVOUR**](games/slot04-dee-sanction-the-favour/) | 5 | Outline |
+| 4 | Thu 28 | Evening | The Dee Sanction | [**THE FAVOUR**](games/slot04-dee-sanction-the-favour/) — sequel to *The Princes Bride* | 5 | Outline |
 | 5 | Fri 29 | Afternoon | Call of Cthulhu 7e | [**DEAD AIR II — The Quiet City** (1962)](games/slot05-dead-air-2-the-quiet-city/) | 5 | Outline |
 | 6 | Fri 29 | Evening | VANITY | [**ANOTHER BLOODY TREASURE MAP**](games/slot06-vanity-another-bloody-treasure-map/) | 5 | Outline |
 | 7 | Sat 30 | Afternoon | Call of Cthulhu 7e | [**DEAD AIR III — Full Volume** (2027)](games/slot07-dead-air-3-full-volume/) | 5 | Outline |

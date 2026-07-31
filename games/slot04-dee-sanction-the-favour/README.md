@@ -1,24 +1,30 @@
 # Slot 4 · Thu 28 Jan, evening — THE FAVOUR
 
-*Keep alive the man who condemned you. That is the favour.*
+*He kept his side of it. That is the problem.*
 
 **System:** The Dee Sanction · **5 players** · 4-hour slot (3h30 play) ·
-protection job turned inside out · a hanging assize on a deadline · no clean
-choice at the end.
+the debt runs the wrong way · a public visitation on a clock · four written
+endings, all costly.
+
+**Sequel to *THE PRINCES BRIDE*** (Continuum 2026, Sunday Slot 7). It picks up
+that scenario's written bonus scene — the blank column in Witch Finder Garratt's
+ledger — and runs it forward six months. Stands alone for new players; the
+returning pregens' seams are the routes through it.
 
 | File | What it is |
 |---|---|
-| [`scenarios/the-favour-outline.md`](scenarios/the-favour-outline.md) | Synopsis, design intent, plot truth, act skeleton, open questions |
+| [`scenarios/the-favour-outline.md`](scenarios/the-favour-outline.md) | Synopsis, design intent, plot truth, act skeleton, returning-pregen seams, open questions |
 
 **Status:** outline. Next: full scenario draft to v1.
 
-**Remaining prep:** scenario v1 · 5 Agent pregens · handouts (Garrett's
-commission book page, the indictment, Dee's written order) · art · desk
+**Remaining prep:** scenario v1 · pregens (intent: reuse the seven *Princes
+Bride* sheets, re-inserted for this case) · handouts (Garratt's ledger spread,
+the forged 1581 deposition, the register gap, the eleven names) · art · desk
 playtest ×2 · print pack.
 
-**Continuity check needed:** Witchfinder Garrett is described as *returning*.
-No prior scenario in the Continuum 2026 or Contingency 2025/2026 material
-mentions him — see the outline's open questions.
+**Source material to copy in:** `Continuum2026` →
+`03 Sunday/Slot 7 Afternoon Dee Sanction/PRINCES-BRIDE/` — pregens, the Garratt
+NPC line, and the crossroads Tangent scene.
 
 ---
 *The Dee Sanction © Paul Baldowski / All Rolled Up. Private convention play

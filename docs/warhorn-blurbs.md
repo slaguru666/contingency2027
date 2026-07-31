@@ -63,16 +63,21 @@ completely alone — play one, two or all three.*
 ## Slot 4 · Thu evening
 ### THE FAVOUR
 **The Dee Sanction** · 5 players · pregens provided
-*Historical horror · protection job · moral trap · no clean ending*
+*Historical horror · investigation · moral trap · no clean ending*
 
-You are marked. You were going to hang, and instead you belong to Dr Dee. Now
-there is a warrant in your hand and it says: go to the border country, and see
-that Witchfinder Garrett comes to no harm. The same Garrett who put three of you
-in front of a magistrate. He is there to hang a woman on Friday, she did not do
-it, and something has been feeding him names for eleven years.
+Six months ago you left a witch finder standing at a crossroads with a list in
+his hand — three villages where the evidence didn't add up and the verdict came
+anyway. Dee took the list. Now Garratt has called in the favour, and what he
+wants is one name cleared: a woman he hanged in 1581 on evidence he was paid to
+believe. Dee's instruction is one line and it is impossible. The village has its
+own view.
 
-**Content warnings:** witch trials and judicial execution, torture described,
-religious persecution, a hanging on screen. Safety tools in use.
+**Content warnings:** judicial murder, witch-trial persecution, exhumation, a
+threatened hanging on screen, a community choosing to kill a stranger. Safety
+tools in use.
+
+*A sequel to* The Princes Bride *(Continuum 2026) — but written to stand
+completely alone. Returning players may take their own agent back.*
 
 ---
 
