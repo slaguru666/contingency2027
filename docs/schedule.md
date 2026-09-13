@@ -84,20 +84,47 @@ Sunday reserve, never a playtest.
 
 ## Prep deadlines (working back from 27 Jan 2027)
 
-| By | What |
+**Revised 13 September 2026**, for nine games rather than eight, and because the
+original first gate can no longer be met. It said *all scenario drafts at v1 by end
+of September*. That is seventeen days away and **seven of the nine are still at
+outline** — only AFTERIMAGE (a finished port) and CLEAN GROUND (v0.12) have a
+scenario. Holding a date that has already gone is worse than moving it: it hides
+which games are actually behind.
+
+So the v1 gate is staggered by production unit instead of being one cliff. DEAD AIR
+counts as **one unit with three outputs** — that is the assumption the whole slate
+rests on, and splitting it into three is how this becomes undeliverable.
+
+| By | What | Unit |
+|---|---|---|
+| **End Sep 2026** | Trilogy bible locked. **DEAD AIR I** at v1. CLEAN GROUND booked and advertised *(done)*. | Dead Air |
+| **End Oct 2026** | **DEAD AIR II and III** at v1 — the trilogy complete as one production. **ABTM** at v1. | Dead Air · ABTM |
+| **End Nov 2026** | **BLACK SUMMER**, **THE FAVOUR** and **MR PARKER'S DIARY** at v1 — all nine drafted. Pregens complete for all nine. **CLEAN GROUND playtested with human beings** and taken to v2. | the remaining three · Clean Ground |
+| **End Dec 2026** | Playtest fixes applied across the slate (v2). Art generated, handouts laid out, GM console modules built. | all |
+| **10 Jan 2027** | Print pack produced: sheets, handouts, GM screens. CLEAN GROUND's pack already exists and needs only reprinting. | all |
+| **20 Jan 2027** | Read-throughs done. Everything marked convention-ready. | all |
+
+**The compression is real and it lands in December.** The original plan started desk
+playtests in October; this one has most of them in December alongside art and layout.
+If that month slips, the order things give in is written into *Why the slate sits this
+way* above: **CLEAN GROUND first**, then a Sunday reserve, and never a playtest.
+
+**Where the slate actually stood on 13 September 2026:**
+
+| | Games |
 |---|---|
-| End Sep 2026 | All eight scenario drafts at v1. Trilogy bible locked. |
-| End Oct 2026 | Pregens complete for all eight (three sets of six for the trilogy). First desk playtests on DEAD AIR I–III. |
-| End Nov 2026 | Playtest fixes applied (v2). Handouts and art briefs written. |
-| End Dec 2026 | Art generated, handouts laid out, GM console modules built. |
-| 10 Jan 2027 | Print pack produced: sheets, handouts, GM screens. |
-| 20 Jan 2027 | Read-throughs done. Everything marked convention-ready. |
+| Convention-ready | none |
+| Scenario written, not yet through the bar | AFTERIMAGE *(port, needs reprint + console)* · CLEAN GROUND *(v0.12, needs a human playtest)* |
+| Outline only | ABTM · BLACK SUMMER · DEAD AIR I, II, III · THE FAVOUR · MR PARKER'S DIARY |
 
 ## Open logistics questions
 
 1. Confirmed slot times from Warhorn — the table above is assumed, not verified.
-2. **Table size at Searles: three of the eight games seat six.** Confirm the game
-   rooms take a six-player table comfortably, or the trilogy drops to five.
+2. **Table size at Searles: four of the nine games REQUIRE six seats** — ABTM and all
+   three DEAD AIR nights — **and a fifth can use six** (CLEAN GROUND runs 4–6). Confirm
+   the game rooms take a six-player table comfortably, or the trilogy drops to five.
+   *(Corrected 13 Sep 2026: this line said "three of the eight", which never matched the
+   slate table above it. The production tracker's version of the same question said four.)*
 3. Whether the DEAD AIR trilogy can be flagged on Warhorn as a linked series with
    booking priority for players taking all three nights.
 4. Power/table space for the GM console tablet in the evening rooms.

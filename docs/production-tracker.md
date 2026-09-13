@@ -1,5 +1,9 @@
 # Contingency 2027 — Production Tracker
 
+**Last reviewed: 13 September 2026** · 19 weeks to the convention · nine games booked.
+Deadlines live in [`schedule.md`](schedule.md) and were revised the same day, because
+the original *all drafts at v1 by end of September* gate can no longer be met.
+
 Legend: **—** not started · **◐** in progress · **✔** done · **n/a** not required
 
 | # | Slot | Game | PCs | Outline | Scenario v1 | Pregens | Handouts | Art | Playtest | Print | Console |
@@ -19,12 +23,21 @@ audited against the rules, handouts and art are produced, it has survived at
 least two desk playtests inside the 3:30 budget with the fix list applied, and
 the print pack exists.
 
-**CLEAN GROUND is the closest to that bar and still not over it.** It has three desk
-passes, a print pack and an 11pt-checked handout set; it is at v0.12 rather than v2
-and has never been played by human beings. It lives in the RingBRP system repo
+**CLEAN GROUND is the closest to that bar and misses it on two counts.** It has three
+desk passes, a print pack and an 11pt-checked handout set, and it is at v0.12 rather
+than v2, having never been played by human beings. It lives in the RingBRP system repo
 (`docs/scenarios/CLEAN_GROUND.md`), not here, because seventeen build guards check it
 there — see `games/slot09-custodians-clean-ground/README.md`. Art is marked not-required
 rather than missing: it runs without it.
+
+- ⚠ **It is also 20 minutes over the house time budget, and its own document does not
+  say so.** `docs/house-standards.md` allows **3h30 of play** inside the four-hour slot,
+  plus a ten-minute break — about **3h40 wall clock**. CLEAN GROUND's STATUS block
+  budgets **4h00 including a break**, which is the whole slot. Desk pass 1 ran 4:25 and
+  its Pacing Note carries roughly 25 minutes of pre-written cuts, so taking every cut
+  lands it at 4:00 — still over. **Either the Pacing Note needs another 20 minutes of
+  cuts, or this game is a deliberate exception to the house budget and should say which.**
+  Found 13 Sep 2026 while updating these deadlines; not yet decided.
 
 ## Decisions blocking work
 
@@ -39,7 +52,7 @@ Everything else can proceed without them.
 | 4 | Confirmed Warhorn slot times. | All print, all timing tables |
 | 5 | Which TWDU book edition is at the table? | BLACK SUMMER Runner stat block |
 | 6 | Which Vaesen bestiary entry the ferryman is built on. | MR PARKER'S DIARY v1 |
-| 7 | **Do the Searles game rooms seat six?** Four of the eight games do. If not, the trilogy and ABTM drop to five. | 4 games' pregen counts |
+| 7 | **Do the Searles game rooms seat six?** Four of the **nine** require six — ABTM and all three DEAD AIR nights — and CLEAN GROUND can use a sixth seat if there is one. If not, the trilogy and ABTM drop to five and CLEAN GROUND runs at five. | 4 games' pregen counts, +1 optional |
 | 8 | How obviously the Part One shelter-section handout shows the extra room. | DEAD AIR I Act One |
 
 ## Shared production
