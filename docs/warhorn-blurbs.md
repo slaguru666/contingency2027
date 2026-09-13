@@ -156,6 +156,26 @@ are used at the table). Safety tools in use.
 
 ---
 
+## Slot 9 · Sun afternoon
+### CLEAN GROUND
+**The Custodians** (a house BRP d100 game — no prior knowledge needed) · 4–6 players · pregens provided
+*Bureaucratic horror · folk horror · a decision with no good answer · winter moorland*
+
+You work for a department that files things. In 1962 it filed a spare valley in
+the northern march, in case a war made one necessary, and it never cancelled the
+entry. Two weeks ago a contractor felled the tree the whole arrangement was
+pegged to, and now there is a body in a sheep pen with no name, no dental record
+and boots that have been resoled nine times by hand. Forty-one people have been
+walking north across that valley for sixty-four years. There is no north.
+
+**Content warnings:** displaced people and the machinery that displaces them,
+cold-war civil-defence planning, a death from exhaustion, identity loss and being
+replaced by something wearing your face. No jump scares. The ending is a decision
+about other people's lives and the game does not provide a right answer. Safety
+tools in use.
+
+---
+
 ## Submission checklist
 
 - [ ] Slot times confirmed against the published 2027 schedule

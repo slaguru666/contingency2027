@@ -9,7 +9,7 @@ Working repository for Tim Evans' games at **Contingency 2027**.
 · Self-catering on-site accommodation, check-in from Mon 25 Jan
 
 **GM commitment:** two games a day — one afternoon, one evening — across all five
-days. Ten slots; eight scenarios booked, two Sunday slots held as reserve.
+days. Ten slots; **nine scenarios booked**, Sunday evening held as the last reserve.
 
 ---
 
@@ -25,7 +25,7 @@ days. Ten slots; eight scenarios booked, two Sunday slots held as reserve.
 | 6 | Fri 29 | **Evening** | Call of Cthulhu 7e | [**DEAD AIR II — The Quiet City** (1962)](games/slot06-dead-air-2-the-quiet-city/) | 6 | Outline |
 | 7 | Sat 30 | Afternoon | Vaesen | [**THE CURIOUS CASE OF MR PARKER'S DIARY**](games/slot07-vaesen-mr-parkers-diary/) | 4 | Outline |
 | 8 | Sat 30 | **Evening** | Call of Cthulhu 7e | [**DEAD AIR III — Full Volume** (2027)](games/slot08-dead-air-3-full-volume/) | 6 | Outline |
-| 9 | Sun 31 | Afternoon | — | *Reserve — re-run of highest-demand game* | — | Held |
+| 9 | Sun 31 | Afternoon | The Custodians (RingBRP) | [**CLEAN GROUND**](games/slot09-custodians-clean-ground/) | 4–6 | Draft v0.12, 3 desk passes |
 | 10 | Sun 31 | Evening | — | *Reserve — pick-up / open table* | — | Held |
 
 The three **DEAD AIR** games are a linked Call of Cthulhu trilogy running on

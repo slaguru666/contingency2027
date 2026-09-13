@@ -12,11 +12,19 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 | 6 | Fri eve | DEAD AIR II — The Quiet City | 6 | ✔ | — | — | — | — | — | — | — |
 | 7 | Sat aft | MR PARKER'S DIARY | 4 | ✔ | — | — | — | — | — | — | — |
 | 8 | Sat eve | DEAD AIR III — Full Volume | 6 | ✔ | — | — | — | — | — | — | — |
+| 9 | **Sun aft** | CLEAN GROUND | 4–6 | ✔ | ✔ *(v0.12)* | ✔ | ✔ | — | ✔ ×3 *(desk)* | ✔ | n/a |
 
 **A game is convention-ready when:** the scenario is at v2 or later, pregens are
 audited against the rules, handouts and art are produced, it has survived at
 least two desk playtests inside the 3:30 budget with the fix list applied, and
 the print pack exists.
+
+**CLEAN GROUND is the closest to that bar and still not over it.** It has three desk
+passes, a print pack and an 11pt-checked handout set; it is at v0.12 rather than v2
+and has never been played by human beings. It lives in the RingBRP system repo
+(`docs/scenarios/CLEAN_GROUND.md`), not here, because seventeen build guards check it
+there — see `games/slot09-custodians-clean-ground/README.md`. Art is marked not-required
+rather than missing: it runs without it.
 
 ## Decisions blocking work
 

@@ -28,7 +28,7 @@ content. Session clock counts play time only and pauses for the break.
 | 6 | Fri 29 | **Evening** | DEAD AIR II — The Quiet City | Call of Cthulhu 7e | 6 |
 | 7 | Sat 30 | Afternoon | THE CURIOUS CASE OF MR PARKER'S DIARY | Vaesen | 4 |
 | 8 | Sat 30 | **Evening** | DEAD AIR III — Full Volume | Call of Cthulhu 7e | 6 |
-| 9 | Sun 31 | Afternoon | *Reserve* | — | — |
+| 9 | Sun 31 | Afternoon | CLEAN GROUND | The Custodians (RingBRP) | 4–6 |
 | 10 | Sun 31 | Evening | *Reserve* | — | — |
 
 ## Why the slate sits this way
@@ -52,9 +52,18 @@ content. Session clock counts play time only and pauses for the break.
   honour, since every evening is Dead Air. The afternoons therefore do the
   balancing: Thursday's Black Summer is the only other genuinely grim game, and
   it sits before Part One rather than after it.
-- **Sunday is deliberately empty.** People leave, energy drops, and two reserve
-  slots absorb overspill demand or a re-run without new prep. If Sunday evening
-  never fills, that is a feature.
+- **Sunday was deliberately empty, and is now half spent.** People leave, energy
+  drops, and the reserve slots absorb overspill demand or a re-run without new prep.
+  If Sunday evening never fills, that is still a feature.
+  - **Slot 9 now carries CLEAN GROUND** (The Custodians, 4–6 players), booked
+    13 September 2026. Afternoon rather than evening because it needs a full table
+    for four hours and Sunday evening is the slot that may never fill.
+  - **That spends the re-run reserve, which was real slack.** A re-run needed no
+    prep; this needs a human playtest. The rule below is unchanged and now has a
+    named subject: **if anything gives, it is CLEAN GROUND.** It is the newest game
+    on the slate, the least tested, and the only one whose absence costs nobody a
+    booked seat. Dropping it costs a Sunday afternoon; dropping a playtest costs a
+    table of strangers their evening.
 
 ## GM load check
 
@@ -64,7 +73,7 @@ content. Session clock counts play time only and pauses for the break.
 | Thu | 2 | Both | Black Summer, then Dead Air I. Heaviest day of the week |
 | Fri | 2 | Both | The Favour, then Dead Air II |
 | Sat | 2 | Both | Mr Parker's, then Dead Air III — the arc payoff, needs the most playtesting |
-| Sun | 0 booked | — | Reserve |
+| Sun | 1 booked | Yes — new material | CLEAN GROUND (afternoon); evening still reserve |
 
 **Consequence:** three consecutive nights of six-player Cthulhu is a demanding
 run for one GM, and the three afternoons before them are all new material too.

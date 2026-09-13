@@ -8,7 +8,7 @@ Discord, Facebook, forum posts or an email. Print/PDF version is the HTML.
 **CONTINGENCY 2027** · Wyrd Sisters Games Club
 27–31 January 2027 · Searles Leisure Resort, Hunstanton · five days of gaming
 
-**Eight games, run by Tim Evans.** Two a day — one afternoon, one evening.
+**Nine games, run by Tim Evans.** Two a day — one afternoon, one evening.
 Four-hour slots, pre-generated characters, no system knowledge needed, safety
 tools at every table.
 
@@ -51,6 +51,15 @@ drowned in a northern lake last October — posted three weeks after he died. Th
 first sixty pages are ordinary. The last twenty are in the same hand and written
 from somewhere outside his own life. The final page is dated nine days from now,
 and it describes your arrival.
+
+**CLEAN GROUND** — The Custodians, a house BRP game
+*Sun afternoon · 4–6 players*
+You work for a department that files things. In 1962 it filed a spare valley in
+the northern march, in case a war made one necessary, and it never cancelled the
+entry. Two weeks ago a contractor felled the tree the whole arrangement was
+pegged to. There is a body in a sheep pen with no name and boots resoled nine
+times by hand, and forty-one people have been walking north across that valley
+for sixty-four years. There is no north.
 
 ---
 
