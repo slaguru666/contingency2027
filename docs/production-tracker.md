@@ -16,7 +16,7 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 | 6 | Fri eve | DEAD AIR II — The Quiet City | 6 | ✔ | — | — | — | — | — | — | — |
 | 7 | Sat aft | MR PARKER'S DIARY | 4 | ✔ | — | — | — | — | — | — | — |
 | 8 | Sat eve | DEAD AIR III — Full Volume | 6 | ✔ | — | — | — | — | — | — | — |
-| 9 | **Sun aft** | CLEAN GROUND | 4–6 | ✔ | ✔ *(v0.12)* | ✔ | ✔ | — | ✔ ×3 *(desk)* | ✔ | n/a |
+| 9 | **Sun aft** | CLEAN GROUND | 4–6 | ✔ | ✔ *(v0.13)* | ✔ | ✔ | n/a | ◐ 3 desk, **0 human**, timings recut since | ✔ | n/a |
 
 **A game is convention-ready when:** the scenario is at v2 or later, pregens are
 audited against the rules, handouts and art are produced, it has survived at
@@ -30,14 +30,17 @@ than v2, having never been played by human beings. It lives in the RingBRP syste
 there — see `games/slot09-custodians-clean-ground/README.md`. Art is marked not-required
 rather than missing: it runs without it.
 
-- ⚠ **It is also 20 minutes over the house time budget, and its own document does not
-  say so.** `docs/house-standards.md` allows **3h30 of play** inside the four-hour slot,
-  plus a ten-minute break — about **3h40 wall clock**. CLEAN GROUND's STATUS block
-  budgets **4h00 including a break**, which is the whole slot. Desk pass 1 ran 4:25 and
-  its Pacing Note carries roughly 25 minutes of pre-written cuts, so taking every cut
-  lands it at 4:00 — still over. **Either the Pacing Note needs another 20 minutes of
-  cuts, or this game is a deliberate exception to the house budget and should say which.**
-  Found 13 Sep 2026 while updating these deadlines; not yet decided.
+- ✔ **The 20-minute overrun is fixed** (v0.13, 13 Sep 2026). It budgeted 4h00 against a
+  house standard of 3h30 play plus a break — 3h40 wall clock. Act Two carried the whole
+  overrun at 65 minutes and is now 45: the crossing capped at five, THE OFFER moved to run
+  *inside* the column scene rather than beside it, and the line's rest given an in-fiction
+  clock that ends the scene on the GM's schedule. Nothing was deleted. The session now
+  lands at 3:40 exactly and the Pacing Note carries 65 minutes of further cuts, so there
+  is roughly ten minutes of real slack.
+  - ⚠ **The new timings are untested.** Desk pass 1's 4:25 predates the restructure and no
+    fourth desk pass has been run. The first human run is also the first test of this
+    clock — which is an argument for playtesting it well before January rather than
+    treating the timing box as ticked.
 
 ## Decisions blocking work
 
