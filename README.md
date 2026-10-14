@@ -22,7 +22,7 @@ deliberately clear.
 | 2 | Wed 27 | Afternoon | Blade Runner RPG | [**AFTERIMAGE**](games/slot02-blade-runner-afterimage/) | 4 | **Port — con-ready (v2.2)** |
 | 3 | Wed 27 | Evening | CoC — **Gaslight** (1894) | [**THE SIX O'CLOCK SITTING**](games/slot03-gaslight-six-oclock-sitting/) | 4 | Outline |
 | 4 | Thu 28 | Morning | The Walking Dead Universe (modified) | [**BLACK SUMMER — Last Flight Out**](games/slot04-black-summer/) | 5 | Outline |
-| 5 | Thu 28 | Afternoon | **Pulp** Cthulhu | [**THE SKY RIDE**](games/slot05-pulp-the-sky-ride/) | 5 | Outline |
+| 5 | Thu 28 | Afternoon | CoC 7e — **modern** (1986) | [**CLOSING WEEKEND**](games/slot05-modern-closing-weekend/) | 6 | Outline |
 | 6 | Thu 28 | **Evening** | Call of Cthulhu 7e | [**DEAD AIR I — Ash & Concrete** (1946)](games/slot06-dead-air-1-ash-and-concrete/) | 6 | Outline |
 | 7 | Fri 29 | Morning | — | *clear* | — | — |
 | 8 | Fri 29 | Afternoon | CoC — **Gaslight** (1895) | [**THE NEW LIGHT**](games/slot08-gaslight-the-new-light/) | 5 | Outline |
@@ -36,8 +36,9 @@ deliberately clear.
 
 **The shape of the slate:** **two Blade Runner** games sharing one set of pregens ·
 **one Dee Sanction**, Sunday morning · **one Walking Dead** · and **eight Call of
-Cthulhu**, which is the three-night DEAD AIR arc plus **one Pulp** and **four
-Gaslight** games in the remaining slots.
+Cthulhu**, which is the three-night DEAD AIR arc plus **one modern-day slasher**
+and **four Gaslight** games in the remaining slots. There is no Pulp on the
+slate.
 
 The four Gaslight games are deliberately not four of the same thing: **The London
 Particular** is mobile and outdoors across a whole city, and the other three are
@@ -56,11 +57,11 @@ each a single room, house or site.
 
 ### Parked
 
-[`archive/`](archive/) holds five games cut as the slate changed:
+[`archive/`](archive/) holds six games cut as the slate changed:
 *Another Bloody Treasure Map* (VANITY), *The Curious Case of Mr Parker's Diary*
 (Vaesen), *The Protestant Wind* (the second Dee Sanction, dropped when the slate
-went to one), *The Last Fix* (the second Pulp game, dropped when the slate went
-to one), and the pointer to *CLEAN GROUND* (The Custodians / RingBRP, whose
+went to one), *The Last Fix* and *The Sky Ride* (both Pulp, dropped when the
+slate went to one Pulp and then to none), and the pointer to *CLEAN GROUND* (The Custodians / RingBRP, whose
 scenario lives in the RingBRP system repo and was never copied here). Nothing is
 deleted; any of them can come back to a clear slot.
 

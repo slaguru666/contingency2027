@@ -8,7 +8,7 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 | 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×3 | ◐ reprint | ◐ port |
 | 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4 | ✔ | — | — | — | n/a | — | — | — |
 | 4 | Thu am | BLACK SUMMER | 5 | ✔ | — | — | — | — | — | — | — |
-| 5 | Thu pm | THE SKY RIDE *(Pulp)* | 5 | ✔ | — | — | — | — | — | — | — |
+| 5 | Thu pm | CLOSING WEEKEND *(modern, 1986)* | 6 | ✔ | — | — | — | — | — | — | — |
 | 6 | Thu eve | DEAD AIR I — Ash & Concrete | 6 | ✔ | — | — | — | — | — | — | — |
 | 8 | Fri pm | THE NEW LIGHT *(Gaslight)* | 5 | ✔ | — | — | — | — | — | — | — |
 | 9 | Fri eve | DEAD AIR II — The Quiet City | 6 | ✔ | — | — | — | — | — | — | — |
@@ -36,15 +36,19 @@ Gathered from the outlines. Everything else can proceed without them.
 | 3 | Trilogy pregens: three fresh sets of six, or one lineage across the eras? | All three DEAD AIR pregen sets |
 | 4 | Confirmed Warhorn slot times. | All print, all timing tables |
 | 5 | Which TWDU book edition is at the table? | BLACK SUMMER Runner stat block |
-| 6 | **Do the Searles game rooms seat six?** Three games do. | DEAD AIR pregen counts |
+| 6 | **Do the Searles game rooms seat six?** Four games do. | DEAD AIR pregen counts · CLOSING WEEKEND body count |
 | 7 | How obviously the Dead Air I shelter-section handout shows the extra room. | DEAD AIR I Act One |
 | 8 | Can a player character sign the household book and survive the epilogue? | THE NEW LIGHT Act Three |
-| 9 | Does the Act Three crowd-moving decision injure bystanders, and does the epilogue count it? | THE SKY RIDE Act Three |
+| 9 | **Is the mask's rule discovered in Act Two, or told to the table up front?** Discovery makes it a mystery; telling makes it a game about nerve. | CLOSING WEEKEND Act Two — blocks drafting |
 | 10 | Does Pilar Lindqvist (age 9) stay as written? | PAPER CHILDREN Act Two |
-| 11 | Is a 9am Black Summer the right call, or does it swap with THE SKY RIDE? | Nothing — but decide before Warhorn submission |
+| 11 | Is a 9am Black Summer the right call, or does it swap with CLOSING WEEKEND? | Nothing — but decide before Warhorn submission |
 
 ## Shared production
 
+- **CLOSING WEEKEND needs ten sheets, not six** — six counsellors plus four
+  second characters handed out as the first characters die. That is the single
+  largest pregen build on the slate, and the second-character set is load-bearing
+  rather than optional: it is what stops a dead player sitting out ninety minutes.
 - **The Blade Runner four.** Rick, Jax, Kael and Sloane serve Slots 2 and 11.
   The sheets are printed and playtested — **PAPER CHILDREN must not change them.**
   Any edit for one game has to be mirrored and re-audited for the other.
@@ -73,7 +77,7 @@ Gathered from the outlines. Everything else can proceed without them.
 
 `archive/` holds *Another Bloody Treasure Map* (VANITY), *The Curious Case of Mr
 Parker's Diary* (Vaesen), *The Protestant Wind* (the second Dee Sanction), *The
-Last Fix* (the second Pulp game) and the *CLEAN GROUND* pointer (The Custodians /
+Last Fix* and *The Sky Ride* (both Pulp) and the *CLEAN GROUND* pointer (The Custodians /
 RingBRP — its scenario lives in the RingBRP system repo and was never copied
 here). Outlines intact; any can return to Slot 7, 10 or 15. **The Protestant
 Wind's brisk five-households structure is the thing to raid if THE FAVOUR needs

@@ -78,20 +78,21 @@ execution, crowd crush, PvP possible. Safety tools in use.
 ---
 
 ## Slot 5 · Thu afternoon
-### THE SKY RIDE
-**Pulp Cthulhu** · 5 players · pregens provided
-*Pulp action · 1930s · a monster hunt · loud and fast*
+### CLOSING WEEKEND
+**Call of Cthulhu 7e — modern rules, 1986** · 6 players · pregens provided
+*A slasher, played knowingly · summer camp · high body count · funny first*
 
-Chicago, November 1933. The World's Fair has nine days left and a hundred
-thousand people a day coming through the gates, and eleven of them have gone
-missing since July. Two turned up in sealed places — one in a locked exhibit
-case, one in a cable car at the end of its run with the doors still shut. The
-Fair is not closing. On the thirteenth every crate in it goes by rail to nineteen
-different cities.
+Camp Loon Point, Saturday 6 September 1986. The campers went home on Monday, the
+camp has been sold, and on Tuesday the bulldozers come for the boathouse. Eight
+counsellors stayed behind to close the cabins and have one last night at the
+lake. By midnight the phone line will be cut rather than down, the wagon will not
+start, and you will have worked out that this camp has had a bad year every seven
+to eleven years since 1931. Expect to play more than one character.
 
-**Content warnings:** people taken and killed off screen, a monster hunt with real
-casualties, corporate indifference to deaths, heights and falling, a crowd-crush
-hazard. Safety tools in use.
+**Content warnings:** graphic slasher violence against young adults, sustained
+stalking and pursuit, drug and alcohol use, period attitudes, and the
+near-certainty that your first character dies. Characters are 18–22, not
+children. Safety tools in use.
 
 ---
 

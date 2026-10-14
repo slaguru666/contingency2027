@@ -25,7 +25,7 @@ content. Session clock counts play time only and pauses for the break.
 | 2 | Wed 27 | Afternoon | AFTERIMAGE | Blade Runner RPG | 4 |
 | 3 | Wed 27 | Evening | THE SIX O'CLOCK SITTING | CoC — **Gaslight** (1894) | 4 |
 | 4 | Thu 28 | Morning | BLACK SUMMER — Last Flight Out | Walking Dead Universe (modified) | 5 |
-| 5 | Thu 28 | Afternoon | THE SKY RIDE | **Pulp** Cthulhu | 5 |
+| 5 | Thu 28 | Afternoon | CLOSING WEEKEND | CoC 7e — **modern** (1986) | 6 |
 | 6 | Thu 28 | **Evening** | DEAD AIR I — Ash & Concrete | CoC 7e | 6 |
 | 7 | Fri 29 | Morning | *clear* | — | — |
 | 8 | Fri 29 | Afternoon | THE NEW LIGHT | CoC — **Gaslight** (1895) | 5 |
@@ -52,18 +52,24 @@ for anything else.
   unpacking), a finished Blade Runner case in the afternoon that needs no prep at
   all, and a one-room Gaslight séance at night. The busiest day of the week is
   also the cheapest to run.
-- **Thursday is the heavy day** — three new games, running zombies → a World's
-  Fair monster hunt → Berlin 1946. **The Sky Ride is deliberately the relief
-  valve** between Black Summer in the morning and Dead Air I at night, which is
-  otherwise the grimmest sandwich on the schedule.
+- **Thursday is the heavy day, and it is now three horror games** — zombies → an
+  1986 slasher → Berlin 1946. The afternoon used to be a Pulp monster hunt doing
+  the honest work of a relief valve between Black Summer in the morning and Dead
+  Air I at night. **CLOSING WEEKEND has to do that job on register alone**: it is
+  the knowing, funny, generic one, and its first ninety minutes are written to be
+  played for laughs. If it is run as straight horror, Thursday is three grinds in
+  a row. This is the schedule's biggest remaining risk and it is a risk in the
+  writing, not in the grid.
 - **Friday and Saturday are two-game days** with the mornings clear. Deliberate
   recovery after Thursday and before the Saturday night payoff.
 - **Sunday closes small.** The Dee Sanction game in the morning and the quietest
   game on the slate in the afternoon, then nothing. People leave on Sunday; the
   evening stays clear.
-- **The non-arc Cthulhu is all Pulp or Gaslight**, by design: **one Pulp**
-  (Slot 5) and **four Gaslight** (Slots 1, 3, 8, 14). With only one Pulp left it
-  sits on Thursday, the day that needs a relief valve most. The four Gaslight
+- **The non-arc Cthulhu is four Gaslight plus one modern game.** The four
+  Gaslight sit at Slots 1, 3, 8 and 14; Slot 5 is modern-rules CoC set in 1986.
+  There is no Pulp. Slot 5 is the slate's second modern-era Cthulhu after DEAD AIR
+  III, and the two are not at risk of blurring: 1986 upstate New York against 2027
+  Berlin, a slasher against the end of a trilogy. The four Gaslight
   games are split one mobile (Slot 1, a city-wide night hunt) and three contained
   (a room, a house, a wharf) so the Victorian half of the week does not become
   four versions of the same afternoon. The DEAD AIR trilogy is the only other
@@ -97,7 +103,7 @@ distributed:
 | **AFTERIMAGE** (2) | Finished. v2.2, three playtests, art complete. Port only |
 | **PAPER CHILDREN** (11) | Reuses AFTERIMAGE's pregens, sheets, portraits, chase quickref and console module. Only the case is new writing |
 | **THE SIX O'CLOCK SITTING** (3) | One room, three handouts, no art, no map, no set-piece page |
-| **COLD STORAGE** (14) | One site, no art pipeline, no set-piece |
+| **THE PERPETUAL ORDER** (14) | One site, no art pipeline, no set-piece |
 | **THE FAVOUR** (13) | Reuses the *Princes Bride* agents and their written seams |
 
 That leaves full production on seven games, not twelve.
@@ -120,16 +126,19 @@ postpone, because Friday has no other commitment around it.
 ## Open logistics questions
 
 1. Confirmed slot times from Warhorn — the table above is assumed, not verified.
-2. **Table size at Searles: three games seat six.** Confirm the game rooms take a
-   six-player table comfortably, or the trilogy drops to five.
+2. **Table size at Searles: four games seat six** — the DEAD AIR trilogy and
+   CLOSING WEEKEND. Confirm the game rooms take a six-player table comfortably,
+   or they drop to five. For CLOSING WEEKEND that costs a body, which costs the
+   genre something; for the trilogy it costs the 3+3 splits.
 3. Whether DEAD AIR can be flagged on Warhorn as a linked series with booking
    priority for players taking all three nights, and whether the two Blade Runner
    games get the same treatment.
 4. Power and table space for the GM console tablet in the evening rooms.
 5. **Is a 9am Black Summer the right call?** It is a bleak, high-lethality
    survival game in the convention's second morning slot. The alternative is to
-   swap it with Thursday afternoon's THE SKY RIDE — but that would cost Thursday
-   its only light game, so the swap is not free.
+   swap it with Thursday afternoon's CLOSING WEEKEND — but the slasher is now the
+   only thing keeping Thursday from being three unbroken hours of grim, so moving
+   it to 9am costs more than it did when the afternoon was a Pulp game.
 6. **THE FAVOUR now opens Sunday at 9am.** Its Act Two is an archive act, which
    is the wrong shape for a tired, half-packed table unless it is built around
    short scenes and a visibly filling list. Either tighten it to that before v1,
