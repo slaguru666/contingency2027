@@ -1,4 +1,4 @@
-# [Contingency 2027 — Slot 4] DEAD AIR I: ASH & CONCRETE
+# [Contingency 2027 — Slot 6] DEAD AIR I: ASH & CONCRETE
 
 > *There is a room under the bunker that is on nobody's plan.*
 

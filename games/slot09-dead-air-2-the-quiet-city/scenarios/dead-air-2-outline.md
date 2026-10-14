@@ -1,4 +1,4 @@
-# [Contingency 2027 — Slot 6] DEAD AIR II: THE QUIET CITY
+# [Contingency 2027 — Slot 9] DEAD AIR II: THE QUIET CITY
 
 > *October 1962. The gates are shut, the phones are dead, and the test is on Friday.*
 

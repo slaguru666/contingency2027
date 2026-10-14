@@ -1,4 +1,4 @@
-# Slot 4 · Thu 28 Jan, evening — DEAD AIR I: ASH & CONCRETE
+# Slot 6 · Thu 28 Jan, evening — DEAD AIR I: ASH & CONCRETE
 
 *There is a room under the bunker that is on nobody's plan.*
 
@@ -7,7 +7,7 @@ a descent against a rival team · flooded-chamber set-piece · the players choos
 who inherits what they found.
 
 Part one of the [DEAD AIR trilogy](../../docs/dead-air-trilogy-bible.md)
-(Slots 4, 6, 8 — Thu/Fri/Sat evenings). Stands alone.
+(Slots 6, 9, 12 — Thu/Fri/Sat evenings). Stands alone.
 
 | File | What it is |
 |---|---|

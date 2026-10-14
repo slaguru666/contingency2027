@@ -21,7 +21,7 @@ unhurried hand. Either way, **the list reached Dee, and Dee took it.**
 
 ## Overview
 
-- **Slot:** Friday 29 January 2027, afternoon
+- **Slot:** Thursday 28 January 2027, afternoon
 - **System:** The Dee Sanction
 - **Setting:** **Skelthwaite**, a lead-dale village in the West Riding of
   Yorkshire — April 1587, six months after Faversholme

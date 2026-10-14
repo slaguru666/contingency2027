@@ -1,4 +1,4 @@
-# Slot 2 · Wed 27 Jan, evening — AFTERIMAGE
+# Slot 2 · Wed 27 Jan, afternoon — AFTERIMAGE
 
 *Three women remember the same childhood. One of them buried it.*
 

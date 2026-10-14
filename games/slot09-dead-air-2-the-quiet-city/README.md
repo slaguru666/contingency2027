@@ -1,4 +1,4 @@
-# Slot 6 · Fri 29 Jan, evening — DEAD AIR II: THE QUIET CITY
+# Slot 9 · Fri 29 Jan, evening — DEAD AIR II: THE QUIET CITY
 
 *October 1962. The gates are shut, the phones are dead, and the test is on Friday.*
 
@@ -6,7 +6,7 @@
 closed-box procedural · no way out · the institution is the antagonist.
 
 Part two of the [DEAD AIR trilogy](../../docs/dead-air-trilogy-bible.md)
-(Slots 4, 6, 8 — Thu/Fri/Sat evenings). Stands alone.
+(Slots 6, 9, 12 — Thu/Fri/Sat evenings). Stands alone.
 
 | File | What it is |
 |---|---|

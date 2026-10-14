@@ -4,7 +4,7 @@
 
 > *They thought they were calling something. They were the call.*
 
-**Contingency 2027 · Slots 4, 6 and 8 — Thursday, Friday and Saturday evenings.**
+**Contingency 2027 · Slots 6, 9 and 12 — Thursday, Friday and Saturday evenings.**
 **6 players.** Same session slot on three consecutive nights so a player can take
 the whole arc without a clash. Each part stands alone; nothing essential to a
 single evening depends on having played the one before.

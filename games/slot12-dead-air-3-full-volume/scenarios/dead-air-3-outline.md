@@ -1,4 +1,4 @@
-# [Contingency 2027 — Slot 8] DEAD AIR III: FULL VOLUME
+# [Contingency 2027 — Slot 12] DEAD AIR III: FULL VOLUME
 
 > *Berlin, now. Eighty years of secrecy, and it goes out live at midnight.*
 

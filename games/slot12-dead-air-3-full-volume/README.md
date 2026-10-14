@@ -1,4 +1,4 @@
-# Slot 8 · Sat 30 Jan, evening — DEAD AIR III: FULL VOLUME
+# Slot 12 · Sat 30 Jan, evening — DEAD AIR III: FULL VOLUME
 
 *Eighty years under a car park, and it goes out live at midnight.*
 
@@ -7,7 +7,7 @@ play) · open-city sprint · too much information, no authority, a broadcast clo
 
 Part three — the payoff — of the
 [DEAD AIR trilogy](../../docs/dead-air-trilogy-bible.md)
-(Slots 4, 6, 8 — Thu/Fri/Sat evenings). Stands alone.
+(Slots 6, 9, 12 — Thu/Fri/Sat evenings). Stands alone.
 
 | File | What it is |
 |---|---|

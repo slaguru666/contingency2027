@@ -7,23 +7,23 @@ Copy these into Warhorn as-is once the slot times are confirmed.
 
 ---
 
-## Slot 1 · Wed afternoon
-### ANOTHER BLOODY TREASURE MAP
-**VANITY** (a house d6 game — no prior knowledge needed) · 6 players · pregens provided
-*Comic fantasy · dungeon crawl · light rules · rivals*
+## Slot 1 · Wed morning
+### THE LAST FIX
+**Pulp Cthulhu** · 5 players · pregens provided
+*Pulp action · 1930s · exploration · forgiving — a good first game of the con*
 
-You bought a treasure map off a man in a tavern. Yes. You know. So did four other
-groups this week. Here is the thing, though: the map is real, the vault is where
-it says it is, and there is a great deal of gold in it. The old man who printed
-four hundred of them was not running a swindle. He was running a recruitment
-drive.
+July 1937, the central Pacific. You are the search party for Amelia Earhart. Two
+weeks of grid search, a Navy launch, and a chain of atolls nobody charted
+properly. On day nine you find the aircraft, high up a strand, intact, with the
+hatch open from the inside. On day ten you find out what it came down to look at,
+and why the charts have been wrong all along.
 
-**Content warnings:** cartoon violence, greed, one genuinely unpleasant moment at
-the vault door. Safety tools in use.
+**Content warnings:** drowning, a large midden of wreckage and remains described,
+a fictional account of two real missing people. Safety tools in use.
 
 ---
 
-## Slot 2 · Wed evening
+## Slot 2 · Wed afternoon
 ### AFTERIMAGE
 **Blade Runner RPG** · 4 players · pregens provided
 *Investigation-heavy · noir · one foot chase · ambiguous ending*
@@ -36,11 +36,28 @@ Nobody in this story gets to be right — you only get to decide who pays.
 **Content warnings:** violence, a death investigation, themes of grief, memory
 and consent. Safety tools in use.
 
-*Previously run at Continuum 2026.*
+*Previously run at Continuum 2026. Shares its cast with PAPER CHILDREN on
+Saturday — play either, or both, in any order.*
 
 ---
 
-## Slot 3 · Thu afternoon
+## Slot 3 · Wed evening
+### THE SIX O'CLOCK SITTING
+**Call of Cthulhu 7e** (1923) · 4 players · pregens provided
+*One room · all conversation · no combat · slow burn*
+
+You have done eleven of these. You know where the reaching-rod goes and what
+muslin looks like under red light, and Mrs Veale will not be difficult. She
+isn't. By seven o'clock you have the cabinet, the thread, the confederate and the
+whole shabby machine. What you do not have is how she knew the regimental number,
+the name of the dog, or the contents of a letter that was never posted.
+
+**Content warnings:** bereavement and its exploitation, a son killed in the war
+discussed at length, total darkness, grief played straight. Safety tools in use.
+
+---
+
+## Slot 4 · Thu morning
 ### BLACK SUMMER: LAST FLIGHT OUT
 **The Walking Dead Universe RPG (modified)** · 5 players · pregens provided
 *Survival · downbeat · human antagonists · high lethality*
@@ -56,7 +73,28 @@ execution, crowd crush, PvP possible. Safety tools in use.
 
 ---
 
-## Slot 4 · Thu evening
+## Slot 5 · Thu afternoon
+### THE FAVOUR
+**The Dee Sanction** · 5 players · pregens provided
+*Historical horror · investigation · moral trap · no clean ending*
+
+Six months ago you left a witch finder standing at a crossroads with a list in
+his hand — three villages where the evidence didn't add up and the verdict came
+anyway. Dee took the list. Now Garratt has called in the favour, and what he
+wants is one name cleared: a woman he hanged in 1581 on evidence he was paid to
+believe. Dee's instruction is one line and it is impossible. The village has its
+own view.
+
+**Content warnings:** judicial murder, witch-trial persecution, exhumation, a
+threatened hanging on screen, a community choosing to kill a stranger. Safety
+tools in use.
+
+*A sequel to* The Princes Bride *(Continuum 2026) — written to stand completely
+alone. Returning players may take their own agent back.*
+
+---
+
+## Slot 6 · Thu evening
 ### DEAD AIR I: ASH & CONCRETE (1946)
 **Call of Cthulhu 7e** · 6 players · pregens provided
 *Historical · investigation · a descent · part one of three — stands alone*
@@ -77,28 +115,25 @@ completely alone — play one, two or all three.*
 
 ---
 
-## Slot 5 · Fri afternoon
-### THE FAVOUR
-**The Dee Sanction** · 5 players · pregens provided
-*Historical horror · investigation · moral trap · no clean ending*
+## Slot 8 · Fri afternoon
+### THE NEW LIGHT
+**Call of Cthulhu 7e — Gaslight** (1895) · 5 players · pregens provided
+*Victorian · one house, one night · folk horror · the ending is a signature*
 
-Six months ago you left a witch finder standing at a crossroads with a list in
-his hand — three villages where the evidence didn't add up and the verdict came
-anyway. Dee took the list. Now Garratt has called in the favour, and what he
-wants is one name cleared: a woman he hanged in 1581 on evidence he was paid to
-believe. Dee's instruction is one line and it is impossible. The village has its
-own view.
+Sir Hubert Ames has made Harlow Mote the brightest house in three counties — two
+hundred and twelve electric lamps, a turbine in the old mill, not a candle on the
+premises. The insurance office would not normally care, except that the engineer
+who installed the system was found in the long gallery with no mark on him at
+all. The housekeeper was born in this house when it still belonged to her family,
+and she has been doing a job for eighteen months that she cannot describe.
 
-**Content warnings:** judicial murder, witch-trial persecution, exhumation, a
-threatened hanging on screen, a community choosing to kill a stranger. Safety
-tools in use.
-
-*A sequel to* The Princes Bride *(Continuum 2026) — but written to stand
-completely alone. Returning players may take their own agent back.*
+**Content warnings:** drowned children (historical, discussed, never depicted),
+class exploitation, confinement in darkness, a bargain that requires a person.
+Safety tools in use.
 
 ---
 
-## Slot 6 · Fri evening
+## Slot 9 · Fri evening
 ### DEAD AIR II: THE QUIET CITY (1962)
 **Call of Cthulhu 7e** · 6 players · pregens provided
 *Historical · closed-box procedural · paranoia · part two of three — stands alone*
@@ -118,24 +153,27 @@ played part one.*
 
 ---
 
-## Slot 7 · Sat afternoon
-### THE CURIOUS CASE OF MR PARKER'S DIARY
-**Vaesen — Nordic Horror Roleplaying** · 4 players · pregens provided
-*Folk horror · archival mystery · slow burn · winter*
+## Slot 11 · Sat afternoon
+### PAPER CHILDREN
+**Blade Runner RPG** · 4 players · pregens provided
+*Investigation · procedural · the case is solved early and that is the point*
 
-A parcel reaches the Society in February: the field diary of an English
-naturalist who drowned in a northern lake last October. It was posted three weeks
-after he died. The first sixty pages are ordinary. The next twenty are in the
-same hand and written from somewhere outside his own life. The last page is dated
-nine days from now and it describes your arrival.
+A records clinician is dead on her own floor with a paper-knife in her neck and
+fourteen years of immaculate filing around her. The filing is the case: she sold
+the birth certificates of children who died in infancy to replicants who wanted
+to be somebody. Her killer will not be difficult. What you will also have, by the
+end of the afternoon, is the list of everyone who bought one.
 
-**Content warnings:** drowning, dead children, an implied suicide, a community's
-collective silence. The diary prop addresses players directly. Safety tools in
-use.
+**Content warnings:** infant death as a records-and-grief theme (discussed, never
+depicted), institutional violence against people who have committed no crime, a
+murder scene. Safety tools in use.
+
+*Same LAPD unit and the same four characters as AFTERIMAGE on Wednesday. A
+separate case — play either, or both, in any order.*
 
 ---
 
-## Slot 8 · Sat evening
+## Slot 12 · Sat evening
 ### DEAD AIR III: FULL VOLUME (2027)
 **Call of Cthulhu 7e, modern day** · 6 players · pregens provided
 *Contemporary · research sprint · escalating scale · part three of three — stands alone*
@@ -156,22 +194,37 @@ are used at the table). Safety tools in use.
 
 ---
 
-## Slot 9 · Sun afternoon
-### CLEAN GROUND
-**The Custodians** (a house BRP d100 game — no prior knowledge needed) · 4–6 players · pregens provided
-*Bureaucratic horror · folk horror · a decision with no good answer · winter moorland*
+## Slot 13 · Sun morning
+### THE PROTESTANT WIND
+**The Dee Sanction** · 5 players · pregens provided
+*Historical horror · a hunt on a clock · brisk · a very small ending*
 
-You work for a department that files things. In 1962 it filed a spare valley in
-the northern march, in case a war made one necessary, and it never cancelled the
-entry. Two weeks ago a contractor felled the tree the whole arrangement was
-pegged to, and now there is a body in a sheep pen with no name, no dental record
-and boots that have been resoled nine times by hand. Forty-one people have been
-walking north across that valley for sixty-four years. There is no north.
+October 1588. A Spanish hulk off the scattered Armada has come onto the rocks
+below a Cornish cove, and the village stripped her in a single night. Dee wants
+what her chaplain was carrying: a reliquary with no relic in it. It was broken up
+for the silver. Five households have a piece each, every one of them has been
+quietly lucky ever since, and the revenue man is expected Monday.
 
-**Content warnings:** displaced people and the machinery that displaces them,
-cold-war civil-defence planning, a death from exhaustion, identity loss and being
-replaced by something wearing your face. No jump scares. The ending is a decision
-about other people's lives and the game does not provide a right answer. Safety
+**Content warnings:** wrecking and drowned crews, religious persecution, a priest
+in hiding, a child in jeopardy, threatened hanging. Safety tools in use.
+
+*Also a Dee Sanction game — returning agents from* The Favour *are welcome.*
+
+---
+
+## Slot 14 · Sun afternoon
+### COLD STORAGE
+**Call of Cthulhu 7e, modern day** · 4 players · pregens provided
+*One location · quiet horror · no violence · a good last game of the con*
+
+Unit 114 has been paid for by standing order every month since 1974. The building
+went up in 1996, on a field. Nobody has ever opened it. Between the four of you —
+site manager, bank investigator, probate researcher, clearance contractor — you
+have the authority to cut the padlock, and it takes nine seconds. Inside are
+fifty-one identical boxes, and every one of them is the same Friday in June.
+
+**Content warnings:** claustrophobia, loss of identity, an implied suicide in the
+backstory, quiet existential dread. No gore, no violence, no jump scares. Safety
 tools in use.
 
 ---
@@ -179,8 +232,10 @@ tools in use.
 ## Submission checklist
 
 - [ ] Slot times confirmed against the published 2027 schedule
-- [ ] Decide whether DEAD AIR is listed as a linked series with booking priority
-- [ ] **Six-player tables (Slots 1, 4, 6, 8) confirmed against room capacity**
+- [ ] Decide whether DEAD AIR is listed as a linked series with booking priority,
+      and whether the two Blade Runner games get the same treatment
+- [ ] **Six-player tables (Slots 6, 9, 12) confirmed against room capacity**
+- [ ] Decide whether BLACK SUMMER stays in a 9am slot
 - [ ] "Pregens provided, no system knowledge needed" stated on every entry
 - [ ] Content warnings reviewed once more before submission — particularly the
       DEAD AIR entries, where the historical material needs to be visible to a

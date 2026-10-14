@@ -15,7 +15,7 @@ Contingency slate and lists exactly what changes.
 
 ## Overview
 
-- **Slot:** Wednesday 27 January 2027, evening
+- **Slot:** Wednesday 27 January 2027, afternoon
 - **System:** Blade Runner RPG (Free League)
 - **Setting:** Los Angeles, 2037 — Sector 9, the Kipple fringe, the ruined Santa
   Monica pier
@@ -48,7 +48,7 @@ this story gets to be right. The players only get to decide who pays.
 
 | Change | Detail |
 |---|---|
-| Event header | "Continuum 2026 — Friday 24 July, Slot 2, Cranfield" → "Contingency 2027 — Wednesday 27 January, Slot 2, Searles, Hunstanton" |
+| Event header | "Continuum 2026 — Friday 24 July, Slot 2, Cranfield" → "Contingency 2027 — Wednesday 27 January, Slot 2 (afternoon), Searles, Hunstanton" |
 | Filenames | `fri-slot2-blade-runner-afterimage.md` → `slot02-blade-runner-afterimage.md`; same for handout and sheet exports |
 | Asset IDs | `F2-ART-##` → `C2-ART-##` (or keep and note the legacy prefix — decide once, apply everywhere) |
 | GM console | Port the AFTERIMAGE module into the Contingency 2027 console build; verify the session clock, chase runner and prop fullscreen still work offline |
@@ -64,6 +64,7 @@ reason and a new version number.
 1. Keep the `F2-ART` asset prefix for provenance, or renumber to `C2-ART` for
    consistency with the rest of the 2027 slate? Renumbering touches the handouts,
    the sheets and the console module.
-2. Evening slot at Searles — is there enough table light for the printed props,
-   and power for the console tablet? Affects whether the physical prop pack or
-   the console is primary.
+2. Now an **afternoon** slot — daylight helps the printed props, but check power
+   for the console tablet. Also note AFTERIMAGE now has a Saturday sequel
+   (*Paper Children*, Slot 11) sharing its four pregens: any change to a sheet
+   here must be mirrored there.
