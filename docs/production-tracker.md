@@ -4,7 +4,7 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 
 | # | Slot | Game | PCs | Outline | Scenario v1 | Pregens | Handouts | Art | Playtest | Print | Console |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Wed am | THE LAST FIX *(Pulp)* | 5 | ✔ | — | — | — | — | — | — | — |
+| 1 | Wed am | THE LONDON PARTICULAR *(Gaslight)* | 5 | ✔ | — | — | — | — | — | — | — |
 | 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×3 | ◐ reprint | ◐ port |
 | 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4 | ✔ | — | — | — | n/a | — | — | — |
 | 4 | Thu am | BLACK SUMMER | 5 | ✔ | — | — | — | — | — | — | — |
@@ -59,8 +59,10 @@ Gathered from the outlines. Everything else can proceed without them.
 - **Two games need no art at all** — THE SIX O'CLOCK SITTING and THE PERPETUAL
   ORDER, both Gaslight, both one location. Keep them that way; they are the
   slate's ballast.
-- **Gaslight ×3 share a period and a register** (Slots 3, 8, 14), so build their
-  handout furniture — letterheads, registers, ledger rules, type — once.
+- **Gaslight ×4 share a period** (Slots 1, 3, 8, 14), so build their handout
+  furniture — letterheads, registers, ledger rules, type — once, together. They do
+  **not** share a shape: Slot 1 is mobile and city-wide, the other three are each
+  a single location, and that difference is load-bearing.
 - **GM console** — one Contingency 2027 build with a module per game. The
   AFTERIMAGE module exists and ports, and PAPER CHILDREN extends it.
 - **Art** — house style throughout: ink sketch / pencil, hand-drawn feel, never
@@ -70,8 +72,8 @@ Gathered from the outlines. Everything else can proceed without them.
 ## Parked
 
 `archive/` holds *Another Bloody Treasure Map* (VANITY), *The Curious Case of Mr
-Parker's Diary* (Vaesen), *The Protestant Wind* (the second Dee Sanction, dropped
-when the slate went to one) and the *CLEAN GROUND* pointer (The Custodians /
+Parker's Diary* (Vaesen), *The Protestant Wind* (the second Dee Sanction), *The
+Last Fix* (the second Pulp game) and the *CLEAN GROUND* pointer (The Custodians /
 RingBRP — its scenario lives in the RingBRP system repo and was never copied
 here). Outlines intact; any can return to Slot 7, 10 or 15. **The Protestant
 Wind's brisk five-households structure is the thing to raid if THE FAVOUR needs

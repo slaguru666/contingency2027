@@ -18,7 +18,7 @@ deliberately clear.
 
 | # | Day | Session | System | Game | PCs | Status |
 |---|---|---|---|---|---|---|
-| 1 | Wed 27 | Morning | **Pulp** Cthulhu | [**THE LAST FIX**](games/slot01-pulp-the-last-fix/) | 5 | Outline |
+| 1 | Wed 27 | Morning | CoC — **Gaslight** (1896) | [**THE LONDON PARTICULAR**](games/slot01-gaslight-the-london-particular/) | 5 | Outline |
 | 2 | Wed 27 | Afternoon | Blade Runner RPG | [**AFTERIMAGE**](games/slot02-blade-runner-afterimage/) | 4 | **Port — con-ready (v2.2)** |
 | 3 | Wed 27 | Evening | CoC — **Gaslight** (1894) | [**THE SIX O'CLOCK SITTING**](games/slot03-gaslight-six-oclock-sitting/) | 4 | Outline |
 | 4 | Thu 28 | Morning | The Walking Dead Universe (modified) | [**BLACK SUMMER — Last Flight Out**](games/slot04-black-summer/) | 5 | Outline |
@@ -36,8 +36,12 @@ deliberately clear.
 
 **The shape of the slate:** **two Blade Runner** games sharing one set of pregens ·
 **one Dee Sanction**, Sunday morning · **one Walking Dead** · and **eight Call of
-Cthulhu**, which is the three-night DEAD AIR arc plus **two Pulp** and **three
+Cthulhu**, which is the three-night DEAD AIR arc plus **one Pulp** and **four
 Gaslight** games in the remaining slots.
+
+The four Gaslight games are deliberately not four of the same thing: **The London
+Particular** is mobile and outdoors across a whole city, and the other three are
+each a single room, house or site.
 
 ### Linked games
 
@@ -52,10 +56,11 @@ Gaslight** games in the remaining slots.
 
 ### Parked
 
-[`archive/`](archive/) holds four games cut as the slate changed:
+[`archive/`](archive/) holds five games cut as the slate changed:
 *Another Bloody Treasure Map* (VANITY), *The Curious Case of Mr Parker's Diary*
 (Vaesen), *The Protestant Wind* (the second Dee Sanction, dropped when the slate
-went to one), and the pointer to *CLEAN GROUND* (The Custodians / RingBRP, whose
+went to one), *The Last Fix* (the second Pulp game, dropped when the slate went
+to one), and the pointer to *CLEAN GROUND* (The Custodians / RingBRP, whose
 scenario lives in the RingBRP system repo and was never copied here). Nothing is
 deleted; any of them can come back to a clear slot.
 

@@ -8,18 +8,20 @@ Copy these into Warhorn as-is once the slot times are confirmed.
 ---
 
 ## Slot 1 · Wed morning
-### THE LAST FIX
-**Pulp Cthulhu** · 5 players · pregens provided
-*Pulp action · 1930s · exploration · forgiving — a good first game of the con*
+### THE LONDON PARTICULAR
+**Call of Cthulhu — Gaslight** (1896) · 5 players · pregens provided
+*Victorian · a night hunt across the city · mobile · a deadline at dawn*
 
-July 1937, the central Pacific. You are the search party for Amelia Earhart. Two
-weeks of grid search, a Navy launch, and a chain of atolls nobody charted
-properly. On day nine you find the aircraft, high up a strand, intact, with the
-hatch open from the inside. On day ten you find out what it came down to look at,
-and why the charts have been wrong all along.
+Four people have died in four weeks, each on a night of thick fog, each found in
+the open street with no wound on them. Nothing connects them — not district, not
+trade, not hour. Then somebody fetches the Meteorological Office's fog register,
+and it connects them perfectly: each of them died exactly where the fog lay
+thickest. Tonight's forecast is the worst of the winter, and it will not lift
+before dawn.
 
-**Content warnings:** drowning, a large midden of wreckage and remains described,
-a fictional account of two real missing people. Safety tools in use.
+**Content warnings:** four deaths by asphyxiation described clinically, a child
+among the dead (backstory, never on screen), industrial pollution and working
+conditions. Safety tools in use.
 
 ---
 

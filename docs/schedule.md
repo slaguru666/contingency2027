@@ -21,7 +21,7 @@ content. Session clock counts play time only and pauses for the break.
 
 | # | Day | Session | Game | System | PCs |
 |---|---|---|---|---|---|
-| 1 | Wed 27 | Morning | THE LAST FIX | **Pulp** Cthulhu | 5 |
+| 1 | Wed 27 | Morning | THE LONDON PARTICULAR | CoC — **Gaslight** (1896) | 5 |
 | 2 | Wed 27 | Afternoon | AFTERIMAGE | Blade Runner RPG | 4 |
 | 3 | Wed 27 | Evening | THE SIX O'CLOCK SITTING | CoC — **Gaslight** (1894) | 4 |
 | 4 | Thu 28 | Morning | BLACK SUMMER — Last Flight Out | Walking Dead Universe (modified) | 5 |
@@ -47,10 +47,11 @@ for anything else.
   consecutive evenings: a player taking the whole arc books one time of day and
   never clashes with themselves. Night suits the bleakest material on the slate.
   Each part stands alone for drop-ins. Six players, the biggest tables of the week.
-- **Wednesday is a three-slot day and opens light-to-dark.** Pulp at 9am (loud,
-  legible, forgiving of a table still unpacking), a finished Blade Runner case in
-  the afternoon that needs no prep at all, and a one-room Gaslight séance at
-  night. The busiest day of the week is also the cheapest to run.
+- **Wednesday is a three-slot day and opens on a body.** A mobile Gaslight fog
+  hunt at 9am (legible in one line, opens in motion, forgiving of a table still
+  unpacking), a finished Blade Runner case in the afternoon that needs no prep at
+  all, and a one-room Gaslight séance at night. The busiest day of the week is
+  also the cheapest to run.
 - **Thursday is the heavy day** — three new games, running zombies → a World's
   Fair monster hunt → Berlin 1946. **The Sky Ride is deliberately the relief
   valve** between Black Summer in the morning and Dead Air I at night, which is
@@ -60,10 +61,13 @@ for anything else.
 - **Sunday closes small.** The Dee Sanction game in the morning and the quietest
   game on the slate in the afternoon, then nothing. People leave on Sunday; the
   evening stays clear.
-- **The non-arc Cthulhu is all Pulp or Gaslight**, by design: two Pulp (Slots 1
-  and 5, both mornings-and-afternoons energy) and three Gaslight (Slots 3, 8 and
-  14, all evening-or-quiet energy). The DEAD AIR trilogy is the only historical
-  CoC on the slate and keeps the nights to itself.
+- **The non-arc Cthulhu is all Pulp or Gaslight**, by design: **one Pulp**
+  (Slot 5) and **four Gaslight** (Slots 1, 3, 8, 14). With only one Pulp left it
+  sits on Thursday, the day that needs a relief valve most. The four Gaslight
+  games are split one mobile (Slot 1, a city-wide night hunt) and three contained
+  (a room, a house, a wharf) so the Victorian half of the week does not become
+  four versions of the same afternoon. The DEAD AIR trilogy is the only other
+  historical CoC and keeps the nights to itself.
 
 ## GM load check
 
@@ -79,8 +83,8 @@ for anything else.
 GMing on Wednesday and twelve on Thursday, the first two days of the convention,
 with the Dead Air trilogy still to come. The mitigations in the slate are real —
 Wednesday's cheap builds, the two clear mornings, the shared pregens — but if
-anything has to give during the con itself, **Slot 1 (The Last Fix) is the one to
-drop**: it is the first game, before momentum exists, and the only slot where a
+anything has to give during the con itself, **Slot 1 (The London Particular) is
+the one to drop**: it is the first game, before momentum exists, and the only slot where a
 cancellation costs the schedule nothing downstream.
 
 ## Where the cheap builds are
@@ -124,7 +128,8 @@ postpone, because Friday has no other commitment around it.
 4. Power and table space for the GM console tablet in the evening rooms.
 5. **Is a 9am Black Summer the right call?** It is a bleak, high-lethality
    survival game in the convention's second morning slot. The alternative is to
-   swap it with Thursday afternoon's THE SKY RIDE.
+   swap it with Thursday afternoon's THE SKY RIDE — but that would cost Thursday
+   its only light game, so the swap is not free.
 6. **THE FAVOUR now opens Sunday at 9am.** Its Act Two is an archive act, which
    is the wrong shape for a tired, half-packed table unless it is built around
    short scenes and a visibly filling list. Either tighten it to that before v1,
