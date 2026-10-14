@@ -43,17 +43,19 @@ Saturday — play either, or both, in any order.*
 
 ## Slot 3 · Wed evening
 ### THE SIX O'CLOCK SITTING
-**Call of Cthulhu 7e** (1923) · 4 players · pregens provided
+**Call of Cthulhu — Gaslight** (1894) · 4 players · pregens provided
 *One room · all conversation · no combat · slow burn*
 
-You have done eleven of these. You know where the reaching-rod goes and what
-muslin looks like under red light, and Mrs Veale will not be difficult. She
-isn't. By seven o'clock you have the cabinet, the thread, the confederate and the
-whole shabby machine. What you do not have is how she knew the regimental number,
-the name of the dog, or the contents of a letter that was never posted.
+You have done eleven of these for the Society. You know where the reaching-rod
+goes and what muslin looks like under a red lamp, and Mrs Veale will not be
+difficult. She isn't. By seven o'clock you have the cabinet, the thread, the
+confederate and the whole shabby machine. What you do not have is how she knew
+the regimental number, the name of the dog, or the contents of a letter that was
+never posted.
 
-**Content warnings:** bereavement and its exploitation, a son killed in the war
-discussed at length, total darkness, grief played straight. Safety tools in use.
+**Content warnings:** bereavement and its exploitation, a son killed on campaign
+in the Sudan discussed at length, total darkness, grief played straight. Safety
+tools in use.
 
 ---
 
@@ -74,23 +76,20 @@ execution, crowd crush, PvP possible. Safety tools in use.
 ---
 
 ## Slot 5 · Thu afternoon
-### THE FAVOUR
-**The Dee Sanction** · 5 players · pregens provided
-*Historical horror · investigation · moral trap · no clean ending*
+### THE SKY RIDE
+**Pulp Cthulhu** · 5 players · pregens provided
+*Pulp action · 1930s · a monster hunt · loud and fast*
 
-Six months ago you left a witch finder standing at a crossroads with a list in
-his hand — three villages where the evidence didn't add up and the verdict came
-anyway. Dee took the list. Now Garratt has called in the favour, and what he
-wants is one name cleared: a woman he hanged in 1581 on evidence he was paid to
-believe. Dee's instruction is one line and it is impossible. The village has its
-own view.
+Chicago, November 1933. The World's Fair has nine days left and a hundred
+thousand people a day coming through the gates, and eleven of them have gone
+missing since July. Two turned up in sealed places — one in a locked exhibit
+case, one in a cable car at the end of its run with the doors still shut. The
+Fair is not closing. On the thirteenth every crate in it goes by rail to nineteen
+different cities.
 
-**Content warnings:** judicial murder, witch-trial persecution, exhumation, a
-threatened hanging on screen, a community choosing to kill a stranger. Safety
-tools in use.
-
-*A sequel to* The Princes Bride *(Continuum 2026) — written to stand completely
-alone. Returning players may take their own agent back.*
+**Content warnings:** people taken and killed off screen, a monster hunt with real
+casualties, corporate indifference to deaths, heights and falling, a crowd-crush
+hazard. Safety tools in use.
 
 ---
 
@@ -195,37 +194,41 @@ are used at the table). Safety tools in use.
 ---
 
 ## Slot 13 · Sun morning
-### THE PROTESTANT WIND
+### THE FAVOUR
 **The Dee Sanction** · 5 players · pregens provided
-*Historical horror · a hunt on a clock · brisk · a very small ending*
+*Historical horror · investigation · moral trap · no clean ending*
 
-October 1588. A Spanish hulk off the scattered Armada has come onto the rocks
-below a Cornish cove, and the village stripped her in a single night. Dee wants
-what her chaplain was carrying: a reliquary with no relic in it. It was broken up
-for the silver. Five households have a piece each, every one of them has been
-quietly lucky ever since, and the revenue man is expected Monday.
+Six months ago you left a witch finder standing at a crossroads with a list in
+his hand — three villages where the evidence didn't add up and the verdict came
+anyway. Dee took the list. Now Garratt has called in the favour, and what he
+wants is one name cleared: a woman he hanged in 1581 on evidence he was paid to
+believe. Dee's instruction is one line and it is impossible. The village has its
+own view.
 
-**Content warnings:** wrecking and drowned crews, religious persecution, a priest
-in hiding, a child in jeopardy, threatened hanging. Safety tools in use.
+**Content warnings:** judicial murder, witch-trial persecution, exhumation, a
+threatened hanging on screen, a community choosing to kill a stranger. Safety
+tools in use.
 
-*Also a Dee Sanction game — returning agents from* The Favour *are welcome.*
+*A sequel to* The Princes Bride *(Continuum 2026) — written to stand completely
+alone. Returning players may take their own agent back.*
 
 ---
 
 ## Slot 14 · Sun afternoon
-### COLD STORAGE
-**Call of Cthulhu 7e, modern day** · 4 players · pregens provided
+### THE PERPETUAL ORDER
+**Call of Cthulhu — Gaslight** (1895) · 4 players · pregens provided
 *One location · quiet horror · no violence · a good last game of the con*
 
-Unit 114 has been paid for by standing order every month since 1974. The building
-went up in 1996, on a field. Nobody has ever opened it. Between the four of you —
-site manager, bank investigator, probate researcher, clearance contractor — you
-have the authority to cut the padlock, and it takes nine seconds. Inside are
-fifty-one identical boxes, and every one of them is the same Friday in June.
+A banker's order has paid the rent on vault 114 at a Wapping bonded wharf every
+quarter since 1794. The wharf was built in 1829. Nobody has ever opened the
+vault, and between the four of you — wharfinger, bank's clerk, solicitor's
+searcher, surveyor — you have the authority to strike the padlock. Inside are a
+hundred and one identical crates, and every one of them is the same Friday in
+June.
 
-**Content warnings:** claustrophobia, loss of identity, an implied suicide in the
-backstory, quiet existential dread. No gore, no violence, no jump scares. Safety
-tools in use.
+**Content warnings:** claustrophobia, loss of identity, a drowning and an implied
+suicide in the backstory, quiet existential dread. No gore, no violence, no jump
+scares. Safety tools in use.
 
 ---
 
@@ -235,7 +238,8 @@ tools in use.
 - [ ] Decide whether DEAD AIR is listed as a linked series with booking priority,
       and whether the two Blade Runner games get the same treatment
 - [ ] **Six-player tables (Slots 6, 9, 12) confirmed against room capacity**
-- [ ] Decide whether BLACK SUMMER stays in a 9am slot
+- [ ] Decide whether BLACK SUMMER stays in a 9am slot, and whether THE FAVOUR
+      survives a 9am Sunday or swaps with THE PERPETUAL ORDER
 - [ ] "Pregens provided, no system knowledge needed" stated on every entry
 - [ ] Content warnings reviewed once more before submission — particularly the
       DEAD AIR entries, where the historical material needs to be visible to a

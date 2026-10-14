@@ -21,20 +21,20 @@ content. Session clock counts play time only and pauses for the break.
 
 | # | Day | Session | Game | System | PCs |
 |---|---|---|---|---|---|
-| 1 | Wed 27 | Morning | THE LAST FIX | Pulp Cthulhu | 5 |
+| 1 | Wed 27 | Morning | THE LAST FIX | **Pulp** Cthulhu | 5 |
 | 2 | Wed 27 | Afternoon | AFTERIMAGE | Blade Runner RPG | 4 |
-| 3 | Wed 27 | Evening | THE SIX O'CLOCK SITTING | CoC 7e (1923) | 4 |
+| 3 | Wed 27 | Evening | THE SIX O'CLOCK SITTING | CoC — **Gaslight** (1894) | 4 |
 | 4 | Thu 28 | Morning | BLACK SUMMER — Last Flight Out | Walking Dead Universe (modified) | 5 |
-| 5 | Thu 28 | Afternoon | THE FAVOUR | The Dee Sanction | 5 |
+| 5 | Thu 28 | Afternoon | THE SKY RIDE | **Pulp** Cthulhu | 5 |
 | 6 | Thu 28 | **Evening** | DEAD AIR I — Ash & Concrete | CoC 7e | 6 |
 | 7 | Fri 29 | Morning | *clear* | — | — |
-| 8 | Fri 29 | Afternoon | THE NEW LIGHT | CoC — Gaslight (1895) | 5 |
+| 8 | Fri 29 | Afternoon | THE NEW LIGHT | CoC — **Gaslight** (1895) | 5 |
 | 9 | Fri 29 | **Evening** | DEAD AIR II — The Quiet City | CoC 7e | 6 |
 | 10 | Sat 30 | Morning | *clear* | — | — |
 | 11 | Sat 30 | Afternoon | PAPER CHILDREN | Blade Runner RPG | 4 |
 | 12 | Sat 30 | **Evening** | DEAD AIR III — Full Volume | CoC 7e | 6 |
-| 13 | Sun 31 | Morning | THE PROTESTANT WIND | The Dee Sanction | 5 |
-| 14 | Sun 31 | Afternoon | COLD STORAGE | CoC 7e (modern) | 4 |
+| 13 | Sun 31 | Morning | THE FAVOUR | The Dee Sanction | 5 |
+| 14 | Sun 31 | Afternoon | THE PERPETUAL ORDER | CoC — **Gaslight** (1895) | 4 |
 | 15 | Sun 31 | Evening | *clear* | — | — |
 
 **Twelve games, three clear slots.** Friday and Saturday mornings are the
@@ -49,18 +49,21 @@ for anything else.
   Each part stands alone for drop-ins. Six players, the biggest tables of the week.
 - **Wednesday is a three-slot day and opens light-to-dark.** Pulp at 9am (loud,
   legible, forgiving of a table still unpacking), a finished Blade Runner case in
-  the afternoon that needs no prep at all, and a one-room séance at night. The
-  busiest day of the week is also the cheapest to run.
-- **Thursday is the heavy day** — three games, all new, running zombies →
-  Elizabethan horror → Berlin 1946. Black Summer at 9am is the only genuinely
-  grim morning on the slate; see the risk note below.
-- **Friday and Saturday are two-game days** with the mornings clear. This is
-  deliberate recovery after Thursday and before the Saturday night payoff.
-- **Sunday closes small.** A Dee Sanction caper in the morning and the quietest
+  the afternoon that needs no prep at all, and a one-room Gaslight séance at
+  night. The busiest day of the week is also the cheapest to run.
+- **Thursday is the heavy day** — three new games, running zombies → a World's
+  Fair monster hunt → Berlin 1946. **The Sky Ride is deliberately the relief
+  valve** between Black Summer in the morning and Dead Air I at night, which is
+  otherwise the grimmest sandwich on the schedule.
+- **Friday and Saturday are two-game days** with the mornings clear. Deliberate
+  recovery after Thursday and before the Saturday night payoff.
+- **Sunday closes small.** The Dee Sanction game in the morning and the quietest
   game on the slate in the afternoon, then nothing. People leave on Sunday; the
   evening stays clear.
-- **Every afternoon changes register from the night before.** Gaslight after
-  1946, Blade Runner after 1962, Cold Storage after the trilogy's finale.
+- **The non-arc Cthulhu is all Pulp or Gaslight**, by design: two Pulp (Slots 1
+  and 5, both mornings-and-afternoons energy) and three Gaslight (Slots 3, 8 and
+  14, all evening-or-quiet energy). The DEAD AIR trilogy is the only historical
+  CoC on the slate and keeps the nights to itself.
 
 ## GM load check
 
@@ -70,7 +73,7 @@ for anything else.
 | Thu | 3 | **The hardest day of the convention.** Three new games, one of them Dead Air I |
 | Fri | 2 | Morning clear |
 | Sat | 2 | Morning clear. Paper Children reuses AFTERIMAGE's pregens wholesale |
-| Sun | 2 | Both small; evening clear |
+| Sun | 2 | Both small; evening clear. THE FAVOUR at 9am is the pacing risk — see below |
 
 **Risk, stated plainly:** two three-slot days back to back is twelve hours of
 GMing on Wednesday and twelve on Thursday, the first two days of the convention,
@@ -91,7 +94,7 @@ distributed:
 | **PAPER CHILDREN** (11) | Reuses AFTERIMAGE's pregens, sheets, portraits, chase quickref and console module. Only the case is new writing |
 | **THE SIX O'CLOCK SITTING** (3) | One room, three handouts, no art, no map, no set-piece page |
 | **COLD STORAGE** (14) | One site, no art pipeline, no set-piece |
-| **THE PROTESTANT WIND** (13) | Reuses the *Princes Bride* agents, as THE FAVOUR does |
+| **THE FAVOUR** (13) | Reuses the *Princes Bride* agents and their written seams |
 
 That leaves full production on seven games, not twelve.
 
@@ -107,8 +110,8 @@ That leaves full production on seven games, not twelve.
 
 **Order of work, if time runs short:** the trilogy first (it is one production
 with three outputs and it carries three of the twelve slots), then Thursday's
-other two, then Wednesday, then Sunday. The Gaslight game is the single easiest
-to postpone, because Friday has no other commitment around it.
+other two, then Wednesday, then Sunday. THE NEW LIGHT is the single easiest to
+postpone, because Friday has no other commitment around it.
 
 ## Open logistics questions
 
@@ -121,4 +124,9 @@ to postpone, because Friday has no other commitment around it.
 4. Power and table space for the GM console tablet in the evening rooms.
 5. **Is a 9am Black Summer the right call?** It is a bleak, high-lethality
    survival game in the convention's second morning slot. The alternative is to
-   swap it with Thursday afternoon's THE FAVOUR.
+   swap it with Thursday afternoon's THE SKY RIDE.
+6. **THE FAVOUR now opens Sunday at 9am.** Its Act Two is an archive act, which
+   is the wrong shape for a tired, half-packed table unless it is built around
+   short scenes and a visibly filling list. Either tighten it to that before v1,
+   or swap it with Sunday afternoon's THE PERPETUAL ORDER — which is the quieter
+   game and would survive the morning better.

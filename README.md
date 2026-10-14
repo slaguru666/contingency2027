@@ -18,26 +18,26 @@ deliberately clear.
 
 | # | Day | Session | System | Game | PCs | Status |
 |---|---|---|---|---|---|---|
-| 1 | Wed 27 | Morning | Pulp Cthulhu | [**THE LAST FIX**](games/slot01-pulp-the-last-fix/) | 5 | Outline |
+| 1 | Wed 27 | Morning | **Pulp** Cthulhu | [**THE LAST FIX**](games/slot01-pulp-the-last-fix/) | 5 | Outline |
 | 2 | Wed 27 | Afternoon | Blade Runner RPG | [**AFTERIMAGE**](games/slot02-blade-runner-afterimage/) | 4 | **Port — con-ready (v2.2)** |
-| 3 | Wed 27 | Evening | Call of Cthulhu 7e (1923) | [**THE SIX O'CLOCK SITTING**](games/slot03-coc-six-oclock-sitting/) | 4 | Outline |
+| 3 | Wed 27 | Evening | CoC — **Gaslight** (1894) | [**THE SIX O'CLOCK SITTING**](games/slot03-gaslight-six-oclock-sitting/) | 4 | Outline |
 | 4 | Thu 28 | Morning | The Walking Dead Universe (modified) | [**BLACK SUMMER — Last Flight Out**](games/slot04-black-summer/) | 5 | Outline |
-| 5 | Thu 28 | Afternoon | The Dee Sanction | [**THE FAVOUR**](games/slot05-dee-sanction-the-favour/) — sequel to *The Princes Bride* | 5 | Outline |
+| 5 | Thu 28 | Afternoon | **Pulp** Cthulhu | [**THE SKY RIDE**](games/slot05-pulp-the-sky-ride/) | 5 | Outline |
 | 6 | Thu 28 | **Evening** | Call of Cthulhu 7e | [**DEAD AIR I — Ash & Concrete** (1946)](games/slot06-dead-air-1-ash-and-concrete/) | 6 | Outline |
 | 7 | Fri 29 | Morning | — | *clear* | — | — |
-| 8 | Fri 29 | Afternoon | CoC — Gaslight (1895) | [**THE NEW LIGHT**](games/slot08-gaslight-the-new-light/) | 5 | Outline |
+| 8 | Fri 29 | Afternoon | CoC — **Gaslight** (1895) | [**THE NEW LIGHT**](games/slot08-gaslight-the-new-light/) | 5 | Outline |
 | 9 | Fri 29 | **Evening** | Call of Cthulhu 7e | [**DEAD AIR II — The Quiet City** (1962)](games/slot09-dead-air-2-the-quiet-city/) | 6 | Outline |
 | 10 | Sat 30 | Morning | — | *clear* | — | — |
 | 11 | Sat 30 | Afternoon | Blade Runner RPG | [**PAPER CHILDREN**](games/slot11-blade-runner-paper-children/) — companion to AFTERIMAGE | 4 | Outline |
 | 12 | Sat 30 | **Evening** | Call of Cthulhu 7e | [**DEAD AIR III — Full Volume** (2027)](games/slot12-dead-air-3-full-volume/) | 6 | Outline |
-| 13 | Sun 31 | Morning | The Dee Sanction | [**THE PROTESTANT WIND**](games/slot13-dee-sanction-the-protestant-wind/) | 5 | Outline |
-| 14 | Sun 31 | Afternoon | Call of Cthulhu 7e (modern) | [**COLD STORAGE**](games/slot14-coc-cold-storage/) | 4 | Outline |
+| 13 | Sun 31 | Morning | The Dee Sanction | [**THE FAVOUR**](games/slot13-dee-sanction-the-favour/) — sequel to *The Princes Bride* | 5 | Outline |
+| 14 | Sun 31 | Afternoon | CoC — **Gaslight** (1895) | [**THE PERPETUAL ORDER**](games/slot14-gaslight-the-perpetual-order/) | 4 | Outline |
 | 15 | Sun 31 | Evening | — | *clear* | — | — |
 
-**Seven Call of Cthulhu games across five flavours** — pulp (1), 1920s classic
-(3), the DEAD AIR historical trilogy (6, 9, 12), Gaslight (8) and modern (14).
-**Two Blade Runner games** sharing one set of pregens. **Two Dee Sanction games**
-sharing the *Princes Bride* agents. **One Walking Dead.**
+**The shape of the slate:** **two Blade Runner** games sharing one set of pregens ·
+**one Dee Sanction**, Sunday morning · **one Walking Dead** · and **eight Call of
+Cthulhu**, which is the three-night DEAD AIR arc plus **two Pulp** and **three
+Gaslight** games in the remaining slots.
 
 ### Linked games
 
@@ -49,15 +49,13 @@ sharing the *Princes Bride* agents. **One Walking Dead.**
   Nazi material** section — a design constraint, not a disclaimer.
 - **AFTERIMAGE (2) and PAPER CHILDREN (11)** — same LAPD unit, same four pregens,
   two separate cases. Memory, then paperwork. Both stand alone.
-- **THE FAVOUR (5) and THE PROTESTANT WIND (13)** — both Dee Sanction, both
-  intending to reuse the *Princes Bride* agents, deliberately different shapes:
-  a standoff and a caper.
 
 ### Parked
 
-[`archive/`](archive/) holds three games cut when the slate changed:
+[`archive/`](archive/) holds four games cut as the slate changed:
 *Another Bloody Treasure Map* (VANITY), *The Curious Case of Mr Parker's Diary*
-(Vaesen), and the pointer to *CLEAN GROUND* (The Custodians / RingBRP, whose
+(Vaesen), *The Protestant Wind* (the second Dee Sanction, dropped when the slate
+went to one), and the pointer to *CLEAN GROUND* (The Custodians / RingBRP, whose
 scenario lives in the RingBRP system repo and was never copied here). Nothing is
 deleted; any of them can come back to a clear slot.
 

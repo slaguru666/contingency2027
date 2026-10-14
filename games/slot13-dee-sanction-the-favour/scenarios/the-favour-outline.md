@@ -1,4 +1,4 @@
-# [Contingency 2027 — Slot 5] THE FAVOUR
+# [Contingency 2027 — Slot 13] THE FAVOUR
 
 > *He kept his side of it. That is the problem.*
 
@@ -21,7 +21,7 @@ unhurried hand. Either way, **the list reached Dee, and Dee took it.**
 
 ## Overview
 
-- **Slot:** Thursday 28 January 2027, afternoon
+- **Slot:** Sunday 31 January 2027, **morning** — the slate's only Dee Sanction
 - **System:** The Dee Sanction
 - **Setting:** **Skelthwaite**, a lead-dale village in the West Riding of
   Yorkshire — April 1587, six months after Faversholme
@@ -212,9 +212,13 @@ entered in a steady hand and verdicts in a shaky one · `H2-B` a 1581 deposition
 
 1. **Do the two scenarios get sold as a pair?** Faversholme is the strongest
    possible prologue, but Contingency 2027 does not run *The Princes Bride*.
-   Options: pitch The Favour as a standalone that rewards veterans (current
-   intent), or add *Princes Bride* to a Sunday reserve slot so a player could do
-   both.
+   Current intent: pitch The Favour as a standalone that rewards veterans.
+5. **Sunday-morning pacing — the live risk.** This is now the 9am game on the
+   last day of the convention. Act Two is an archive act, which is the wrong
+   shape for a tired, half-packed table unless it is built around short scenes
+   and a visible list that fills. Either tighten it to that — borrowing the brisk
+   five-households structure the archived *Protestant Wind* outline was built on
+   — or move the game. Decide before v1.
 2. Pregens: offer all seven again so a returning player can reclaim their agent,
    or build five fresh Skelthwaite-tuned sheets? Current intent: **reuse the
    seven** — the sheets exist, the seams are already wired, and the reuse is the
