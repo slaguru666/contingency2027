@@ -39,5 +39,6 @@
   "grain": 5.5,
   "root_hz": 65.4,
   "shimmer": true,
-  "seed": 1894
+  "seed": 1894,
+  "backdrop": "seance"
 }

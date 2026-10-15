@@ -38,5 +38,6 @@
   "chroma": 0,
   "grain": 6.5,
   "root_hz": 58.3,
-  "seed": 1587
+  "seed": 1587,
+  "backdrop": "woodcut"
 }

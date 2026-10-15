@@ -38,5 +38,6 @@
   "chroma": 3,
   "grain": 4.0,
   "root_hz": 49.0,
-  "seed": 2037
+  "seed": 2037,
+  "backdrop": "rain"
 }

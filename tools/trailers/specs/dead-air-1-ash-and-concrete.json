@@ -38,5 +38,7 @@
   "chroma": 1,
   "grain": 5.0,
   "root_hz": 51.9,
-  "seed": 1946
+  "seed": 1946,
+  "backdrop": "caustics",
+  "backdrop_gain": 0.85
 }

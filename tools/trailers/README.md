@@ -6,11 +6,49 @@ a budget the games do not have. The look is the flyer's look moving.
 
 ```bash
 cd tools/trailers
-python3 make_trailer.py specs/closing-weekend.json ../../promo/
+python3 make_trailer.py specs/closing-weekend.json ../../promo/                 # 16:9
+python3 make_trailer.py specs/closing-weekend.json ../../promo/ --aspect 9:16   # socials
+python3 make_trailer.py specs/closing-weekend.json --still 19.4 /tmp/look.png   # one frame
+python3 make_trailer.py specs/closing-weekend.json --check                      # preflight only
 ```
 
-~35 seconds per trailer. Output is **not** in git — twelve 30 MB files do not
-belong in a scenario repo, and the spec reproduces them exactly.
+**Two aspects:** `16:9` (1920x1080) writes `<slug>.mp4`, `9:16` (1080x1920)
+writes `<slug>-vertical.mp4`. 50-80 seconds each. Output is **not** in git --
+24 files at ~30 MB is 721 MB, and the spec reproduces any of them exactly.
+
+Use `--still` before committing to a render. A thirty-second encode is a slow
+way to find out a line is in the wrong place.
+
+## The art
+
+One procedural backdrop per game, in `backdrops.py` -- seeded noise and
+arithmetic, no stock footage and no generated imagery.
+
+| Game | Plate | What it is |
+|---|---|---|
+| The London Particular | `fog` | Drifting fog in layers, gas halos stranded in it |
+| Afterimage | `rain` | Rain on glass, neon bokeh behind, scanlines |
+| The Six O'Clock Sitting | `seance` | One lamp pool, dust rising through it |
+| Black Summer | `ash` | A searchlight shaft crossing, ash falling, wire |
+| Closing Weekend | `vhs` | Tracking bands, head switch, dropouts |
+| Ash & Concrete | `caustics` | Water over a concrete floor |
+| The New Light | `filament` | 212 lamps on their own flicker phases |
+| The Quiet City | `tape` | An oscilloscope trace with wow and flutter |
+| Paper Children | `archive` | Microfiche: carrier frames and rows of records |
+| Full Volume | `spectrum` | Spectrum bars, rising as the clock runs |
+| The Favour | `woodcut` | Engraved hatching on laid paper |
+| The Perpetual Order | `river` | Tide light on a vault ceiling, over ledger rules |
+
+**Exposure is normalised, not hand-pitched.** `Base.frame()` samples three
+frames at build time and scales to a common mean, because twelve styles tuned by
+eye landed between 0.7 and 5.9 of 255 and half of them were invisible on screen.
+Override per game with `backdrop_gain` in the spec (Ash & Concrete is pinned to
+0.85 so the caustics stay behind the title).
+
+Plates are capped with a soft shoulder at 165/255: they sit *under* the type and
+never compete with it.
+
+## Notes from building the first one
 
 ## The shape — the same for all twelve
 
@@ -92,3 +130,12 @@ Particular* and *The Six O'Clock Sitting* land at 104pt.
 - **Check the booking block, not just the title.** A wrong day or player count
   on an advert is the one error that actually costs something. All twelve were
   verified frame by frame against the slate, and the weekdays against `date`.
+- **Vertical is not a crop.** Hook lines re-wrap to the narrow measure instead
+  of using the authored `|` breaks, and titles break to two lines rather than
+  shrink -- *The Six O'Clock Sitting* fitted at 54pt one-line, which is not a
+  title on a phone. `fit_title` returns `(font, lines)` and preflight measures
+  what it actually returned, because the old version handed back the floor size
+  without checking the floor fitted.
+- **Check the bottom of the tall frame.** Full Volume's spectrum bars are 30% of
+  frame height; in 9:16 that ran them straight through the booking block. Bar
+  height is now aspect-aware.

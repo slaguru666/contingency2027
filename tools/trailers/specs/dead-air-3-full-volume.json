@@ -39,5 +39,6 @@
   "grain": 5.0,
   "root_hz": 46.2,
   "shimmer": true,
-  "seed": 2027
+  "seed": 2027,
+  "backdrop": "spectrum"
 }

@@ -38,5 +38,6 @@
   "chroma": 1,
   "grain": 6.0,
   "root_hz": 43.7,
-  "seed": 606
+  "seed": 606,
+  "backdrop": "ash"
 }

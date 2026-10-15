@@ -38,5 +38,6 @@
   "chroma": 2,
   "grain": 5.0,
   "root_hz": 48.9,
-  "seed": 1962
+  "seed": 1962,
+  "backdrop": "tape"
 }

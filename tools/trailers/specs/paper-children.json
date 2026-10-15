@@ -39,5 +39,6 @@
   "grain": 4.0,
   "root_hz": 49.0,
   "shimmer": true,
-  "seed": 2038
+  "seed": 2038,
+  "backdrop": "archive"
 }

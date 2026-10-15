@@ -1,6 +1,6 @@
 {
   "slug": "closing-weekend",
-  "slugline": "CAMP LOON POINT · UPSTATE NEW YORK · SEPTEMBER 1986",
+  "slugline": "CAMP LOON POINT · SEPTEMBER 1986",
   "title": "Closing Weekend",
   "system": "Call of Cthulhu — modern rules, 1986",
   "booking": "Thursday 28 January · Afternoon · 6 players",
@@ -39,5 +39,6 @@
       21.7,
       "!One of you has been wearing|a mask since June."
     ]
-  ]
+  ],
+  "backdrop": "vhs"
 }

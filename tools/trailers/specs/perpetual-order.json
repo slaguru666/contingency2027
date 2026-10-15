@@ -39,5 +39,6 @@
   "grain": 5.5,
   "root_hz": 55.0,
   "shimmer": true,
-  "seed": 1794
+  "seed": 1794,
+  "backdrop": "river"
 }

@@ -39,5 +39,6 @@
   "grain": 5.5,
   "root_hz": 58.3,
   "shimmer": true,
-  "seed": 1895
+  "seed": 1895,
+  "backdrop": "filament"
 }
