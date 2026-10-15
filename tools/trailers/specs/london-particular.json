@@ -1,0 +1,42 @@
+{
+  "slug": "london-particular",
+  "slugline": "LONDON · DECEMBER 1896",
+  "title": "The London Particular",
+  "system": "Cthulhu by Gaslight — 1896",
+  "booking": "Wednesday 27 January · Morning · 5 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    186,
+    194,
+    126
+  ],
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "Four dead in four weeks.|Not a wound between them."
+    ],
+    [
+      8.1,
+      12.7,
+      "Nothing connected them at all|until somebody fetched the fog register."
+    ],
+    [
+      12.7,
+      17.3,
+      "Each one died exactly where|the fog lay thickest."
+    ],
+    [
+      17.3,
+      21.7,
+      "!Tonight's fog is the worst of the winter.|It will not lift before dawn."
+    ]
+  ],
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "chroma": 0,
+  "grain": 5.5,
+  "root_hz": 61.7,
+  "seed": 1896
+}

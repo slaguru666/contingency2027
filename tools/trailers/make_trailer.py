@@ -103,7 +103,7 @@ def build_frames(spec):
     t_book = spec["booking_at"]
 
     f_hook = font(DIDOT, 64)
-    f_title = font(DIDOT, 132)
+    f_title = fit_title(ImageDraw.Draw(Image.new("RGB", (W, H))), spec["title"].upper())
     f_slug = font(FUTURA, 28)
     f_sys = font(FUTURA, 30)
     f_book = font(FUTURA, 31)
@@ -255,8 +255,65 @@ def build_audio(spec, path):
 
 # ------------------------------------------------------------------------ main
 
+SAFE_HOOK, SAFE_META, SAFE_TITLE = 1420, 1520, 1700
+
+
+def fit_title(d, text, track=10, size=132, floor=76):
+    """Titles vary from 'The Favour' to 'The Six O'Clock Sitting'. Shrink to
+    fit rather than failing or letting a long one run off the frame."""
+    while size > floor:
+        f = font(DIDOT, size)
+        if tracked_width(d, text, f, track) <= SAFE_TITLE:
+            return f
+        size -= 2
+    return font(DIDOT, floor)
+
+
+def preflight(spec):
+    """Measure every line that will be drawn. A line that overflows the frame
+    is invisible as a bug -- it just renders clipped or crushed -- so fail here
+    rather than discover it in a 30-second file."""
+    d = ImageDraw.Draw(Image.new("RGB", (W, H)))
+    bad = []
+    f_hook = font(DIDOT, 64)
+    for (_, _, line) in spec["beats"]:
+        txt = line[1:] if line.startswith("!") else line
+        segs = ([x.strip() for x in txt.split("|")] if "|" in txt
+                else wrap(d, txt, f_hook, 1460))
+        for seg in segs:
+            wd = d.textlength(seg, font=f_hook)
+            if wd > SAFE_HOOK:
+                bad.append(f"hook {wd:.0f}px > {SAFE_HOOK}: {seg!r}")
+    for key, f, track in (("slugline", font(FUTURA, 28), 9),
+                          ("system", font(FUTURA, 30), 7),
+                          ("booking", font(FUTURA, 25), 6),
+                          ("venue", font(FUTURA, 25), 6)):
+        wd = tracked_width(d, spec[key].upper(), f, track)
+        if wd > SAFE_META:
+            bad.append(f"{key} {wd:.0f}px > {SAFE_META}: {spec[key]!r}")
+    f_t = fit_title(d, spec["title"].upper())
+    if f_t.size < 132:
+        print(f"  note: title shrunk to {f_t.size}pt to fit -- {spec['title']!r}")
+    # a card that is still fading in when the next one starts reads as a smear
+    for i in range(len(spec["beats"]) - 1):
+        if spec["beats"][i][1] < spec["beats"][i + 1][0] - 0.01:
+            bad.append(f"gap between beat {i} and {i+1}")
+    if spec["beats"][-1][1] > spec["title_at"] + 0.4:
+        bad.append("last beat runs past the title card")
+    return bad
+
+
 def main():
     spec = json.load(open(sys.argv[1]))
+    bad = preflight(spec)
+    if bad:
+        print("PREFLIGHT FAILED for " + spec["slug"], file=sys.stderr)
+        for b in bad:
+            print("  " + b, file=sys.stderr)
+        sys.exit(1)
+    if "--check" in sys.argv:
+        print("preflight ok:", spec["slug"])
+        return
     outdir = sys.argv[2] if len(sys.argv) > 2 else "."
     out = os.path.join(outdir, spec["slug"] + ".mp4")
 

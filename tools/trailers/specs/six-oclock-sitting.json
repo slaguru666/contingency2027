@@ -1,0 +1,43 @@
+{
+  "slug": "six-oclock-sitting",
+  "slugline": "PIMLICO, LONDON · NOVEMBER 1894",
+  "title": "The Six O'Clock Sitting",
+  "system": "Cthulhu by Gaslight — 1894",
+  "booking": "Wednesday 27 January · Evening · 4 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    196,
+    84,
+    104
+  ],
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "You have done eleven of these.|Mrs Veale will not be difficult."
+    ],
+    [
+      8.1,
+      12.7,
+      "She isn't. By seven you have the cabinet,|the thread, the whole shabby machine."
+    ],
+    [
+      12.7,
+      17.3,
+      "Everything in this room is a fraud,|and you can prove all of it."
+    ],
+    [
+      17.3,
+      21.7,
+      "!Except how she knew the contents|of a letter that was never posted."
+    ]
+  ],
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "chroma": 0,
+  "grain": 5.5,
+  "root_hz": 65.4,
+  "shimmer": true,
+  "seed": 1894
+}

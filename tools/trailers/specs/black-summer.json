@@ -1,0 +1,42 @@
+{
+  "slug": "black-summer",
+  "slugline": "NEW YORK · SIX WEEKS AFTER THE FALL",
+  "title": "Black Summer",
+  "system": "The Walking Dead Universe — Last Flight Out",
+  "booking": "Thursday 28 January · Morning · 5 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    208,
+    178,
+    60
+  ],
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "The army's last plane leaves|a Brooklyn airfield at dawn."
+    ],
+    [
+      8.1,
+      12.7,
+      "Boarding needs a stamped chit|with your face on it."
+    ],
+    [
+      12.7,
+      17.3,
+      "Between the five of you,|you have three."
+    ],
+    [
+      17.3,
+      21.7,
+      "!The queue at the far end is longer|than anybody wants to think about."
+    ]
+  ],
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "chroma": 1,
+  "grain": 6.0,
+  "root_hz": 43.7,
+  "seed": 606
+}

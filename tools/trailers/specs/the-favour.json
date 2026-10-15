@@ -1,0 +1,42 @@
+{
+  "slug": "the-favour",
+  "slugline": "SKELTHWAITE, WEST RIDING · APRIL 1587",
+  "title": "The Favour",
+  "system": "The Dee Sanction",
+  "booking": "Sunday 31 January · Morning · 5 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    150,
+    172,
+    116
+  ],
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "Six months ago you left a witch finder|at a crossroads with a list in his hand."
+    ],
+    [
+      8.1,
+      12.7,
+      "Three villages where the evidence|did not add up, and the verdict came anyway."
+    ],
+    [
+      12.7,
+      17.3,
+      "Dee took the list. Now Garratt|has called in the favour."
+    ],
+    [
+      17.3,
+      21.7,
+      "!He wants one name cleared: a woman|he hanged on evidence he was paid to believe."
+    ]
+  ],
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "chroma": 0,
+  "grain": 6.5,
+  "root_hz": 58.3,
+  "seed": 1587
+}

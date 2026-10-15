@@ -1,0 +1,43 @@
+{
+  "slug": "perpetual-order",
+  "slugline": "GARROW'S BONDED WHARF, WAPPING · 1895",
+  "title": "The Perpetual Order",
+  "system": "Cthulhu by Gaslight — 1895",
+  "booking": "Sunday 31 January · Afternoon · 4 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    120,
+    178,
+    152
+  ],
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "A banker's order has paid the rent on|vault 114 every quarter since 1794."
+    ],
+    [
+      8.1,
+      12.7,
+      "The wharf was built in 1829."
+    ],
+    [
+      12.7,
+      17.3,
+      "Nobody has ever opened it. Between the|four of you, the padlock takes nine seconds."
+    ],
+    [
+      17.3,
+      21.7,
+      "!A hundred and one identical crates,|and every one is the same Friday in June."
+    ]
+  ],
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "chroma": 0,
+  "grain": 5.5,
+  "root_hz": 55.0,
+  "shimmer": true,
+  "seed": 1794
+}

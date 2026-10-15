@@ -36,7 +36,44 @@ a leading `!` paints it in the accent, `|` forces a line break · `title_at` ·
 Flex: `grain` (4.5 default), `chroma` (px of RGB split — 2 reads as tape, 0 for
 the Gaslight games), `shimmer`, `root_hz` (drone pitch), `seed`.
 
-## Notes from building the first one
+## The twelve
+
+All built, all 30.000s, 1920x1080, stereo AAC peaking -1.8 to -2.6 dB.
+
+| Spec | Accent | chroma |
+|---|---|---|
+| `london-particular` | fog green | 0 |
+| `afterimage` | neon orange | 3 |
+| `six-oclock-sitting` | seance crimson | 0 |
+| `black-summer` | hazard yellow | 1 |
+| `closing-weekend` | slasher red | 2 |
+| `dead-air-1-ash-and-concrete` | broadcast amber | 1 |
+| `new-light` | electric blue | 0 |
+| `dead-air-2-the-quiet-city` | broadcast amber | 2 |
+| `paper-children` | cyan | 3 |
+| `dead-air-3-full-volume` | broadcast amber | 3 |
+| `the-favour` | moss | 0 |
+| `perpetual-order` | tidal green | 0 |
+
+Two deliberate relationships: **the DEAD AIR trilogy shares one accent** so the
+three read as a set, with `chroma` climbing 1 -> 2 -> 3 across 1946, 1962 and
+today; and **the two Blade Runner games share a drone pitch**, as they already
+share their pregens.
+
+The four Gaslight games are the only ones at `chroma: 0`. The same template goes
+quiet and Victorian with one number.
+
+## Preflight
+
+`make_trailer.py <spec> --check` measures every line that will be drawn and
+refuses to render if one overflows, if two cards leave a gap, or if the last
+hook runs past the title. Run it on a spec before rendering; a clipped line is
+invisible as a bug because the file still comes out exactly thirty seconds long.
+
+Titles auto-shrink instead of failing: 132pt down to a 76pt floor. *The London
+Particular* and *The Six O'Clock Sitting* land at 104pt.
+
+## Notes from building these
 
 - **Always force the line breaks with `|`.** Auto-wrap orphaned "June." onto a
   line of its own and the whole card fell over.
@@ -47,3 +84,11 @@ the Gaslight games), `shimmer`, `root_hz` (drone pitch), `seed`.
   red vanished against near-black at 64pt.
 - Audio is synthesised in the script — drone, pulse, swell, one impact. It is
   deliberately plain. If a game earns a real bed, Haunt or Nexus can score it.
+- **Calibrate a guard against real content, not invented content.** The first
+  two strings I wrote to test the width check measured 1554px and 1503px against
+  thresholds of 1560 and 1760 -- they passed, and the guard looked broken when it
+  was the test that was weak. The real lines sit at 1420-1430px, which is what
+  set the final threshold.
+- **Check the booking block, not just the title.** A wrong day or player count
+  on an advert is the one error that actually costs something. All twelve were
+  verified frame by frame against the slate, and the weekdays against `date`.

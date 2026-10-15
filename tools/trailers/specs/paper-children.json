@@ -1,0 +1,43 @@
+{
+  "slug": "paper-children",
+  "slugline": "LOS ANGELES · 2037",
+  "title": "Paper Children",
+  "system": "Blade Runner RPG",
+  "booking": "Saturday 30 January · Afternoon · 4 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    72,
+    192,
+    214
+  ],
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "A records clinician is dead|on her own floor."
+    ],
+    [
+      8.1,
+      12.7,
+      "Around her, fourteen years|of immaculate filing."
+    ],
+    [
+      12.7,
+      17.3,
+      "She sold dead infants' birth records to|replicants who wanted to be somebody."
+    ],
+    [
+      17.3,
+      21.7,
+      "!Her killer will not be difficult.|By tonight you will also have the list."
+    ]
+  ],
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "chroma": 3,
+  "grain": 4.0,
+  "root_hz": 49.0,
+  "shimmer": true,
+  "seed": 2038
+}

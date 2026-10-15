@@ -1,0 +1,42 @@
+{
+  "slug": "afterimage",
+  "slugline": "LOS ANGELES · 2037",
+  "title": "Afterimage",
+  "system": "Blade Runner RPG",
+  "booking": "Wednesday 27 January · Afternoon · 4 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    236,
+    126,
+    52
+  ],
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "A memory designer is dead."
+    ],
+    [
+      8.1,
+      12.7,
+      "Rep-Detect has the case, and a whisper|attached: rogue replicant."
+    ],
+    [
+      12.7,
+      17.3,
+      "The whisper comes from a corporation.|It is a lie of the useful kind."
+    ],
+    [
+      17.3,
+      21.7,
+      "!Nobody here gets to be right.|You only get to decide who pays."
+    ]
+  ],
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "chroma": 3,
+  "grain": 4.0,
+  "root_hz": 49.0,
+  "seed": 2037
+}

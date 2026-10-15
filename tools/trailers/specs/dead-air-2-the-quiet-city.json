@@ -1,0 +1,42 @@
+{
+  "slug": "dead-air-2-the-quiet-city",
+  "slugline": "SOSNOVY-9, THE URALS · OCTOBER 1962",
+  "title": "The Quiet City",
+  "system": "Dead Air, Part Two — Call of Cthulhu, 1962",
+  "booking": "Friday 29 January · Evening · 6 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    214,
+    146,
+    54
+  ],
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "Eleven years here, and you long ago|stopped being curious about the tapes."
+    ],
+    [
+      8.1,
+      12.7,
+      "On Monday the gates shut|for an administrative period."
+    ],
+    [
+      12.7,
+      17.3,
+      "On Tuesday a technician takes off his|headphones and walks into the lake."
+    ],
+    [
+      17.3,
+      21.7,
+      "!On Friday, at six in the morning,|someone is going to close a switch."
+    ]
+  ],
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "chroma": 2,
+  "grain": 5.0,
+  "root_hz": 48.9,
+  "seed": 1962
+}
