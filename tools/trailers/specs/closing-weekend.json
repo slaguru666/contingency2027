@@ -1,0 +1,43 @@
+{
+  "slug": "closing-weekend",
+  "slugline": "CAMP LOON POINT · UPSTATE NEW YORK · SEPTEMBER 1986",
+  "title": "Closing Weekend",
+  "system": "Call of Cthulhu — modern rules, 1986",
+  "booking": "Thursday 28 January · Afternoon · 6 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    219,
+    61,
+    55
+  ],
+  "seed": 1986,
+  "grain": 4.5,
+  "chroma": 2,
+  "shimmer": true,
+  "root_hz": 51.9,
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "The campers went home on Monday."
+    ],
+    [
+      8.1,
+      12.7,
+      "On Tuesday the bulldozers|come for the boathouse."
+    ],
+    [
+      12.7,
+      17.3,
+      "Eight of you stayed for|one last night at the lake."
+    ],
+    [
+      17.3,
+      21.7,
+      "!One of you has been wearing|a mask since June."
+    ]
+  ]
+}

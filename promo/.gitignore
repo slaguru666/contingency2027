@@ -1,0 +1,3 @@
+# Rendered trailers are build artefacts: ~30 MB each, twelve of them.
+# The spec + generator in tools/trailers/ reproduce any of them in ~35 seconds.
+*.mp4
