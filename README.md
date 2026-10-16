@@ -50,7 +50,9 @@ The advertising copy, in full. Also available as a **printable A4 flyer**
 ([PDF](docs/Contingency-2027-flyer.pdf) · [HTML source](docs/one-page-flyer.html)),
 as a **plain-text one-pager** to paste anywhere
 ([`docs/one-page-simple.txt`](docs/one-page-simple.txt)), and as **thirty-six
-30-second trailers** in `promo/` (twelve games × 16:9, 9:16 and 1:1).
+30-second trailers** — twelve games × 16:9, 9:16 and 1:1 — hosted at
+[https://web.oneoffgames.com/trailers/contingency-2027/](https://web.oneoffgames.com/trailers/contingency-2027/) and linked
+from each entry in [the Warhorn blurbs](docs/warhorn-blurbs.md).
 
 *This section is generated from the plain-text one-pager — edit that, then run
 `python3 tools/sync_onepager.py`.*
@@ -162,7 +164,9 @@ deleted; any of them can come back to a clear slot.
 | [`docs/house-standards.md`](docs/house-standards.md) | The house one-shot format this repo is written to |
 | [`tools/trailers/`](tools/trailers/) | Trailer generator, twelve procedural backdrops, one spec per game — see its [README](tools/trailers/README.md) |
 | [`tools/sync_onepager.py`](tools/sync_onepager.py) | Regenerates this README's **The Games** section from the plain-text one-pager |
-| `promo/` | Rendered trailers, 36 files. **Gitignored** — rebuild any of them from its spec |
+| `promo/` | Rendered trailer masters, 36 files, plus `promo/web/` encodes. **Gitignored** — rebuild from spec |
+| [`tools/web_encodes.sh`](tools/web_encodes.sh) | 720p web encodes for hosting — the masters are ~30 MB each |
+| — | Trailers are served publicly from [https://web.oneoffgames.com/trailers/contingency-2027/](https://web.oneoffgames.com/trailers/contingency-2027/) |
 | `games/slotNN-<slug>/` | One folder per game — see the per-game README |
 
 ### Per-game folder shape
