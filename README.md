@@ -44,6 +44,88 @@ The four Gaslight games are deliberately not four of the same thing: **The Londo
 Particular** is mobile and outdoors across a whole city, and the other three are
 each a single room, house or site.
 
+## The Games
+
+The advertising copy, in full. Also available as a **printable A4 flyer**
+([PDF](docs/Contingency-2027-flyer.pdf) · [HTML source](docs/one-page-flyer.html)),
+as a **plain-text one-pager** to paste anywhere
+([`docs/one-page-simple.txt`](docs/one-page-simple.txt)), and as **thirty-six
+30-second trailers** in `promo/` (twelve games × 16:9, 9:16 and 1:1).
+
+*This section is generated from the plain-text one-pager — edit that, then run
+`python3 tools/sync_onepager.py`.*
+
+<!-- one-pager:start -->
+
+### THE LONDON PARTICULAR
+*Cthulhu by Gaslight (1896) · Wed morning · 5 players*
+
+Four people have died in four weeks, each on a night of thick fog, each found in the open street with no wound on them. Nothing connects them until somebody fetches the Meteorological Office's fog register, and then it connects them perfectly: each died exactly where the fog lay thickest. Tonight's forecast is the worst of the winter, and it will not lift before dawn.
+
+### AFTERIMAGE
+*Blade Runner RPG · Wed afternoon · 4 players*
+
+Los Angeles, 2037. A memory designer is dead and Rep-Detect has the case with a whisper attached: rogue replicant. The whisper comes from a corporation, and it is a lie of the useful kind. Nobody here gets to be right. You only get to decide who pays.
+
+### THE SIX O'CLOCK SITTING
+*Cthulhu by Gaslight (1894) · Wed evening · 4 players*
+
+You have done eleven of these, and Mrs Veale will not be difficult. She isn't. By seven you have the cabinet, the thread and the whole shabby machine. What you do not have is how she knew the contents of a letter that was never posted.
+
+### BLACK SUMMER: LAST FLIGHT OUT
+*Walking Dead Universe · Thu morning · 5 players*
+
+New York, six weeks after the fall. The army's last plane leaves a Brooklyn airfield at dawn and boarding needs a stamped chit with your face on it. Between the five of you, you have three. The queue at the far end is longer than anybody wants to think about.
+
+### CLOSING WEEKEND
+*Call of Cthulhu, modern rules, 1986 · Thu afternoon · 6 players*
+
+Camp Loon Point, Saturday 6 September 1986. The campers went home on Monday, the camp has been sold to a developer, and on Tuesday the bulldozers come for the boathouse. Eight counsellors stayed behind to close the cabins and have one last night at the lake. This is a slasher and it is played like one: the phone line turns out to be cut rather than down, the wagon will not start, and you should expect to play more than one character before the night is over.
+
+### THE NEW LIGHT
+*Cthulhu by Gaslight (1895) · Fri afternoon · 5 players*
+
+The brightest house in three counties: two hundred and twelve electric lamps and not a candle on the premises. The engineer who installed it was found in the long gallery with no mark on him. The dark had to go somewhere.
+
+### PAPER CHILDREN
+*Blade Runner RPG · Sat afternoon · 4 players*
+
+A records clinician is dead on her own floor with fourteen years of immaculate filing around her. She sold the birth certificates of children who died in infancy to replicants who wanted to be somebody. Her killer will not be difficult. By this evening you will also have the list.
+
+### THE FAVOUR
+*The Dee Sanction · Sun morning · 5 players*
+
+Six months ago you left a witch finder at a crossroads with a list in his hand: three villages where the evidence did not add up and the verdict came anyway. Dee took the list. Now Garratt has called in the favour, and what he wants is one name cleared - a woman he hanged in 1581 on evidence he was paid to believe.
+
+### THE PERPETUAL ORDER
+*Cthulhu by Gaslight (1895) · Sun afternoon · 4 players*
+
+A banker's order has paid the rent on vault 114 at a Wapping bonded wharf every quarter since 1794. The wharf was built in 1829. Nobody has ever opened it, and between the four of you the padlock takes nine seconds. Inside are a hundred and one identical crates, and every one is the same Friday in June.
+
+### DEAD AIR
+*a Call of Cthulhu trilogy · Thu, Fri and Sat evenings · 6 players*
+
+Under the Chancellery garden, below every level that appears on a captured plan, they built a room with walls the wrong shape. It was made to broadcast once, on the last night, to every loudspeaker still standing in Europe. They believed they were calling something. They were the call. Each part stands completely alone.
+
+#### I. ASH & CONCRETE
+*Berlin, February 1946 · Thu evening*
+
+Six weeks of frozen filing cabinets, and then a requisition for forty tons of concrete delivered to a building that was already finished. There is a room under the bunker that is on nobody's plan, it is under two metres of water, and you are not the only people who want it.
+
+#### II. THE QUIET CITY
+*a closed city in the Urals, October 1962 · Fri evening*
+
+You have worked here eleven years and long ago stopped being curious about the tapes. On Monday the gates shut for an administrative period. On Tuesday a technician takes off his headphones and walks into the lake. On Friday, at six in the morning, someone is going to close a switch.
+
+#### III. FULL VOLUME
+*Berlin, today · Sat evening*
+
+A lacquer disc came out of a box of Cold War acetates at auction and sold for four hundred euros to a producer who liked the label. He sampled fifteen seconds. You have almost certainly already heard it. At midnight it closes a festival, live and uncut, to two hundred thousand people.
+
+<!-- one-pager:end -->
+
+---
+
 ### Linked games
 
 - **DEAD AIR** — a Call of Cthulhu trilogy on three consecutive **nights**
@@ -78,6 +160,9 @@ deleted; any of them can come back to a clear slot.
 | [`docs/dead-air-trilogy-bible.md`](docs/dead-air-trilogy-bible.md) | The linking truth, arc rules and hand-off state for the CoC trilogy |
 | [`docs/production-tracker.md`](docs/production-tracker.md) | Per-game status: scenario, pregens, handouts, art, playtest, print |
 | [`docs/house-standards.md`](docs/house-standards.md) | The house one-shot format this repo is written to |
+| [`tools/trailers/`](tools/trailers/) | Trailer generator, twelve procedural backdrops, one spec per game — see its [README](tools/trailers/README.md) |
+| [`tools/sync_onepager.py`](tools/sync_onepager.py) | Regenerates this README's **The Games** section from the plain-text one-pager |
+| `promo/` | Rendered trailers, 36 files. **Gitignored** — rebuild any of them from its spec |
 | `games/slotNN-<slug>/` | One folder per game — see the per-game README |
 
 ### Per-game folder shape
