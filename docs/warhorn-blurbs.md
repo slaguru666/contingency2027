@@ -5,12 +5,28 @@ system, player count, tone flags, content warnings, and a pitch of ~80 words.
 
 Copy these into Warhorn as-is once the slot times are confirmed.
 
+## Trailers
+
+Every game has a **30-second trailer** in three aspects — `<slug>.mp4` (16:9),
+`<slug>-vertical.mp4` (9:16) and `<slug>-square.mp4` (1:1). They are rendered
+into `promo/` and are **not in git**; rebuild any of them with
+`tools/trailers/make_trailer.py`.
+
+> **The URLs below are not live.** `TRAILER_BASE` is a placeholder. Nothing is
+> hosted yet and no trailer has been uploaded anywhere. Before submitting,
+> decide where they live and find-and-replace `TRAILER_BASE` throughout this
+> file — that is the only edit needed, and it fills all twelve at once.
+
+Each listing links the **16:9** cut; the vertical and square cuts are for
+socials, not for Warhorn.
+
 ---
 
 ## Slot 1 · Wed morning
 ### THE LONDON PARTICULAR
 **Call of Cthulhu — Gaslight** (1896) · 5 players · pregens provided
 *Victorian · a night hunt across the city · mobile · a deadline at dawn*
+**Trailer (30s):** TRAILER_BASE/london-particular.mp4
 
 Four people have died in four weeks, each on a night of thick fog, each found in
 the open street with no wound on them. Nothing connects them — not district, not
@@ -29,6 +45,7 @@ conditions. Safety tools in use.
 ### AFTERIMAGE
 **Blade Runner RPG** · 4 players · pregens provided
 *Investigation-heavy · noir · one foot chase · ambiguous ending*
+**Trailer (30s):** TRAILER_BASE/afterimage.mp4
 
 Los Angeles, 2037. A memory designer is dead in his studio and Rep-Detect has
 been handed the case with a whisper attached: rogue replicant. The whisper comes
@@ -47,6 +64,7 @@ Saturday — play either, or both, in any order.*
 ### THE SIX O'CLOCK SITTING
 **Call of Cthulhu — Gaslight** (1894) · 4 players · pregens provided
 *One room · all conversation · no combat · slow burn*
+**Trailer (30s):** TRAILER_BASE/six-oclock-sitting.mp4
 
 You have done eleven of these for the Society. You know where the reaching-rod
 goes and what muslin looks like under a red lamp, and Mrs Veale will not be
@@ -65,6 +83,7 @@ tools in use.
 ### BLACK SUMMER: LAST FLIGHT OUT
 **The Walking Dead Universe RPG (modified)** · 5 players · pregens provided
 *Survival · downbeat · human antagonists · high lethality*
+**Trailer (30s):** TRAILER_BASE/black-summer.mp4
 
 New York, six weeks after the fall. The army is still flying people out of an old
 airfield in Brooklyn, and they stop at dawn. To board you need a stamped transit
@@ -81,6 +100,7 @@ execution, crowd crush, PvP possible. Safety tools in use.
 ### CLOSING WEEKEND
 **Call of Cthulhu 7e — modern rules, 1986** · 6 players · pregens provided
 *A slasher, played knowingly · summer camp · high body count · funny first*
+**Trailer (30s):** TRAILER_BASE/closing-weekend.mp4
 
 Camp Loon Point, Saturday 6 September 1986. The campers went home on Monday, the
 camp has been sold, and on Tuesday the bulldozers come for the boathouse. Eight
@@ -100,6 +120,7 @@ children. Safety tools in use.
 ### DEAD AIR I: ASH & CONCRETE (1946)
 **Call of Cthulhu 7e** · 6 players · pregens provided
 *Historical · investigation · a descent · part one of three — stands alone*
+**Trailer (30s):** TRAILER_BASE/dead-air-1-ash-and-concrete.mp4
 
 Berlin, February 1946. You catalogue German science before the other lot get to
 it, and it has been six weeks of frozen filing cabinets. Then a crate of
@@ -121,6 +142,7 @@ completely alone — play one, two or all three.*
 ### THE NEW LIGHT
 **Call of Cthulhu 7e — Gaslight** (1895) · 5 players · pregens provided
 *Victorian · one house, one night · folk horror · the ending is a signature*
+**Trailer (30s):** TRAILER_BASE/new-light.mp4
 
 Sir Hubert Ames has made Harlow Mote the brightest house in three counties — two
 hundred and twelve electric lamps, a turbine in the old mill, not a candle on the
@@ -139,6 +161,7 @@ Safety tools in use.
 ### DEAD AIR II: THE QUIET CITY (1962)
 **Call of Cthulhu 7e** · 6 players · pregens provided
 *Historical · closed-box procedural · paranoia · part two of three — stands alone*
+**Trailer (30s):** TRAILER_BASE/dead-air-2-the-quiet-city.mp4
 
 A closed city in the Urals that is not on any map, October 1962. You have worked
 here eleven years and long ago stopped being curious about the tapes. On Monday
@@ -159,6 +182,7 @@ played part one.*
 ### PAPER CHILDREN
 **Blade Runner RPG** · 4 players · pregens provided
 *Investigation · procedural · the case is solved early and that is the point*
+**Trailer (30s):** TRAILER_BASE/paper-children.mp4
 
 A records clinician is dead on her own floor with a paper-knife in her neck and
 fourteen years of immaculate filing around her. The filing is the case: she sold
@@ -179,6 +203,7 @@ separate case — play either, or both, in any order.*
 ### DEAD AIR III: FULL VOLUME (2027)
 **Call of Cthulhu 7e, modern day** · 6 players · pregens provided
 *Contemporary · research sprint · escalating scale · part three of three — stands alone*
+**Trailer (30s):** TRAILER_BASE/dead-air-3-full-volume.mp4
 
 Berlin, today. A lacquer disc came out of a box of Cold War acetates at auction
 and sold for four hundred euros to a producer who liked the label. He sampled
@@ -200,6 +225,7 @@ are used at the table). Safety tools in use.
 ### THE FAVOUR
 **The Dee Sanction** · 5 players · pregens provided
 *Historical horror · investigation · moral trap · no clean ending*
+**Trailer (30s):** TRAILER_BASE/the-favour.mp4
 
 Six months ago you left a witch finder standing at a crossroads with a list in
 his hand — three villages where the evidence didn't add up and the verdict came
@@ -221,6 +247,7 @@ alone. Returning players may take their own agent back.*
 ### THE PERPETUAL ORDER
 **Call of Cthulhu — Gaslight** (1895) · 4 players · pregens provided
 *One location · quiet horror · no violence · a good last game of the con*
+**Trailer (30s):** TRAILER_BASE/perpetual-order.mp4
 
 A banker's order has paid the rent on vault 114 at a Wapping bonded wharf every
 quarter since 1794. The wharf was built in 1829. Nobody has ever opened the
@@ -243,6 +270,8 @@ scares. Safety tools in use.
 - [ ] **Six-player tables (Slots 6, 9, 12) confirmed against room capacity**
 - [ ] Decide whether BLACK SUMMER stays in a 9am slot, and whether THE FAVOUR
       survives a 9am Sunday or swaps with THE PERPETUAL ORDER
+- [ ] **Trailers hosted and `TRAILER_BASE` replaced throughout this file** —
+      nothing is uploaded yet, and a dead link is worse than no link
 - [ ] "Pregens provided, no system knowledge needed" stated on every entry
 - [ ] Content warnings reviewed once more before submission — particularly the
       DEAD AIR entries, where the historical material needs to be visible to a
