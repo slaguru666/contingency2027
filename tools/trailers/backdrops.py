@@ -351,7 +351,7 @@ class Spectrum(Base):
         self.bw = W / self.nb
         # in the tall frame the booking block sits low, and bars at 30% of a
         # 1920px height run straight through it
-        self.bar_h = 0.16 if H > W else 0.30
+        self.bar_h = 0.30 if W > H * 1.4 else 0.16
 
     def _frame(self, t):
         W, H = self.W, self.H

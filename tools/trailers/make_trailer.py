@@ -27,7 +27,8 @@ NFRAMES = int(FPS * DUR)
 SUP = "/System/Library/Fonts/Supplemental/"
 DIDOT, FUTURA = SUP + "Didot.ttc", SUP + "Futura.ttc"
 BG = np.array([7, 7, 10], np.float32)
-ASPECTS = {"16:9": (1920, 1080), "9:16": (1080, 1920)}
+ASPECTS = {"16:9": (1920, 1080), "9:16": (1080, 1920), "1:1": (1080, 1080)}
+SUFFIX = {"16:9": "", "9:16": "-vertical", "1:1": "-square"}
 
 
 # ---------------------------------------------------------------- type helpers
@@ -73,8 +74,10 @@ class Layout:
 
     def __init__(self, W, H):
         self.W, self.H = W, H
-        self.portrait = H > W
-        if self.portrait:
+        # 16:9 is the only wide frame; 9:16 and 1:1 both get the compact metrics
+        # and re-wrap their own lines.
+        self.wide = (W / H) >= 1.4
+        if not self.wide:
             self.hook_size = int(W * 0.052)
             self.measure = W * 0.88
             self.title_max = W * 0.90
@@ -110,7 +113,7 @@ class Layout:
         """Titles run from 'The Favour' to 'The Six O'Clock Sitting'. Returns
         (font, lines). Shrink to fit; in the narrow frame, break to two lines
         rather than shrink past legibility -- 54pt on a phone is not a title."""
-        comfy = int(self.W * (0.072 if self.portrait else 0.0396))
+        comfy = int(self.W * (0.0396 if self.wide else 0.072))
         size = self.title_start
         while size > comfy:
             f = font(DIDOT, size)
@@ -144,7 +147,8 @@ class Layout:
         """Piped breaks are authored for the wide frame; the narrow one re-wraps
         to its own measure or the breaks land in the wrong places."""
         f = self.f_hook()
-        if self.portrait:
+        if not self.wide:
+            # breaks authored for the wide frame land in the wrong places here
             return wrap(d, txt.replace("|", " "), f, self.measure)
         if "|" in txt:
             return [s.strip() for s in txt.split("|")]
@@ -254,7 +258,10 @@ class Renderer:
 
         a = card_alpha(t, spec["booking_at"], DUR + 1, 0.7, 1.6)
         if a > 0.01:
-            b0, b1, b2 = L.book_dy
+            # a wrapped title pushes the system line down; the booking block
+            # has to follow it or the two read as one paragraph
+            shift = 2 * self.title_half
+            b0, b1, b2 = (v + shift for v in L.book_dy)
             centre_tracked(d, "CONTINGENCY 2027", L.f_book(), H / 2 + b0,
                            lit(self.accent, a), L.book_track, W)
             centre_tracked(d, spec["booking"].upper(), L.f_small(), H / 2 + b1,
@@ -405,7 +412,7 @@ def main():
         return
 
     outdir = av[1]
-    suffix = "" if aspect == "16:9" else "-vertical"
+    suffix = SUFFIX[aspect]
     out = os.path.join(outdir, spec["slug"] + suffix + ".mp4")
     rend = Renderer(spec, W, H)
 

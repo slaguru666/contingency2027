@@ -7,14 +7,20 @@ a budget the games do not have. The look is the flyer's look moving.
 ```bash
 cd tools/trailers
 python3 make_trailer.py specs/closing-weekend.json ../../promo/                 # 16:9
-python3 make_trailer.py specs/closing-weekend.json ../../promo/ --aspect 9:16   # socials
+python3 make_trailer.py specs/closing-weekend.json ../../promo/ --aspect 9:16   # stories
+python3 make_trailer.py specs/closing-weekend.json ../../promo/ --aspect 1:1    # feeds
 python3 make_trailer.py specs/closing-weekend.json --still 19.4 /tmp/look.png   # one frame
 python3 make_trailer.py specs/closing-weekend.json --check                      # preflight only
 ```
 
-**Two aspects:** `16:9` (1920x1080) writes `<slug>.mp4`, `9:16` (1080x1920)
-writes `<slug>-vertical.mp4`. 50-80 seconds each. Output is **not** in git --
-24 files at ~30 MB is 721 MB, and the spec reproduces any of them exactly.
+**Three aspects:** `16:9` (1920x1080) writes `<slug>.mp4`, `9:16` (1080x1920)
+writes `<slug>-vertical.mp4`, `1:1` (1080x1080) writes `<slug>-square.mp4`.
+33-80 seconds each. Output is **not** in git -- 36 files is 1.1 GB, and the
+spec reproduces any of them exactly.
+
+**16:9 is the only wide frame.** `Layout.wide` is `W/H >= 1.4`; 9:16 and 1:1
+both take the compact type metrics and re-wrap their own lines, because the
+`|` breaks in the specs are authored for the wide measure.
 
 Use `--still` before committing to a render. A thirty-second encode is a slow
 way to find out a line is in the wrong place.
@@ -139,3 +145,8 @@ Particular* and *The Six O'Clock Sitting* land at 104pt.
 - **Check the bottom of the tall frame.** Full Volume's spectrum bars are 30% of
   frame height; in 9:16 that ran them straight through the booking block. Bar
   height is now aspect-aware.
+- **A wrapped title moves everything under it.** The system line follows the
+  title block down, but the booking block was still anchored to the frame
+  centre, so in 1:1 the two collided into one paragraph. Booking now shifts by
+  the extra title height -- which is zero for every 16:9 cut, since none of
+  those titles wrap.
