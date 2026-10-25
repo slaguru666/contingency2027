@@ -1,0 +1,44 @@
+{
+  "slug": "viva-voce",
+  "slugline": "MISKATONIC UNIVERSITY, ARKHAM · MARCH 1927",
+  "title": "Viva Voce",
+  "system": "Call of Cthulhu 7e — 1920s",
+  "booking": "Friday 29 January · Afternoon · 5 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    198,
+    92,
+    78
+  ],
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "Four hundred and six pages|on the drainage of a valley."
+    ],
+    [
+      8.1,
+      12.7,
+      "Three examiners have read it.|One will not stop writing."
+    ],
+    [
+      12.7,
+      17.3,
+      "One has gone deaf to a single sound.|The third is perfectly well."
+    ],
+    [
+      17.3,
+      21.7,
+      "!The viva is at three o'clock,|and the committee must vote."
+    ]
+  ],
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "backdrop": "ruled",
+  "chroma": 0,
+  "grain": 6.0,
+  "root_hz": 58.3,
+  "shimmer": true,
+  "seed": 1927
+}

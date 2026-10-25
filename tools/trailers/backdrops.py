@@ -299,7 +299,7 @@ class Tape(Base):
         y = np.zeros((1, W), np.float32)
         for k in range(1, 7):
             y += (self.seed_w[k] / k) * np.sin(x * k * 3 + t * (0.8 + 0.3 * k))
-        ycentre = H * (0.5 + wobble) + y * H * 0.085
+        ycentre = H * (0.88 + wobble) + y * H * 0.085
         d = np.abs(self.rows - ycentre)
         trace = np.clip(1 - d / (H * 0.004), 0, 1)
         glow = np.clip(1 - d / (H * 0.05), 0, 1) ** 2
@@ -351,7 +351,7 @@ class Spectrum(Base):
         self.bw = W / self.nb
         # in the tall frame the booking block sits low, and bars at 30% of a
         # 1920px height run straight through it
-        self.bar_h = 0.30 if W > H * 1.4 else 0.16
+        self.bar_h = 0.20 if W > H * 1.4 else 0.14
 
     def _frame(self, t):
         W, H = self.W, self.H
@@ -416,10 +416,78 @@ class River(Base):
         return out
 
 
+# ------------------------------------------------------------------ 13. ruled
+class Ruled(Base):
+    """Viva Voce -- a ruled page, ink, and an argument that will not stop."""
+    def build(self):
+        W, H, r = self.W, self.H, self.rng
+        yy, xx = np.mgrid[0:H, 0:W].astype(np.float32)
+        step = max(16, H // 30)
+        self.rule = np.zeros((H, W), np.float32)
+        self.rule[(yy.astype(int) % step) < 1] = 1.0
+        self.margin = np.clip(1 - np.abs(xx - W * 0.17) / max(2.0, W * 0.0016), 0, 1)
+        self.fibre = noise(r, W, H, 34, 1)
+        self.blot = noise(r, W, H, 6, 3)
+        # a hand that runs on: short ink strokes sitting on the rules
+        ink = np.zeros((H, W), np.float32)
+        for y in range(0, H, step):
+            x = int(W * 0.19)
+            while x < W * 0.94:
+                run = int(r.integers(W // 90, W // 16))
+                if r.random() < 0.86:
+                    ink[max(0, y - max(1, H // 900)):y + max(2, H // 420), x:x + run] = \
+                        0.55 + 0.45 * r.random()
+                x += run + int(r.integers(W // 160, W // 55))
+        self.ink = ink
+        self.step = step
+
+    def _frame(self, t):
+        drift = int(t * 6) % self.H
+        ink = np.roll(self.ink, -drift, axis=0)
+        rule = np.roll(self.rule, -drift, axis=0)
+        out = tint(self.fibre * 14, (92, 88, 78))
+        out += tint(rule * 9, (118, 112, 96))
+        out += tint(self.margin * 13, (168, 90, 78))
+        out += tint(ink * (0.5 + 0.5 * self.blot) * 34, (182, 176, 160))
+        return out
+
+
+# ------------------------------------------------------------------- 14. dust
+class Dust(Base):
+    """Provenance -- a dry riverbed, a hard shaft of sun, and grit in the air."""
+    def build(self):
+        W, H, r = self.W, self.H, self.rng
+        yy, xx = np.mgrid[0:H, 0:W].astype(np.float32)
+        # one hard diagonal shaft, as through a gap in rock
+        d = (xx * 0.62 + yy * 0.78) / (W * 0.62 + H * 0.78)
+        self.shaft = np.clip(1 - np.abs(d - 0.44) / 0.085, 0, 1) ** 1.8
+        self.halo = np.clip(1 - np.abs(d - 0.44) / 0.30, 0, 1) ** 3
+        self.stone = noise(r, W, H, 7, 4)
+        self.grit = noise(r, W, H, 38, 1)
+        self.motes = [(r.random() * W, r.random() * H, r.random() * 0.8 + 0.25,
+                       r.random() * 6.28) for _ in range(260)]
+
+    def _frame(self, t):
+        W, H = self.W, self.H
+        out = tint(self.stone * 17, (104, 92, 76))
+        out += tint(self.grit * 7, (122, 110, 92))
+        breath = 0.88 + 0.12 * np.sin(t * 0.33)
+        out += tint(self.halo * (0.4 + 0.6 * self.stone) * 22 * breath, (186, 154, 104))
+        out += tint(self.shaft * 40 * breath, (222, 198, 150))
+        m = np.zeros((H, W), np.float32)
+        for (x, y, sp, ph) in self.motes:
+            yy = int((y - t * sp * 11 + np.sin(t * 0.4 + ph) * 9) % H)
+            xx = int((x + t * sp * 5) % W)
+            m[yy:yy + 2, xx:xx + 2] = 0.45 + 0.55 * np.sin(t * 1.7 + ph)
+        out += tint(m * (0.25 + 0.75 * self.halo) * 95, (238, 224, 196))
+        return out
+
+
 STYLES = {
     "fog": Fog, "rain": Rain, "seance": Seance, "ash": Ash, "vhs": VHS,
     "caustics": Caustics, "filament": Filament, "tape": Tape,
     "archive": Archive, "spectrum": Spectrum, "woodcut": Woodcut, "river": River,
+    "ruled": Ruled, "dust": Dust,
 }
 
 

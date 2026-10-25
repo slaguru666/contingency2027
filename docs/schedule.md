@@ -34,7 +34,7 @@ content. Session clock counts play time only and pauses for the break.
 | 11 | Sat 30 | Afternoon | PAPER CHILDREN | Blade Runner RPG | 4 |
 | 12 | Sat 30 | **Evening** | CLOSING WEEKEND | CoC 7e — **modern** (1986) | 6 |
 | 13 | Sun 31 | Morning | THE FAVOUR | The Dee Sanction | 5 |
-| 14 | Sun 31 | Afternoon | PROFESSIONAL COURTESY | **Outgunned** | 5 |
+| 14 | Sun 31 | Afternoon | PROVENANCE | **Outgunned** | 5 |
 | 15 | Sun 31 | Evening | *clear* | — | — |
 
 ## Why the slate sits this way
@@ -60,10 +60,10 @@ content. Session clock counts play time only and pauses for the break.
   the thing that makes twelve survivable.
 - **Saturday night is the slasher**, which is where it always belonged: the last
   full evening, a table that has been drinking together for three days.
-- **Sunday closes loud, not quiet.** PROFESSIONAL COURTESY is an action comedy
-  in the slot that used to hold a silent Victorian wharf. Sending people home
-  laughing is defensible, but it is a change of character and somebody who has
-  run that slot before should be asked.
+- **Sunday closes loud, not quiet.** PROVENANCE is a 1938 pulp adventure with a
+  truck chase in it, in the slot that used to hold a silent Victorian wharf.
+  Sending people home loud is defensible, but it is a change of character and
+  somebody who has run that slot before should be asked.
 
 ## GM load check
 
@@ -108,12 +108,12 @@ That leaves full production on seven games, not twelve.
 |---|---|
 | End Oct 2026 | All twelve outlines locked (**done**, incl. three written 2026-10-25). THE PERPETUAL ORDER at v1 — it opens the convention |
 | End Nov 2026 | Wednesday's three at v1. Thursday's two new games at v1 — CONTINUOUS SERVICE needs deck plans and ALIEN agendas. Shared pregen sets built once: the Blade Runner four, the Dee Sanction agents |
-| End Dec 2026 | Everything at v1. The three newest (CONTINUOUS SERVICE, VIVA VOCE, PROFESSIONAL COURTESY) desk-playtested, fixes applied |
+| End Dec 2026 | Everything at v1. The three newest (CONTINUOUS SERVICE, VIVA VOCE, PROVENANCE) desk-playtested, fixes applied |
 | 10 Jan 2027 | All playtests done. Handouts and art complete. Print pack produced |
 | 20 Jan 2027 | Read-throughs done. Everything marked convention-ready |
 
 **Order of work, if time runs short:** the three newest outlines first
-(CONTINUOUS SERVICE, VIVA VOCE, PROFESSIONAL COURTESY — they have nothing drafted
+(CONTINUOUS SERVICE, VIVA VOCE, PROVENANCE — they have nothing drafted
 beneath them and they carry unfamiliar rule sets), then Thursday's other two,
 then Wednesday, then Sunday. **MR PARKER'S DIARY is the easiest to postpone**:
 it came back from the archive already outlined to the house format, and Friday

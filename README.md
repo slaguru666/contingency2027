@@ -31,7 +31,7 @@ deliberately clear.
 | 11 | Sat 30 | Afternoon | Blade Runner RPG | [**PAPER CHILDREN**](games/slot11-blade-runner-paper-children/) — companion to AFTERIMAGE | 4 | Outline |
 | 12 | Sat 30 | **Evening** | CoC 7e — **modern** (1986) | [**CLOSING WEEKEND**](games/slot12-modern-closing-weekend/) | 6 | Outline |
 | 13 | Sun 31 | Morning | The Dee Sanction | [**THE FAVOUR**](games/slot13-dee-sanction-the-favour/) — sequel to *The Princes Bride* | 5 | Outline |
-| 14 | Sun 31 | Afternoon | **Outgunned** | [**PROFESSIONAL COURTESY**](games/slot14-outgunned-professional-courtesy/) | 5 | Outline |
+| 14 | Sun 31 | Afternoon | **Outgunned** | [**PROVENANCE**](games/slot14-outgunned-provenance/) | 5 | Outline |
 | 15 | Sun 31 | Evening | — | *clear* | — | — |
 
 **The shape of the slate:** **nine systems across twelve games** — three Cthulhu
@@ -115,10 +115,10 @@ Camp Loon Point, Saturday 6 September 1986. The campers went home on Monday, the
 
 Six months ago you left a witch finder at a crossroads with a list in his hand: three villages where the evidence did not add up and the verdict came anyway. Dee took the list. Now Garratt has called in the favour, and what he wants is one name cleared - a woman he hanged in 1581 on evidence he was paid to believe.
 
-### PROFESSIONAL COURTESY
+### PROVENANCE
 *Outgunned · Sun afternoon · 5 players*
 
-Atlantic City, September 1988. The Labor Day take from four casinos is in the vault at Boardwalk Fidelity until Tuesday, and you have spent eleven weeks on this: the guard rota, the alarm loop, a man inside, ninety seconds of thermal lance. What you do not have is the vault, because another crew came through the roof nine minutes ago and they look just as surprised as you do.
+Aragon, Spain, October 1938. The Ebro front is collapsing, and a German survey column with Condor Legion papers has spent nine days in a dry riverbed sixty kilometres behind the line. They are not digging anything up. They have brought something with them - a twelfth-century reliquary, bought at auction in Vienna in 1932, with an export licence, a bill of sale, and a provenance file proving it was looted from this valley by Napoleon's quartermasters in 1811. They are putting it back, and they are entirely within their rights.
 
 <!-- one-pager:end -->
 

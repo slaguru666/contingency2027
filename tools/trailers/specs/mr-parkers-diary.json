@@ -1,0 +1,45 @@
+{
+  "slug": "mr-parkers-diary",
+  "slugline": "HÄLLVATTNET, NORTHERN SWEDEN · FEBRUARY 1901",
+  "title": "Mr Parker's Diary",
+  "system": "Vaesen — Nordic Horror",
+  "booking": "Friday 29 January · Evening · 4 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    168,
+    206,
+    214
+  ],
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "A sawmill parish, in the fortnight|when the lake is thickest."
+    ],
+    [
+      8.1,
+      12.7,
+      "You have come for the effects|of an English correspondent."
+    ],
+    [
+      12.7,
+      17.3,
+      "His diary runs to the end of January|in a steady, careful hand."
+    ],
+    [
+      17.3,
+      21.7,
+      "!So do the last twenty pages.|He has been dead a month."
+    ]
+  ],
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "backdrop": "caustics",
+  "chroma": 0,
+  "grain": 5.5,
+  "root_hz": 61.7,
+  "shimmer": true,
+  "seed": 1901,
+  "backdrop_gain": 0.8
+}

@@ -15,7 +15,7 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 | 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | — | *(shared)* | — | *(shared)* | — | — | *(shared)* |
 | 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 6 | ✔ | — | — | — | — | — | — | — |
 | 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 5 | ✔ | — | *(reuse)* | — | — | — | — | — |
-| 14 | Sun pm | **PROFESSIONAL COURTESY** *(Outgunned)* | 5 | ✔ | — | — | — | — | — | — | — |
+| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 5 | ✔ | — | — | — | — | — | — | — |
 
 **A game is convention-ready when:** the scenario is at v2 or later, pregens are
 audited against the rules, handouts and art are produced, it has survived at
@@ -36,11 +36,11 @@ where the cheap builds are.
 | 5 | Does Pilar Lindqvist (age 9) stay as written? | PAPER CHILDREN Act Two |
 | 6 | **How many creatures in CONTINUOUS SERVICE?** Cinematic ALIEN tends to one, escalating. | The *Keelson* deck plan's choke points |
 | 7 | **How far does VIVA VOCE's Extract Three go?** It must unsettle without being a party trick. | The handout that carries that whole game |
-| 8 | **What is in Halloran's deposit box?** | PROFESSIONAL COURTESY ending four |
+| 8 | **What comes out of the niche, and how much is ever shown?** Current call: described by effect only, never statted. | PROVENANCE Act Three |
 | 9 | THE PERPETUAL ORDER was written as the quiet *closing* game and now opens the week. | Its Act Three framing |
 | 10 | Is a 9am BLACK SUMMER right, or does it swap with CONTINUOUS SERVICE? | Nothing — but decide before Warhorn submission |
 | 11 | MR PARKER'S DIARY at four players or five, now it holds an evening? | Vaesen pregen count |
-| 12 | **Does the convention want a loud Sunday closer?** PROFESSIONAL COURTESY replaced a deliberately quiet last game. | Nothing — but ask someone who has run that slot |
+| 12 | **Does the convention want a loud Sunday closer?** PROVENANCE replaced a deliberately quiet last game. | Nothing — but ask someone who has run that slot |
 
 ## Shared production
 

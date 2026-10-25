@@ -1,0 +1,43 @@
+{
+  "slug": "provenance",
+  "slugline": "BARRANCO DE SANT GRAU, ARAGÓN · OCTOBER 1938",
+  "title": "Provenance",
+  "system": "Outgunned",
+  "booking": "Sunday 31 January · Afternoon · 5 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    214,
+    190,
+    138
+  ],
+  "backdrop": "dust",
+  "chroma": 0,
+  "grain": 6.0,
+  "root_hz": 51.9,
+  "seed": 1938,
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "A German survey column, nine days|in a dry riverbed behind the line."
+    ],
+    [
+      8.1,
+      12.7,
+      "They are not digging anything up.|They brought something with them."
+    ],
+    [
+      12.7,
+      17.3,
+      "Bill of sale, export licence, and proof|it was looted from this valley in 1811."
+    ],
+    [
+      17.3,
+      21.7,
+      "!They are putting it back,|and they are entirely within their rights."
+    ]
+  ]
+}

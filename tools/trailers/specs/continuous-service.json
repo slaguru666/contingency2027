@@ -1,0 +1,43 @@
+{
+  "slug": "continuous-service",
+  "slugline": "THE ORE HAULER KEELSON · 2186",
+  "title": "Continuous Service",
+  "system": "ALIEN RPG — Cinematic play",
+  "booking": "Thursday 28 January · Afternoon · 5 players",
+  "venue": "Searles, Hunstanton · booking on Warhorn",
+  "accent": [
+    224,
+    158,
+    54
+  ],
+  "beats": [
+    [
+      3.5,
+      8.1,
+      "She stopped answering|eleven years ago."
+    ],
+    [
+      8.1,
+      12.7,
+      "Board her, verify the manifest,|rig the tow. The manifest verifies."
+    ],
+    [
+      12.7,
+      17.3,
+      "So does the payroll. Forty-one crew,|all clocked in since 2175."
+    ],
+    [
+      17.3,
+      21.7,
+      "!Somebody aboard is still|filing the timesheets."
+    ]
+  ],
+  "slug_until": 3.3,
+  "title_at": 21.4,
+  "booking_at": 25.6,
+  "backdrop": "tape",
+  "chroma": 1,
+  "grain": 5.0,
+  "root_hz": 43.7,
+  "seed": 2186
+}

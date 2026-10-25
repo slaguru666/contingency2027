@@ -245,22 +245,25 @@ alone. Returning players may take their own agent back.*
 ---
 
 ## Slot 14 · Sun afternoon
-### PROFESSIONAL COURTESY
+### PROVENANCE
 **Outgunned** · 5 players · pregens provided
-*Action comedy, played straight · one building · a visible clock · nobody dies unless you choose it*
-**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/professional-courtesy.mp4](https://web.oneoffgames.com/trailers/contingency-2027/professional-courtesy.mp4)
+*1938 pulp adventure · the supernatural, handled straight · a truck chase · the villains are in the right*
+**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/provenance.mp4](https://web.oneoffgames.com/trailers/contingency-2027/provenance.mp4)
 
-Atlantic City, Friday 2 September 1988. The Labor Day take from four casinos is
-in the vault at Boardwalk Fidelity until Tuesday, and you have spent eleven weeks
-on this — the guard rota, the alarm loop, a man on the inside, ninety seconds of
-thermal lance. What you do not have is the vault, because when you come through
-the service door at 7.41 there is already a crew on the floor, nine minutes ahead
-of you, looking just as surprised as you are.
+Aragón, October 1938. The Ebro front is collapsing and a German survey column
+with Condor Legion papers has spent nine days in a dry riverbed sixty kilometres
+behind the line, doing nothing anyone can see. They are not digging anything up.
+They have brought something with them — a twelfth-century reliquary, bought at
+auction in Vienna in 1932, with an export licence, a bill of sale and a
+provenance file three centimetres thick proving it was looted from this valley
+in 1811. They are putting it back. They are entirely within their rights, and
+you have until Thursday.
 
-**Content warnings:** gun violence, cinematic and largely bloodless; a hostage
-situation played for tension rather than cruelty; 1980s attitudes left in, not
-endorsed. Outgunned characters do not die without their player choosing it.
-Safety tools in use.
+**Content warnings:** Nazism and the real violence of it; the Spanish Civil War,
+including reprisal killings and refugee columns; religious desecration; pulp
+gunplay. Outgunned characters do not die without their player choosing it, but
+this is set in a real atrocity and does not pretend otherwise. Safety tools in
+use.
 
 ---
 

@@ -32,18 +32,23 @@ arithmetic, no stock footage and no generated imagery.
 
 | Game | Plate | What it is |
 |---|---|---|
-| The London Particular | `fog` | Drifting fog in layers, gas halos stranded in it |
+| The Perpetual Order | `river` | Tide light on a vault ceiling, over ledger rules |
 | Afterimage | `rain` | Rain on glass, neon bokeh behind, scanlines |
 | The Six O'Clock Sitting | `seance` | One lamp pool, dust rising through it |
 | Black Summer | `ash` | A searchlight shaft crossing, ash falling, wire |
-| Closing Weekend | `vhs` | Tracking bands, head switch, dropouts |
-| Ash & Concrete | `caustics` | Water over a concrete floor |
-| The New Light | `filament` | 212 lamps on their own flicker phases |
-| The Quiet City | `tape` | An oscilloscope trace with wow and flutter |
+| Continuous Service | `tape` | An oscilloscope trace with wow and flutter |
+| The London Particular | `fog` | Drifting fog in layers, gas halos stranded in it |
+| Viva Voce | `ruled` | Ruled paper, red margin, ink strokes drifting up |
+| Mr Parker's Diary | `caustics` | Water light under ice |
 | Paper Children | `archive` | Microfiche: carrier frames and rows of records |
-| Full Volume | `spectrum` | Spectrum bars, rising as the clock runs |
+| Closing Weekend | `vhs` | Tracking bands, head switch, dropouts |
 | The Favour | `woodcut` | Engraved hatching on laid paper |
-| The Perpetual Order | `river` | Tide light on a vault ceiling, over ledger rules |
+| Provenance | `dust` | One hard shaft of sun, stone dust turning in it |
+
+`filament` (212 lamps on their own flicker phases) and `spectrum` (bars rising
+as the clock runs) are still in `backdrops.py` but unused -- they belonged to
+*The New Light* and *Full Volume*, which came off the slate. Left in because
+they work and cost nothing.
 
 **Exposure is normalised, not hand-pitched.** `Base.frame()` samples three
 frames at build time and scales to a common mean, because twelve styles tuned by
@@ -86,26 +91,28 @@ All built, all 30.000s, 1920x1080, stereo AAC peaking -1.8 to -2.6 dB.
 
 | Spec | Accent | chroma |
 |---|---|---|
-| `london-particular` | fog green | 0 |
+| `perpetual-order` | tidal green | 0 |
 | `afterimage` | neon orange | 3 |
 | `six-oclock-sitting` | seance crimson | 0 |
 | `black-summer` | hazard yellow | 1 |
-| `closing-weekend` | slasher red | 2 |
-| `dead-air-1-ash-and-concrete` | broadcast amber | 1 |
-| `new-light` | electric blue | 0 |
-| `dead-air-2-the-quiet-city` | broadcast amber | 2 |
+| `continuous-service` | caution amber | 1 |
+| `london-particular` | fog green | 0 |
+| `viva-voce` | lecture-hall red | 0 |
+| `mr-parkers-diary` | ice blue | 0 |
 | `paper-children` | cyan | 3 |
-| `dead-air-3-full-volume` | broadcast amber | 3 |
+| `closing-weekend` | slasher red | 2 |
 | `the-favour` | moss | 0 |
-| `perpetual-order` | tidal green | 0 |
+| `provenance` | dry gold | 0 |
 
-Two deliberate relationships: **the DEAD AIR trilogy shares one accent** so the
-three read as a set, with `chroma` climbing 1 -> 2 -> 3 across 1946, 1962 and
-today; and **the two Blade Runner games share a drone pitch**, as they already
-share their pregens.
+One deliberate relationship survives the reshuffle: **the two Blade Runner games
+share a drone pitch**, as they already share their pregens. The DEAD AIR trilogy
+used to share an accent with `chroma` climbing 1 -> 2 -> 3 across its three
+nights; those three games are gone and nothing replaced that idea, so the set
+now reads as twelve separate things, which is what it is.
 
-The four Gaslight games are the only ones at `chroma: 0`. The same template goes
-quiet and Victorian with one number.
+Seven of the twelve sit at `chroma: 0` -- every game set before 1960, plus
+Mr Parker's 1901. Chroma is the knob that makes the template feel like video;
+the period games do not want it. The same card goes quiet with one number.
 
 ## Preflight
 
@@ -142,9 +149,11 @@ Particular* and *The Six O'Clock Sitting* land at 104pt.
   title on a phone. `fit_title` returns `(font, lines)` and preflight measures
   what it actually returned, because the old version handed back the floor size
   without checking the floor fitted.
-- **Check the bottom of the tall frame.** Full Volume's spectrum bars are 30% of
+- **Check the bottom of the tall frame.** The `spectrum` plate's bars are 30% of
   frame height; in 9:16 that ran them straight through the booking block. Bar
-  height is now aspect-aware.
+  height is now aspect-aware -- and the fix had to be made twice, because the
+  first test was `H > W`, which is false for a square. `tape`'s trace had the
+  same problem and sits at 0.88 of frame height for the same reason.
 - **A wrapped title moves everything under it.** The system line follows the
   title block down, but the booking block was still anchored to the frame
   centre, so in 1:1 the two collided into one paragraph. Booking now shifts by
