@@ -2,7 +2,7 @@
 
 *A banker's order has paid the rent on vault 114 every quarter since 1794.*
 
-**System:** Call of Cthulhu 7e — **Gaslight (1895)** · **4 players** · 4-hour slot
+**System:** Call of Cthulhu 7e — **Gaslight (1895)** · **4–6 players** · 4-hour slot
 (3h30 play) · one site, one afternoon · the convention's closing game: small,
 finite, quiet, and nasty.
 

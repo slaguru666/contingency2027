@@ -2,7 +2,7 @@
 
 *Every trick in this room is a trick. One thing is not, and she doesn't know which.*
 
-**System:** Call of Cthulhu 7e — **Gaslight (1894)** · **4 players** · 4-hour slot
+**System:** Call of Cthulhu 7e — **Gaslight (1894)** · **4–6 players** · 4-hour slot
 (3h30 play) · **one room, one evening** · pure table-talk · no chase, no fight, no
 props beyond three handouts.
 

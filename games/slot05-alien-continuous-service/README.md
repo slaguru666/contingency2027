@@ -2,7 +2,7 @@
 
 *Forty-one people have been clocked in for eleven years. Nobody has filed a death certificate, and that is not an oversight.*
 
-**System:** ALIEN RPG (Free League) — **Cinematic play** · **5 players** ·
+**System:** ALIEN RPG (Free League) — **Cinematic play** · **4–6 players** ·
 4-hour slot (3h30 play) · high lethality, personal agendas, and an ending that
 is a decision about paperwork.
 

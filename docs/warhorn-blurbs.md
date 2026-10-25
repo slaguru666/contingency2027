@@ -32,16 +32,15 @@ Each listing links the **16:9** cut; the vertical (`-vertical`) and square
 
 ## Slot 1 · Wed morning
 ### THE PERPETUAL ORDER
-**Call of Cthulhu — Gaslight** (1895) · 4 players · pregens provided
+**Call of Cthulhu — Gaslight** (1895) · 4–6 players · pregens provided
 *One location · quiet horror · no violence · a good last game of the con*
 **Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/perpetual-order.mp4](https://web.oneoffgames.com/trailers/contingency-2027/perpetual-order.mp4)
 
 A banker's order has paid the rent on vault 114 at a Wapping bonded wharf every
-quarter since 1794. The wharf was built in 1829. Nobody has ever opened the
-vault, and between the four of you — wharfinger, bank's clerk, solicitor's
-searcher, surveyor — you have the authority to strike the padlock. Inside are a
-hundred and one identical crates, and every one of them is the same Friday in
-June.
+quarter since 1794. The wharf was built in 1829. The order has never missed a
+payment, nobody at the bank can say who signs it, and nobody has ever opened the
+door. Between you — wharfinger, bank's clerk, solicitor's searcher, surveyor —
+you have the authority to strike the padlock. Tonight the rent falls due.
 
 **Content warnings:** claustrophobia, loss of identity, a drowning and an implied
 suicide in the backstory, quiet existential dread. No gore, no violence, no jump
@@ -56,8 +55,8 @@ scares. Safety tools in use.
 **Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/afterimage.mp4](https://web.oneoffgames.com/trailers/contingency-2027/afterimage.mp4)
 
 Los Angeles, 2037. A memory designer is dead in his studio and Rep-Detect has
-been handed the case with a whisper attached: rogue replicant. The whisper comes
-from a corporation, and it is a lie of the useful kind. You have until dawn.
+been handed the case with a whisper attached: rogue replicant. Somebody wanted
+you to hear that word before you ever saw the room. You have until dawn.
 Nobody in this story gets to be right — you only get to decide who pays.
 
 **Content warnings:** violence, a death investigation, themes of grief, memory
@@ -70,7 +69,7 @@ Saturday — play either, or both, in any order.*
 
 ## Slot 3 · Wed evening
 ### THE SIX O'CLOCK SITTING
-**Call of Cthulhu — Gaslight** (1894) · 4 players · pregens provided
+**Call of Cthulhu — Gaslight** (1894) · 4–6 players · pregens provided
 *One room · all conversation · no combat · slow burn*
 **Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/six-oclock-sitting.mp4](https://web.oneoffgames.com/trailers/contingency-2027/six-oclock-sitting.mp4)
 
@@ -89,15 +88,15 @@ tools in use.
 
 ## Slot 4 · Thu morning
 ### BLACK SUMMER: LAST FLIGHT OUT
-**The Walking Dead Universe RPG (modified)** · 5 players · pregens provided
+**The Walking Dead Universe RPG (modified)** · 4–6 players · pregens provided
 *Survival · downbeat · human antagonists · high lethality*
 **Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/black-summer.mp4](https://web.oneoffgames.com/trailers/contingency-2027/black-summer.mp4)
 
 New York, six weeks after the fall. The army is still flying people out of an old
 airfield in Brooklyn, and they stop at dawn. To board you need a stamped transit
-chit with your face on it. Between the five of you, you have three. Ten miles of
-dead city lie between here and the runway, and the queue at the far end is longer
-than anybody wants to think about.
+chit with your face on it. There are three chits, and there are more of you than
+that. Ten miles of dead city lie between here and the runway, and the queue at
+the far end is longer than anybody wants to think about.
 
 **Content warnings:** graphic violence and gore, a child in danger, summary
 execution, crowd crush, PvP possible. Safety tools in use.
@@ -106,7 +105,7 @@ execution, crowd crush, PvP possible. Safety tools in use.
 
 ## Slot 5 · Thu afternoon
 ### CONTINUOUS SERVICE
-**ALIEN RPG — Cinematic play** · 5 players · pregens provided
+**ALIEN RPG — Cinematic play** · 4–6 players · pregens provided
 *Sci-fi horror · one ship · high lethality · personal agendas*
 **Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/continuous-service.mp4](https://web.oneoffgames.com/trailers/contingency-2027/continuous-service.mp4)
 
@@ -115,7 +114,7 @@ towards a planet nobody wants ever since. Your tug has the salvage contract:
 board her, verify the manifest, rig the tow. The manifest verifies. So does the
 payroll — forty-one crew, all clocked in, wages accruing since 2175, every shift
 paid without anyone once asking why. Somebody aboard is still filing the
-timesheets, and she has a reason that will take you most of the night to accept.
+timesheets.
 
 **Content warnings:** body horror and parasitic gestation; claustrophobia;
 corporate exploitation; hypersleep and long isolation; implied suicide. ALIEN is
@@ -126,16 +125,16 @@ character. Safety tools in use.
 
 ## Slot 6 · Thu evening
 ### THE LONDON PARTICULAR
-**Call of Cthulhu — Gaslight** (1896) · 5 players · pregens provided
+**Call of Cthulhu — Gaslight** (1896) · 4–6 players · pregens provided
 *Victorian · a night hunt across the city · mobile · a deadline at dawn*
 **Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/london-particular.mp4](https://web.oneoffgames.com/trailers/contingency-2027/london-particular.mp4)
 
 Four people have died in four weeks, each on a night of thick fog, each found in
 the open street with no wound on them. Nothing connects them — not district, not
-trade, not hour. Then somebody fetches the Meteorological Office's fog register,
-and it connects them perfectly: each of them died exactly where the fog lay
-thickest. Tonight's forecast is the worst of the winter, and it will not lift
-before dawn.
+trade, not hour, not kin. The only office in London that keeps a record of where
+the fog actually lay is the Meteorological Office, and somebody is about to go
+and ask for it. Tonight's forecast is the worst of the winter, and it will not
+lift before dawn.
 
 **Content warnings:** four deaths by asphyxiation described clinically, a child
 among the dead (backstory, never on screen), industrial pollution and working
@@ -145,7 +144,7 @@ conditions. Safety tools in use.
 
 ## Slot 8 · Fri afternoon
 ### VIVA VOCE
-**Call of Cthulhu 7e — 1920s** · 5 players · pregens provided
+**Call of Cthulhu 7e — 1920s** · 4–6 players · pregens provided
 *Classic Arkham · investigation only, no combat · the climax is a committee vote*
 **Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/viva-voce.mp4](https://web.oneoffgames.com/trailers/contingency-2027/viva-voce.mp4)
 
@@ -165,7 +164,7 @@ backstory. No combat. Safety tools in use.
 
 ## Slot 9 · Fri evening
 ### THE CURIOUS CASE OF MR PARKER'S DIARY
-**Vaesen — Nordic Horror Roleplaying** · 4 players · pregens provided
+**Vaesen — Nordic Horror Roleplaying** · 4–6 players · pregens provided
 *Mythic North · one parish · a document that reads you back · folk horror*
 **Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/mr-parkers-diary.mp4](https://web.oneoffgames.com/trailers/contingency-2027/mr-parkers-diary.mp4)
 
@@ -188,10 +187,9 @@ reader directly and lands harder than people expect. Safety tools in use.
 **Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/paper-children.mp4](https://web.oneoffgames.com/trailers/contingency-2027/paper-children.mp4)
 
 A records clinician is dead on her own floor with a paper-knife in her neck and
-fourteen years of immaculate filing around her. The filing is the case: she sold
-the birth certificates of children who died in infancy to replicants who wanted
-to be somebody. Her killer will not be difficult. What you will also have, by the
-end of the afternoon, is the list of everyone who bought one.
+fourteen years of immaculate filing around her. Her killer will not be difficult;
+you will have a name by the end of the afternoon. The filing is the case, and it
+is what she filed that you will not be able to give back.
 
 **Content warnings:** infant death as a records-and-grief theme (discussed, never
 depicted), institutional violence against people who have committed no crime, a
@@ -204,16 +202,16 @@ separate case — play either, or both, in any order.*
 
 ## Slot 12 · Sat evening
 ### CLOSING WEEKEND
-**Call of Cthulhu 7e — modern rules, 1986** · 6 players · pregens provided
+**Call of Cthulhu 7e — modern rules, 1986** · 4–6 players · pregens provided
 *A slasher, played knowingly · summer camp · high body count · funny first*
 **Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/closing-weekend.mp4](https://web.oneoffgames.com/trailers/contingency-2027/closing-weekend.mp4)
 
 Camp Loon Point, Saturday 6 September 1986. The campers went home on Monday, the
-camp has been sold, and on Tuesday the bulldozers come for the boathouse. Eight
+camp has been sold, and on Tuesday the bulldozers come for the boathouse. The
 counsellors stayed behind to close the cabins and have one last night at the
-lake. By midnight the phone line will be cut rather than down, the wagon will not
-start, and you will have worked out that this camp has had a bad year every seven
-to eleven years since 1931. Expect to play more than one character.
+lake. By midnight the phone line will be cut rather than down and the wagon will
+not start. This is a slasher and it is played like one. Expect to play more than
+one character.
 
 **Content warnings:** graphic slasher violence against young adults, sustained
 stalking and pursuit, drug and alcohol use, period attitudes, and the
@@ -224,7 +222,7 @@ children. Safety tools in use.
 
 ## Slot 13 · Sun morning
 ### THE FAVOUR
-**The Dee Sanction** · 5 players · pregens provided
+**The Dee Sanction** · 4–6 players · pregens provided
 *Historical horror · investigation · moral trap · no clean ending*
 **Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/the-favour.mp4](https://web.oneoffgames.com/trailers/contingency-2027/the-favour.mp4)
 
@@ -246,7 +244,7 @@ alone. Returning players may take their own agent back.*
 
 ## Slot 14 · Sun afternoon
 ### PROVENANCE
-**Outgunned** · 5 players · pregens provided
+**Outgunned** · 4–6 players · pregens provided
 *1938 pulp adventure · the supernatural, handled straight · a truck chase · the villains are in the right*
 **Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/provenance.mp4](https://web.oneoffgames.com/trailers/contingency-2027/provenance.mp4)
 

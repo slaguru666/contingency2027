@@ -4,18 +4,18 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 
 | # | Slot | Game | PCs | Outline | Scenario v1 | Pregens | Handouts | Art | Playtest | Print | Console |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4 | ✔ | — | — | — | n/a | — | — | — |
+| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | — | — | — | n/a | — | — | — |
 | 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×3 | ◐ reprint | ◐ port |
-| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4 | ✔ | — | — | — | n/a | — | — | — |
-| 4 | Thu am | BLACK SUMMER | 5 | ✔ | — | — | — | — | — | — | — |
-| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 5 | ✔ | — | — | — | — | — | — | — |
-| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 5 | ✔ | — | — | — | — | — | — | — |
-| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 5 | ✔ | — | — | — | — | — | — | — |
-| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4 | ✔ | — | — | — | — | — | — | — |
+| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | — | — | — | n/a | — | — | — |
+| 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | — | — | — | — | — | — | — |
+| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | — | — | — | — | — | — | — |
+| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | — | — | — | — | — | — | — |
+| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 4–6 | ✔ | — | — | — | — | — | — | — |
+| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4–6 | ✔ | — | — | — | — | — | — | — |
 | 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | — | *(shared)* | — | *(shared)* | — | — | *(shared)* |
-| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 6 | ✔ | — | — | — | — | — | — | — |
-| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 5 | ✔ | — | *(reuse)* | — | — | — | — | — |
-| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 5 | ✔ | — | — | — | — | — | — | — |
+| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 4–6 | ✔ | — | — | — | — | — | — | — |
+| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | — | *(reuse)* | — | — | — | — | — |
+| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | — | — | — | — | — | — | — |
 
 **A game is convention-ready when:** the scenario is at v2 or later, pregens are
 audited against the rules, handouts and art are produced, it has survived at
@@ -30,7 +30,7 @@ where the cheap builds are.
 | # | Question | Blocks |
 |---|---|---|
 | 1 | Confirmed Warhorn slot times | Everything downstream of the grid |
-| 2 | **Do the Searles game rooms seat six?** One game does (Slot 12). | CLOSING WEEKEND pregen count |
+| 2 | **Do the Searles game rooms seat six?** Was one game; since 2026-10-25 it is **ten** — every non-Blade-Runner game is now 4–6. | Pregen counts on ten games |
 | 3 | Which TWDU book edition is at the table? | BLACK SUMMER Runner stat block |
 | 4 | **Is the mask's rule discovered in Act Two, or told up front?** | CLOSING WEEKEND Act Two — blocks drafting |
 | 5 | Does Pilar Lindqvist (age 9) stay as written? | PAPER CHILDREN Act Two |
@@ -44,10 +44,18 @@ where the cheap builds are.
 
 ## Shared production
 
-- **CLOSING WEEKEND needs ten sheets, not six** — six counsellors plus four
-  second characters handed out as the first characters die. That is the single
-  largest pregen build on the slate, and the second-character set is load-bearing
-  rather than optional: it is what stops a dead player sitting out ninety minutes.
+- **CLOSING WEEKEND needs ten sheets** — six counsellors plus four second
+  characters handed out as the first characters die. That is the single largest
+  pregen build on the slate, and the second-character set is load-bearing rather
+  than optional: it is what stops a dead player sitting out ninety minutes. The
+  move to 4–6 does not shrink it: six is still the ceiling, and a table of four
+  simply leaves two counsellors unused.
+- **4–6 raised the pregen floor on ten games.** Every non-Blade-Runner game must
+  now ship **six** sheets and still play at four, which is more build than the old
+  fixed counts and a real seating question (see Decision 2). Games written around
+  a specific number need re-checking: BLACK SUMMER's three boarding chits and THE
+  PERPETUAL ORDER's padlock were both phrased for a fixed table and have been
+  rewritten to scale.
 - **The Blade Runner four.** Rick, Jax, Kael and Sloane serve Slots 2 and 11.
   The sheets are printed and playtested — **PAPER CHILDREN must not change them.**
   Any edit for one game has to be mirrored and re-audited for the other.

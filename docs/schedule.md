@@ -21,20 +21,20 @@ content. Session clock counts play time only and pauses for the break.
 
 | # | Day | Session | Game | System | PCs |
 |---|---|---|---|---|---|
-| 1 | Wed 27 | Morning | THE PERPETUAL ORDER | CoC — **Gaslight** (1895) | 4 |
+| 1 | Wed 27 | Morning | THE PERPETUAL ORDER | CoC — **Gaslight** (1895) | 4–6 |
 | 2 | Wed 27 | Afternoon | AFTERIMAGE | Blade Runner RPG | 4 |
-| 3 | Wed 27 | Evening | THE SIX O'CLOCK SITTING | CoC — **Gaslight** (1894) | 4 |
-| 4 | Thu 28 | Morning | BLACK SUMMER — Last Flight Out | TWDU (modified) | 5 |
-| 5 | Thu 28 | Afternoon | CONTINUOUS SERVICE | **ALIEN RPG** — Cinematic | 5 |
-| 6 | Thu 28 | **Evening** | THE LONDON PARTICULAR | CoC — **Gaslight** (1896) | 5 |
+| 3 | Wed 27 | Evening | THE SIX O'CLOCK SITTING | CoC — **Gaslight** (1894) | 4–6 |
+| 4 | Thu 28 | Morning | BLACK SUMMER — Last Flight Out | TWDU (modified) | 4–6 |
+| 5 | Thu 28 | Afternoon | CONTINUOUS SERVICE | **ALIEN RPG** — Cinematic | 4–6 |
+| 6 | Thu 28 | **Evening** | THE LONDON PARTICULAR | CoC — **Gaslight** (1896) | 4–6 |
 | 7 | Fri 29 | Morning | *clear* | — | — |
-| 8 | Fri 29 | Afternoon | VIVA VOCE | CoC 7e — **1920s** | 5 |
-| 9 | Fri 29 | **Evening** | MR PARKER'S DIARY | **Vaesen** | 4 |
+| 8 | Fri 29 | Afternoon | VIVA VOCE | CoC 7e — **1920s** | 4–6 |
+| 9 | Fri 29 | **Evening** | MR PARKER'S DIARY | **Vaesen** | 4–6 |
 | 10 | Sat 30 | Morning | *clear* | — | — |
 | 11 | Sat 30 | Afternoon | PAPER CHILDREN | Blade Runner RPG | 4 |
-| 12 | Sat 30 | **Evening** | CLOSING WEEKEND | CoC 7e — **modern** (1986) | 6 |
-| 13 | Sun 31 | Morning | THE FAVOUR | The Dee Sanction | 5 |
-| 14 | Sun 31 | Afternoon | PROVENANCE | **Outgunned** | 5 |
+| 12 | Sat 30 | **Evening** | CLOSING WEEKEND | CoC 7e — **modern** (1986) | 4–6 |
+| 13 | Sun 31 | Morning | THE FAVOUR | The Dee Sanction | 4–6 |
+| 14 | Sun 31 | Afternoon | PROVENANCE | **Outgunned** | 4–6 |
 | 15 | Sun 31 | Evening | *clear* | — | — |
 
 ## Why the slate sits this way

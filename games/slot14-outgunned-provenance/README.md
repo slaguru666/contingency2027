@@ -2,7 +2,7 @@
 
 *They are not stealing it. They have the paperwork, the export licence and a clear moral case, and they are putting it back.*
 
-**System:** Outgunned (Two Little Mice) · **5 players** · 4-hour slot (3h30
+**System:** Outgunned (Two Little Mice) · **4–6 players** · 4-hour slot (3h30
 play) · 1938, pulp adventure with the supernatural in it · the climax is a
 document and a hole in a dry riverbed.
 

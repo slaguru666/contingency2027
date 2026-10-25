@@ -2,7 +2,7 @@
 
 *He kept his side of it. That is the problem.*
 
-**System:** The Dee Sanction · **5 players** · 4-hour slot (3h30 play) ·
+**System:** The Dee Sanction · **4–6 players** · 4-hour slot (3h30 play) ·
 **the only Dee Sanction game on the slate** ·
 the debt runs the wrong way · a public visitation on a clock · four written
 endings, all costly.

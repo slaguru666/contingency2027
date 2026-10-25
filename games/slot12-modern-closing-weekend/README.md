@@ -3,7 +3,7 @@
 *Camp Loon Point shuts for good on Monday. Eight of you stayed for one more night.*
 
 **System:** Call of Cthulhu 7e — **modern rules, set September 1986** ·
-**6 players** · 4-hour slot (3h30 play) · **a slasher**, played knowingly · high
+**4–6 players** · 4-hour slot (3h30 play) · **a slasher**, played knowingly · high
 character turnover with second characters built in · the climax is a name, not a
 weapon.
 

@@ -2,7 +2,7 @@
 
 *The last twenty pages are in his hand. He has been dead a month.*
 
-**System:** Vaesen — Nordic Horror Roleplaying · **4 players** · 4-hour slot
+**System:** Vaesen — Nordic Horror Roleplaying · **4–6 players** · 4-hour slot
 (3h30 play) · archival mystery · folk horror · a frozen lake at night.
 
 | File | What it is |

@@ -3,7 +3,7 @@
   "slugline": "GARROW'S BONDED WHARF, WAPPING · 1895",
   "title": "The Perpetual Order",
   "system": "Cthulhu by Gaslight — 1895",
-  "booking": "Wednesday 27 January · Morning · 4 players",
+  "booking": "Wednesday 27 January · Morning · 4–6 players",
   "venue": "Searles, Hunstanton · booking on Warhorn",
   "accent": [
     120,
@@ -24,12 +24,12 @@
     [
       12.7,
       17.3,
-      "Nobody has ever opened it. Between the|four of you, the padlock takes nine seconds."
+      "The order has never missed a payment.|Nobody at the bank can say who signs it."
     ],
     [
       17.3,
       21.7,
-      "!A hundred and one identical crates,|and every one is the same Friday in June."
+      "!Tonight the rent falls due,|and somebody has to open the door."
     ]
   ],
   "slug_until": 3.3,

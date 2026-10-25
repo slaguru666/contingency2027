@@ -3,7 +3,7 @@
 *The plane leaves at dawn. You have three chits and five people.*
 
 **System:** The Walking Dead Universe RPG (Free League), house-modified for
-*Black Summer* · **5 players** · 4-hour slot (3h30 play) · survival journey with a
+*Black Summer* · **4–6 players** · 4-hour slot (3h30 play) · survival journey with a
 hard countdown · one large set-piece (the queue) · downbeat ending by design.
 
 | File | What it is |

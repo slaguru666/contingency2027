@@ -2,7 +2,7 @@
 
 *Four hundred pages on the drainage of the Miskatonic valley. Three examiners have read it. The viva is at three o'clock.*
 
-**System:** Call of Cthulhu 7e — **classic 1920s** · **5 players** · 4-hour slot
+**System:** Call of Cthulhu 7e — **classic 1920s** · **4–6 players** · 4-hour slot
 (3h30 play) · investigation-first, no required combat · the climax is a
 committee vote.
 

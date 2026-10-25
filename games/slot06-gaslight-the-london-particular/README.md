@@ -2,7 +2,7 @@
 
 *Four nights of fog. Four deaths. Tonight is the thickest fog of the winter.*
 
-**System:** Call of Cthulhu 7e — **Gaslight (1896)** · **5 players** · 4-hour slot
+**System:** Call of Cthulhu 7e — **Gaslight (1896)** · **4–6 players** · 4-hour slot
 (3h30 play) · **the convention opener** · a mobile night hunt across London · a
 map, a forecast and a deadline at dawn.
 
