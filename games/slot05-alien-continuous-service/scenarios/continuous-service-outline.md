@@ -1,7 +1,7 @@
 # CONTINUOUS SERVICE — outline
 
 **ALIEN RPG, Cinematic play · the ore hauler *Keelson*, high orbit over LV-871 ·
-2186 · 5 players · 3h30**
+2186 · 4–6 players · 3h30**
 
 ---
 

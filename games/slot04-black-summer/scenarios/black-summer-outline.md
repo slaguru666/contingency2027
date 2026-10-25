@@ -138,7 +138,12 @@ Five, each wired into the chit maths and to at least one other PC:
 4. **The doctor** — the only PC everyone else has a practical reason to keep alive.
 5. **The liar** — has a chit that is not theirs and a face that does not match it.
 
-Nothing essential lives only on one PC. Starting chit count: **3 for 5 players.**
+Nothing essential lives only on one PC. Starting chit count: **three, whatever
+the table size.** Fixed at three because the adverts say so, and because the
+scene is "there are not enough" rather than a ratio. **Note the consequence
+before playtesting:** three of four is a much gentler table than three of six,
+so the squeeze this game is built on varies with who turns up. If that is too
+loose at four, change the chits and the advert together, not just the chits.
 
 ## Open questions
 

@@ -162,7 +162,7 @@ telegram.
    Mythic North) or should he be Swedish for tighter fit? Current lean: keep him
    English — the outsider is the point, and the Society is used to English
    correspondents.
-4. Four players or five? Vaesen's Society archetypes reward five. Four is the
-   current call — it is the smallest table on the slate, deliberately. Worth
-   revisiting now that it holds a **Friday night** rather than a Saturday
-   afternoon: evening slots at this convention have tended to fill.
+4. The slot is now **4–6**, which settles this: Vaesen's Society archetypes
+   reward five, and the game no longer has to be the smallest table on the
+   slate. It holds a **Friday night**, and evening slots at this convention have
+   tended to fill — build for six and let it play at four.

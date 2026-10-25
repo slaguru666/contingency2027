@@ -1,7 +1,7 @@
 # VIVA VOCE — outline
 
 **Call of Cthulhu 7e, 1920s · Miskatonic University, Arkham, Massachusetts ·
-Friday 11 March 1927 · 5 players · 3h30**
+Friday 11 March 1927 · 4–6 players · 3h30**
 
 ---
 

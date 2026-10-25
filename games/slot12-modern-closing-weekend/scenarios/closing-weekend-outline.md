@@ -1,7 +1,7 @@
 # CLOSING WEEKEND — outline
 
 **Call of Cthulhu 7e, modern rules · Camp Loon Point, upstate New York ·
-Saturday 6 September 1986 · 6 players · 3h30**
+Saturday 6 September 1986 · 4–6 players · 3h30**
 
 ---
 

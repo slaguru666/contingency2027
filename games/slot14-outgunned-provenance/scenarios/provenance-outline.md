@@ -1,7 +1,7 @@
 # PROVENANCE — outline
 
 **Outgunned · the Barranco de Sant Grau, Aragón, Spain · October 1938 ·
-5 players · 3h30**
+4–6 players · 3h30**
 
 ---
 

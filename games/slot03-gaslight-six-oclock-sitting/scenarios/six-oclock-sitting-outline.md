@@ -160,5 +160,7 @@ in live · `H3-A` Arthur Rée's unsent letter.
    for exactly this beat.
 3. Does the entity get a name in the GM text? Current intent: no. It is a shape
    grief wore, and naming it makes it a monster.
-4. Four players or five? Four keeps the room tight. Five lets a player be the
-   believer, which is a strong seat and a slower Act One.
+4. The slot is now **4–6**. Four keeps the room tight; five lets a player be the
+   believer, which is a strong seat and a slower Act One. Six has not been
+   thought about yet and this is a single-room game — decide what the sixth
+   seat is before writing the pregens.
