@@ -4,18 +4,18 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 
 | # | Slot | Game | PCs | Outline | Scenario v1 | Pregens | Handouts | Art | Playtest | Print | Console |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Wed am | THE LONDON PARTICULAR *(Gaslight)* | 5 | ✔ | — | — | — | — | — | — | — |
+| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4 | ✔ | — | — | — | n/a | — | — | — |
 | 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×3 | ◐ reprint | ◐ port |
 | 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4 | ✔ | — | — | — | n/a | — | — | — |
 | 4 | Thu am | BLACK SUMMER | 5 | ✔ | — | — | — | — | — | — | — |
-| 5 | Thu pm | CLOSING WEEKEND *(modern, 1986)* | 6 | ✔ | — | — | — | — | — | — | — |
-| 6 | Thu eve | DEAD AIR I — Ash & Concrete | 6 | ✔ | — | — | — | — | — | — | — |
-| 8 | Fri pm | THE NEW LIGHT *(Gaslight)* | 5 | ✔ | — | — | — | — | — | — | — |
-| 9 | Fri eve | DEAD AIR II — The Quiet City | 6 | ✔ | — | — | — | — | — | — | — |
-| 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | — | *shared ✔* | — | *shared ✔* | — | — | *shared ✔* |
-| 12 | Sat eve | DEAD AIR III — Full Volume | 6 | ✔ | — | — | — | — | — | — | — |
-| 13 | Sun am | THE FAVOUR | 5 | ✔ | — | *Princes Bride* | — | — | — | — | — |
-| 14 | Sun pm | THE PERPETUAL ORDER *(Gaslight)* | 4 | ✔ | — | — | — | n/a | — | — | — |
+| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 5 | ✔ | — | — | — | — | — | — | — |
+| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 5 | ✔ | — | — | — | — | — | — | — |
+| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 5 | ✔ | — | — | — | — | — | — | — |
+| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4 | ✔ | — | — | — | — | — | — | — |
+| 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | — | *(shared)* | — | *(shared)* | — | — | *(shared)* |
+| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 6 | ✔ | — | — | — | — | — | — | — |
+| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 5 | ✔ | — | *(reuse)* | — | — | — | — | — |
+| 14 | Sun pm | **PROFESSIONAL COURTESY** *(Outgunned)* | 5 | ✔ | — | — | — | — | — | — | — |
 
 **A game is convention-ready when:** the scenario is at v2 or later, pregens are
 audited against the rules, handouts and art are produced, it has survived at
@@ -27,21 +27,20 @@ where the cheap builds are.
 
 ## Decisions blocking work
 
-Gathered from the outlines. Everything else can proceed without them.
-
 | # | Question | Blocks |
 |---|---|---|
-| 1 | THE FAVOUR is now the only Dee Sanction. Does it still reuse the *Princes Bride* seven (intent: yes), and does it survive a 9am Sunday or swap with Slot 14? | THE FAVOUR pregens + Act Two shape |
-| 2 | Does Ilse Brandt (Dead Air I) return in II, and does the Brandt name carry to III? | DEAD AIR II and III — Act Two shape |
-| 3 | Trilogy pregens: three fresh sets of six, or one lineage across the eras? | All three DEAD AIR pregen sets |
-| 4 | Confirmed Warhorn slot times. | All print, all timing tables |
-| 5 | Which TWDU book edition is at the table? | BLACK SUMMER Runner stat block |
-| 6 | **Do the Searles game rooms seat six?** Four games do. | DEAD AIR pregen counts · CLOSING WEEKEND body count |
-| 7 | How obviously the Dead Air I shelter-section handout shows the extra room. | DEAD AIR I Act One |
-| 8 | Can a player character sign the household book and survive the epilogue? | THE NEW LIGHT Act Three |
-| 9 | **Is the mask's rule discovered in Act Two, or told to the table up front?** Discovery makes it a mystery; telling makes it a game about nerve. | CLOSING WEEKEND Act Two — blocks drafting |
-| 10 | Does Pilar Lindqvist (age 9) stay as written? | PAPER CHILDREN Act Two |
-| 11 | Is a 9am Black Summer the right call, or does it swap with CLOSING WEEKEND? | Nothing — but decide before Warhorn submission |
+| 1 | Confirmed Warhorn slot times | Everything downstream of the grid |
+| 2 | **Do the Searles game rooms seat six?** One game does (Slot 12). | CLOSING WEEKEND pregen count |
+| 3 | Which TWDU book edition is at the table? | BLACK SUMMER Runner stat block |
+| 4 | **Is the mask's rule discovered in Act Two, or told up front?** | CLOSING WEEKEND Act Two — blocks drafting |
+| 5 | Does Pilar Lindqvist (age 9) stay as written? | PAPER CHILDREN Act Two |
+| 6 | **How many creatures in CONTINUOUS SERVICE?** Cinematic ALIEN tends to one, escalating. | The *Keelson* deck plan's choke points |
+| 7 | **How far does VIVA VOCE's Extract Three go?** It must unsettle without being a party trick. | The handout that carries that whole game |
+| 8 | **What is in Halloran's deposit box?** | PROFESSIONAL COURTESY ending four |
+| 9 | THE PERPETUAL ORDER was written as the quiet *closing* game and now opens the week. | Its Act Three framing |
+| 10 | Is a 9am BLACK SUMMER right, or does it swap with CONTINUOUS SERVICE? | Nothing — but decide before Warhorn submission |
+| 11 | MR PARKER'S DIARY at four players or five, now it holds an evening? | Vaesen pregen count |
+| 12 | **Does the convention want a loud Sunday closer?** PROFESSIONAL COURTESY replaced a deliberately quiet last game. | Nothing — but ask someone who has run that slot |
 
 ## Shared production
 
@@ -54,12 +53,14 @@ Gathered from the outlines. Everything else can proceed without them.
   Any edit for one game has to be mirrored and re-audited for the other.
 - **The Dee Sanction agents.** The *Princes Bride* seven serve Slot 13, re-inserted
   for this case. One set, not two — the second Dee Sanction game is archived.
-- **DEAD AIR is one production with three outputs.** Shared bible, NPC lineage,
-  art direction, one print run. Treating it as three separate scenarios is the
-  main way this slate becomes undeliverable.
-- **The trilogy's art carries a hard constraint:** no swastikas, eagles or
-  regalia. The 1946 register is bureaucratic forms and engineering sections. See
-  the bible's *Handling the Nazi material*.
+- **Nothing else is shared any more.** The DEAD AIR trilogy was one production
+  with three outputs — one bible, one art direction, one print run, three slots.
+  Removing it removed the slate's only economy of scale. What is left is ten
+  separate productions plus the Blade Runner pair, across nine rule sets.
+- **Five systems now appear exactly once** — ALIEN, Vaesen, Outgunned, The Dee
+  Sanction and TWDU. Each needs its own rules refresher written, its own quick
+  reference at the table, and its own pregen format. Budget for that; it does
+  not show up in a count of twelve games.
 - **Two games need no art at all** — THE SIX O'CLOCK SITTING and THE PERPETUAL
   ORDER, both Gaslight, both one location. Keep them that way; they are the
   slate's ballast.
@@ -75,10 +76,15 @@ Gathered from the outlines. Everything else can proceed without them.
 
 ## Parked
 
-`archive/` holds *Another Bloody Treasure Map* (VANITY), *The Curious Case of Mr
-Parker's Diary* (Vaesen), *The Protestant Wind* (the second Dee Sanction), *The
-Last Fix* and *The Sky Ride* (both Pulp) and the *CLEAN GROUND* pointer (The Custodians /
-RingBRP — its scenario lives in the RingBRP system repo and was never copied
-here). Outlines intact; any can return to Slot 7, 10 or 15. **The Protestant
-Wind's brisk five-households structure is the thing to raid if THE FAVOUR needs
-tightening for its Sunday-morning slot.**
+`archive/` holds *Another Bloody Treasure Map* (VANITY), *The Protestant Wind*
+(the second Dee Sanction), *The Last Fix* and *The Sky Ride* (both Pulp), *The
+New Light* (the fourth Gaslight), **all three DEAD AIR games and the trilogy
+bible**, and the *CLEAN GROUND* pointer (The Custodians / RingBRP — its scenario
+lives in the RingBRP system repo and was never copied here).
+
+**DEAD AIR came off the slate on 2026-10-25.** Three outlines and a full trilogy
+bible, intact and unused. They could return to Slots 7, 10 or 15, but not as
+three consecutive nights, which was the whole point of them.
+
+*The Curious Case of Mr Parker's Diary* went the other way in the same revision
+and now holds Slot 9.

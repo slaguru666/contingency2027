@@ -1,4 +1,4 @@
-# [Contingency 2027 — Slot 14] THE PERPETUAL ORDER
+# [Contingency 2027 — Slot 1] THE PERPETUAL ORDER
 
 > *A hundred and one crates. All the same day. None of them quite the same.*
 
@@ -8,7 +8,11 @@
 
 ## Overview
 
-- **Slot:** Sunday 31 January 2027, afternoon — **the convention's closing game**
+- **Slot:** Wednesday 27 January 2027, morning — **the convention's opening game**
+  (moved 2026-10-25 from the Sunday closer; it was written as a quiet last game
+  and now has to open the week instead. One room and no violence is a forgiving
+  shape for a 9am table still unpacking, but the "good last game of the con"
+  framing in Act Three needs rereading before v1.)
 - **System:** Call of Cthulhu 7e — Cthulhu by Gaslight, February 1895
 - **Setting:** **Garrow's Bonded Wharf**, Wapping. A counting-house, a cold
   brick corridor, and vault 114. One site, one afternoon, in the fog.

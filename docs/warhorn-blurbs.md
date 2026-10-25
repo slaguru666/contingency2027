@@ -31,21 +31,21 @@ Each listing links the **16:9** cut; the vertical (`-vertical`) and square
 ---
 
 ## Slot 1 · Wed morning
-### THE LONDON PARTICULAR
-**Call of Cthulhu — Gaslight** (1896) · 5 players · pregens provided
-*Victorian · a night hunt across the city · mobile · a deadline at dawn*
-**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/london-particular.mp4](https://web.oneoffgames.com/trailers/contingency-2027/london-particular.mp4)
+### THE PERPETUAL ORDER
+**Call of Cthulhu — Gaslight** (1895) · 4 players · pregens provided
+*One location · quiet horror · no violence · a good last game of the con*
+**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/perpetual-order.mp4](https://web.oneoffgames.com/trailers/contingency-2027/perpetual-order.mp4)
 
-Four people have died in four weeks, each on a night of thick fog, each found in
-the open street with no wound on them. Nothing connects them — not district, not
-trade, not hour. Then somebody fetches the Meteorological Office's fog register,
-and it connects them perfectly: each of them died exactly where the fog lay
-thickest. Tonight's forecast is the worst of the winter, and it will not lift
-before dawn.
+A banker's order has paid the rent on vault 114 at a Wapping bonded wharf every
+quarter since 1794. The wharf was built in 1829. Nobody has ever opened the
+vault, and between the four of you — wharfinger, bank's clerk, solicitor's
+searcher, surveyor — you have the authority to strike the padlock. Inside are a
+hundred and one identical crates, and every one of them is the same Friday in
+June.
 
-**Content warnings:** four deaths by asphyxiation described clinically, a child
-among the dead (backstory, never on screen), industrial pollution and working
-conditions. Safety tools in use.
+**Content warnings:** claustrophobia, loss of identity, a drowning and an implied
+suicide in the backstory, quiet existential dread. No gore, no violence, no jump
+scares. Safety tools in use.
 
 ---
 
@@ -105,84 +105,79 @@ execution, crowd crush, PvP possible. Safety tools in use.
 ---
 
 ## Slot 5 · Thu afternoon
-### CLOSING WEEKEND
-**Call of Cthulhu 7e — modern rules, 1986** · 6 players · pregens provided
-*A slasher, played knowingly · summer camp · high body count · funny first*
-**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/closing-weekend.mp4](https://web.oneoffgames.com/trailers/contingency-2027/closing-weekend.mp4)
+### CONTINUOUS SERVICE
+**ALIEN RPG — Cinematic play** · 5 players · pregens provided
+*Sci-fi horror · one ship · high lethality · personal agendas*
+**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/continuous-service.mp4](https://web.oneoffgames.com/trailers/contingency-2027/continuous-service.mp4)
 
-Camp Loon Point, Saturday 6 September 1986. The campers went home on Monday, the
-camp has been sold, and on Tuesday the bulldozers come for the boathouse. Eight
-counsellors stayed behind to close the cabins and have one last night at the
-lake. By midnight the phone line will be cut rather than down, the wagon will not
-start, and you will have worked out that this camp has had a bad year every seven
-to eleven years since 1931. Expect to play more than one character.
+The ore hauler *Keelson* stopped answering eleven years ago and has been sinking
+towards a planet nobody wants ever since. Your tug has the salvage contract:
+board her, verify the manifest, rig the tow. The manifest verifies. So does the
+payroll — forty-one crew, all clocked in, wages accruing since 2175, every shift
+paid without anyone once asking why. Somebody aboard is still filing the
+timesheets, and she has a reason that will take you most of the night to accept.
 
-**Content warnings:** graphic slasher violence against young adults, sustained
-stalking and pursuit, drug and alcohol use, period attitudes, and the
-near-certainty that your first character dies. Characters are 18–22, not
-children. Safety tools in use.
+**Content warnings:** body horror and parasitic gestation; claustrophobia;
+corporate exploitation; hypersleep and long isolation; implied suicide. ALIEN is
+a lethal game and this is a lethal scenario — expect to play more than one
+character. Safety tools in use.
 
 ---
 
 ## Slot 6 · Thu evening
-### DEAD AIR I: ASH & CONCRETE (1946)
-**Call of Cthulhu 7e** · 6 players · pregens provided
-*Historical · investigation · a descent · part one of three — stands alone*
-**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/dead-air-1-ash-and-concrete.mp4](https://web.oneoffgames.com/trailers/contingency-2027/dead-air-1-ash-and-concrete.mp4)
+### THE LONDON PARTICULAR
+**Call of Cthulhu — Gaslight** (1896) · 5 players · pregens provided
+*Victorian · a night hunt across the city · mobile · a deadline at dawn*
+**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/london-particular.mp4](https://web.oneoffgames.com/trailers/contingency-2027/london-particular.mp4)
 
-Berlin, February 1946. You catalogue German science before the other lot get to
-it, and it has been six weeks of frozen filing cabinets. Then a crate of
-untranslated requisitions turns out to be for forty tons of concrete, delivered
-in 1943, to a building that was already finished. There is a room under the
-bunker that is on nobody's plan. It is under two metres of water, and you are not
-the only people who want it.
+Four people have died in four weeks, each on a night of thick fog, each found in
+the open street with no wound on them. Nothing connects them — not district, not
+trade, not hour. Then somebody fetches the Meteorological Office's fog register,
+and it connects them perfectly: each of them died exactly where the fog lay
+thickest. Tonight's forecast is the worst of the winter, and it will not lift
+before dawn.
 
-**Content warnings:** Nazism and the Holocaust as historical fact and present
-context, human experimentation and its documentation, conditions in occupied
-Berlin, drowning, suicide. Safety tools in use.
-
-*Part one of the DEAD AIR trilogy (Thu/Fri/Sat evenings). Each part stands
-completely alone — play one, two or all three.*
+**Content warnings:** four deaths by asphyxiation described clinically, a child
+among the dead (backstory, never on screen), industrial pollution and working
+conditions. Safety tools in use.
 
 ---
 
 ## Slot 8 · Fri afternoon
-### THE NEW LIGHT
-**Call of Cthulhu 7e — Gaslight** (1895) · 5 players · pregens provided
-*Victorian · one house, one night · folk horror · the ending is a signature*
-**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/new-light.mp4](https://web.oneoffgames.com/trailers/contingency-2027/new-light.mp4)
+### VIVA VOCE
+**Call of Cthulhu 7e — 1920s** · 5 players · pregens provided
+*Classic Arkham · investigation only, no combat · the climax is a committee vote*
+**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/viva-voce.mp4](https://web.oneoffgames.com/trailers/contingency-2027/viva-voce.mp4)
 
-Sir Hubert Ames has made Harlow Mote the brightest house in three counties — two
-hundred and twelve electric lamps, a turbine in the old mill, not a candle on the
-premises. The insurance office would not normally care, except that the engineer
-who installed the system was found in the long gallery with no mark on him at
-all. The housekeeper was born in this house when it still belonged to her family,
-and she has been doing a job for eighteen months that she cannot describe.
+Miskatonic University, March 1927. Ardwin Pell has submitted a doctoral thesis of
+four hundred and six pages on the drainage of the Miskatonic valley, and by every
+normal measure it is excellent. Three examiners have read it. One is in Arkham
+Sanatorium and will not stop writing. One has gone deaf to a single specific
+sound. The third is perfectly well, which on reflection is the one that should
+worry you. The viva voce is at three o'clock, and the committee must vote.
 
-**Content warnings:** drowned children (historical, discussed, never depicted),
-class exploitation, confinement in darkness, a bargain that requires a person.
-Safety tools in use.
+**Content warnings:** mental illness depicted with period attitudes and
+institutional indifference to it; involuntary committal; academic coercion and
+the power a committee holds over a young person's life; a suicide in the
+backstory. No combat. Safety tools in use.
 
 ---
 
 ## Slot 9 · Fri evening
-### DEAD AIR II: THE QUIET CITY (1962)
-**Call of Cthulhu 7e** · 6 players · pregens provided
-*Historical · closed-box procedural · paranoia · part two of three — stands alone*
-**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/dead-air-2-the-quiet-city.mp4](https://web.oneoffgames.com/trailers/contingency-2027/dead-air-2-the-quiet-city.mp4)
+### THE CURIOUS CASE OF MR PARKER'S DIARY
+**Vaesen — Nordic Horror Roleplaying** · 4 players · pregens provided
+*Mythic North · one parish · a document that reads you back · folk horror*
+**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/mr-parkers-diary.mp4](https://web.oneoffgames.com/trailers/contingency-2027/mr-parkers-diary.mp4)
 
-A closed city in the Urals that is not on any map, October 1962. You have worked
-here eleven years and long ago stopped being curious about the tapes. On Monday
-the gates shut for an "administrative period". On Tuesday a technician takes off
-his headphones and walks into the lake. On Friday, at six in the morning, someone
-is going to close a switch.
+The Mythic North, February 1901. The Society sends you north to Hällvattnet, a
+sawmill parish in the fortnight of the year when the lake is at its thickest,
+to collect the effects of an English correspondent. His diary runs to the end of
+January in a steady, careful hand. The last twenty pages are also in his hand.
+He has been dead a month.
 
-**Content warnings:** Soviet state violence and coerced labour, institutional
-cruelty, suicide, medical horror, the Nazi programme this one inherited. Safety
-tools in use.
-
-*Part two of the DEAD AIR trilogy. Stands completely alone — no need to have
-played part one.*
+**Content warnings:** drowning; dead children; a suicide implied in a journal; a
+community's collective decision to let someone die. One handout addresses the
+reader directly and lands harder than people expect. Safety tools in use.
 
 ---
 
@@ -208,24 +203,22 @@ separate case — play either, or both, in any order.*
 ---
 
 ## Slot 12 · Sat evening
-### DEAD AIR III: FULL VOLUME (2027)
-**Call of Cthulhu 7e, modern day** · 6 players · pregens provided
-*Contemporary · research sprint · escalating scale · part three of three — stands alone*
-**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/dead-air-3-full-volume.mp4](https://web.oneoffgames.com/trailers/contingency-2027/dead-air-3-full-volume.mp4)
+### CLOSING WEEKEND
+**Call of Cthulhu 7e — modern rules, 1986** · 6 players · pregens provided
+*A slasher, played knowingly · summer camp · high body count · funny first*
+**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/closing-weekend.mp4](https://web.oneoffgames.com/trailers/contingency-2027/closing-weekend.mp4)
 
-Berlin, today. A lacquer disc came out of a box of Cold War acetates at auction
-and sold for four hundred euros to a producer who liked the label. He sampled
-fifteen seconds of it, and the hook has been going round the city for eight
-months. You have almost certainly already heard it. At midnight it closes a
-festival on Teufelsberg — live, uncut, streamed to two hundred thousand people —
-and it was cut, eighty years ago, in a room under a bunker.
+Camp Loon Point, Saturday 6 September 1986. The campers went home on Monday, the
+camp has been sold, and on Tuesday the bulldozers come for the boathouse. Eight
+counsellors stayed behind to close the cabins and have one last night at the
+lake. By midnight the phone line will be cut rather than down, the wagon will not
+start, and you will have worked out that this camp has had a bad year every seven
+to eleven years since 1931. Expect to play more than one character.
 
-**Content warnings:** self-harm and suicide, mass-casualty risk, drug use in a
-club setting, Nazism and the Holocaust as historical context, loud audio and
-flashing lights described in play (described only — no audio or lighting effects
-are used at the table). Safety tools in use.
-
-*Part three of the DEAD AIR trilogy, and its payoff. Stands completely alone.*
+**Content warnings:** graphic slasher violence against young adults, sustained
+stalking and pursuit, drug and alcohol use, period attitudes, and the
+near-certainty that your first character dies. Characters are 18–22, not
+children. Safety tools in use.
 
 ---
 
@@ -252,36 +245,38 @@ alone. Returning players may take their own agent back.*
 ---
 
 ## Slot 14 · Sun afternoon
-### THE PERPETUAL ORDER
-**Call of Cthulhu — Gaslight** (1895) · 4 players · pregens provided
-*One location · quiet horror · no violence · a good last game of the con*
-**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/perpetual-order.mp4](https://web.oneoffgames.com/trailers/contingency-2027/perpetual-order.mp4)
+### PROFESSIONAL COURTESY
+**Outgunned** · 5 players · pregens provided
+*Action comedy, played straight · one building · a visible clock · nobody dies unless you choose it*
+**Trailer (30s):** [https://web.oneoffgames.com/trailers/contingency-2027/professional-courtesy.mp4](https://web.oneoffgames.com/trailers/contingency-2027/professional-courtesy.mp4)
 
-A banker's order has paid the rent on vault 114 at a Wapping bonded wharf every
-quarter since 1794. The wharf was built in 1829. Nobody has ever opened the
-vault, and between the four of you — wharfinger, bank's clerk, solicitor's
-searcher, surveyor — you have the authority to strike the padlock. Inside are a
-hundred and one identical crates, and every one of them is the same Friday in
-June.
+Atlantic City, Friday 2 September 1988. The Labor Day take from four casinos is
+in the vault at Boardwalk Fidelity until Tuesday, and you have spent eleven weeks
+on this — the guard rota, the alarm loop, a man on the inside, ninety seconds of
+thermal lance. What you do not have is the vault, because when you come through
+the service door at 7.41 there is already a crew on the floor, nine minutes ahead
+of you, looking just as surprised as you are.
 
-**Content warnings:** claustrophobia, loss of identity, a drowning and an implied
-suicide in the backstory, quiet existential dread. No gore, no violence, no jump
-scares. Safety tools in use.
+**Content warnings:** gun violence, cinematic and largely bloodless; a hostage
+situation played for tension rather than cruelty; 1980s attitudes left in, not
+endorsed. Outgunned characters do not die without their player choosing it.
+Safety tools in use.
 
 ---
 
 ## Submission checklist
 
 - [ ] Slot times confirmed against the published 2027 schedule
-- [ ] Decide whether DEAD AIR is listed as a linked series with booking priority,
-      and whether the two Blade Runner games get the same treatment
-- [ ] **Six-player tables (Slots 6, 9, 12) confirmed against room capacity**
+- [ ] Decide whether the two Blade Runner games are listed as a linked pair with
+      booking priority
+- [ ] **The one six-player table (Slot 12) confirmed against room capacity**
 - [ ] Decide whether BLACK SUMMER stays in a 9am slot, and whether THE FAVOUR
       survives a 9am Sunday or swaps with THE PERPETUAL ORDER
 - [x] ~~Trailers hosted and linked~~ — 36 files live and public at
       `https://web.oneoffgames.com/trailers/contingency-2027/`,
       every URL returning 200 with `video/mp4` and byte-range support
 - [ ] "Pregens provided, no system knowledge needed" stated on every entry
-- [ ] Content warnings reviewed once more before submission — particularly the
-      DEAD AIR entries, where the historical material needs to be visible to a
-      player deciding whether to sit down
+- [ ] Content warnings reviewed once more before submission — particularly
+      CONTINUOUS SERVICE (lethality and body horror) and VIVA VOCE (mental
+      illness and involuntary committal), where a player needs to see it before
+      deciding to sit down

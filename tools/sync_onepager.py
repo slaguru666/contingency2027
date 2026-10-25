@@ -18,8 +18,20 @@ DST = os.path.join(ROOT, "README.md")
 START, END = "<!-- one-pager:start -->", "<!-- one-pager:end -->"
 
 # "THE NEW LIGHT - Cthulhu by Gaslight (1895) - Fri afternoon - 5 players"
-# "I. ASH & CONCRETE - Berlin, February 1946 - Thu evening"
-HEAD = re.compile(r"^((?:[IVX]+\. )?[A-Z][A-Z'’&:, \-]*[A-Z]) - (.+)$")
+# Split on the FIRST " - ": a greedy regex swallowed "ALIEN RPG" into the title
+# of "CONTINUOUS SERVICE - ALIEN RPG - ...", because an all-caps system name
+# looks exactly like more title.
+TITLE_OK = re.compile(r"^(?:[IVX]+\. )?[A-Z][A-Z'’&:, ]*[A-Z.]$")
+
+
+def split_head(line):
+    if " - " not in line:
+        return None
+    name, meta = line.split(" - ", 1)
+    name = name.strip()
+    if not TITLE_OK.match(name):
+        return None
+    return name, meta
 
 
 def build():
@@ -29,10 +41,10 @@ def build():
         lines = [l.rstrip() for l in para.strip().split("\n") if l.strip()]
         if not lines:
             continue
-        m = HEAD.match(lines[0])
+        m = split_head(lines[0])
         if not m:
             continue
-        name, meta = m.group(1), m.group(2)
+        name, meta = m
         body = " ".join(lines[1:]).strip()
         if not body:
             continue

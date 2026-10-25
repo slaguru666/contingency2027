@@ -1,4 +1,4 @@
-# [Contingency 2027 — Slot 1] THE LONDON PARTICULAR
+# [Contingency 2027 — Slot 6] THE LONDON PARTICULAR
 
 > *It does not hunt you. It only goes where the air is thick enough to carry it.*
 
@@ -8,7 +8,8 @@
 
 ## Overview
 
-- **Slot:** Wednesday 27 January 2027, morning — **the convention's first game**
+- **Slot:** Thursday 28 January 2027, **evening** (moved 2026-10-25)
+  — a night-time fog hunt now actually runs at night, which is a straight gain
 - **System:** Call of Cthulhu 7e — Cthulhu by Gaslight, December 1896
 - **Setting:** London, in the worst fog winter since '79. Limehouse, Bow, the
   Lea marshes, the river, and whichever districts the fog takes next.

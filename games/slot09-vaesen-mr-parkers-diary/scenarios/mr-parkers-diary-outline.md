@@ -1,4 +1,4 @@
-# [Contingency 2027 — Slot 7] THE CURIOUS CASE OF MR PARKER'S DIARY
+# [Contingency 2027 — Slot 9] THE CURIOUS CASE OF MR PARKER'S DIARY
 
 > *The last twenty pages are in his hand. He has been dead a month.*
 
@@ -8,7 +8,9 @@
 
 ## Overview
 
-- **Slot:** Saturday 30 January 2027, afternoon
+- **Slot:** Friday 29 January 2027, **evening** (revived from the parked set
+  2026-10-25; it was written for a Saturday afternoon and the night slot suits
+  it better — a lamplit game in a lamplit room)
 - **System:** Vaesen — Nordic Horror Roleplaying (Free League)
 - **Setting:** the Mythic North, February 1901. The Society's castle in Upsala,
   then **Hällvattnet**, a sawmill parish in northern Sweden, in the fortnight of
@@ -161,5 +163,6 @@ telegram.
    English — the outsider is the point, and the Society is used to English
    correspondents.
 4. Four players or five? Vaesen's Society archetypes reward five. Four is the
-   current call — it is the smallest table on the slate, deliberately, sitting
-   between two six-player Dead Air nights.
+   current call — it is the smallest table on the slate, deliberately. Worth
+   revisiting now that it holds a **Friday night** rather than a Saturday
+   afternoon: evening slots at this convention have tended to fill.

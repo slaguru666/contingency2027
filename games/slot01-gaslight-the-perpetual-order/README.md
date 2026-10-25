@@ -1,4 +1,4 @@
-# Slot 14 · Sun 31 Jan, afternoon — THE PERPETUAL ORDER
+# Slot 1 · Wed 27 Jan, morning — THE PERPETUAL ORDER
 
 *A banker's order has paid the rent on vault 114 every quarter since 1794.*
 
@@ -18,9 +18,10 @@ desk playtest ×2 · print pack. **One location, no art pipeline, no set-piece
 page** — the second-cheapest build on the slate after
 [THE SIX O'CLOCK SITTING](../slot03-gaslight-six-oclock-sitting/).
 
-**Distinct from DEAD AIR III** (Saturday night, also about something arriving out
-of the past): that one is a city, a crowd and a broadcast. This is four people
-and a padlock.
+**It now opens the convention.** A single location, four players, no violence
+and a padlock is a forgiving first game for a table that has just put its bags
+down — but it was written as the quiet *last* game of the week, and Act Three
+still reads that way. Reread it against a Wednesday 9am before v1.
 
 ---
 *Call of Cthulhu and Cthulhu by Gaslight © Chaosium Inc. Private convention play

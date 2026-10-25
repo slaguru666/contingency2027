@@ -1,4 +1,4 @@
-# Slot 7 · Sat 30 Jan, afternoon — THE CURIOUS CASE OF MR PARKER'S DIARY
+# Slot 9 · Fri 29 Jan, evening — THE CURIOUS CASE OF MR PARKER'S DIARY
 
 *The last twenty pages are in his hand. He has been dead a month.*
 
@@ -18,3 +18,8 @@ the players) · the burnt parish register · art · desk playtest ×2 · print p
 ---
 *Vaesen © Free League Publishing, based on the work of Johan Egerkrans. Private
 convention play materials — not for sale or distribution.*
+
+**Revived 2026-10-25** from `archive/` when the slate changed. It was parked in
+an earlier revision, not abandoned — the outline is intact and was written to
+the house format. It moves from a Saturday afternoon to the **Friday night**
+slot, which suits it: one parish, one frozen lake, one document, after dark.

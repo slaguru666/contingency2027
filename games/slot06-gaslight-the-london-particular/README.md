@@ -1,4 +1,4 @@
-# Slot 1 · Wed 27 Jan, morning — THE LONDON PARTICULAR
+# Slot 6 · Thu 28 Jan, evening — THE LONDON PARTICULAR
 
 *Four nights of fog. Four deaths. Tonight is the thickest fog of the winter.*
 

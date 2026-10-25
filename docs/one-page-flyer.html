@@ -20,7 +20,7 @@
     background:var(--paper);
     color:var(--ink);
     font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
-    font-size:9.3pt;
+    font-size:10.0pt;
     line-height:1.3;
     -webkit-font-smoothing:antialiased;
   }
@@ -34,8 +34,8 @@
   header{
     text-align:center;
     border-bottom:2.5pt solid var(--ink);
-    padding-bottom:2.3mm;
-    margin-bottom:2.3mm;
+    padding-bottom:2.2mm;
+    margin-bottom:2.2mm;
   }
   .kicker{
     font-size:7.2pt;
@@ -62,7 +62,7 @@
   .standfirst{
     margin:2.8mm 0 3.2mm;
     text-align:center;
-    font-size:9.5pt;
+    font-size:10.2pt;
     padding:0 6mm;
   }
   .standfirst b{ color:var(--accent); }
@@ -71,39 +71,32 @@
   .games{ display:flex; gap:6mm; align-items:stretch; }
   .games .col{ flex:1 1 0; min-width:0; }
   .games .col + .col{ border-left:.5pt solid var(--rule); padding-left:6mm; }
-  .parts{
-    column-count:3;
-    column-gap:6mm;
-    column-rule:.5pt solid var(--rule);
-  }
   .game{
     break-inside:avoid;
     page-break-inside:avoid;
-    padding-bottom:1.9mm;
-    margin-bottom:1.9mm;
+    padding-bottom:2.2mm;
+    margin-bottom:2.2mm;
     border-bottom:.5pt solid var(--rule);
   }
-  .col .game:last-child,
-  .parts .game{ border-bottom:none; margin-bottom:0; padding-bottom:0; }
+  .col .game:last-child{ border-bottom:none; margin-bottom:0; padding-bottom:0; }
 
   .slot{
-    font-size:7pt;
-    letter-spacing:.16em;
+    font-size:7.1pt;
+    letter-spacing:.11em;
     text-transform:uppercase;
     color:var(--accent);
     font-weight:700;
     margin-bottom:.7mm;
   }
   .game h2{
-    font-size:11.8pt;
+    font-size:12.4pt;
     line-height:1.04;
     margin:0 0 .9mm;
     font-weight:600;
     letter-spacing:.01em;
   }
-  .parts .game h2{ font-size:11.8pt; }
   .sys{
-    font-size:7.4pt;
+    font-size:7.8pt;
     letter-spacing:.04em;
     text-transform:uppercase;
     color:var(--muted);
@@ -111,34 +104,6 @@
   }
   .hook{ margin:0; }
   .hook em{ color:var(--accent); font-style:italic; }
-
-  /* ---------- trilogy banner ---------- */
-  .tri{
-    margin:2mm 0 1.6mm;
-    padding:2mm 4mm;
-    background:#f2ece2;
-    border-top:1.6pt solid var(--accent);
-    border-bottom:1.6pt solid var(--accent);
-    text-align:center;
-  }
-  .tri .th{
-    font-size:13.5pt;
-    letter-spacing:.16em;
-    text-transform:uppercase;
-    font-weight:600;
-    color:var(--accent);
-    line-height:1;
-    margin-bottom:1.4mm;
-  }
-  .tri .ts{
-    font-size:7.5pt;
-    letter-spacing:.16em;
-    text-transform:uppercase;
-    color:var(--muted);
-    margin-bottom:2mm;
-  }
-  .tri p{ margin:0; padding:0 4mm; }
-  .tri em{ color:var(--accent); font-style:italic; }
 
   /* ---------- footer ---------- */
   footer{
@@ -177,8 +142,8 @@
   </header>
 
   <p class="standfirst">
-    <b>Twelve games, run by Tim Evans.</b> Four-hour slots, pre-generated characters,
-    no system knowledge needed, safety tools at every table.
+    <b>Twelve games across nine systems, run by Tim Evans.</b> Four-hour slots, pre-generated
+    characters, no system knowledge needed, safety tools at every table.
   </p>
 
   <div class="games">
@@ -186,10 +151,10 @@
     <div class="col">
 
     <div class="game">
-      <div class="slot">Wed &middot; Morning &middot; 5 players</div>
-      <h2>The London Particular</h2>
-      <div class="sys">Cthulhu by Gaslight &mdash; 1896</div>
-      <p class="hook">Four nights of fog, four deaths, nothing connecting them &mdash; until somebody fetches the Meteorological Office&rsquo;s fog register. Each died exactly where the fog lay thickest. <em>Tonight&rsquo;s is the worst of the winter, and it will not lift before dawn.</em></p>
+      <div class="slot">Wed &middot; Morning &middot; 4 players</div>
+      <h2>The Perpetual Order</h2>
+      <div class="sys">Cthulhu by Gaslight &mdash; 1895</div>
+      <p class="hook">A banker&rsquo;s order has paid the rent on vault 114 every quarter since 1794. The wharf was built in 1829. Inside are a hundred and one identical crates, <em>and every one of them is the same Friday in June.</em></p>
     </div>
 
     <div class="game">
@@ -206,10 +171,6 @@
       <p class="hook">Mrs Veale will not be difficult, and she isn&rsquo;t: by seven you have the cabinet, the thread and the whole shabby machine. <em>What you do not have is how she knew the contents of a letter that was never posted.</em></p>
     </div>
 
-    </div>
-
-    <div class="col">
-
     <div class="game">
       <div class="slot">Thu &middot; Morning &middot; 5 players</div>
       <h2>Black Summer: Last Flight Out</h2>
@@ -217,18 +178,36 @@
       <p class="hook">New York, six weeks after the fall. The last plane leaves a Brooklyn airfield at dawn and boarding needs a stamped chit with your face on it. Between the five of you, you have three.</p>
     </div>
 
+    </div>
+
+    <div class="col">
+
     <div class="game">
-      <div class="slot">Thu &middot; Afternoon &middot; 6 players</div>
-      <h2>Closing Weekend</h2>
-      <div class="sys">Call of Cthulhu &mdash; modern, 1986</div>
-      <p class="hook">Camp Loon Point, September 1986. The campers went home on Monday, the camp has been sold, and on Tuesday the bulldozers come for the boathouse. Eight counsellors stayed for one last night at the lake. <em>Expect to play more than one character.</em></p>
+      <div class="slot">Thu &middot; Afternoon &middot; 5 players</div>
+      <h2>Continuous Service</h2>
+      <div class="sys">ALIEN RPG &mdash; Cinematic</div>
+      <p class="hook">The ore hauler <i>Keelson</i> stopped answering eleven years ago, and you have the salvage contract. The manifest verifies. So does the payroll &mdash; forty-one crew, all clocked in, every shift paid since 2175. <em>Somebody aboard is still filing the timesheets.</em></p>
+    </div>
+
+    <div class="game">
+      <div class="slot">Thu &middot; Evening &middot; 5 players</div>
+      <h2>The London Particular</h2>
+      <div class="sys">Cthulhu by Gaslight &mdash; 1896</div>
+      <p class="hook">Four nights of fog, four deaths, nothing connecting them &mdash; until somebody fetches the Meteorological Office&rsquo;s fog register. Each died exactly where the fog lay thickest. <em>Tonight&rsquo;s is the worst of the winter.</em></p>
     </div>
 
     <div class="game">
       <div class="slot">Fri &middot; Afternoon &middot; 5 players</div>
-      <h2>The New Light</h2>
-      <div class="sys">Cthulhu by Gaslight &mdash; 1895</div>
-      <p class="hook">The brightest house in three counties: two hundred and twelve electric lamps and not a candle on the premises. The engineer who installed it was found in the long gallery with no mark on him. <em>The dark had to go somewhere.</em></p>
+      <h2>Viva Voce</h2>
+      <div class="sys">Call of Cthulhu &mdash; 1920s</div>
+      <p class="hook">Miskatonic University, 1927. Four hundred pages on the drainage of the Miskatonic valley. One examiner is in the Sanatorium and will not stop writing; one has gone deaf to a single sound; the third is perfectly well. <em>The viva is at three o&rsquo;clock.</em></p>
+    </div>
+
+    <div class="game">
+      <div class="slot">Fri &middot; Evening &middot; 4 players</div>
+      <h2>Mr Parker&rsquo;s Diary</h2>
+      <div class="sys">Vaesen &mdash; Nordic Horror</div>
+      <p class="hook">The Mythic North, February 1901: a sawmill parish in the fortnight when the lake is thickest. The last twenty pages of the diary are in Mr Parker&rsquo;s hand. <em>He has been dead a month.</em></p>
     </div>
 
     </div>
@@ -243,6 +222,13 @@
     </div>
 
     <div class="game">
+      <div class="slot">Sat &middot; Evening &middot; 6 players</div>
+      <h2>Closing Weekend</h2>
+      <div class="sys">Call of Cthulhu &mdash; modern, 1986</div>
+      <p class="hook">Camp Loon Point, September 1986. The campers went home on Monday, the camp has been sold, and on Tuesday the bulldozers come for the boathouse. Eight counsellors stayed for one last night at the lake. <em>Expect to play more than one character.</em></p>
+    </div>
+
+    <div class="game">
       <div class="slot">Sun &middot; Morning &middot; 5 players</div>
       <h2>The Favour</h2>
       <div class="sys">The Dee Sanction</div>
@@ -250,49 +236,19 @@
     </div>
 
     <div class="game">
-      <div class="slot">Sun &middot; Afternoon &middot; 4 players</div>
-      <h2>The Perpetual Order</h2>
-      <div class="sys">Cthulhu by Gaslight &mdash; 1895</div>
-      <p class="hook">A banker&rsquo;s order has paid the rent on vault 114 every quarter since 1794. The wharf was built in 1829. Inside are a hundred and one identical crates, <em>and every one of them is the same Friday in June.</em></p>
+      <div class="slot">Sun &middot; Afternoon &middot; 5 players</div>
+      <h2>Professional Courtesy</h2>
+      <div class="sys">Outgunned</div>
+      <p class="hook">Atlantic City, 1988. The Labor Day take from four casinos sits in the vault until Tuesday and you have spent eleven weeks on this. What you do not have is the vault &mdash; <em>another crew came through the roof nine minutes ago.</em></p>
     </div>
 
-    </div>
-
-  </div>
-
-  <div class="tri">
-    <div class="th">Dead Air</div>
-    <div class="ts">A Call of Cthulhu trilogy &middot; Thursday, Friday &amp; Saturday <b>evenings</b> &middot; 6 players</div>
-    <p>Under the Chancellery garden, below every level that appears on a captured plan, they built a room with walls the wrong shape. It was made to broadcast once, on the last night, to every loudspeaker still standing in Europe. They believed they were calling something. <em>They were the call.</em> <b>Each part stands completely alone.</b></p>
-  </div>
-
-  <div class="parts">
-
-    <div class="game">
-      <div class="slot">Thu &middot; Evening &middot; Part One</div>
-      <h2>I. Ash &amp; Concrete</h2>
-      <div class="sys">Berlin, February 1946</div>
-      <p class="hook">Six weeks of frozen filing cabinets, then a requisition for forty tons of concrete delivered to a building that was already finished. <em>There is a room under the bunker that is on nobody&rsquo;s plan.</em></p>
-    </div>
-
-    <div class="game">
-      <div class="slot">Fri &middot; Evening &middot; Part Two</div>
-      <h2>II. The Quiet City</h2>
-      <div class="sys">A closed city in the Urals, October 1962</div>
-      <p class="hook">On Monday the gates shut for an &ldquo;administrative period&rdquo;. On Tuesday a technician takes off his headphones and walks into the lake. <em>On Friday, at six in the morning, someone is going to close a switch.</em></p>
-    </div>
-
-    <div class="game">
-      <div class="slot">Sat &middot; Evening &middot; Part Three</div>
-      <h2>III. Full Volume</h2>
-      <div class="sys">Berlin, today</div>
-      <p class="hook">A lacquer disc sold at auction for four hundred euros to a producer who liked the label. He sampled fifteen seconds. You have almost certainly already heard it. <em>At midnight it closes a festival, live, to two hundred thousand people.</em></p>
     </div>
 
   </div>
 
   <footer>
     <span class="big">Booking opens on Warhorn &middot; sign-ups also taken at the event</span>
+    <span class="big" style="font-weight:600">Thirty-second trailers for every game: web.oneoffgames.com/trailers/contingency-2027</span>
     Contingency is a members-only event &mdash; membership &pound;10 per year, &pound;5 if you volunteered or GMed at a Wyrd Sisters event in the last year.<br>
     Every game is run with pre-generated characters and full content notes on its listing. Slot times as published in the event schedule.
   </footer>

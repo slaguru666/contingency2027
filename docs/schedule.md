@@ -21,77 +21,71 @@ content. Session clock counts play time only and pauses for the break.
 
 | # | Day | Session | Game | System | PCs |
 |---|---|---|---|---|---|
-| 1 | Wed 27 | Morning | THE LONDON PARTICULAR | CoC — **Gaslight** (1896) | 5 |
+| 1 | Wed 27 | Morning | THE PERPETUAL ORDER | CoC — **Gaslight** (1895) | 4 |
 | 2 | Wed 27 | Afternoon | AFTERIMAGE | Blade Runner RPG | 4 |
 | 3 | Wed 27 | Evening | THE SIX O'CLOCK SITTING | CoC — **Gaslight** (1894) | 4 |
-| 4 | Thu 28 | Morning | BLACK SUMMER — Last Flight Out | Walking Dead Universe (modified) | 5 |
-| 5 | Thu 28 | Afternoon | CLOSING WEEKEND | CoC 7e — **modern** (1986) | 6 |
-| 6 | Thu 28 | **Evening** | DEAD AIR I — Ash & Concrete | CoC 7e | 6 |
+| 4 | Thu 28 | Morning | BLACK SUMMER — Last Flight Out | TWDU (modified) | 5 |
+| 5 | Thu 28 | Afternoon | CONTINUOUS SERVICE | **ALIEN RPG** — Cinematic | 5 |
+| 6 | Thu 28 | **Evening** | THE LONDON PARTICULAR | CoC — **Gaslight** (1896) | 5 |
 | 7 | Fri 29 | Morning | *clear* | — | — |
-| 8 | Fri 29 | Afternoon | THE NEW LIGHT | CoC — **Gaslight** (1895) | 5 |
-| 9 | Fri 29 | **Evening** | DEAD AIR II — The Quiet City | CoC 7e | 6 |
+| 8 | Fri 29 | Afternoon | VIVA VOCE | CoC 7e — **1920s** | 5 |
+| 9 | Fri 29 | **Evening** | MR PARKER'S DIARY | **Vaesen** | 4 |
 | 10 | Sat 30 | Morning | *clear* | — | — |
 | 11 | Sat 30 | Afternoon | PAPER CHILDREN | Blade Runner RPG | 4 |
-| 12 | Sat 30 | **Evening** | DEAD AIR III — Full Volume | CoC 7e | 6 |
+| 12 | Sat 30 | **Evening** | CLOSING WEEKEND | CoC 7e — **modern** (1986) | 6 |
 | 13 | Sun 31 | Morning | THE FAVOUR | The Dee Sanction | 5 |
-| 14 | Sun 31 | Afternoon | THE PERPETUAL ORDER | CoC — **Gaslight** (1895) | 4 |
+| 14 | Sun 31 | Afternoon | PROFESSIONAL COURTESY | **Outgunned** | 5 |
 | 15 | Sun 31 | Evening | *clear* | — | — |
-
-**Twelve games, three clear slots.** Friday and Saturday mornings are the
-recovery days — they are what make twelve survivable, and they are not available
-for anything else.
 
 ## Why the slate sits this way
 
-- **DEAD AIR owns Thursday, Friday and Saturday nights.** Same session three
-  consecutive evenings: a player taking the whole arc books one time of day and
-  never clashes with themselves. Night suits the bleakest material on the slate.
-  Each part stands alone for drop-ins. Six players, the biggest tables of the week.
-- **Wednesday is a three-slot day and opens on a body.** A mobile Gaslight fog
-  hunt at 9am (legible in one line, opens in motion, forgiving of a table still
-  unpacking), a finished Blade Runner case in the afternoon that needs no prep at
-  all, and a one-room Gaslight séance at night. The busiest day of the week is
-  also the cheapest to run.
-- **Thursday is the heavy day, and it is now three horror games** — zombies → an
-  1986 slasher → Berlin 1946. The afternoon used to be a Pulp monster hunt doing
-  the honest work of a relief valve between Black Summer in the morning and Dead
-  Air I at night. **CLOSING WEEKEND has to do that job on register alone**: it is
-  the knowing, funny, generic one, and its first ninety minutes are written to be
-  played for laughs. If it is run as straight horror, Thursday is three grinds in
-  a row. This is the schedule's biggest remaining risk and it is a risk in the
-  writing, not in the grid.
-- **Friday and Saturday are two-game days** with the mornings clear. Deliberate
-  recovery after Thursday and before the Saturday night payoff.
-- **Sunday closes small.** The Dee Sanction game in the morning and the quietest
-  game on the slate in the afternoon, then nothing. People leave on Sunday; the
-  evening stays clear.
-- **The non-arc Cthulhu is four Gaslight plus one modern game.** The four
-  Gaslight sit at Slots 1, 3, 8 and 14; Slot 5 is modern-rules CoC set in 1986.
-  There is no Pulp. Slot 5 is the slate's second modern-era Cthulhu after DEAD AIR
-  III, and the two are not at risk of blurring: 1986 upstate New York against 2027
-  Berlin, a slasher against the end of a trilogy. The four Gaslight
-  games are split one mobile (Slot 1, a city-wide night hunt) and three contained
-  (a room, a house, a wharf) so the Victorian half of the week does not become
-  four versions of the same afternoon. The DEAD AIR trilogy is the only other
-  historical CoC and keeps the nights to itself.
+- **Nine systems across twelve games**, after the 2026-10-25 revision. Five
+  systems appear exactly once — ALIEN, Vaesen, Outgunned, The Dee Sanction and
+  The Walking Dead Universe — so five of the twelve share no rules refresher
+  with anything else on the slate. That is the single biggest change to the
+  preparation load and it is not visible in the game count.
+- **The DEAD AIR trilogy is gone**, and with it the three-linked-nights booking
+  story. The evenings are now four unrelated games: a séance, a fog hunt, a
+  Vaesen case and a slasher. That is more varied and less of a draw.
+- **Wednesday opens quiet.** A one-room Gaslight game with no violence at 9am is
+  forgiving of a table still unpacking — but THE PERPETUAL ORDER was written as
+  the convention's *closing* game and now opens it. Its Act Three still reads
+  that way.
+- **Thursday is the heavy day** — three new games and two of them survival
+  horror. BLACK SUMMER at 9am and CONTINUOUS SERVICE at 2pm are both lethal, and
+  the evening fog hunt is the only thing between them and a very grim day. Watch
+  the register at the first playtest.
+- **The fog hunt now runs at night**, which it always wanted. A straight gain.
+- **Friday and Saturday keep their clear mornings.** Deliberate recovery, and
+  the thing that makes twelve survivable.
+- **Saturday night is the slasher**, which is where it always belonged: the last
+  full evening, a table that has been drinking together for three days.
+- **Sunday closes loud, not quiet.** PROFESSIONAL COURTESY is an action comedy
+  in the slot that used to hold a silent Victorian wharf. Sending people home
+  laughing is defensible, but it is a change of character and somebody who has
+  run that slot before should be asked.
 
 ## GM load check
 
 | Day | Games | Notes |
 |---|---|---|
 | Wed | 3 | Twelve hours, but one of them (AFTERIMAGE) is finished and two are the cheapest builds on the slate |
-| Thu | 3 | **The hardest day of the convention.** Three new games, one of them Dead Air I |
+| Thu | 3 | **The hardest day of the convention.** Three new games, two of them lethal survival horror |
 | Fri | 2 | Morning clear |
 | Sat | 2 | Morning clear. Paper Children reuses AFTERIMAGE's pregens wholesale |
 | Sun | 2 | Both small; evening clear. THE FAVOUR at 9am is the pacing risk — see below |
 
 **Risk, stated plainly:** two three-slot days back to back is twelve hours of
-GMing on Wednesday and twelve on Thursday, the first two days of the convention,
-with the Dead Air trilogy still to come. The mitigations in the slate are real —
-Wednesday's cheap builds, the two clear mornings, the shared pregens — but if
-anything has to give during the con itself, **Slot 1 (The London Particular) is
-the one to drop**: it is the first game, before momentum exists, and the only slot where a
-cancellation costs the schedule nothing downstream.
+GMing on Wednesday and twelve on Thursday, the first two days of the convention.
+The mitigations in the slate are real — Wednesday's cheap builds, the two clear
+mornings, the shared Blade Runner pregens — but the 2026-10-25 revision made the
+*preparation* harder even though the game count did not move: nine systems, five
+of them appearing once, and no trilogy to amortise.
+
+If anything has to give during the con itself, **Slot 1 (THE PERPETUAL ORDER) is
+the one to drop**: it is the first game, before momentum exists, it is a single
+room with no art pipeline, and it is the only slot where a cancellation costs the
+schedule nothing downstream.
 
 ## Where the cheap builds are
 
@@ -112,27 +106,29 @@ That leaves full production on seven games, not twelve.
 
 | By | What |
 |---|---|
-| End Oct 2026 | All twelve outlines locked (**done**). DEAD AIR I at v1 — it is the earliest new game to hit the table |
-| End Nov 2026 | Wednesday's three at v1. DEAD AIR II at v1. Shared pregen sets built once: the Blade Runner four, the Dee Sanction agents |
-| End Dec 2026 | Everything at v1. DEAD AIR I–III desk-playtested, fixes applied |
+| End Oct 2026 | All twelve outlines locked (**done**, incl. three written 2026-10-25). THE PERPETUAL ORDER at v1 — it opens the convention |
+| End Nov 2026 | Wednesday's three at v1. Thursday's two new games at v1 — CONTINUOUS SERVICE needs deck plans and ALIEN agendas. Shared pregen sets built once: the Blade Runner four, the Dee Sanction agents |
+| End Dec 2026 | Everything at v1. The three newest (CONTINUOUS SERVICE, VIVA VOCE, PROFESSIONAL COURTESY) desk-playtested, fixes applied |
 | 10 Jan 2027 | All playtests done. Handouts and art complete. Print pack produced |
 | 20 Jan 2027 | Read-throughs done. Everything marked convention-ready |
 
-**Order of work, if time runs short:** the trilogy first (it is one production
-with three outputs and it carries three of the twelve slots), then Thursday's
-other two, then Wednesday, then Sunday. THE NEW LIGHT is the single easiest to
-postpone, because Friday has no other commitment around it.
+**Order of work, if time runs short:** the three newest outlines first
+(CONTINUOUS SERVICE, VIVA VOCE, PROFESSIONAL COURTESY — they have nothing drafted
+beneath them and they carry unfamiliar rule sets), then Thursday's other two,
+then Wednesday, then Sunday. **MR PARKER'S DIARY is the easiest to postpone**:
+it came back from the archive already outlined to the house format, and Friday
+has no other commitment around it.
 
 ## Open logistics questions
 
 1. Confirmed slot times from Warhorn — the table above is assumed, not verified.
-2. **Table size at Searles: four games seat six** — the DEAD AIR trilogy and
-   CLOSING WEEKEND. Confirm the game rooms take a six-player table comfortably,
-   or they drop to five. For CLOSING WEEKEND that costs a body, which costs the
+2. **Table size at Searles: one game seats six** — CLOSING WEEKEND (Slot 12).
+   Confirm the room takes a six-player table comfortably, or it drops to five,
+   which costs the slasher a body.
    genre something; for the trilogy it costs the 3+3 splits.
-3. Whether DEAD AIR can be flagged on Warhorn as a linked series with booking
-   priority for players taking all three nights, and whether the two Blade Runner
-   games get the same treatment.
+3. Whether the two Blade Runner games (Slots 2 and 11) can be flagged on
+   Warhorn as a linked pair with booking priority. There is no longer a trilogy
+   to ask this for.
 4. Power and table space for the GM console tablet in the evening rooms.
 5. **Is a 9am Black Summer the right call?** It is a bleak, high-lethality
    survival game in the convention's second morning slot. The alternative is to
