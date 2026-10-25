@@ -13,7 +13,12 @@ into `promo/` and are **not in git**; rebuild any of them with
 `tools/trailers/make_trailer.py`.
 
 **They are live and public**, served from the One Off Games VPS at
-`https://web.oneoffgames.com/trailers/contingency-2027/`. These are web
+`https://web.oneoffgames.com/trailers/contingency-2027/`, which is now a real
+page listing all twelve rather than a bare directory — that URL returned 403
+until 2026-10-25, and it is the URL printed on the flyer. The page is generated
+by `tools/build_trailer_site.py` from the specs and the one-pager (never
+hand-edited; `--check` fails if it is stale) and published with
+`tools/deploy_trailer_site.sh`, which verifies every asset link afterwards. These are web
 encodes — 1280×720 for the 16:9 cut, ~4–11 MB each — not the 1080p masters in
 `promo/`; at viewing size the two are indistinguishable. After any re-render,
 rebuild with `tools/web_encodes.sh` and rsync to
