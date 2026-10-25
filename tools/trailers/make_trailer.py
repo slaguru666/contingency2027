@@ -13,14 +13,18 @@ the voice, letter-spaced Futura for the furniture, one accent colour per game.
 No stock footage and no generated imagery -- every plate is drawn from seeded
 noise and arithmetic.
 
-Audio is synthesised here (numpy -> WAV): a drone, a pulse, a swell, one impact.
-Deliberately plain. If a game earns a bespoke bed, Haunt or Nexus can score it.
+Audio is synthesised here (numpy -> WAV). The structural layer -- drone, pulse,
+the swell into the title, the impact -- is built below and is locked to the
+frame timings. The music under it comes from score.py, which gives each game
+its own mode, progression, palette and motif. Render a bed on its own with
+--audio out.wav; it takes about a second, against a minute for the video.
 """
 import json, math, os, subprocess, sys, tempfile, wave
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 import backdrops
+import score
 
 FPS, DUR = 24, 30.0
 NFRAMES = int(FPS * DUR)
@@ -330,15 +334,43 @@ def build_audio(spec, path):
     if spec.get("shimmer"):
         x += 0.05 * np.sin(2 * np.pi * 2300 * t) * (0.5 + 0.5 * np.sin(2 * np.pi * 0.31 * t))
 
+    bed = score.render(spec, DUR, sr)
+    if bed is not None:
+        # The structural layer steps back so the music is the bed and the
+        # impact is still the event. Trimmed to length in case of rounding.
+        x = 0.55 * x + 1.0 * bed[:len(x)]
+
     x[:int(1.2 * sr)] *= np.linspace(0, 1, int(1.2 * sr))
     x[-int(2.0 * sr):] *= np.linspace(1, 0, int(2.0 * sr))
     x = np.tanh(x * 1.15)
-    x = x / (np.abs(x).max() + 1e-9) * 0.72
+    x = x / (np.abs(x).max() + 1e-9) * 0.89
 
     st = np.stack([x, x], axis=1)
     with wave.open(path, "wb") as f:
         f.setnchannels(2); f.setsampwidth(2); f.setframerate(sr)
         f.writeframes((st * 32767).astype("<i2").tobytes())
+    normalise_loudness(path, sr)
+
+
+# Peak normalisation is the wrong target for an advert. Twelve beds normalised
+# to the same PEAK measured -10.6 to -12.5 LUFS, so they would not have felt
+# equally loud next to each other, and all twelve sat above the -14 LUFS the
+# platforms turn things down to. ffmpeg's loudnorm is the reference
+# implementation of BS.1770, so it does the measuring rather than us.
+LUFS_TARGET, TRUE_PEAK = -14.0, -1.5
+
+
+def normalise_loudness(path, sr):
+    tmp = path + ".norm.wav"
+    r = subprocess.run(
+        ["ffmpeg", "-v", "error", "-y", "-i", path,
+         "-af", f"loudnorm=I={LUFS_TARGET}:TP={TRUE_PEAK}:LRA=11",
+         "-ar", str(sr), "-c:a", "pcm_s16le", tmp],
+        capture_output=True)
+    if r.returncode != 0 or not os.path.exists(tmp):
+        sys.stderr.write("loudnorm failed, keeping un-normalised audio\n")
+        return
+    os.replace(tmp, path)
 
 
 # ------------------------------------------------------------------- preflight
@@ -402,6 +434,12 @@ def main():
         note = "" if (r.size == L2.title_start and len(ls) == 1) else \
             f" (title {r.size}pt, {len(ls)} line{'s' if len(ls) > 1 else ''})"
         print(f"preflight ok: {spec['slug']} @ {aspect}{note}")
+        return
+
+    if "--audio" in av:
+        out = av[av.index("--audio") + 1]
+        build_audio(spec, out)
+        print("wrote", out)
         return
 
     if "--still" in av:
