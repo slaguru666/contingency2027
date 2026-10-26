@@ -41,5 +41,9 @@
   "root_hz": 61.7,
   "shimmer": true,
   "seed": 1901,
-  "backdrop_gain": 0.8
+  "backdrop_gain": 0.8,
+  "fonts": {
+    "voice": "hoefler",
+    "furniture": "futura"
+  }
 }

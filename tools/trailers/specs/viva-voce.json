@@ -40,5 +40,9 @@
   "grain": 6.0,
   "root_hz": 58.3,
   "shimmer": true,
-  "seed": 1927
+  "seed": 1927,
+  "fonts": {
+    "voice": "baskerville",
+    "furniture": "copperplate"
+  }
 }

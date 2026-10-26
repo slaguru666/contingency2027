@@ -39,5 +39,9 @@
   "grain": 4.0,
   "root_hz": 49.0,
   "seed": 2037,
-  "backdrop": "rain"
+  "backdrop": "rain",
+  "fonts": {
+    "voice": "din",
+    "furniture": "pt-mono"
+  }
 }

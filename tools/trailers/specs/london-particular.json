@@ -39,5 +39,9 @@
   "grain": 5.5,
   "root_hz": 61.7,
   "seed": 1896,
-  "backdrop": "fog"
+  "backdrop": "fog",
+  "fonts": {
+    "voice": "bodoni",
+    "furniture": "futura"
+  }
 }

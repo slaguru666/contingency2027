@@ -39,5 +39,9 @@
   "grain": 6.5,
   "root_hz": 58.3,
   "seed": 1587,
-  "backdrop": "woodcut"
+  "backdrop": "woodcut",
+  "fonts": {
+    "voice": "cochin",
+    "furniture": "futura"
+  }
 }

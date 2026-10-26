@@ -30,6 +30,62 @@ FPS, DUR = 24, 30.0
 NFRAMES = int(FPS * DUR)
 SUP = "/System/Library/Fonts/Supplemental/"
 DIDOT, FUTURA = SUP + "Didot.ttc", SUP + "Futura.ttc"
+
+# Per-game typography. The template used to be one look for twelve games;
+# these let a Gaslight seance and an ALIEN salvage job stop sharing a face.
+# "voice" sets the title and the hook, "furniture" the letter-spaced caps.
+FACES = {
+    "didot":         (SUP + "Didot.ttc", 0),            # Victorian didone
+    "bodoni":        (SUP + "Bodoni 72.ttc", 0),        # didone, colder
+    "baskerville":   (SUP + "Baskerville.ttc", 0),      # scholarly, 18th c.
+    "hoefler":       (SUP + "Hoefler Text.ttc", 0),     # old style, literary
+    "big-caslon":    (SUP + "BigCaslon.ttf", 0),        # period English
+    "copperplate":   (SUP + "Copperplate.ttc", 0),      # engraved: legal, banking
+    "clarendon":     (SUP + "SuperClarendon.ttc", 0),   # slab: playbill, VHS
+    "rockwell":      (SUP + "Rockwell.ttc", 0),         # geometric slab, 1934
+    "futura":        (SUP + "Futura.ttc", 0),           # geometric sans
+    "din":           (SUP + "DIN Alternate Bold.ttf", 0),   # technical
+    "din-condensed": (SUP + "DIN Condensed Bold.ttf", 0),   # utility, stencil-ish
+    "cochin":        (SUP + "Cochin.ttc", 0),           # period, high contrast
+    "trattatello":   (SUP + "Trattatello.ttf", 0),      # chancery hand, 16th c.
+    # Trattatello is period-perfect for 1587 and unusable on an advert: its
+    # calligraphic F reads as a different letter, so THE FAVOUR did not say
+    # THE FAVOUR. Legibility beats atmosphere on something whose whole job is
+    # to be read once, at speed, by a stranger.
+    "pt-mono":       (SUP + "PTMono.ttc", 0),           # readout
+    "andale-mono":   (SUP + "Andale Mono.ttf", 0),      # terminal
+}
+
+# Cap heights run from 53 (Copperplate) to 76 (Futura) at the same point size,
+# so setting every face at the same size would make some games quietly smaller
+# than others. Normalise on cap height against Didot, which the layout was
+# measured against, and the twelve read at one optical size.
+_REF_CAP = 71.0
+_caps = {}
+
+
+def cap_scale(face):
+    if face not in _caps:
+        path, idx = FACES[face]
+        f = ImageFont.truetype(path, 100, index=idx)
+        d = ImageDraw.Draw(Image.new("L", (8, 8)))
+        bb = d.textbbox((0, 0), "H", font=f)
+        # Clamped: normalisation should nudge an optical mismatch, not
+        # transform a face. Copperplate measures a 53 cap and wanted 1.34x,
+        # which made its hooks 1743px against a 1421px measure -- wide enough
+        # to fail preflight outright.
+        _caps[face] = min(1.15, max(0.90, _REF_CAP / float(bb[3] - bb[1])))
+    return _caps[face]
+
+
+def spec_faces(spec):
+    f = spec.get("fonts") or {}
+    voice, furn = f.get("voice", "didot"), f.get("furniture", "futura")
+    for n in (voice, furn):
+        if n not in FACES:
+            sys.exit(f"{spec['slug']}: unknown face {n!r}; "
+                     f"known: {', '.join(sorted(FACES))}")
+    return voice, furn
 BG = np.array([7, 7, 10], np.float32)
 ASPECTS = {"16:9": (1920, 1080), "9:16": (1080, 1920), "1:1": (1080, 1080)}
 SUFFIX = {"16:9": "", "9:16": "-vertical", "1:1": "-square"}
@@ -76,8 +132,12 @@ class Layout:
     """Type metrics for one frame size. Everything is a fraction of W or H, so
     the same spec composes at 1920x1080 and at 1080x1920."""
 
-    def __init__(self, W, H):
+    def __init__(self, W, H, voice="didot", furniture="futura"):
         self.W, self.H = W, H
+        self.voice, self.furniture = voice, furniture
+        self.vpath, self.vidx = FACES[voice]
+        self.fpath, self.fidx = FACES[furniture]
+        vs, fs = cap_scale(voice), cap_scale(furniture)
         # 16:9 is the only wide frame; 9:16 and 1:1 both get the compact metrics
         # and re-wrap their own lines.
         self.wide = (W / H) >= 1.4
@@ -101,26 +161,37 @@ class Layout:
             self.slug_track, self.sys_track = 9, 7
             self.book_track, self.small_track = 11, 6
             self.rule_half = W * 0.245
+        # optical normalisation: title and hook follow the voice, the
+        # letter-spaced furniture follows its own face
+        for a in ("hook_size", "title_start", "title_floor"):
+            setattr(self, a, int(getattr(self, a) * vs))
+        for a in ("slug_size", "sys_size", "book_size", "small_size"):
+            setattr(self, a, int(getattr(self, a) * fs))
+        self.vscale = vs
+
         # vertical anchors, as fractions of H
         self.title_cy = H / 2 - 0.089 * H
         self.rule_dy = 0.089 * H
         self.sys_dy = 0.139 * H
         self.book_dy = (0.148 * H, 0.196 * H, 0.237 * H)
 
-    def f_hook(self):  return font(DIDOT, self.hook_size)
-    def f_slug(self):  return font(FUTURA, self.slug_size)
-    def f_sys(self):   return font(FUTURA, self.sys_size)
-    def f_book(self):  return font(FUTURA, self.book_size)
-    def f_small(self): return font(FUTURA, self.small_size)
+    def _v(self, size):  return font(self.vpath, size, self.vidx)
+    def _f(self, size):  return font(self.fpath, size, self.fidx)
+
+    def f_hook(self):  return self._v(self.hook_size)
+    def f_slug(self):  return self._f(self.slug_size)
+    def f_sys(self):   return self._f(self.sys_size)
+    def f_book(self):  return self._f(self.book_size)
+    def f_small(self): return self._f(self.small_size)
 
     def fit_title(self, d, text, track=10):
         """Titles run from 'The Favour' to 'The Six O'Clock Sitting'. Returns
         (font, lines). Shrink to fit; in the narrow frame, break to two lines
         rather than shrink past legibility -- 54pt on a phone is not a title."""
-        comfy = int(self.W * (0.0396 if self.wide else 0.072))
+        comfy = int(self.W * (0.0396 if self.wide else 0.072) * self.vscale)
         size = self.title_start
         while size > comfy:
-            f = font(DIDOT, size)
+            f = self._v(size)
             if tracked_width(d, text, f, track) <= self.title_max:
                 return f, [text]
             size -= 2
@@ -135,17 +206,17 @@ class Layout:
             lines = [" ".join(words[:best]), " ".join(words[best:])]
             size = self.title_start
             while size > self.title_floor:
-                f = font(DIDOT, size)
+                f = self._v(size)
                 if max(tracked_width(d, l, f, track) for l in lines) <= self.title_max:
                     return f, lines
                 size -= 2
         size = self.title_floor
         while size > 20:
-            f = font(DIDOT, size)
+            f = self._v(size)
             if tracked_width(d, text, f, track) <= self.title_max:
                 return f, [text]
             size -= 2
-        return font(DIDOT, 20), [text]
+        return self._v(20), [text]
 
     def hook_lines(self, d, txt):
         """Piped breaks are authored for the wide frame; the narrow one re-wraps
@@ -195,7 +266,7 @@ def lit(c, a):
 class Renderer:
     def __init__(self, spec, W, H):
         self.spec, self.W, self.H = spec, W, H
-        self.L = Layout(W, H)
+        self.L = Layout(W, H, *spec_faces(spec))
         self.accent = tuple(spec["accent"])
         self.ink = (233, 230, 224)
         self.bd = backdrops.make_backdrop(
@@ -378,7 +449,7 @@ def normalise_loudness(path, sr):
 def preflight(spec, W, H):
     """Measure every line that will be drawn. A clipped line is invisible as a
     bug -- the file still comes out exactly thirty seconds long -- so fail here."""
-    L = Layout(W, H)
+    L = Layout(W, H, *spec_faces(spec))
     d = ImageDraw.Draw(Image.new("RGB", (W, H)))
     bad = []
     safe_hook = L.measure
@@ -429,7 +500,7 @@ def main():
         sys.exit(1)
 
     if "--check" in av:
-        L2 = Layout(W, H)
+        L2 = Layout(W, H, *spec_faces(spec))
         r, ls = L2.fit_title(ImageDraw.Draw(Image.new("RGB", (W, H))), spec["title"].upper())
         note = "" if (r.size == L2.title_start and len(ls) == 1) else \
             f" (title {r.size}pt, {len(ls)} line{'s' if len(ls) > 1 else ''})"

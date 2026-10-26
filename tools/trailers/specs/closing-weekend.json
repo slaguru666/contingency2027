@@ -40,5 +40,9 @@
       "!Expect to play more than one of them|before the night is over."
     ]
   ],
-  "backdrop": "vhs"
+  "backdrop": "vhs",
+  "fonts": {
+    "voice": "clarendon",
+    "furniture": "futura"
+  }
 }

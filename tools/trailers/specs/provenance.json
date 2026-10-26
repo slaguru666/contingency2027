@@ -39,5 +39,9 @@
       21.7,
       "!They are putting it back,|and they are entirely within their rights."
     ]
-  ]
+  ],
+  "fonts": {
+    "voice": "rockwell",
+    "furniture": "futura"
+  }
 }

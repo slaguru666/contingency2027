@@ -40,5 +40,9 @@
   "root_hz": 65.4,
   "shimmer": true,
   "seed": 1894,
-  "backdrop": "seance"
+  "backdrop": "seance",
+  "fonts": {
+    "voice": "didot",
+    "furniture": "copperplate"
+  }
 }

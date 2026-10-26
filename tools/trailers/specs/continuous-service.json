@@ -39,5 +39,9 @@
   "chroma": 1,
   "grain": 5.0,
   "root_hz": 43.7,
-  "seed": 2186
+  "seed": 2186,
+  "fonts": {
+    "voice": "futura",
+    "furniture": "andale-mono"
+  }
 }
