@@ -133,8 +133,31 @@ Particular* and *The Six O'Clock Sitting* land at 104pt.
   of it spent encoding grain. Coarse grain also looks more like film.
 - **Accent colours need to be brighter than they look on paper.** The flyer's
   red vanished against near-black at 64pt.
-- Audio is synthesised in the script — drone, pulse, swell, one impact. It is
-  deliberately plain. If a game earns a real bed, Haunt or Nexus can score it.
+- **Audio is two layers.** `make_trailer.py` builds the structural one — drone,
+  pulse, the swell into the title, the impact — locked to the frame timings.
+  `score.py` builds the music under it: a mode, a chord progression, a voice
+  palette and a motif per game, pitched from the `root_hz` each spec already
+  carried. Twelve scores, not one bed twelve times. Render a bed alone with
+  `--audio out.wav` in about three seconds, against a minute for the video.
+- **Haunt and Nexus could not do this job.** They were the obvious candidates —
+  Nexus is literally a cinematic score workstation with Alien and Blade Runner
+  scenes — but **neither has any audio export**, and Drift's "Bounce" is a
+  real-time `ScriptProcessor` capture of the live master, so it records in
+  wall-clock time and catches whatever the generative engine happened to play.
+  Using them would have meant twelve hand-performed WAVs as binary assets, and
+  the specs would no longer reproduce the set. Scoring in numpy keeps that.
+- **Normalise to loudness, not peak.** Twelve beds normalised to the same peak
+  measured -10.6 to -12.5 LUFS: they would not have felt equally loud next to
+  each other, and all twelve sat above the -14 LUFS the platforms turn things
+  down to. `loudnorm` now lands every one within 0.6 LU of -14, true peak under
+  -4 dB. ffmpeg owns the measuring because it is the reference BS.1770 code.
+- **How to check a bed without ears.** Each one's fundamental must sit on its
+  spec's `root_hz` (all twelve are within 1.3 cents), nothing may clip, and the
+  spectral centroid should differ across the set — it spans 840 Hz for Black
+  Summer to 1849 Hz for Closing Weekend, which is evidence the twelve are
+  *distinct*, not evidence any of them is *good*. That still needs a person.
+  When one sounded wrong, the decisive test was a three-way A/B of the same
+  thirty seconds: old mix, new mix, and the bed alone.
 - **Calibrate a guard against real content, not invented content.** The first
   two strings I wrote to test the width check measured 1554px and 1503px against
   thresholds of 1560 and 1760 -- they passed, and the guard looked broken when it
