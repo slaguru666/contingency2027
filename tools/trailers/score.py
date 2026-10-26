@@ -263,13 +263,17 @@ SCORES = {
           (23.0,3.4,24,.30)],
    drone=.40, chord=.32, mot=.26, rev=(4.8,2.6,2600,.46), motoct=2),
 
- # Paper Children shares Afterimage's pitch and family on purpose -- the
- # sister case. Slower, higher, sadder.
+ # Paper Children is Afterimage's sister case and must sound like it. It did
+ # not: `glass` is about half `pad`'s amplitude at the same gain, and the motif
+ # sat at 1568-1865 Hz, above its sibling and in a thinner register. Same voice
+ # and same register now; it stays distinct by falling further -- 1243 -> 933
+ # against Afterimage's shallower 1397 -> 1175. Sadder by contour, not by being
+ # quieter.
  "paper-children": dict(
-   chord_voice="pad", motif_voice="glass", mode="aeolian",
+   chord_voice="pad", motif_voice="pad", mode="aeolian",
    chords=[(0,13,[0,7,15,22]),(13,9,[0,10,15,19]),(22,8,[0,7,15,22])],
-   motif=[(10.0,3.4,27,.30),(16.0,3.2,26,.28),(22.0,4.2,24,.26)],
-   drone=.42, chord=.34, mot=.22, rev=(4.2,3.2,3000,.50), motoct=2),
+   motif=[(10.0,3.4,20,.34),(16.0,3.2,17,.32),(22.0,4.2,15,.30)],
+   drone=.44, chord=.34, mot=.22, rev=(4.2,3.2,3200,.50), motoct=2),
 
  # 1986. The one with a pulse: a Carpenter ostinato that does not let up.
  "closing-weekend": dict(
