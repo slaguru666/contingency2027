@@ -4,18 +4,18 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 
 | # | Slot | Game | PCs | Outline | Scenario v1 | Pregens | Handouts | Art | Playtest | Print | Console |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | — | — | — | n/a | — | — | — |
+| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
 | 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×3 | ◐ reprint | ◐ port |
-| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | — | — | — | n/a | — | — | — |
-| 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | — | — | — | — | — | — | — |
-| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | — | — | — | — | — | — | — |
-| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | — | — | — | — | — | — | — |
-| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 4–6 | ✔ | — | — | — | — | — | — | — |
-| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4–6 | ✔ | — | — | — | — | — | — | — |
-| 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | — | *(shared)* | — | *(shared)* | — | — | *(shared)* |
-| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 4–6 | ✔ | — | — | — | — | — | — | — |
-| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | — | *(reuse)* | — | — | — | — | — |
-| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | — | — | — | — | — | — | — |
+| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
+| 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
+| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
+| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
+| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
+| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
+| 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | ✔ | *(shared)* | — | ◐ generating | — | — | *(shared)* |
+| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
+| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | ✔ | *(reuse)* | — | ◐ generating | — | — | — |
+| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
 
 **A game is convention-ready when:** the scenario is at v2 or later, pregens are
 audited against the rules, handouts and art are produced, it has survived at
@@ -27,20 +27,32 @@ where the cheap builds are.
 
 ## Decisions blocking work
 
+**Nine of the twelve were answered by writing the v1s on 2026-11-02.** Each
+answer is recorded in its own scenario's *Open questions — resolved for v1*
+block, which is the authority; this table is the index.
+
+### Still open — and these are Tim's, not writing decisions
+
 | # | Question | Blocks |
 |---|---|---|
 | 1 | Confirmed Warhorn slot times | Everything downstream of the grid |
-| 2 | **Do the Searles game rooms seat six?** Was one game; since 2026-10-25 it is **ten** — every non-Blade-Runner game is now 4–6. | Pregen counts on ten games |
-| 3 | Which TWDU book edition is at the table? | BLACK SUMMER Runner stat block |
-| 4 | **Is the mask's rule discovered in Act Two, or told up front?** | CLOSING WEEKEND Act Two — blocks drafting |
-| 5 | Does Pilar Lindqvist (age 9) stay as written? | PAPER CHILDREN Act Two |
-| 6 | **How many creatures in CONTINUOUS SERVICE?** Cinematic ALIEN tends to one, escalating. | The *Keelson* deck plan's choke points |
-| 7 | **How far does VIVA VOCE's Extract Three go?** It must unsettle without being a party trick. | The handout that carries that whole game |
-| 8 | **What comes out of the niche, and how much is ever shown?** Current call: described by effect only, never statted. | PROVENANCE Act Three |
-| 9 | THE PERPETUAL ORDER was written as the quiet *closing* game and now opens the week. | Its Act Three framing |
+| 2 | **Do the Searles game rooms seat six?** Every non-Blade-Runner game is now 4–6. | Pregen counts on ten games |
 | 10 | Is a 9am BLACK SUMMER right, or does it swap with CONTINUOUS SERVICE? | Nothing — but decide before Warhorn submission |
-| 11 | MR PARKER'S DIARY at four players or five, now it holds an evening? | Vaesen pregen count |
 | 12 | **Does the convention want a loud Sunday closer?** PROVENANCE replaced a deliberately quiet last game. | Nothing — but ask someone who has run that slot |
+
+### Resolved in v1
+
+| # | Question | Answer |
+|---|---|---|
+| 3 | Which TWDU book edition is at the table? | **The core rules.** `The_Walking_Dead_RPG_Core_Rules.pdf` is on disk and is what BLACK SUMMER is written against — path cited in that scenario. Note that **TWDU has no mechanic called a "Journey"**; the word is now marked house shorthand in the text |
+| 4 | Is the mask's rule discovered in Act Two, or told up front? | **Up front**, on a **genre-rules card** read aloud in the Introduction |
+| 5 | Does Pilar Lindqvist (age 9) stay as written? | **Yes, with a written protocol**: never present, never threatened, never on screen |
+| 6 | How many creatures in CONTINUOUS SERVICE? | **One resident creature, four escalation rungs** |
+| 7 | How far does VIVA VOCE's Extract Three go? | **All four Extracts are now written in full** in the scenario, so the question is answerable by reading them |
+| 8 | What comes out of the niche in PROVENANCE? | **Three effects and nothing else, then cut.** Never statted, never fought, never depicted |
+| 9 | THE PERPETUAL ORDER's framing, now it opens the week | **Rewritten.** Design intent 2 replaced and the valedictory note cut from Act Three |
+| 11 | MR PARKER'S DIARY at four players or five? | **Six sheets, build for six, play at four** |
+| — | **Outgunned core or Outgunned Adventure?** *(raised while writing)* | **Adventure 1.1.** All six PROVENANCE sheets are built to it; the Run replaces core's Chase |
 
 ## Shared production
 

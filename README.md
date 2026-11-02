@@ -18,20 +18,20 @@ deliberately clear.
 
 | # | Day | Session | System | Game | PCs | Status |
 |---|---|---|---|---|---|---|
-| 1 | Wed 27 | Morning | CoC — **Gaslight** (1895) | [**THE PERPETUAL ORDER**](games/slot01-gaslight-the-perpetual-order/) | 4 | Outline |
+| 1 | Wed 27 | Morning | CoC — **Gaslight** (1895) | [**THE PERPETUAL ORDER**](games/slot01-gaslight-the-perpetual-order/) | 4 | **v1 — unplaytested** |
 | 2 | Wed 27 | Afternoon | Blade Runner RPG | [**AFTERIMAGE**](games/slot02-blade-runner-afterimage/) | 4 | **Port — con-ready (v2.2)** |
-| 3 | Wed 27 | Evening | CoC — **Gaslight** (1894) | [**THE SIX O'CLOCK SITTING**](games/slot03-gaslight-six-oclock-sitting/) | 4 | Outline |
-| 4 | Thu 28 | Morning | The Walking Dead Universe (modified) | [**BLACK SUMMER — Last Flight Out**](games/slot04-black-summer/) | 5 | Outline |
-| 5 | Thu 28 | Afternoon | **ALIEN RPG** — Cinematic | [**CONTINUOUS SERVICE**](games/slot05-alien-continuous-service/) | 5 | Outline |
-| 6 | Thu 28 | **Evening** | CoC — **Gaslight** (1896) | [**THE LONDON PARTICULAR**](games/slot06-gaslight-the-london-particular/) | 5 | Outline |
+| 3 | Wed 27 | Evening | CoC — **Gaslight** (1894) | [**THE SIX O'CLOCK SITTING**](games/slot03-gaslight-six-oclock-sitting/) | 4 | **v1 — unplaytested** |
+| 4 | Thu 28 | Morning | The Walking Dead Universe (modified) | [**BLACK SUMMER — Last Flight Out**](games/slot04-black-summer/) | 5 | **v1 — unplaytested** |
+| 5 | Thu 28 | Afternoon | **ALIEN RPG** — Cinematic | [**CONTINUOUS SERVICE**](games/slot05-alien-continuous-service/) | 5 | **v1 — unplaytested** |
+| 6 | Thu 28 | **Evening** | CoC — **Gaslight** (1896) | [**THE LONDON PARTICULAR**](games/slot06-gaslight-the-london-particular/) | 5 | **v1 — unplaytested** |
 | 7 | Fri 29 | Morning | — | *clear* | — | — |
-| 8 | Fri 29 | Afternoon | CoC 7e — **1920s** | [**VIVA VOCE**](games/slot08-coc-viva-voce/) | 5 | Outline |
-| 9 | Fri 29 | **Evening** | **Vaesen** | [**THE CURIOUS CASE OF MR PARKER'S DIARY**](games/slot09-vaesen-mr-parkers-diary/) | 4 | Outline |
+| 8 | Fri 29 | Afternoon | CoC 7e — **1920s** | [**VIVA VOCE**](games/slot08-coc-viva-voce/) | 5 | **v1 — unplaytested** |
+| 9 | Fri 29 | **Evening** | **Vaesen** | [**THE CURIOUS CASE OF MR PARKER'S DIARY**](games/slot09-vaesen-mr-parkers-diary/) | 4 | **v1 — unplaytested** |
 | 10 | Sat 30 | Morning | — | *clear* | — | — |
-| 11 | Sat 30 | Afternoon | Blade Runner RPG | [**PAPER CHILDREN**](games/slot11-blade-runner-paper-children/) — companion to AFTERIMAGE | 4 | Outline |
-| 12 | Sat 30 | **Evening** | CoC 7e — **modern** (1986) | [**CLOSING WEEKEND**](games/slot12-modern-closing-weekend/) | 6 | Outline |
-| 13 | Sun 31 | Morning | The Dee Sanction | [**THE FAVOUR**](games/slot13-dee-sanction-the-favour/) — sequel to *The Princes Bride* | 5 | Outline |
-| 14 | Sun 31 | Afternoon | **Outgunned** | [**PROVENANCE**](games/slot14-outgunned-provenance/) | 5 | Outline |
+| 11 | Sat 30 | Afternoon | Blade Runner RPG | [**PAPER CHILDREN**](games/slot11-blade-runner-paper-children/) — companion to AFTERIMAGE | 4 | **v1 — unplaytested** |
+| 12 | Sat 30 | **Evening** | CoC 7e — **modern** (1986) | [**CLOSING WEEKEND**](games/slot12-modern-closing-weekend/) | 6 | **v1 — unplaytested** |
+| 13 | Sun 31 | Morning | The Dee Sanction | [**THE FAVOUR**](games/slot13-dee-sanction-the-favour/) — sequel to *The Princes Bride* | 5 | **v1 — unplaytested** |
+| 14 | Sun 31 | Afternoon | **Outgunned** | [**PROVENANCE**](games/slot14-outgunned-provenance/) | 5 | **v1 — unplaytested** |
 | 15 | Sun 31 | Evening | — | *clear* | — | — |
 
 **The shape of the slate:** **nine systems across twelve games** — three Cthulhu
@@ -192,14 +192,24 @@ Directories are created as their content is written; every game starts with a
 
 ## Status
 
-**Framework stage.** Every game has a synopsis, design intent, plot truth, act
-skeleton and open-questions list. One (AFTERIMAGE) is convention-ready and needs
-only porting. **Eleven scenarios remain to be written** — and after the
-2026-10-25 revision three of those eleven are brand new outlines with nothing
-drafted beneath them, while the slate now spans **nine systems**, five of which
-appear exactly once. See
-[`docs/production-tracker.md`](docs/production-tracker.md) for the order and the
-deadlines, and `docs/schedule.md` for how the load is meant to be survivable.
+**Every game on the slate is written.** Eleven scenarios were taken from outline
+to **v1** on 2026-11-02; the twelfth (AFTERIMAGE) was already convention-ready
+and ports. Each v1 is self-contained — a GM holding only the scenario file can
+run the game — supersedes its outline, resolves that outline's open questions in
+a dated block, and records the new questions that writing it raised.
+
+**v1 means runnable, not playtested.** Nothing on the slate has been through a
+desk playtest yet, and the house standard is that a scenario is not
+"convention-ready" until it has survived one inside the time budget. That is the
+next stage of work, not a caveat on this one.
+
+Pregen rosters exist for the nine games that need new sheets; slots 2, 11 and 13
+port theirs. Art is generating from [`tools/art_queue.tsv`](tools/art_queue.tsv)
+(57 assets across the twelve games) via `tools/gen_art.sh`, which is idempotent
+and can be re-run to fill gaps.
+
+See [`docs/production-tracker.md`](docs/production-tracker.md) for the order and
+the deadlines, and `docs/schedule.md` for how the load is meant to be survivable.
 
 ---
 *Private convention play materials — not for sale or distribution. All game
