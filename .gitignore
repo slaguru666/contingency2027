@@ -4,3 +4,9 @@
 .Trashes
 Thumbs.db
 *.tmp
+
+# Art generation logs -- regenerated on every run, thousands of
+# "still waiting on grid" lines. Which prompts blocked is recorded in the
+# scenario and tracker notes, not here.
+promo/art.log
+promo/gen_art.out
