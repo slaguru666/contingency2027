@@ -4,9 +4,9 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 
 | # | Slot | Game | PCs | Outline | Scenario v1 | Pregens | Handouts | Art | Playtest | Print | Console |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
+| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a — **but see below** | — | — | — |
 | 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×3 | ◐ reprint | ◐ port |
-| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
+| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a — **but see below** | — | — | — |
 | 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
 | 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
 | 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
@@ -16,6 +16,25 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 | 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
 | 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | ✔ | *(reuse)* | — | ◐ generating | — | — | — |
 | 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
+
+> ### ⚠ Art was generated for the two art-free games — Tim's call
+>
+> Slots 1 and 3 are **deliberately art-free**, recorded in four places: both
+> game READMEs (*"no art pipeline"*, *"no art budget, no map"*), Slot 3's
+> outline design intent 5 (*"Cheap on purpose … no art"*), and this table's own
+> `n/a`. They are the slate's ballast.
+>
+> **On 2026-11-02 seven images were generated for them anyway and committed**
+> (S1-ART-01, -02, -03, -05 and S3-ART-01, -02, -03) before the decision was
+> noticed. The queue rows for both games are now commented out, so no further
+> jobs will be spent on them, and this table's `n/a` is restored.
+>
+> **The seven PNGs have been left on disk and in git** rather than deleted —
+> reversing the generation is Tim's decision, not a cleanup. Two ways to go:
+> keep them and drop the art-free decision for these two games (in which case
+> S1-ART-04 and S3-ART-04/05 are still missing), or delete them and restore the
+> decision as written. Until that is settled these two games are the only place
+> on the slate where the repo and the design record disagree.
 
 **A game is convention-ready when:** the scenario is at v2 or later, pregens are
 audited against the rules, handouts and art are produced, it has survived at
