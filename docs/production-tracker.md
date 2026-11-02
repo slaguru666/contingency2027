@@ -4,9 +4,9 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 
 | # | Slot | Game | PCs | Outline | Scenario v1 | Pregens | Handouts | Art | Playtest | Print | Console |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a — **but see below** | — | — | — |
+| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a | — | — | — |
 | 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×3 | ◐ reprint | ◐ port |
-| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a — **but see below** | — | — | — |
+| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a | — | — | — |
 | 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
 | 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
 | 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
@@ -17,24 +17,22 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 | 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | ✔ | *(reuse)* | — | ◐ generating | — | — | — |
 | 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
 
-> ### ⚠ Art was generated for the two art-free games — Tim's call
+> ### Slots 1 and 3 stay art-free — settled 2026-11-02
 >
-> Slots 1 and 3 are **deliberately art-free**, recorded in four places: both
-> game READMEs (*"no art pipeline"*, *"no art budget, no map"*), Slot 3's
-> outline design intent 5 (*"Cheap on purpose … no art"*), and this table's own
-> `n/a`. They are the slate's ballast.
+> Both games are **deliberately art-free**, recorded in four places: both game
+> READMEs (*"no art pipeline"*, *"no art budget, no map"*), Slot 3's outline
+> design intent 5 (*"cheap on purpose … no art"*), and this table's `n/a`. They
+> are the slate's ballast and the point is that they cost nothing.
 >
-> **On 2026-11-02 seven images were generated for them anyway and committed**
-> (S1-ART-01, -02, -03, -05 and S3-ART-01, -02, -03) before the decision was
-> noticed. The queue rows for both games are now commented out, so no further
-> jobs will be spent on them, and this table's `n/a` is restored.
+> Seven images were generated for them on 2026-11-02 before that was read.
+> **Tim's call: delete them.** The seven PNGs are removed from the worktree and
+> from git, the queue rows for both games stay commented out in
+> `tools/art_queue.tsv` so a re-run cannot regenerate them, and the `n/a` above
+> stands as written. **The decision is unchanged and the repo now matches it.**
 >
-> **The seven PNGs have been left on disk and in git** rather than deleted —
-> reversing the generation is Tim's decision, not a cleanup. Two ways to go:
-> keep them and drop the art-free decision for these two games (in which case
-> S1-ART-04 and S3-ART-04/05 are still missing), or delete them and restore the
-> decision as written. Until that is settled these two games are the only place
-> on the slate where the repo and the design record disagree.
+> The two `scenarios/art/` directories remain with their scaffolder `README.md`
+> placeholders — the house folder shape is uniform across all twelve games and
+> an empty art directory is the correct state for a game with no art budget.
 
 **A game is convention-ready when:** the scenario is at v2 or later, pregens are
 audited against the rules, handouts and art are produced, it has survived at

@@ -206,9 +206,10 @@ next stage of work, not a caveat on this one.
 Pregen rosters exist for the nine games that need new sheets; slots 2, 11 and 13
 port theirs. Art is generating from [`tools/art_queue.tsv`](tools/art_queue.tsv)
 (46 live assets across ten games) via `tools/gen_art.sh`, which is idempotent and
-can be re-run to fill gaps. **Slots 1 and 3 are art-free by design and their
-rows are commented out** — but seven images were generated for them before that
-was noticed; see the note in the production tracker.
+can be re-run to fill gaps. **Slots 1 and 3 are art-free by design** — the two
+Gaslight single-location games are the slate's ballast, their queue rows are
+commented out, and the seven images generated for them in error on 2026-11-02
+were deleted.
 
 See [`docs/production-tracker.md`](docs/production-tracker.md) for the order and
 the deadlines, and `docs/schedule.md` for how the load is meant to be survivable.
