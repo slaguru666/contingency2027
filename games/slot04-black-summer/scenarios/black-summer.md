@@ -9,12 +9,19 @@
 > A GM holding only this file can run the game. The outline is now the frozen
 > design record.
 
-> **Rules caveat, stated once and meant:** the TWDU stat blocks and dice pools
-> below are marked `[unverified]` where they were not checked against a
-> rulebook, because no copy was available when this draft was written. Every
-> such tag is a thing to confirm before the first playtest. **The scenario's
-> structure does not depend on any of them** — the Runner is a situation, the
-> Line is its own track, and the ending is a decision.
+> **Rules note.** The TWDU core rulebook **is on disk** at `~/Library/Mobile
+> Documents/com~apple~CloudDocs/RPGS/OLD BACKUP/ConDucked/Walking Dead/`
+> `The_Walking_Dead_RPG_Core_Rules.pdf` — found while the roster was being
+> built, which closes the outline's blocking open question. The roster is
+> audited against it. Items below still tagged `[unverified]` were not checked
+> by this draft specifically; the structure does not depend on them — the
+> Runner is a situation, the Line is its own track, and the ending is a
+> decision.
+>
+> **One terminology correction:** TWDU has **Challenges** and **survival
+> mode**; it has no mechanic called a *Journey*. Where this file says Journey
+> it means *a sequence of linked Challenges*, which is house shorthand, not a
+> core term. Do not go looking for it in the book.
 
 ---
 
@@ -89,23 +96,39 @@
 *"there are three chits, and there are more of you than that"* and because the
 scene is *"there are not enough"* rather than a ratio.
 
-The consequence is real and you should know it going in:
+**The three are not interchangeable, and that is the design.** The roster gives
+each one a specific defect, and the defects are what the players actually
+negotiate over:
 
-| Players | Chits | What the conversation becomes |
+| Chit | What it is | What it is worth |
 |---|---|---|
-| **4** | 3 | **One person is left.** This is a gentle version: the table can solve it with one volunteer and often will, in about four minutes. **Push back** — make the volunteer's sheet the one with a reason to live, and use the Line's pressure to deny a clean exit |
-| **5** | 3 | **Two are left.** The designed shape. A volunteer no longer solves it; somebody must be chosen |
-| **6** | 3 | **Three are left — half the table.** Brutal, and the best version if the group can take it. Watch the quiet players; at six, a seat can be lost without its player ever being asked |
+| **A** | Issued to a seven-year-old. The photo window holds a child's face | **Already spent, on a person who is not a player.** No adult passes on it at any hour |
+| **B** | Clean, stamped, matching face | **The only unambiguous adult seat in the game** |
+| **C** | Real serial, real stamp, **wrong jaw** | **A probability, not a seat.** Passes a tired soldier at 3am and fails a careful one |
 
-**At four, the scenario is softer than it reads and you must compensate.** The
-written lever is the **Fourth Chit** (Act Two, clue 14): a genuine fourth chit
-exists in the tent city and can be obtained, and every route to it costs
-something irreversible. At four players, make sure the table finds it — a
-fourth chit for four people turns "who is left" into "what did we do to make
-sure nobody was", which is the same scene with the knife turned round.
+So the honest count the table reaches in Act Two is never "three for five". It
+is **one certain adult seat, one gamble, and a child's seat no adult can use.**
 
-**This is unplaytested at both ends.** If four plays too loose, the fix is to
-change the chits *and the advert together*, never just the chits.
+**This inverts the worry in the production tracker, and the inversion is the
+important part.** Three-of-four is *not* the gentler table:
+
+| Players | The scene |
+|---|---|
+| **6** | Six adults looking at one certain seat, and a **forge route** on the table (a stamped blank needing the validation die, which is inside the wire). The act is spent **trying to make more seats** — outward, active, hopeful, and it fails or half-succeeds. That is the register |
+| **5** | The same shape, one fewer mouth. Hope still has somewhere to go |
+| **4** | **The harshest table this scenario produces.** The sheet carrying the blank is the first to drop, so **the forge route leaves with it.** There is no route to a fourth seat. The conversation turns inward in the first ten minutes: *which of us* |
+
+**So do not change the chit count and do not change the advert.** The scaling
+does the work by itself. Earlier drafts of this section said the opposite and
+told the GM to steer a four-player table toward a fourth chit; that was wrong,
+and it was wrong because it treated the chits as interchangeable tokens.
+
+**Mrs Adeyemi's chits (Act Two, clue 14) still exist and are still worth
+playing**, but they are not a fix for a soft table — they are two more defective
+objects. She has her dead husband's, which has his face on it and is therefore
+another chit C, and her own good one, which she will trade only for insulin her
+sister needs. **Every route to a fourth seat costs something with a name on
+it.** That is true at four, five and six.
 
 ---
 
@@ -446,9 +469,10 @@ is a forgery, which is clue 11's problem.
 She will trade her *own* chit, the good one, for insulin for her sister. And
 she will not come with them.
 
-**At four players, steer them here.** Four people and three chits is solved by
-one volunteer; four people, three chits and a fourth that costs a named woman
-her sister's medicine is the actual scenario.
+**This is not the four-player safety valve** an earlier draft called it — see
+*The chit maths*. At any table size it is the same thing: a fourth seat that
+costs a named woman her sister's medicine, or a second chit with a dead man's
+face on it. Offer it; do not steer to it.
 
 ### Sergeant Danny Vasquez
 
@@ -510,7 +534,7 @@ her office to tell the crowd, she lets them go, and she watches them do it.
 | 11 | A forged or dead man's chit passes a tired corporal and fails an officer | The market, or trying it | **Automatic** once a forgery exists | The forgery is a trap with a delay on it | Essential |
 | 12 | **The airlift was cancelled eighteen hours ago** | Vasquez; or `H3-A` taken from him | **Automatic** from Vasquez, who is trying to tell them | The floor of the scenario | Essential |
 | 13 | **The queue is the containment** | Okonjo, stated plainly; or deduced from 9 + 10 | Automatic if they reach Okonjo; `[TWDU: Scout]` to deduce | Why nobody has been told | Essential |
-| 14 | **The fourth chit** — Mrs Adeyemi's | The market | **Automatic** if they work the market at all | A fourth seat, at a price with a name on it | Essential at 4 players, optional at 6 |
+| 14 | **Mrs Adeyemi's two chits** — her own, and her dead husband's | The market | **Automatic** if they work the market at all | A fourth seat at a price with a name on it, and a second wrong-face chit | Optional at every table size |
 | 15 | The northern fence is unwatched and the marsh is moving | The wire's north end | `[TWDU: Survival or Scout]`; Vasquez volunteers it | Act Three's clock, visible in advance | Essential |
 | 16 | Okonjo has thirty-one soldiers for four thousand people | Counting, or asking her | `[TWDU: Scout]` or automatic from Okonjo | Why the lie is load-bearing | Optional |
 
@@ -745,14 +769,17 @@ Let them stand in it. Then call time.
 
 ---
 
-## Open questions — **resolved for v1, except one**
+## Open questions — **resolved for v1**
 
-1. **Which TWDU edition?** → **NOT RESOLVED, and it cannot be from here.** No
-   rulebook was available when this was written, so every stat block, pool and
-   opposed roll in this file carries an `[unverified]` tag. **This is the one
-   blocking item before playtest.** The scenario's structure is built not to
-   depend on it: the Runner is a situation, the Line is its own 0–6 track, and
-   Act Three is a decision.
+1. **Which TWDU edition?** → **RESOLVED.** The core rulebook (Free League,
+   2023, Nils Hintze) is on disk at `~/Library/Mobile Documents/com~apple~`
+   `CloudDocs/RPGS/OLD BACKUP/ConDucked/Walking Dead/`
+   `The_Walking_Dead_RPG_Core_Rules.pdf`, and the roster is audited against it
+   — 13 attribute points, 12 skill points, Health 3, slots = Strength **+ 2**
+   (not ×2; the book's own worked example settles it). This draft's remaining
+   `[unverified]` tags are items it did not check itself, not items that cannot
+   be checked. **The Runner block is the one to write against the book's walker
+   profile before playtest.**
 2. **Physical chits — card stock or token?** → **Card stock, stamped serial,
    photo window.** The prop is doing real dramatic work: three of them on a
    table in front of six people starts the scenario before the GM says
