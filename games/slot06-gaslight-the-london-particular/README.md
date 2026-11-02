@@ -9,10 +9,12 @@ map, a forecast and a deadline at dawn.
 | File | What it is |
 |---|---|
 | [`scenarios/the-london-particular-outline.md`](scenarios/the-london-particular-outline.md) | Synopsis, design intent, plot truth, act skeleton, open questions |
+| [`scenarios/london-particular.md`](scenarios/london-particular.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
+| [`characters/london-particular-pregens.md`](characters/london-particular-pregens.md) | Pregen design brief and pre-v1 audit checklist &mdash; no sheets written yet |
 
 **Status:** outline. Next: full scenario draft to v1.
 
-**Remaining prep:** scenario v1 · 5 pregens · handouts (**the London map with the
+**Remaining prep:** scenario v1 · 6 pregens · handouts (**the London map with the
 four deaths — the centrepiece prop**, the Meteorological Office fog register, a
 mortuary report, the works' process sheet) · art · desk playtest ×2 · print pack.
 

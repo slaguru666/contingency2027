@@ -9,10 +9,12 @@ finite, quiet, and nasty.
 | File | What it is |
 |---|---|
 | [`scenarios/the-perpetual-order-outline.md`](scenarios/the-perpetual-order-outline.md) | Synopsis, design intent, plot truth, act skeleton, open questions |
+| [`scenarios/perpetual-order.md`](scenarios/perpetual-order.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
+| [`characters/perpetual-order-pregens.md`](characters/perpetual-order-pregens.md) | Pregen design brief and pre-v1 audit checklist &mdash; no sheets written yet |
 
 **Status:** outline. Next: full scenario draft to v1.
 
-**Remaining prep:** scenario v1 · 4 pregens · handouts (the 1794 banker's order
+**Remaining prep:** scenario v1 · 6 pregens · handouts (the 1794 banker's order
 with its renewal endorsements, three crate inventories, the label on crate 102) ·
 desk playtest ×2 · print pack. **One location, no art pipeline, no set-piece
 page** — the second-cheapest build on the slate after

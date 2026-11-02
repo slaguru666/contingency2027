@@ -9,10 +9,12 @@ is a decision about paperwork.
 | File | What it is |
 |---|---|
 | [`scenarios/continuous-service-outline.md`](scenarios/continuous-service-outline.md) | Synopsis, design intent, plot truth, act skeleton, cast, open questions |
+| [`scenarios/continuous-service.md`](scenarios/continuous-service.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
+| [`characters/continuous-service-pregens.md`](characters/continuous-service-pregens.md) | Pregen design brief and pre-v1 audit checklist &mdash; no sheets written yet |
 
 **Status:** outline. Next: full scenario draft to v1.
 
-**Remaining prep:** scenario v1 · **5 pregens with Cinematic agendas** (the
+**Remaining prep:** scenario v1 · **6 pregens with Cinematic agendas** (the
 agendas are the engine here, not decoration) · deck plans for the *Keelson* —
 the centrepiece prop · handouts (a payroll ledger, a survey contract, eleven
 years of 90-day wake logs) · art · desk playtest ×2 · print pack.

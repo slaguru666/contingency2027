@@ -15,6 +15,8 @@ returning pregens' seams are the routes through it.
 | File | What it is |
 |---|---|
 | [`scenarios/the-favour-outline.md`](scenarios/the-favour-outline.md) | Synopsis, design intent, plot truth, act skeleton, returning-pregen seams, open questions |
+| [`scenarios/the-favour.md`](scenarios/the-favour.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
+| [`characters/the-favour-pregens.md`](characters/the-favour-pregens.md) | Pregen brief and pre-v1 audit checklist &mdash; **the sheets port in**, they are not new writing |
 
 **Status:** outline. Next: full scenario draft to v1.
 

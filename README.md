@@ -163,6 +163,7 @@ same revision and now holds Friday night.
 | [`docs/house-standards.md`](docs/house-standards.md) | The house one-shot format this repo is written to |
 | [`tools/trailers/`](tools/trailers/) | Trailer generator, twelve procedural backdrops, one spec per game — see its [README](tools/trailers/README.md) |
 | [`tools/sync_onepager.py`](tools/sync_onepager.py) | Regenerates this README's **The Games** section from the plain-text one-pager |
+| [`tools/scaffold_scenarios.py`](tools/scaffold_scenarios.py) | Creates the folder shape and primes the scenario + pregen files from each game's outline. Never overwrites; safe to re-run |
 | `promo/` | Rendered trailer masters, 36 files, plus `promo/web/` encodes. **Gitignored** — rebuild from spec |
 | [`tools/web_encodes.sh`](tools/web_encodes.sh) | 720p web encodes for hosting — the masters are ~30 MB each |
 | — | Trailers are served publicly from [https://web.oneoffgames.com/trailers/contingency-2027/](https://web.oneoffgames.com/trailers/contingency-2027/) |
@@ -174,7 +175,9 @@ same revision and now holds Friday night.
 games/slotNN-<slug>/
   README.md                 status line, file index, remaining prep
   scenarios/                the scenario document(s)
+    art/                    scenario illustrations
   characters/               pregens + print-ready sheets
+    art/                    portraits
   handouts/                 player-facing props
   reference/                GM quick-reference screens
   playtest/                 desk playtest logs and fix lists

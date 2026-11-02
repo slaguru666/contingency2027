@@ -9,10 +9,12 @@ committee vote.
 | File | What it is |
 |---|---|
 | [`scenarios/viva-voce-outline.md`](scenarios/viva-voce-outline.md) | Synopsis, design intent, plot truth, act skeleton, cast, open questions |
+| [`scenarios/viva-voce.md`](scenarios/viva-voce.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
+| [`characters/viva-voce-pregens.md`](characters/viva-voce-pregens.md) | Pregen design brief and pre-v1 audit checklist &mdash; no sheets written yet |
 
 **Status:** outline. Next: full scenario draft to v1.
 
-**Remaining prep:** scenario v1 · 5 pregens (faculty, library, administration) ·
+**Remaining prep:** scenario v1 · 6 pregens (faculty, library, administration) ·
 **the thesis itself — four handout extracts, and they carry the whole game** ·
 the examiners' reports · a campus map · art · desk playtest ×2 · print pack.
 

@@ -9,10 +9,12 @@ document and a hole in a dry riverbed.
 | File | What it is |
 |---|---|
 | [`scenarios/provenance-outline.md`](scenarios/provenance-outline.md) | Synopsis, design intent, plot truth, act skeleton, cast, open questions |
+| [`scenarios/provenance.md`](scenarios/provenance.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
+| [`characters/provenance-pregens.md`](characters/provenance-pregens.md) | Pregen design brief and pre-v1 audit checklist &mdash; no sheets written yet |
 
 **Status:** outline. Next: full scenario draft to v1.
 
-**Remaining prep:** scenario v1 · 5 pregens (Outgunned Roles and Tropes, each
+**Remaining prep:** scenario v1 · 6 pregens (Outgunned Roles and Tropes, each
 with a reason to be in Spain in 1938) · **the provenance file — four handouts
 that are the whole argument** · a map of the Barranco de Sant Grau · the
 survey column's order of march · art · desk playtest ×2 · print pack.

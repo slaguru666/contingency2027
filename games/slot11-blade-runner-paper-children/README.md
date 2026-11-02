@@ -14,6 +14,8 @@ the payoff on Saturday.
 | File | What it is |
 |---|---|
 | [`scenarios/paper-children-outline.md`](scenarios/paper-children-outline.md) | Synopsis, design intent, plot truth, act skeleton, open questions |
+| [`scenarios/paper-children.md`](scenarios/paper-children.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
+| [`characters/paper-children-pregens.md`](characters/paper-children-pregens.md) | Pregen brief and pre-v1 audit checklist &mdash; **the sheets port in**, they are not new writing |
 
 **Status:** outline. Next: full scenario draft to v1.
 

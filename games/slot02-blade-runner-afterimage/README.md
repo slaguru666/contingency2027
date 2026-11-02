@@ -12,6 +12,8 @@ playtests, three different endings reached, all inside 3:30, art complete.
 | File | What it is |
 |---|---|
 | [`scenarios/afterimage-port-notes.md`](scenarios/afterimage-port-notes.md) | Synopsis, and the complete list of what changes for Contingency |
+| [`scenarios/afterimage.md`](scenarios/afterimage.md) | **The port checklist.** What to copy from Continuum 2026, and what to change |
+| [`characters/afterimage-pregens.md`](characters/afterimage-pregens.md) | Pregen brief and pre-v1 audit checklist &mdash; **the sheets port in**, they are not new writing |
 
 **Remaining prep:** copy the Continuum 2026 package in · apply the port changes ·
 reprint sheets and handouts · one GM read-through. No new writing.

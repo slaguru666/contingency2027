@@ -10,6 +10,8 @@ weapon.
 | File | What it is |
 |---|---|
 | [`scenarios/closing-weekend-outline.md`](scenarios/closing-weekend-outline.md) | Synopsis, design intent, plot truth, genre rules, act skeleton, open questions |
+| [`scenarios/closing-weekend.md`](scenarios/closing-weekend.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
+| [`characters/closing-weekend-pregens.md`](characters/closing-weekend-pregens.md) | Pregen design brief and pre-v1 audit checklist &mdash; no sheets written yet |
 
 **Status:** outline. Next: full scenario draft to v1.
 

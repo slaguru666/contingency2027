@@ -9,10 +9,12 @@ props beyond three handouts.
 | File | What it is |
 |---|---|
 | [`scenarios/six-oclock-sitting-outline.md`](scenarios/six-oclock-sitting-outline.md) | Synopsis, design intent, plot truth, act skeleton, open questions |
+| [`scenarios/six-oclock-sitting.md`](scenarios/six-oclock-sitting.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
+| [`characters/six-oclock-sitting-pregens.md`](characters/six-oclock-sitting-pregens.md) | Pregen design brief and pre-v1 audit checklist &mdash; no sheets written yet |
 
 **Status:** outline. Next: full scenario draft to v1.
 
-**Remaining prep:** scenario v1 · 4 pregens · handouts (the Society's exposure
+**Remaining prep:** scenario v1 · 6 pregens · handouts (the Society's exposure
 checklist, the sitter's notebook, one unsent letter) · desk playtest ×2 · print
 pack. **No art budget, no map, no set-piece page** — the cheapest game on the
 slate to produce, deliberately.

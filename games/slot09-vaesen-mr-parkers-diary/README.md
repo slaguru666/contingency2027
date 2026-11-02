@@ -8,10 +8,12 @@
 | File | What it is |
 |---|---|
 | [`scenarios/mr-parkers-diary-outline.md`](scenarios/mr-parkers-diary-outline.md) | Synopsis, design intent, plot truth, act skeleton, open questions |
+| [`scenarios/mr-parkers-diary.md`](scenarios/mr-parkers-diary.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
+| [`characters/mr-parkers-diary-pregens.md`](characters/mr-parkers-diary-pregens.md) | Pregen design brief and pre-v1 audit checklist &mdash; no sheets written yet |
 
 **Status:** outline. Next: full scenario draft to v1.
 
-**Remaining prep:** scenario v1 · 4 Society pregens · handouts (three diary
+**Remaining prep:** scenario v1 · 6 Society pregens · handouts (three diary
 spreads — Parker's hand early, Parker's hand wrong, and the page that describes
 the players) · the burnt parish register · art · desk playtest ×2 · print pack.
 
