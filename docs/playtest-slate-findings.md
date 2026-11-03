@@ -140,3 +140,40 @@ Recorded so later passes do not re-litigate settled points.
 - **No bout of madness is mechanically possible in slot 1** (largest single loss
   1D3) and the same should be checked rather than assumed elsewhere. It matches
   that scenario's intent and is not a defect.
+
+---
+
+## 5. Load-bearing rulings live in the roster, not the scenario — and every scenario claims a stand-in GM can run it from the scenario alone
+
+**Verified:** all eleven written scenario files carry some form of the claim
+that any GM can run the game from that file — "GM ESSENTIALS (one glance, any
+GM)", "so a stand-in GM could run it". The house convention is explicit: *one
+scenario per file, self-contained — a GM with only that file can run the game.*
+
+**Four of the six scenarios desk-played so far break it, and in each case the
+missing piece is load-bearing:**
+
+| Slot | What lives only in the character/roster file | Consequence in the scenario |
+|---|---|---|
+| **1** | Six once-per-game Sanity-restore trinkets | The Sanity budget the scenario states and defends is computed without them |
+| **5** | The agenda collision map; the real player-count drop order | The scenario's player-count line contradicts the roster three ways and names an "engineer" who does not exist |
+| **8** | **The Dean**, who takes the external seat | Statute XI's 3-of-5 and 2-of-4 do not compute without him, and the scenario's own stated design point — "winning Dr Sze in Act Two becomes mandatory" — is **false** in a game run from the scenario alone |
+| **9** | The telegram fallback (four players only); the correct Fear die rule; two extra rulings on Kerstin's refusal | The only working route to the name has no fallback at five and six players, and the scenario's Fear arithmetic is one die short where its own pregens are right |
+
+Slot 3 has the same shape with a happier outcome: Act Two's uncuttable third
+detail depends on a particulars table that exists only in the roster — but it
+exists, and it is good.
+
+This is not an argument for duplicating the rosters into the scenarios. It is
+two specific jobs:
+
+1. **Audit each scenario for rulings it depends on and does not state**, and
+   move the ruling — not the roster — into the scenario. Four fixes, each one
+   or two sentences: slot 1's trinkets into the Sanity budget, slot 5's drop
+   order and collision map into the player-count line, **slot 8's Dean into the
+   cast**, slot 9's telegram guarantee into Act Two's fallbacks.
+2. **Where the two files disagree, the roster has been right every time so
+   far** — slot 8's vote arithmetic, slot 9's Fear rule and page citations.
+   The scenario is the file that drifted. Check the roster before filing a
+   scenario's arithmetic as wrong; it prevented three incorrect findings in
+   this pass.
