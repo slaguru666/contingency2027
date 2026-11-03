@@ -261,3 +261,88 @@ needed turned up in places no one had thought to name — The Dee Sanction's in
 `OLD BACKUP/Contingency 2025/`, Outgunned's in `~/Downloads/`. **Before
 accepting that a source does not exist, run the unscoped search and let it
 finish.**
+
+---
+
+## 9. The fix pass — what was applied, 2026-11-03
+
+Every finding from all twelve pass-1 documents is applied. Each game's
+scenario went to **v1.1** with a status line naming the document it answers,
+and each is its own commit. **Passes 2 and 3 are still outstanding.**
+
+### The slate-wide edits, and how they landed
+
+**The CoC critical/fumble band — five files, identical text.** All five now
+read *"01 is a critical. 100 is always a fumble; if the skill is under 50,
+96–00 fumbles."* Slot 1's inverted proviso went with it.
+
+**Fifteen minutes, out of Act Two, in every game — with one departure per
+game.** The shape was the same everywhere: take the time out of Act Two,
+promote that scenario's own cut list from contingency to printed default,
+name the 2:30–2:45 window as cushion rather than act, and make the planned
+total honest. Three games needed something other than the generic fix:
+
+| Game | Plan now | Why it is not the generic fix |
+|---|---|---|
+| **slot 9** | 20 · 60 · 70 · 30 · 15 | The Introduction needed twenty minutes, not fifteen — the reading *is* the scenario starting — so the cut came from Act Two twice over |
+| **slot 12** | 15 · 60 · 70 · 40 · 15 | Act Three could not hold its own stated content in thirty. It has forty, Act Two gave up ten, and **the hard stop moved to 2:35** |
+| **slot 14** | 15 · 60 · 75 · 35 · 15 | Act Three keeps the thirty-five it already had, the Run became the printed cut, and **the hard stop moved to 2:40.** The per-game fix proposed 85 and a 210 total; this document's finding 1 says do not commit the whole allowance, so Act Two went to 75 instead |
+| **slot 13** | 15 · 60 · 75 · 30 · 15 | Act Two's budget is **derived from its own scene list** — six scenes of twelve minutes is seventy-two — so ninety was never the real number |
+
+**Two games now have a hard stop earlier than the house 2:45**, and both say so
+and say why. That is a deliberate exception to the house rule, not a drift from
+it: a final act of thirty-five or forty minutes cannot start at 2:45 and end by
+3:30.
+
+**The two broken mechanic vocabularies**, both rebuilt from the printed books
+rather than patched:
+
+- **Slot 11 (Blade Runner)** — the crash-course described a dice-pool game that
+  could not use the letter-rated sheets in front of the players. Rebuilt with
+  the two-Base-Dice rule, 10-or-higher-counts-as-two, the real push cost per
+  1, and the human/replicant asymmetry, which belongs in the crash-course of a
+  game about who counts as a person. All four `[BR: Investigation]` tags are
+  Observation. The Voight-Kampff costs a Shift and can come back inconclusive.
+- **Slot 13 (The Dee Sanction)** — the crash-course described a target-number
+  game with a fail state, and the system has neither. Rebuilt: one Resource
+  die, 1–2 Falters, Step-Up/Step-Down, Call to Fail below d4, and **Falter as
+  failing forward**, which is the clause that stops a GM taking clues away
+  that the system was handing over. All six `[DEE:]` tags now name Resources.
+
+### Three things the fix pass did that no per-game list asked for
+
+Recorded because they are the pass's own judgement calls, not the playtest's.
+
+1. **Fixes went upstream rather than sideways.** Slot 11's "Hand-to-Hand
+   Combat" and slot 2's advantage/disadvantage rule live on files shared with
+   `slaguru666/Continuum2026`. Both were fixed **at the source**, as
+   **AFTERIMAGE v3.6**, which corrected slots 2 and 11 in one edit — and found a
+   third defect on the way: that scenario's frontmatter had said `3.2.0` since
+   v3.3, three versions stale. The same was done for the Dee Sanction roster's
+   "Expertise". **The source repo has two copies, a git checkout and an iCloud
+   package, and they were byte-identical**; the fixed files were synced so they
+   still are, and the port notes now say the git repo wins on divergence.
+2. **Ten stale game READMEs were refreshed.** Every written game's README still
+   said *"v0 skeleton, primed from the outline — not yet runnable"*, *"no
+   sheets written yet"* and *"Status: outline"*, months after the scenarios and
+   rosters were written. Two also carried wrong facts — slot 1 called itself
+   the convention's closing game and slot 6 called itself the opener.
+3. **The print artefacts are flagged, not fixed.** `AFTERIMAGE-character-sheets.pdf`
+   and the repo's `pwa/dist*` builds still say "Hand-to-Hand" because they are
+   generated. They are now a hard requirement in the tracker's print column
+   rather than a line in a commit message. **Pushed is not printed.**
+
+### What is deliberately still open
+
+- **Passes 2 and 3**, on all eleven written games.
+- **Slot 12's title-page tagline** still reads *"Eight of you stayed for one
+  more night"* against a 4–6 player game. The read-aloud and the briefing are
+  derived now; the tagline is advert copy, and changing the advert is Tim's
+  call, not a fix pass's.
+- **Slot 14's fifteen Trope Attribute-option pairs**, the Potez 25's Ride
+  rules, the column's Enemy stat blocks, and the lorry's load figure. The
+  Outgunned book is on disk and all four are now checkable.
+- **Slot 3 at six players**, **slot 6 at six players**, **slot 8's viva at
+  six**, and **slot 4's crowd cards in a player's hand** — four things pass 1
+  could not test because it ran at four, each flagged in its own document for
+  the pass that can.

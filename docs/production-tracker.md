@@ -2,20 +2,29 @@
 
 Legend: **—** not started · **◐** in progress · **✔** done · **n/a** not required
 
+**Playtest column:** `◐ desk 1 · fixed` means the game has had desk pass 1 from
+the GM chair **and its fix list has been applied with a version bump to v1.1.**
+Passes 2 and 3 are still outstanding on all eleven written games.
+**Pregens marked *pointer*** are the two games whose sheets live in
+`Continuum2026`; the file in `characters/` wires those sheets into this case
+rather than copying them. **Slot 2's print cell is now a hard requirement** —
+the existing character-sheet PDFs still say "Hand-to-Hand" and must be
+regenerated from the corrected HTML.
+
 | # | Slot | Game | PCs | Outline | Scenario v1 | Pregens | Handouts | Art | Playtest | Print | Console |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a | ◐ desk 1 | — | — |
-| 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×6 *(source v3.2.0)* | ◐ reprint | ◐ port |
-| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a | ◐ desk 1 | — | — |
-| 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | ◐ desk 1 | — | — |
-| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | ◐ desk 1 | — | — |
-| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | ◐ desk 1 | — | — |
-| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | ◐ desk 1 | — | — |
-| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | ◐ desk 1 | — | — |
-| 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | ✔ | ◐ *scaffold* | — | ✔ 5/5 | ◐ desk 1 | — | *(shared)* |
-| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | ◐ desk 1 | — | — |
-| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | ✔ | ◐ *scaffold* | — | ✔ 5/5 | ◐ desk 1 | — | — |
-| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 6/6 | ◐ desk 1 | — | — |
+| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | n/a | ◐ desk 1 · **fixed** | — | — |
+| 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×6 *(source **v3.6.0**)* | ◐ **reprint required** | ◐ port |
+| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | n/a | ◐ desk 1 · **fixed** | — | — |
+| 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
+| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | ✔ **v1.1** | ✔ **+ survivor cards** | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
+| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
+| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
+| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
+| 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | ✔ **v1.1** | ✔ *pointer* | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | *(shared)* |
+| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
+| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | ✔ **v1.1** | ✔ *pointer* | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
+| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 6/6 | ◐ desk 1 · **fixed** | — | — |
 
 > ### Slots 1 and 3 stay art-free — settled 2026-11-02
 >
