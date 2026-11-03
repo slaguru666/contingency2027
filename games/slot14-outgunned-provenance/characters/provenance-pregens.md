@@ -752,9 +752,24 @@ still four-way: the record / the rifles / destroy it / the village.
 
 ## Sources, and what is unverified
 
-**Verified against a page-cited source on disk.** There is no Outgunned
-rulebook in this repo or in `~/Library/.../RPGS/`. Every number, name and Feat
-text above comes from Tim's own transcription of **Outgunned Adventure ENG 1.1**
+**Verified against a page-cited source on disk, and since re-verified against
+the printed book.**
+
+> **Correction, 2026-11-03.** The sentence that used to open this section —
+> *"There is no Outgunned rulebook in this repo or in `~/Library/.../RPGS/`"* —
+> was true as written and answered a narrower question than it appeared to.
+> **The book is at `~/Downloads/Outgunned_Adventure_ENG_1_1.pdf`**, with a
+> Markdown copy beside it. Desk pass 1 verified the match ladder from the
+> printed page (Basic/Critical/Extreme/Impossible/Jackpot at
+> two/three/four/five/six-or-more of a kind, and *"if you score a Jackpot! you
+> become the Director for a turn"*) and spot-checked the two Feats this section
+> asked for — **Bodyguard and Reassure both match the book clause for
+> clause.** The lesson, recorded in the slate findings: *"not in this repo and
+> not in that directory" is a scoped negative, and it is not a reason to stop
+> looking.*
+
+Every number, name and Feat text above comes from Tim's own transcription of
+**Outgunned Adventure ENG 1.1**
 in the Foundry system at
 `~/FoundryVTT/Data/systems/outgunned-adventure/tools/data/` — specifically
 `creation-notes.md` (Section I, book pp. 16–61, *"numbers are exact"*),
@@ -775,21 +790,18 @@ and Hindrance at ±1 · weapon costs and traits.
 
 **Unverified — flag for the rules pass:**
 
-- `[unverified]` **The book edition.** This roster is built on **Outgunned
-  Adventure** (the pulp line), not the **Outgunned** core book. The game folder
-  and the outline both say "Outgunned (Two Little Mice)" without naming the
-  expansion. Adventure is the right book for a 1938 pulp adventure with the
-  supernatural in it, and Adventure explicitly permits core-book Roles and
-  Tropes (p. 20), so a core-book table loses nothing — but **if the intent was
-  the core book, every Role and Trope name on these six sheets changes.**
-  Resolve this before art and print.
-- `[unverified]` **One remove from the printed page.** The source above is a
-  transcription with page citations, not the book. It states its numbers are
-  exact and it has been self-consistent everywhere I cross-checked it, but no
-  sheet here has been read against the printed book. Spot-check two things
-  first: the Trope Attribute-option pairs, and the exact Feat wording for
-  **Bodyguard** and **Reassure**, which are the two Feats this roster leans on
-  hardest.
+- ~~**The book edition.**~~ **CLOSED.** The scenario settles it at its resolved
+  open question 6: **Outgunned Adventure 1.1.** All six sheets are built to it,
+  the Run replaces the core book's Chase, and the citations are to Adventure.
+  Adventure explicitly permits core-book Roles and Tropes (p. 20), so a
+  core-book table loses nothing either way.
+- **One remove from the printed page — mostly closed.** The book is on disk
+  (see the correction above) and the two spot-checks this item asked for are
+  **done: Bodyguard and Reassure match the printed page clause for clause**,
+  and so does the match ladder. **Still to do: the Trope Attribute-option
+  pairs**, which are fifteen pairs and were not checked one by one. Everything
+  read against the book so far has held exactly, which is evidence about the
+  transcription rather than proof about those fifteen lines.
 - `[unverified]` **Ride rules for the Potez 25.** Adventure has no range rules
   and the sidebar at p. 135 defers complex rides to the core book, so Dermot's
   aircraft is written as a story asset with no stat line. If the core book's

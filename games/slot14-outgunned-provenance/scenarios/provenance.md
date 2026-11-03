@@ -2,7 +2,11 @@
 
 > *They are not stealing it. They have the paperwork, the export licence and a clear moral case, and they are putting it back.*
 
-**Status: v1 — runnable, unplaytested.** Written 2026-11-02 from
+**Status: v1.1 — desk pass 1 fixes applied.** All four findings in
+[`../playtest/provenance-desk-1.md`](../playtest/provenance-desk-1.md)
+addressed, 2026-11-03, including the match-ladder item this file flagged as
+unverified — **now checked against the printed rulebook, and it was right.**
+**Still needs desk passes 2 and 3.** Previously: v1 — runnable, unplaytested. Written 2026-11-02 from
 [`provenance-outline.md`](provenance-outline.md).
 
 > **This file supersedes [`provenance-outline.md`](provenance-outline.md).**
@@ -26,14 +30,19 @@
     **Say that second half out loud at the table** — it is how a party of six
     non-gunfighters gets to act in a pulp game.
   - **Successes are matching numbers.** Two of a kind = **Basic**, three =
-    **Critical**, four = **Extreme**, five = **Impossible**.
-    `[unverified — the four difficulty names are confirmed, and so is the Grit
-    ladder keyed to them; the number-of-matches mapping and the sixth tier
-    (Jackpot) are from memory, not from the transcription. Check one page
-    before the first playtest.]`
-  - **Re-roll, then All In.** Keep your matches, re-roll the rest. Feats grant
-    **Free Re-rolls**. **Luck** = +1 to a roll you deem important (p. 72).
-    **Spotlight** = once per character, it simply works.
+    **Critical**, four = **Extreme**, five = **Impossible**, **six or more =
+    Jackpot — and a Jackpot makes that player the Director for a turn.**
+    *(Verified against the printed rulebook at desk pass 1; the tag is off.)*
+  - **Re-roll, then All In — and the cost is the decision.** **Re-roll:** if
+    you scored at least a Basic, re-roll every die not in a set. Better — an
+    extra set, or a set upgraded — and you keep it; **otherwise you lose one
+    success.** A **Free Re-roll** from a Feat works with no success at all and
+    **costs nothing**. **All In:** after a Re-roll that improved things, throw
+    the loose dice once more — better, **or lose *every* success you had.**
+    Without those two prices there is no reason not to All In every turn, and
+    the gamble is the main decision an Outgunned player makes.
+  - **Luck** = +1 to a roll you deem important (p. 72). **Spotlight** = once
+    per character, it simply works.
   - **Grit is 12 boxes.** A failed **Dangerous Roll** fills boxes by
     difficulty: **Basic 1 · Critical 3 · Extreme 9 · Impossible all**.
     **Damage Control:** each Basic Success you *did* score avoids 1 box, each
@@ -64,17 +73,25 @@ script and it is.*
 > Lethal Bullets on your sheet. You all start on one. Roll higher than it and
 > you survive — and you tell us how you cheated death, and you add a bullet.
 > Roll equal or lower and you are Left for Dead — unless another player spends
-> their Spotlight to pull you out, and then they tell us how. Bullets never come
-> off. So: you have to fail twelve boxes' worth, then fail again, then lose a
-> coin-flip, and then nobody at this table spends a Spotlight on you. If all of
-> that happens, it will have taken about three hours and you will have earned
-> it."*
+> their Spotlight to pull you out, and then they tell us how, and **you still
+> add a bullet**, because next time is worse. If nobody does, you are Left for
+> Dead: presumed gone, body never found — **and if the moment deserves it, you
+> may tell us it was a death rather than a disappearance. That is yours to
+> choose, not mine.** Bullets never come off. So: you have to fail twelve
+> boxes' worth, then fail again, then lose a coin-flip, and then nobody at this
+> table spends a Spotlight on you. If all of that happens, it will have taken
+> about three hours and you will have earned it."*
 
 All of the above is verified in the transcription (Dangers notes, pp. 88–89,
 102–103): 12 boxes, the 1/3/9/all ladder, Damage Control, *"With all Grit lost,
 your next failed Dangerous Roll forces a spin on the Death Roulette"*, the
 `> Lethal Bullets → survive, add 1` / `≤ → Left for Dead unless a friend spends
-a Spotlight` rule, 1 starting bullet, and bullets never being removed.
+a Spotlight` rule, 1 starting bullet, and bullets never being removed. **Two
+clauses were missing until desk pass 1 and are now in the script**, both
+verified: a Spotlight rescue still adds a Lethal Bullet, and a player Left for
+Dead *"may choose true death if climactic/moving"* — which in a script that
+opens *"you will not die unless you choose to"* is the clause that makes the
+promise true.
 
 ---
 
@@ -133,13 +150,27 @@ villains can be punched. **These five are binding at the table:**
 | 0:00–0:15 | Introduction | Safety line; **the Death Roulette script**; everyone has said why they are in Aragón; the priest and the photograph |
 | 0:15–1:15 | **Act One — The Column** | **The table knows the Germans are legal and has seen the crate** |
 | — | *break, 10 min* | **Ends on the export licence** |
-| 1:15–2:45 | **Act Two — The File** | **Fournel's reverse is read; Thursday is known to be the deadline** |
-| 2:45–3:20 | **Act Three — The Niche** | A decision made out loud by a named player |
-| 3:20–3:35 | Epilogue | Per-PC vignettes; **Sant Grau's list is the last line** |
+| 1:15–2:30 | **Act Two — The File** | **Fournel's reverse is read; Thursday is known to be the deadline** |
+| 2:30–2:40 | *cushion* | Act Two's overrun lives here, and nowhere else |
+| 2:40–3:15 | **Act Three — The Niche** | A decision made out loud by a named player |
+| 3:15–3:30 | Epilogue | Per-PC vignettes; **Sant Grau's list is the last line** |
 
-**Hard rule: at 2:45, go to Act Three.** The outline's own phase table said
-2:55; its hard rule said 2:45. **The hard rule wins** — 2:45 is in the table
-above and everywhere below.
+**Planned content is 3:20 against a 3:30 budget — 15 · 60 · 75 · 35 · 15.**
+
+> **This table used to end at 3:35**, five minutes past the Overview's own
+> "Maximum Runtime: 3 hours 30 minutes play", four lines above it — and
+> measured, Act Two wanted 97 and Act Three 37, so the real overrun was eleven
+> minutes. **Act Three keeps its thirty-five**: six positions, four endings and
+> a column arriving is not a thirty-minute act, and it is the act that must not
+> be hurried. The time comes out of **Act Two, exactly as Act Two's own Pacing
+> Note instructs** — *"if you cut only one thing, cut the chase"* — so **the
+> Run is now the printed cut rather than the contingency.** Running it is the
+> expansion: budget Act Two at 90 and accept that you have no cushion at all.
+
+**Hard rule: at 2:40 — not 2:45 — go to Act Three**, because Act Three is
+thirty-five minutes and the session ends at 3:30. (The outline's phase table
+said 2:55 and its hard rule said 2:45; the hard rule won, and Act Three's own
+length then moved it to 2:40.) **2:40 everywhere below.**
 
 ---
 
@@ -346,12 +377,19 @@ is the constraint.
 
 ---
 
-## ACT TWO — *The File* *(~90 minutes)*
+## ACT TWO — *The File* *(~75 minutes with the Run cut — 90 if you run it, and then there is no cushion)*
 
 **Shape: two tracks and a Run.** Track A is Sant Grau and Rosalía. Track B is
 the column's camp and the file itself. **The truck chase sits between them.**
 Split the table, swap at about the halfway mark, and bring them together for
 the chase.
+
+> **Decide before you start whether you are running the Run**, because it is
+> the difference between a 75-minute act and a 90-minute one. **The default is
+> that you are not** — narrate it in four sentences as the lorry getting away,
+> and spend the quarter of an hour on Rosalía and the file, which is what Act
+> Three needs. Run it in full only if the table is ahead at 1:50 and visibly
+> wants a set-piece. See the Pacing Note.
 
 ### Track A — Sant Grau
 
@@ -517,12 +555,16 @@ so the table understands what they have done:
 **Must be true before Act Three:** Fournel's reverse is read **or** Rosalía has
 said it; Thursday is known.
 
-**Cuts:** the Run can go to 3 Turns flat with no Special Actions, or be narrated
-in four sentences if the clock has beaten you. **Never cut Rosalía.** If you
-cut only one thing, cut the chase — Act Three does not need it and does need
-her.
+**The Run is the default cut, not the contingency.** Narrate it in four
+sentences — the lorry gets away up the barranco, somebody is nearly lost, the
+column loses an hour — and give the time to Track A. **If you are running it**,
+3 Turns flat with no Special Actions is the short version and the full
+set-piece is the long one. **Never cut Rosalía.** The scenario's own line, and
+it is right: *if you cut only one thing, cut the chase — Act Three does not
+need it and does need her.*
 
-**At 2:45, go to Act Three.**
+**Act Two is planned to end at 2:30, and at 2:40 you go to Act Three** whatever
+is unfinished.
 
 ---
 
@@ -737,7 +779,8 @@ and nobody has solved it yet.**
 4. **Six positions is a lot of argument for a last-slot table.** The pregens
    are built as a six-way disagreement. At six players on a Sunday afternoon at
    the end of a convention, that may be one or two positions too many — watch
-   whether the table reaches a decision by 3:20.
+   whether the table reaches a decision by **3:15** — the timing table now
+   ends the session at 3:30 rather than 3:35, and Act Three runs 2:40–3:15.
 
 ---
 
