@@ -231,3 +231,33 @@ The lesson is the one the house already has about checking the neighbours:
 **when a tag marks one sentence as doubtful, read the paragraph.** Twice the
 flagged claim was wrong and had a worse error immediately adjacent, and once
 the flagged claim was right and the answer was one file away.
+
+---
+
+## 8. Correction: the Outgunned rulebook was on disk
+
+Recorded because it changes the evidential status of one pass and because the
+mistake is reusable.
+
+Slot 14 was verified against Tim's page-cited **transcription** of Outgunned
+Adventure 1.1 rather than the book, because the pregen pack states *"There is
+no Outgunned rulebook in this repo or in `~/Library/.../RPGS/`"*. That sentence
+is **true as written** — and I treated it as though it answered the broader
+question. **The book is in `~/Downloads/`**, with a Markdown copy beside it. A
+search that would have found it was started, allowed to time out, and not
+narrowed.
+
+**Re-verified against the printed page, and everything held:** the ladder is
+Basic/Critical/Extreme/Impossible/Jackpot at two/three/four/five/six-or-more of
+a kind, and *"if you score a Jackpot! you become the Director for a turn."* The
+roster's own two requested spot-checks — the exact wording of **Bodyguard** and
+**Reassure** — both match the book clause for clause, which closes its
+"one remove from the printed page" item.
+
+**The lesson is about the shape of the negative.** "Not in this repo, and not in
+that directory" is a scoped negative; it does not mean "not on this machine",
+and it is not a reason to stop looking. Two of the four rulebooks this slate
+needed turned up in places no one had thought to name — The Dee Sanction's in
+`OLD BACKUP/Contingency 2025/`, Outgunned's in `~/Downloads/`. **Before
+accepting that a source does not exist, run the unscoped search and let it
+finish.**

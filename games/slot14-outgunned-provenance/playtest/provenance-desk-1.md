@@ -18,6 +18,37 @@ own dice engine, `module/engine.mjs`.
 **This closes Tim's standing open item on the Outgunned success ladder.** The
 answer is below, and the `[unverified]` note can come off.
 
+> ### Correction, same day: the printed rulebook was on disk
+>
+> I verified this pass against the transcription because the pregen pack states
+> *"There is no Outgunned rulebook in this repo or in `~/Library/.../RPGS/`"* —
+> which is true as written, and I let it stand as though it settled the
+> question. **The book is at `~/Downloads/Outgunned_Adventure_ENG_1_1.pdf`**
+> (with a Markdown copy beside it), found by a search I had started, allowed to
+> time out, and not narrowed.
+>
+> **Everything below is now verified against the printed page**, and it all
+> holds. From the book directly:
+>
+> > ♦ BASIC SUCCESS: Two of a kind · ♦ CRITICAL SUCCESS: Three of a kind ·
+> > ♦ EXTREME SUCCESS: Four of a kind · ♦ IMPOSSIBLE SUCCESS: Five of a kind ·
+> > ♦ JACKPOT!: Six or more of a kind
+> > …
+> > **If you score a Jackpot! you become the Director for a turn.**
+>
+> **And the roster's "one remove from the printed page" item closes too.** It
+> asked for two spot-checks first — the exact wording of **Bodyguard** and
+> **Reassure**, *"the two Feats this roster leans on hardest"*. Both match:
+>
+> | Feat | The book | The roster |
+> |---|---|---|
+> | **Bodyguard** | "After another Adventurer fails a roll, you suffer the consequences of their failure (for example, if your friend should lose Grit or suffer a Condition, you lose Grit or suffer the Condition in their stead)." | "after another Adventurer fails a roll, **you suffer the consequences of their failure in their place** (their Grit loss, their Condition)" — **match** |
+> | **Reassure** | "Save an ally from suffering a Condition when they reach the Bad Box, or grant them +1 to a roll with 4 dice or fewer." | "grant +1 to another Adventurer about to roll **4 dice or fewer**, or let a friend who has filled their Bad Box avoid the Condition" — **match**, clauses reversed |
+>
+> Still open from that list: the **Trope Attribute-option pairs**, the **Potez
+> 25 Ride rules**, the **Enemy stat blocks**, and the **lorry load figure** —
+> all four now checkable against the book rather than against a transcription.
+
 **One tool change:** the roller's `og` mode said *"the ladder… is the one rule
 on the slate written from memory."* It is now verified and cited, it knows
 Jackpot, and it enforces the 2–9 dice bounds. **All five systems in
