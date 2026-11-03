@@ -3,20 +3,21 @@
 *Four nights of fog. Four deaths. Tonight is the thickest fog of the winter.*
 
 **System:** Call of Cthulhu 7e — **Gaslight (1896)** · **4–6 players** · 4-hour slot
-(3h30 play) · **the convention opener** · a mobile night hunt across London · a
+(3h30 budget, 3h15 planned) · a mobile night hunt across London · a
 map, a forecast and a deadline at dawn.
 
 | File | What it is |
 |---|---|
 | [`scenarios/the-london-particular-outline.md`](scenarios/the-london-particular-outline.md) | Synopsis, design intent, plot truth, act skeleton, open questions |
-| [`scenarios/london-particular.md`](scenarios/london-particular.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
-| [`characters/london-particular-pregens.md`](characters/london-particular-pregens.md) | Pregen design brief and pre-v1 audit checklist &mdash; no sheets written yet |
+| [`scenarios/london-particular.md`](scenarios/london-particular.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
+| [`characters/london-particular-pregens.md`](characters/london-particular-pregens.md) | **Six pregens**, audited against 7e creation |
+| [`playtest/london-particular-desk-1.md`](playtest/london-particular-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, seven-item fix list (all applied) |
 
-**Status:** outline. Next: full scenario draft to v1.
+**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2 (re-measure the Act Two track balance and re-test Benjamin), then pass 3 from the player chair &mdash; **at six players**.
 
-**Remaining prep:** scenario v1 · 6 pregens · handouts (**the London map with the
+**Remaining prep:** handouts (**the London map with the
 four deaths — the centrepiece prop**, the Meteorological Office fog register, a
-mortuary report, the works' process sheet) · art · desk playtest ×2 · print pack.
+mortuary report, the works' process sheet) · art · desk passes 2–3 · print pack.
 
 **Why it is this shape.** It is the slate's **fourth Gaslight game** and the only
 mobile one — the other three (Slots 3, 8, 14) are all quiet single-location

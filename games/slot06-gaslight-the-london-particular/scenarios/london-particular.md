@@ -2,8 +2,10 @@
 
 > *It does not hunt you. It only goes where the air is thick enough to carry it.*
 
-**Status: v1 — runnable, unplaytested.** Written 2026-11-02 from
-[`the-london-particular-outline.md`](the-london-particular-outline.md).
+**Status: v1.1 — desk pass 1 fixes applied.** Written 2026-11-02 from
+[`the-london-particular-outline.md`](the-london-particular-outline.md); the
+seven-item fix list in [`../playtest/london-particular-desk-1.md`](../playtest/london-particular-desk-1.md)
+applied 2026-11-03. **Still needs desk passes 2 and 3.**
 
 > **This file supersedes [`the-london-particular-outline.md`](the-london-particular-outline.md).**
 > A GM holding only this file can run the game. The outline is the frozen
@@ -19,22 +21,25 @@
 ## GM ESSENTIALS (one glance, any GM)
 
 - **System crash-course:** Call of Cthulhu 7e, Gaslight. d100 under the skill;
-  under half is a hard success, under a fifth extreme. 01–05 critical, 96–00
-  fumble. Push a failed roll by doing more of it — fail the push and the Keeper
+  under half is a hard success, under a fifth extreme. **01 is a critical. 100
+  is always a fumble; if the skill is under 50, 96–00 fumbles.** Push a failed
+  roll by doing more of it — fail the push and the Keeper
   imposes a real consequence. Sanity: lose the points, then roll d100 against
   current Sanity; **over** means a temporary bout of madness.
 - **Mechanics inline:** `[CoC: Skill — what it reveals or does]`
 - **Nothing can be shot.** It is diffuse. There is no combat in this scenario
   and no round in which a weapon is the answer.
 - **The clock counts play time** — pause it for the break.
-- **Hard rule: at 2:45, go to Act Three regardless.** Act Two is the city and
-  will run all night if you let it.
+- **Act Two is planned to end at 2:30. Hard rule: at 2:45 you go to Act Three
+  regardless.** Those fifteen minutes are the session's cushion, not spare act.
+  Act Two is the city and will run all night if you let it.
 - **Keep moving.** If the table has been in one location for forty minutes, the
   scenario has gone wrong. Put them in a cab.
-- **Sanity on offer: 2 at best, 8 at worst** — the residue under a glass
-  (0/1), the cold line in the Limehouse pursuit (1/1D4, and a player may
-  choose to take it twice), and the stranding at first light (1/1D3). Those
-  three are the whole budget. Do not add losses: nothing in this scenario
+- **Sanity on offer: 2 at best, 8 at worst — or 12 at worst if a player takes
+  the cold line twice, which the scenario expects at least one of them to.**
+  The residue under a glass (0/1), the cold line in the Limehouse pursuit
+  (1/1D4, deliberately repeatable), and the stranding at first light (1/1D3).
+  Those three are the whole budget. Do not add losses: nothing in this scenario
   attacks anybody.
 - **Safety:** four deaths by asphyxiation described clinically, **a child among
   the dead** (backstory only, never on screen), and industrial poverty. State
@@ -91,9 +96,13 @@
 | 0:00–0:15 | Introduction | Pregens dealt, safety line, **standing over the fourth body** |
 | 0:15–1:15 | **Act One — Four Deaths** | The four mapped on `H1-A`; the fog register obtained; **the pattern seen** |
 | — | *break, 10 min* | Ends on the evening forecast coming in |
-| 1:15–2:45 | **Act Two — The Running Night** | The works identified; Hollis or Edward confronted; **the rule confirmed**; the stacks' schedule known |
+| 1:15–2:30 | **Act Two — The Running Night** | The works identified; **both** Hollises confronted and the tracks reunited; **the rule confirmed**; the stacks' schedule known |
+| 2:30–2:45 | *cushion* | Act Two's overrun lives here, and nowhere else |
 | 2:45–3:15 | **Act Three — First Light** | The landing point calculated; the players there; the decision made |
 | 3:15–3:30 | Epilogue | Per-PC vignettes; what the works did next |
+
+**Planned content is 3:15 against a 3:30 budget — 15 · 60 · 75 · 30 · 15 — and
+the fifteen minutes between 2:30 and 2:45 are the cushion.**
 
 ---
 
@@ -312,7 +321,7 @@ needs him.
 
 ---
 
-## ACT TWO — *The Running Night* *(~90 minutes)*
+## ACT TWO — *The Running Night* *(~75 minutes)*
 
 **Shape:** the long act and the mobile one. The fog comes down and the players
 are out in it — the Lea marshes, the works, the river, and a pursuit on foot
@@ -321,13 +330,24 @@ cannot be seen, because nothing can.
 
 **Splits 3+2** (3+3 at six, 2+2 at four):
 
-- **Track A — the works.** Hollis, Edward, the process, the reagent.
+- **Track A — the works.** **Benjamin** Hollis, the process, the reagent, three
+  years of silence.
 - **Track B — the river and the air.** The Met readings, the stacks' plume,
-  the night's movement.
+  the night's movement — **and Edward**, who is at the wharf on the river side
+  signing barges in for the Thursday delivery.
+
+**The two Hollises are deliberately on opposite tracks.** That is the point of
+the split: Track A spends the act being argued at by a dying man who is mostly
+right, and Track B meets the twenty-six-year-old who does not believe a word of
+it and is loading the boats anyway. **When the tracks come back together, that
+is the scene where Edward is made to believe — in front of his father**, which
+is the staging the scenario has always wanted and never scheduled. Schedule it:
+**the reunion is a beat, at about 2:15, and it is the act's last one.**
 
 **Neither half can do the Act Three sum alone.** Track A learns the rule and
-the schedule; Track B learns tonight's wind and where the fog is actually
-lying. Alternate in ~12-minute segments and end each on a pull.
+the reagent; Track B learns tonight's wind, the stacks' schedule, and where the
+fog is actually lying — **so Track B arrives at Act Three holding an answer,
+not homework.** Alternate in ~10-minute segments and end each on a pull.
 
 ### Track A — Hollis & Son
 
@@ -361,10 +381,8 @@ about him.
 > does. And when the air thins it stops — and the air thins last where the
 > walls are highest."*
 
-**Edward Hollis, 26** — *wants a profitable quarter.* Does not believe a word
-until he is made to, which happens in Act Two and should happen **in front of
-his father.** He fires the stacks at ten for a Thursday delivery. He is the
-reason four people are dead, and he is not malicious, he is twenty-six.
+**Edward is not here.** He is on Track B, at the wharf. See below — and bring
+them together at 2:15.
 
 **Pacing lever:** if the clock has beaten the table, Benjamin says all three
 rules, the schedule and the reagent in one ninety-second speech. He has been
@@ -385,6 +403,28 @@ marshes, and readings taken at stations across the basin.
 **The best image in the act:** from a launch in midstream, the fog over the
 river is a *surface*, and the plume from two eighty-foot chimneys goes into it
 like milk into tea, and the whole mass is moving west.
+
+**Edward Hollis, 26, at the wharf** — *wants a profitable quarter.* He is on
+the river side with a tally board and a lamp, signing barges in, and he is
+delighted to tell anybody who asks that the stacks went up at ten tonight
+because there is a delivery to make. **He does not believe a word of his
+father's weather nonsense**, says so cheerfully, and will say it again in front
+of his father at the reunion. He is the reason four people are dead, he is not
+malicious, and he is twenty-six.
+
+> *"Three years of it. Rotas and a weather glass and 'don't fire the north
+> stack, Edward'. Do you know what a quarter's late delivery costs? He's a
+> frightened old man with a bad chest and I love him and he is wrong."*
+
+**The line that stops the scenario being an argument** — say it at the
+reunion, whatever anybody has promised anybody:
+> *"Say I agree with every word. Say I shut the north stack tomorrow. I'll be
+> back on it inside a year, because the alternative is five hundred men on the
+> street, and you'll all have gone home by then."*
+
+**Track B's own conclusion — watch where it is thickest.** Any table on the
+water at four in the morning can see the answer rather than compute it. This is
+route 3 to the Act Three sum and it belongs to Track B: **clue 20**, below.
 
 ### THE SET-PIECE: THE LIMEHOUSE PURSUIT — GM quick-reference
 
@@ -425,8 +465,22 @@ other way.
 
 **Idle players get jobs:** hand them the street. One runs the sweeper, one runs
 a cabman who will not move his horse, one runs a woman at an upstairs window
-who can see *over* the worst of it and will shout what she sees — which is the
-scene's only aerial view and the fastest route to the cold line's direction.
+who can see *over* the worst of it.
+
+> **The woman at the window is an NPC whenever nobody is free to play her —
+> which at four players is always.** She is the scene's only aerial view and
+> the fastest route to the cold line's direction, and **she shouts anyway.**
+> Nothing load-bearing in this set-piece is allowed to depend on there being a
+> spare player.
+>
+> **She is also the written fallback for the lantern.** Let a player discover
+> rule 2 if they are going to; if stage 1 has gone by and nobody has, she
+> leans out and solves it for them:
+> > *"Put your lamp out, you daft beggars — you'll see better!"*
+>
+> Do not volunteer it yourself, and do not let her say it before stage 1 is
+> over. The discovery is the best moment in the scene and she is the insurance,
+> not the delivery.
 
 ### Clue Trail — Act Two
 
@@ -435,28 +489,46 @@ scene's only aerial view and the fastest route to the cold line's direction.
 | 10 | It moves only in thick air | Benjamin; or the register's own geography | **Automatic** from Benjamin | Rule one | Essential |
 | 11 | **In clear air it strands** and stays where it was | Benjamin | **Automatic** from Benjamin | Rule two — **and the whole of Act Three** | Essential |
 | 12 | A chimney can steer it | Benjamin; the plume seen from the river | Automatic from either | Rule three | Essential |
-| 13 | `H2-B` — the stacks fire at ten tonight for a delivery | The works' office, or Edward | `[CoC: Accounting or Persuade]`; Edward boasts of it | Why it is going inward tonight | Essential |
+| 13 | `H2-B` — the stacks fire at ten tonight for a delivery | **Track B** — Edward at the wharf; or the works' office | **Automatic** — Edward boasts of it; `[CoC: Accounting or Persuade]` from the office | Why it is going inward tonight | Essential |
 | 14 | Benjamin has steered it deliberately for three years | Benjamin, unprompted once caught | **Automatic** | The human problem | Essential |
 | 15 | The works employs 512 men | The books; Benjamin says it twice | **Automatic** | The cost of exposure | Essential |
 | 16 | `H2-C` — the 1893 process sheet and the reagent; three carboys exist | Benjamin's own safe | He hands it over, or `[CoC: Locksmith/Persuade]` | **The only means of destroying it** | Essential |
 | 17 | Tonight's wind: ENE, light, backing north before dawn | Met readings, Track B | `[CoC: Science (Meteorology)]`, or the duty clerk | **Input to the sum** | Essential |
-| 18 | The fog over the river is a surface, and the plume is thickening it westward | From a launch, 10pm | `[CoC: Spot Hidden]` | **Input to the sum**, and the act's best image | Essential |
-| 19 | Edward does not believe any of it | Edward, any conversation | **Automatic** | He will fire the stacks again tomorrow | Essential |
+| 18 | The fog over the river is a surface, and the plume is thickening it westward | From a launch, 10pm | `[CoC: Spot Hidden]` | The act's best image — **and a confirmation of the sum, not an input to it.** Clue 12 and the rule of thumb already carry the plume | **Optional** |
+| 19 | Edward does not believe any of it, and will be back on the stacks inside a year | **Track B** — Edward, any conversation; said again at the reunion | **Automatic** | **The decision is a decision, not an argument** — nothing anybody promises tonight holds | Essential |
+| 20 | **Where the air is thickest at four in the morning**, watched from the water rather than calculated | Track B, the launch, ~4am | **Automatic** if they are afloat and looking; `[CoC: Navigate or Pilot (Boat)]` to get there | **Route 3 to the answer.** Track B can arrive at Act Three with the basin already named | Essential |
 
 **Fallbacks:** Benjamin covers 10, 11, 12, 14 and 16 in one speech; the duty
 clerk gives 17 to be rid of them; and if Track B never takes a boat, the plume
-is visible from Limehouse Reach on foot at low tide.
+is visible from Limehouse Reach on foot at low tide and clue 20 is read off the
+Causeway instead.
+
+**The register does not leave with the clerk.** `H2-A` is signed out in Peck's
+name and due back at six, which is the act break, and Act Three's sum names it
+as an input — so settle it before the break, out loud, one of two ways.
+**Better: Peck copies the relevant fortnight into his own notebook** before the
+register goes back, which puts the climax on a document in a player character's
+hand and sets up his Epilogue. Otherwise the duty clerk relents on condition it
+is returned by Monday, because he wants to go home more than he wants the
+ledger.
 
 ### Pacing Note — Act Two
 
 **Must be true before Act Three:** the three rules are known; the stack
 schedule is known; tonight's wind is known. **That is the sum's three inputs.**
 
-**Cuts, in order:** drop the marshes; shorten the pursuit to stages 1, 3 and 4;
-merge Edward into Benjamin's scene. **Do not cut Benjamin.**
+**Cuts, in order — the act is planned at 75 minutes, so expect to take the
+first one:**
+1. Drop the marshes.
+2. **Shorten the pursuit to stages 1, 2 and 3**, and narrate stage 4 in one
+   sentence. Stage 2 is the scene's only use of the one sense the scene says
+   works; stage 4 is atmosphere.
+3. Merge Edward into the reunion only — **do not cut the reunion**, and **do
+   not cut Benjamin.**
 
-**At 2:45, go to Act Three** whatever is unfinished — Benjamin tells them the
-answer at 2:40 if the sum is not forming.
+**Act Two is planned to end at 2:30** — on the reunion — **and at 2:45 you go
+to Act Three** whatever is unfinished. Benjamin tells them the answer at 2:25
+if the sum is not forming.
 
 ---
 
@@ -473,7 +545,7 @@ that has paid attention and **must not become homework.**
 |---|---|---|
 | **The fog** | `H2-A` + tonight's forecast | General, marshes to Westminster, no lift before dawn |
 | **The wind** | Clue 17 | Light from the ENE, backing north before dawn |
-| **The stacks** | `H2-B`, clue 13 | Fired at ten, thickening the air **inward, up-river, westward** |
+| **The stacks** | `H2-B`, clue 13 — **from Track B, via Edward at the wharf** | Fired at ten, thickening the air **inward, up-river, westward** |
 
 **Benjamin's rule of thumb:** *"It goes where the air is thickest. It drifts
 about half as fast as the wind does. And when the air thins it stops — and the
@@ -506,8 +578,11 @@ rewarding the reasoning is worth more than the pin. Say yes.
 1. **The arithmetic** — register, wind, schedule, as above.
 2. **The rule of thumb and a map** — Benjamin's sentence plus `H1-A` gets a
    table there in under a minute.
-3. **Empirically** — Track B simply watches where the fog is thickest at four
-   in the morning and goes there.
+3. **Empirically — clue 20.** Track B watches where the fog is thickest at
+   four in the morning from the water and goes there. **A table whose Track B
+   did this arrives at Act Three with the answer already named**, and the
+   arithmetic becomes the confirmation rather than the hurdle. That is a good
+   session, not a spoiled one.
 
 **GM fallback at 2:40:** Benjamin says it. He is ill, he is out of time, and he
 would rather someone else knew.
@@ -599,7 +674,7 @@ One question: **"Was Benjamin wrong?"** Do not answer it.
 | Who | Essence | Wants | Where |
 |---|---|---|---|
 | **Benjamin Hollis**, 54 | *Wants to hand the chimneys to someone who understands them before he dies.* Ill, unrepentant, right more often than is comfortable. | To be relieved of it | The works. **Track A** |
-| **Edward Hollis**, 26 | *Wants a profitable quarter.* Not malicious — twenty-six. | The Thursday delivery | The works. Must be made to believe **in front of his father** |
+| **Edward Hollis**, 26 | *Wants a profitable quarter.* Not malicious — twenty-six. | The Thursday delivery | **Track B, at the wharf.** Must be made to believe at the reunion, **in front of his father** |
 | **Mr Pargeter** | *Wants somebody to say what killed his wife.* | An answer | Bow, Act One. **One scene, and it sets the clock** |
 | **The Met Office duty clerk** | *Wants his register back by six.* Comic, obstructive. | To go home | Holds `H2-A`, the most important document in the game |
 | **The thing** | *Has no malice. It drifts.* | — | **Never named, never explained, never depicted** |
@@ -678,17 +753,22 @@ two words of the first line: *"It went"*.
 
 ### New open questions, raised by writing v1
 
-1. **Is Benjamin too persuasive?** His speech is written to be right. If the
-   first playtest shows every table choosing *Leave it*, the scenario has an
-   argument rather than a decision, and the fix is to give Edward a line that
-   makes clear he will be back on the stacks within a year whatever anybody
-   promises.
-2. **Does the 3+2 split starve Track B?** Track A has two NPCs and the whole
-   human story; Track B has weather readings and a boat. Watch whether Track B
-   players feel they are doing homework while the other half has the argument.
+1. **Is Benjamin too persuasive?** **Desk pass 1: probably yes — and the
+   author's own fix is now applied.** Edward has the line, at the reunion, in
+   front of his father: he will be back on the stacks inside a year whatever
+   anybody promises. That turns an argument back into a decision. **Re-test it
+   in pass 2**, because moving Edward to Track B means Track A now spends the
+   whole act being persuaded by Benjamin with nobody to answer him.
+2. **Does the 3+2 split starve Track B?** **Confirmed at desk pass 1 — eight
+   clues to two — and fixed by redistribution, not addition.** Edward and the
+   stack schedule are Track B's now, and Track B has its own conclusion in
+   clue 20. Roughly 6/4. **Measure it again in pass 2.**
 3. **Six players in a fog.** The pursuit's first stage deliberately splits the
    party. At six that could become three groups of two and a GM juggling three
    conversations in a scene whose whole point is that nobody can find anybody.
+   **Untested at pass 1** (played at four), and note the risk runs the other
+   way at six: the street roles get played rather than narrated, so the scene
+   is better resourced and the GM is busier. **Flag for pass 3.**
 
 ---
 
