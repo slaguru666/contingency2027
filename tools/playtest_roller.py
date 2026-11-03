@@ -48,11 +48,15 @@ RULES = {
         "Runner RPG Core Rulebook, Dice and Rolls.",
     ),
     "og": (
-        False,
-        "Outgunned Adventure 1.1 pool of d6 resolved by matches. The ladder "
-        "(pair = Basic, three = Critical, four = Extreme, five+ = Impossible) "
-        "is the one rule on the slate written from memory. See the "
-        "[unverified] note in PROVENANCE.",
+        True,
+        "Outgunned Adventure 1.1: pool = Attribute + Skill in d6, 'never "
+        "fewer than 2 or more than 9 dice', resolved by matching faces. "
+        "2 of a kind = Basic, 3 = Critical, 4 = Extreme, 5 = Impossible, "
+        "6+ = Jackpot ('you become the Director for a turn'). 'Three = One': "
+        "3 smaller successes equal 1 greater. Source: Tim's page-cited "
+        "transcription of Outgunned Adventure ENG 1.1, "
+        "systems/outgunned-adventure/tools/journal/rules/00-quick-reference.html "
+        "(book pp. 50-51).",
     ),
     "dee": (
         True,
@@ -128,13 +132,15 @@ def roll_br(rng, dice):
 
 
 def roll_og(rng, pool):
+    if not 2 <= pool <= 9:
+        sys.exit(f"Outgunned pool must be 2-9 (never fewer than 2 or more than 9 dice); got {pool}")
     vals = [rng.randint(1, 6) for _ in range(pool)]
     counts = {}
     for v in vals:
         counts[v] = counts.get(v, 0) + 1
     best = max(counts.values())
-    ladder = {1: "FAIL", 2: "BASIC", 3: "CRITICAL", 4: "EXTREME"}
-    level = ladder.get(best, "IMPOSSIBLE")
+    ladder = {1: "FAIL", 2: "BASIC", 3: "CRITICAL", 4: "EXTREME", 5: "IMPOSSIBLE"}
+    level = ladder.get(best, "JACKPOT")
     return f"pool={sorted(vals)} best match={best} -> {level}"
 
 

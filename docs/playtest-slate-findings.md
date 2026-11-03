@@ -177,3 +177,57 @@ two specific jobs:
    The scenario is the file that drifted. Check the roster before filing a
    scenario's arithmetic as wrong; it prevented three incorrect findings in
    this pass.
+
+---
+
+## 6. The defects are in the crash-course, not in the cases
+
+With all twelve games now desk-played, the pattern is unambiguous. **The
+system crash-course block is materially wrong or incomplete in nine of the
+eleven written scenarios.** Every case, every clue trail and every ending
+survived its pass; the mechanics paragraph did not.
+
+| Slot | System | Crash-course verdict |
+|---|---|---|
+| 1 · 3 · 6 · 8 · 12 | Call of Cthulhu 7e | **Wrong** — the critical/fumble band, in all five (finding 2). Slot 12 additionally states Luck and pushing without the book's exclusions |
+| 4 | The Walking Dead Universe | **Correct** — and its `[unverified]` tag can come off. One isolated invented term ("hard success") |
+| 5 | ALIEN | **Incomplete** — omits that a stress symbol forbids the push and forces a Panic Roll |
+| 9 | Vaesen | **Wrong by one die** — "each additional PC" for "the number of PCs present". Its own pregens are right |
+| 11 | Blade Runner | **Wrong in nearly every particular** — a d6 pool for two Base Dice, the push cost, the human/replicant asymmetry absent. Slot 2's ported source is entirely correct |
+| 13 | The Dee Sanction | **Wrong in both halves** — invents a difficulty the game does not have, and mis-states Falter as failure when it is failing forward. All six mechanic tags name nothing in the game |
+| 14 | Outgunned Adventure | **Correct** — and the one rule it flagged as unverified had already been confirmed in its own roster |
+
+Two conclusions worth acting on:
+
+1. **The cases are in better shape than the slate's defect list suggests.** The
+   player-hat ledgers across twelve passes ran 7 to 9 out of 10, and in slots
+   11, 13 and 14 the mechanics complaints were the *only* complaints. These are
+   paragraph fixes, not rewrites.
+2. **Fix them from a sibling file wherever one exists.** Slot 11's rules block
+   should be copied from Slot 2's, which is correct and in the same repo. Slot
+   9's should be copied from its own pregens. Slot 14's needs one deletion.
+   Only the five CoC scenarios and Slots 5 and 13 need new text, and for CoC it
+   is the same two sentences five times.
+
+**Tooling.** `tools/playtest_roller.py` now reports **VERIFIED** for all five
+systems — CoC, Year Zero (Vaesen/ALIEN/TWDU), Blade Runner, Outgunned and The
+Dee Sanction. Three rules were verified and corrected during these passes:
+Blade Runner's 10+ counting as two successes, The Dee Sanction's Falter band
+and ladder, and Outgunned's Jackpot tier and 2–9 dice bounds.
+
+## 7. Every `[unverified]` tag was worth writing — and twice the error was next door
+
+Four scenarios carried an author's `[unverified]` note. The instinct was right
+every time, and it is worth keeping.
+
+| Slot | What was doubted | Outcome |
+|---|---|---|
+| 4 | The TWDU crash-course | **Verified correct.** Tag can come off |
+| 11 | The Blade Runner push cost | **Wrong** — and so was the dice mechanic in the sentence beside it, which was not flagged |
+| 13 | The Dee Sanction step die and Falter | **Both wrong**, and the note cited exactly the right precedent: an inherited quick-reference carrying another game's dice mechanic, which is what Slot 11 turned out to be |
+| 14 | The Outgunned match ladder | **Correct** — and already confirmed in its own pregen pack |
+
+The lesson is the one the house already has about checking the neighbours:
+**when a tag marks one sentence as doubtful, read the paragraph.** Twice the
+flagged claim was wrong and had a worse error immediately adjacent, and once
+the flagged claim was right and the answer was one file away.
