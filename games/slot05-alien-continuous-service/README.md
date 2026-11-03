@@ -12,8 +12,9 @@ is a decision about paperwork.
 | [`scenarios/continuous-service.md`](scenarios/continuous-service.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
 | [`characters/continuous-service-pregens.md`](characters/continuous-service-pregens.md) | **Six pregens** with all eighteen Cinematic agendas, **plus the two survivor seats' cards** |
 | [`playtest/continuous-service-desk-1.md`](playtest/continuous-service-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, seven-item fix list (all applied) |
+| [`playtest/continuous-service-desk-2.md`](playtest/continuous-service-desk-2.md) | Desk pass 2 &mdash; Act Two stress re-run at four players **with a directed PC death at 2:00**; the survivor cards work, four-item fix list (not yet applied) |
 
-**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2 (stress re-run of Act Two), then pass 3 from the player chair.
+**Status:** **v1.1 — desk pass 1 applied; desk pass 2 run.** Next: apply pass 2's four fixes (the directed first death is the critical one), then pass 3 from the player chair at six, with a table that opens a sealed container.
 
 **Remaining prep:** deck plans for the *Keelson* —
 the centrepiece prop · handouts (a payroll ledger, a survey contract, eleven
