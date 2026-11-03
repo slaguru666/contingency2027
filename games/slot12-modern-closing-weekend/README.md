@@ -3,22 +3,23 @@
 *Camp Loon Point shuts for good on Monday. Eight of you stayed for one more night.*
 
 **System:** Call of Cthulhu 7e — **modern rules, set September 1986** ·
-**4–6 players** · 4-hour slot (3h30 play) · **a slasher**, played knowingly · high
+**4–6 players** · 4-hour slot (3h30 budget, 3h20 planned — 15·60·70·40·15, the
+tightest on the slate, to give Act Three forty minutes) · **a slasher**, played knowingly · high
 character turnover with second characters built in · the climax is a name, not a
 weapon.
 
 | File | What it is |
 |---|---|
 | [`scenarios/closing-weekend-outline.md`](scenarios/closing-weekend-outline.md) | Synopsis, design intent, plot truth, genre rules, act skeleton, open questions |
-| [`scenarios/closing-weekend.md`](scenarios/closing-weekend.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
-| [`characters/closing-weekend-pregens.md`](characters/closing-weekend-pregens.md) | Pregen design brief and pre-v1 audit checklist &mdash; no sheets written yet |
+| [`scenarios/closing-weekend.md`](scenarios/closing-weekend.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
+| [`characters/closing-weekend-pregens.md`](characters/closing-weekend-pregens.md) | **Six counsellors + four second characters**, with the consent question now resolved (Option A, print the (A) bullet) |
+| [`playtest/closing-weekend-desk-1.md`](playtest/closing-weekend-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, two criticals and seven more findings (all addressed) |
 
-**Status:** outline. Next: full scenario draft to v1.
+**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2, to re-measure Act Two at 70 minutes and Act Three at 40, then pass 3 from the player chair.
 
-**Remaining prep:** scenario v1 · **6 counsellor pregens + 4 second characters**
-(the thing that makes a slasher work as an RPG) · the camp map — the centrepiece
+**Remaining prep:** the camp map — the centrepiece
 prop · handouts (1931 and 1954 newspaper clippings, the camp's incident log, a
-Polaroid) · art · desk playtest ×2 · print pack.
+Polaroid) · art · desk passes 2–3 · print pack.
 
 **Slot note:** moved here from Thursday afternoon on 2026-10-25. **Saturday
 night is where this game always wanted to be** — a slasher at 7.30 on the

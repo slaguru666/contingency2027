@@ -36,10 +36,24 @@ Built to three goals:
 ## THE CONSENT AND DISCOVERY QUESTION — read this before printing anything
 
 Tim's open question 3, and tracker Decision 4: **is the mask's rule discovered
-in Act Two, or told to the table up front?** This roster deliberately **does not
-decide it**, because it is also a consent question — the public Warhorn copy
-says *"Expect to play more than one character"* and no longer says anything
-about a PC being the killer.
+in Act Two, or told to the table up front?**
+
+> **RESOLVED IN THE SCENARIO — Option A, plus the consent line. Print the (A)
+> bullet.** The scenario v1 answered it better than either option printed
+> below: the rule **is** discovered in Act Two, **and** Slot Zero carries a
+> short consent line that says there is a killer and he is not one of your
+> characters, nobody is playing a traitor, and no sheet has a hidden
+> instruction on it. That removes the false worry Option B's first change
+> existed to remove, **without telling the table the rule.** See *The consent
+> line — say it, it is not a spoiler* in the scenario.
+>
+> **So: print every sheet as written below, with the (A) third bullet, and do
+> not add the Option B Private-box line.** Option B is kept below as the
+> recorded alternative, not as a live choice.
+
+This roster was written not deciding it, because it is also a consent question —
+the public Warhorn copy says *"Expect to play more than one character"* and no
+longer says anything about a PC being the killer.
 
 **Three things are true of this roster under either option:**
 
@@ -56,11 +70,16 @@ about a PC being the killer.
 
 ### Exactly what changes under each option
 
-**Option A — discovered in play (the outline's current default).**
-Print the sheets exactly as written below. The genre-rules card says nothing
-about names. The "Who you knew before June" line is background. The GM says
-nothing in Slot Zero beyond the content warnings — nothing has been implied, so
-nothing needs correcting.
+**Option A — discovered in play. This is the chosen option.**
+Print the sheets exactly as written below, with the **(A)** third bullet. The
+genre-rules card says nothing about names. The "Who you knew before June" line
+is background. **The GM says one thing in Slot Zero beyond the content
+warnings — the scenario's consent line**, which states that the killer is not
+one of their characters and no sheet carries a hidden instruction. It implies
+nothing about the rule and corrects nothing; it removes a worry the advert
+leaves behind. *(This description was wrong until 2026-11-03: it said the GM
+says nothing beyond the content warnings, which stopped being true when the
+scenario added the consent line.)*
 
 **Option B — told up front.** Exactly three changes, and the first is not
 optional:

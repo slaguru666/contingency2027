@@ -2,7 +2,9 @@
 
 > *Camp Loon Point shuts for good on Monday. Eight of you stayed for one more night.*
 
-**Status: v1 — runnable, unplaytested.** Written 2026-11-02 from
+**Status: v1.1 — desk pass 1 fixes applied.** All nine findings in
+[`../playtest/closing-weekend-desk-1.md`](../playtest/closing-weekend-desk-1.md)
+addressed, 2026-11-03. **Still needs desk passes 2 and 3.** Previously: v1 — runnable, unplaytested. Written 2026-11-02 from
 [`closing-weekend-outline.md`](closing-weekend-outline.md).
 
 > **This file supersedes [`closing-weekend-outline.md`](closing-weekend-outline.md).**
@@ -19,9 +21,13 @@
 ## GM ESSENTIALS (one glance, any GM)
 
 - **System crash-course:** Call of Cthulhu 7e, **modern rules.** d100 under the
-  skill; under half hard, under a fifth extreme. 01–05 critical, 96–00 fumble.
-  Push a failed roll by doing more of it; a failed push earns a real
-  consequence. Luck can be spent 1-for-1 to improve a roll.
+  skill; under half hard, under a fifth extreme. **01 is a critical. 100 is
+  always a fumble; if the skill is under 50, 96–00 fumbles.**
+  **Push:** repeat the attempt with more effort, once; a failed push earns a
+  real consequence. **Luck:** spend Luck 1-for-1 to turn a failure into a
+  success — **but not on a Sanity roll, not on a damage roll, and not on a roll
+  you have already pushed. One or the other, never both.** Criticals and
+  fumbles stand and cannot be bought off.
 - **Mechanics inline:** `[CoC: Skill — what it does]`
 - **READ THIS BEFORE PAGE TWO: the killer wins fights and the players lose
   them.** He is not a stat block to be solved with a deer rifle. **There are no
@@ -30,10 +36,23 @@
   it by surprise.
 - **Nobody dies on one failed roll.** Death comes on the **second** failure in
   a scene; the GM narrates the first as a near miss.
+- **Sanity is not the dial in this scenario — the killer is.** Charge the two
+  written rolls (1/1D6 at the first body, 1/1D4 at the unmasking) and **nothing
+  else.** Do not apply the loss table for witnessed deaths — the book prices a
+  friend's violent death at 0/1D6 and this scenario expects three to six of
+  them, which is a different and worse game. A flat **0/1 for each death after
+  the first** keeps the ledger honest, and **no second-character handover ever
+  costs the incoming player Sanity.** Expect 2–6 points lost across a session
+  and roughly one bout of madness at the table all night. That is deliberate.
 - **No elimination.** A dead player has a second character in hand **within two
   minutes**, from a prepared set of four.
 - **The clock counts play time** — pause it for the break.
-- **Hard rule: at 2:45, go to Act Three regardless.**
+- **Hard rule: at 2:35 — not 2:45 — you go to Act Three regardless.** This is
+  the one game on the slate with an earlier hard stop than the house 2:45,
+  because **Act Three is forty minutes, not thirty**: the round-the-table
+  approach plus the scenario's own "about twenty minutes left" argument does
+  not fit in thirty and the argument is the best thing in the game. Act Two is
+  planned to end at **2:25**.
 - **The climax is a name, not a weapon.**
 - **Safety:** graphic slasher violence against young adults; sustained stalking
   and pursuit; recreational drug and alcohol use; period attitudes left in and
@@ -117,6 +136,11 @@ be funny and must still be played that way** — that was never about the slot.
   resisting it.
 - **He walks.** No chase rolls. He is placed, not raced.
 - **Second failure kills.** The first failure is the near miss.
+- **Pushing is how people die here.** A failed push **is** your second failure.
+  If you are already on your near miss, **spend Luck instead — or run.**
+- **Banked Luck is how you survive this scenario. It cannot save your mind,
+  only your body** — Luck buys a failed skill roll back, never a Sanity roll,
+  and never a roll you have already pushed.
 - **He does not stay down.** Twice. On the third, something else is wrong.
 
 ---
@@ -128,9 +152,19 @@ be funny and must still be played that way** — that was never about the slot.
 | 0:00–0:15 | Introduction | Safety line, **consent line**, genre card, pregen taglines. **Every player has said one line in character** |
 | 0:15–1:15 | **Act One — The Last Day** | The table has laughed; **the map has been walked**; the phone and the wagon both established. **First body at ~1:05** |
 | — | *break, 10 min* | On the body |
-| 1:15–2:45 | **Act Two — The Night** | **The table knows the mask comes off by name, and knows the wearer is Denny** |
-| 2:45–3:15 | **Act Three — The Name** | A decision made out loud by a named player |
-| 3:15–3:30 | Epilogue | Per-survivor vignettes; 8 September, the boathouse comes down |
+| 1:15–2:25 | **Act Two — The Night** | **The table knows the mask comes off by name, and knows the wearer is Denny** |
+| 2:25–3:05 | **Act Three — The Name** | A decision made out loud by a named player. **Forty minutes, and twenty of them are the argument** |
+| 3:05–3:20 | Epilogue | Per-survivor vignettes; 8 September, the boathouse comes down |
+| 3:20–3:30 | *cushion* | Ten minutes, and that is all there is |
+
+**Planned content is 3:20 against a 3:30 budget — 15 · 60 · 70 · 40 · 15.**
+**This is the tightest plan on the slate and it is tight on purpose:** Act
+Three was thirty minutes and could not hold its own stated content, so it has
+forty, and the ten minutes came out of Act Two — which measured on budget and
+carries two named cuts it never needed. **Take those cuts as the default, not
+as a contingency.** The hard stop is **2:35**, not 2:45, because Act Three
+cannot be compressed: it is the only act in the game whose content is a
+conversation.
 
 ---
 
@@ -282,7 +316,20 @@ the register, which is the whole of Act One.
 > store. The campers went home Monday. The cabins are half-closed, the pipes
 > are half-drained, there are nine cases of beer in the mess hall walk-in that
 > nobody has to account for any more, and on Tuesday a company called Vanterra
-> is going to put a bulldozer through the boathouse. Eight of you stayed.
+> is going to put a bulldozer through the boathouse. **[Count]** of you stayed.
+
+> **[Count] = your number of players + 2** — the PCs, plus Denny, plus Hollis.
+> **Eight at six players, seven at five, six at four.** Say the real number.
+> "Eight of you stayed" read to a table of four is read to four people who can
+> count, and the roster drops the grounds hand at five and the waterfront
+> director at four.
+>
+> **The June Polaroid (`H1-A`) is that number plus two, minus one** — plus
+> Marcy and Tad, who left in June, minus Sol, who is behind the camera. Nine at
+> six players. **Print `H1-A` so the figures are not countable** — middle
+> distance, half of them moving, two cut by the frame — or print the
+> four-player version. The one thing that must stay countable is Denny at the
+> edge, holding something behind his leg.
 
 ### Player Briefing
 
@@ -290,7 +337,7 @@ the register, which is the whole of Act One.
   goes first.
 - The job is closing cabins, draining pipes, siphoning the camp's gas.
 - **One last night at the lake**, and everybody has plans for the fall.
-- There are eight staff left on the point.
+- There are **[Count]** staff left on the point — see the Opening's note.
 
 ### Hook into Act One
 
@@ -370,7 +417,7 @@ Polaroid.** **Place the break here**, on the body.
 
 ---
 
-## ACT TWO — *The Night* *(~90 minutes)*
+## ACT TWO — *The Night* *(~70 minutes)*
 
 **Shape:** survival and investigation, splitting into **Track A (the office)**
 and **Track B (the boathouse)**. First counsellor deaths; second characters
@@ -431,15 +478,18 @@ the time of death on Marcy's report does not match a phone call she made.
 **Must be true before Act Three:** the table knows the mask comes off by name,
 and knows the wearer is Denny.
 
-**Cuts:** drop clue 13 and the 1972 receipt; collapse the office and boathouse
-into one scene with Hollis narrating the other. **Do not cut the 1954
-clipping** — it is the rule.
+**Both cuts are the default, not a contingency**, because this act is planned
+at 70 minutes so that Act Three can have 40: **drop clue 13 and the 1972
+receipt; collapse the office and the boathouse into one scene with Hollis
+narrating the other.** Run the long version only if you are ahead at 1:50.
+**Do not cut the 1954 clipping** — it is the rule.
 
-**At 2:45, go to Act Three.**
+**Act Two is planned to end at 2:25, and at 2:35 you go to Act Three** whatever
+is unfinished.
 
 ---
 
-## ACT THREE — *The Name* *(~30 minutes)*
+## ACT THREE — *The Name* *(~40 minutes — and twenty of them are the argument)*
 
 **No new information.** The question is **who walks forward.**
 
@@ -507,10 +557,18 @@ gate:** Niamh's car, which works.
 
 ### If someone shoots
 
-**Denny can be killed.** He is nineteen and he is not armoured. **The mask
-comes off a body as easily as a face** — and then it is in the room with six
-people who have just shot their friend, and it is very reasonable, and it has
-all night.
+**Denny can be killed.** He is nineteen and he is not armoured.
+
+> **If they shoot him — the ruling.** He has no stat block and needs none.
+> **The first hit puts him down and he gets up.** That is one of his two.
+> **The second puts him down and he gets up.** That is the other. **A third hit
+> kills him.** No roll decides whether a hit "counts": a successful Firearms
+> roll is a hit, and a hit is one of the three. He carries **a fire axe from
+> the boathouse** and **does not raise it while anybody is talking to him.**
+
+**The mask comes off a body as easily as a face** — and then it is in the room
+with the people who have just shot their friend, and it is very reasonable, and
+it has all night.
 
 ### Pacing Note — Act Three
 
@@ -598,7 +656,7 @@ camp at the end of the season.** **The mask may be drawn; Denny may not.**
 | `H2-B` | Two 1931 clippings and one from 1954 | **The 1954 one carries the rule** — set it so the "called to him" line is not highlighted |
 | `H2-C` | Marcy's drowning report and Tad's separation notice | Same typewriter, same signature hand |
 | `H2-D` | The 1972 plywood receipt | A6, for the duller answer |
-| `H1-A` | **The June staff Polaroid**, nine people | **Denny at the edge, holding something behind his leg.** Passed round at the bonfire |
+| `H1-A` | **The June staff Polaroid** — **[Count] + 2 − 1** people, so nine at six players | **Not countable on purpose**: middle distance, half of them moving, two cut by the frame. **Denny at the edge, holding something behind his leg**, is the one thing that must read clearly. Passed round at the bonfire |
 | — | Genre-rules card | One side of card, per player |
 
 ---
@@ -658,11 +716,17 @@ variants on every counsellor sheet so this can be flipped without a rewrite.
    the hardest tonal ask on the slate and it is written as instructions rather
    than as material. If a playtest drags, Act One needs four written comic
    beats with actual dialogue, not a list of activities.
-2. **"He waits" is doing a lot of work.** Act Three depends on the killer
-   standing still while someone walks toward him, which is the opposite of
-   everything the evening has taught. If a table simply refuses to approach for
-   twenty minutes, the written answer is that he starts walking — but that
-   makes the ending a chase, which is exactly what design intent 4 forbids.
+2. **"He waits" is doing a lot of work.** → **Closed at desk pass 1, and the
+   answer was already in the Epilogue.** A table that refuses to approach for
+   twenty minutes is not a failure state needing a chase — it is the
+   **"Nobody said it"** row: whoever is left reaches Niamh's car, the camp
+   comes down on schedule, and September 1986 is a bad year at Loon Point and
+   it is the eighth one. That is a complete, honest, genre-correct ending and
+   it is the one the evening has trained them toward. **Do not have him start
+   walking.** If you want pressure that is not a chase, **he turns and walks
+   toward the boathouse** — and the table works out for itself that if he is
+   under it before Tuesday morning there is no ending at all. Cost without
+   pursuit.
 3. **Six counsellors and four second characters is ten sheets on one table.**
    Watch the physical logistics at a convention table that also has a map, a
    log, a Polaroid and a genre card on it.
@@ -670,6 +734,15 @@ variants on every counsellor sheet so this can be flipped without a rewrite.
 ---
 
 ## GM Notes (private)
+
+- **Eleven initials, eight bad years.** The joist carries eleven sets of
+  initials since 1931; the insurance log shows bad years in 1931, 1940, 1947,
+  1954, 1962, 1971, 1979 and 1986 — eight. **Three wearers took it off before
+  it cost anybody anything**, and those years look like any other year in the
+  log. The arithmetic is deliberate, not a slip: *"every one of the eleven took
+  it off eventually."* **If a player does the subtraction out loud — and the
+  lore-digger will — that is the most hopeful fact in the scenario.** Let them
+  have it.
 
 - **Play Act One as a comedy and mean it.** The scenario does not work if the
   table is braced from minute one. They should be laughing when the body turns
