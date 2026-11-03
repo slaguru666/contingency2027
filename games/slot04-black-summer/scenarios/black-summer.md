@@ -2,8 +2,10 @@
 
 > *The plane leaves at dawn. There are three chits, and there are more of you than that.*
 
-**Status: v1 — runnable, unplaytested.** Written 2026-11-02 from
-[`black-summer-outline.md`](black-summer-outline.md).
+**Status: v1.1 — desk pass 1 fixes applied.** Written 2026-11-02 from
+[`black-summer-outline.md`](black-summer-outline.md); the nine-item fix list in
+[`../playtest/black-summer-desk-1.md`](../playtest/black-summer-desk-1.md)
+applied 2026-11-03. **Still needs desk passes 2 and 3.**
 
 > **This file supersedes [`black-summer-outline.md`](black-summer-outline.md).**
 > A GM holding only this file can run the game. The outline is now the frozen
@@ -13,10 +15,13 @@
 > Documents/com~apple~CloudDocs/RPGS/OLD BACKUP/ConDucked/Walking Dead/`
 > `The_Walking_Dead_RPG_Core_Rules.pdf` — found while the roster was being
 > built, which closes the outline's blocking open question. The roster is
-> audited against it. Items below still tagged `[unverified]` were not checked
-> by this draft specifically; the structure does not depend on them — the
-> Runner is a situation, the Line is its own track, and the ending is a
-> decision.
+> audited against it. **Desk pass 1 verified the crash-course against the book
+> and it was correct** — its `[unverified]` tag is gone, and the Runner block's
+> tag is gone too, because the answer turned out to be that a Runner has no
+> statblock by design. Two `[unverified]` tags remain, both on house
+> substitutions rather than core rules (the chit-for-anchor swap and the
+> opposed PvP roll); the structure does not depend on either — the Runner is a
+> situation, THE LINE is its own track, and the ending is a decision.
 >
 > **One terminology correction:** TWDU has **Challenges** and **survival
 > mode**; it has no mechanic called a *Journey*. Where this file says Journey
@@ -28,10 +33,13 @@
 ## GM ESSENTIALS (one glance, any GM)
 
 - **System crash-course:** The Walking Dead Universe RPG (Year Zero engine).
-  Roll a pool of d6s from attribute + skill; **a 6 is a success**. You may push
-  a failed roll once, which costs stress. Stress dice can produce a **messed-up
-  result** on a 1. `[unverified — confirm pool construction and the push cost
-  against the core rulebook before playtest]`
+  Roll a pool of d6s from attribute + skill; **a 6 is a success**. **Extra
+  successes beyond the first buy more**, and some skills let you hand one to
+  another PC — so where this file asks for "two or more successes" it means two
+  sixes. You may push a failed roll once, and **the player has to say what the
+  PC does differently**; it costs stress. Stress dice can produce a **messed-up
+  result** on a 1, and **a messed-up result raises the Threat Level one step.**
+  *(Verified against the core rulebook at desk pass 1.)*
 - **Mechanics inline:** `[TWDU: Skill — what it does]`
 - **Four house modifications only** — Runners, no Haven, the chit replaces the
   anchor, stress does not reset. They are listed in full below and take one
@@ -40,8 +48,9 @@
   rolling dice at a Runner for more than two rounds, you have made an error —
   change the situation, not the stat block.
 - **The clock counts play time** — pause it for the break.
-- **Hard rule: at 2:45 the northern fence goes**, whatever the table is doing.
-  Act Three happens on schedule.
+- **Act Two is planned to end at 2:30. Hard rule: at 2:45 the northern fence
+  goes**, whatever the table is doing. Those fifteen minutes are the session's
+  cushion, not spare act. Act Three happens on schedule.
 - **Three chits. Always three**, at four players or at six. See *The chit
   maths* below — this is the scenario's single most important number and the
   advert promises it.
@@ -116,7 +125,7 @@ important part.** Three-of-four is *not* the gentler table:
 |---|---|
 | **6** | Six adults looking at one certain seat, and a **forge route** on the table (a stamped blank needing the validation die, which is inside the wire). The act is spent **trying to make more seats** — outward, active, hopeful, and it fails or half-succeeds. That is the register |
 | **5** | The same shape, one fewer mouth. Hope still has somewhere to go |
-| **4** | **The harshest table this scenario produces.** The sheet carrying the blank is the first to drop, so **the forge route leaves with it.** There is no route to a fourth seat. The conversation turns inward in the first ten minutes: *which of us* |
+| **4** | **The harshest table this scenario produces.** The sheet carrying the blank is the first to drop, so **the forge route leaves with it** — and the only remaining route to a fourth seat is Mrs Adeyemi's: a named woman's sister's insulin. **There is no route that costs nothing.** The conversation turns inward in the first ten minutes: *which of us* |
 
 **So do not change the chit count and do not change the advert.** The scaling
 does the work by itself. Earlier drafts of this section said the opposite and
@@ -139,12 +148,14 @@ it.** That is true at four, five and six.
 | 0:00–0:15 | Introduction | Pregens dealt, **chits physically handed out**, safety line said, **PvP question asked** |
 | 0:15–1:15 | **Act One — The Crossing** | Party out of Manhattan; **at least one PC has lost something they came with** |
 | — | *break, 10 min* | Ends on the first sight of the field's lights across the marsh |
-| 1:15–2:45 | **Act Two — The Line** | The truth known by at least one PC; **the chit count has changed from three** |
+| 1:15–2:30 | **Act Two — The Line** | The truth known by at least one PC; **the chit count has changed from three**; anyone who wants to walk north has said so |
+| 2:30–2:45 | *cushion* | Act Two's overrun lives here, and nowhere else |
 | 2:45–3:15 | **Act Three — Dawn** | The decision made at the wire; the aircraft resolved |
 | 3:15–3:30 | Epilogue | Per-PC vignettes; outcome named; who is still standing in the grass |
 
-**Planned content is ~3:15 against 3:30.** Act Two is long and social and will
-try to eat Act Three. It does not get to.
+**Planned content is 3:15 against a 3:30 budget — 15 · 60 · 75 · 30 · 15 — and
+the fifteen minutes between 2:30 and 2:45 are the cushion.** Act Two is long
+and social and will try to eat Act Three. It does not get to.
 
 ---
 
@@ -240,7 +251,9 @@ something is wrong with the scenario, not the rules.*
 seconds. Replace the standard walker profile with the **Runner** block below.
 There is no safe distance, only a safe *situation*.
 
-> **RUNNER** `[unverified — build against the core rulebook's walker profile]`
+> **RUNNER** — **no statblock, by design.** Do not build one. A Runner is a
+> Threat Level escalation, not a Swarm and not an encounter, and the moment it
+> has a profile a table will try to beat the profile.
 > - **Mobility:** very high. A Runner crosses open ground faster than a person.
 > - **No shamble telegraph.** You do not hear them coming. The warning is
 >   always something else: birds, a dog, a door.
@@ -251,6 +264,12 @@ There is no safe distance, only a safe *situation*.
 >
 > **How to run one:** a Runner is a timer, not an opponent. When one arrives,
 > ask the players what they are abandoning. That is the whole mechanic.
+>
+> **If a player insists on fighting one** — and one will — do not stonewall it.
+> It is a single `[TWDU: Close Combat]` roll they can win, and **the cost is
+> noise: the Threat Level goes up one step and there is another Runner in the
+> next scene.** They killed it; that was never the problem. Say the cost out
+> loud as you say the result, and do not roll a second round.
 
 **2. No Haven play.** Drop the Haven rules entirely. Nobody is building
 anything. The scenario is Journey + Challenge structure end to end.
@@ -365,7 +384,7 @@ the street is not empty).
 has lost something they came with.** Medicine, a weapon, a photograph, dry
 boots. If the dice do not take it, the corridor does.
 
-### Challenge Two — The water *(~20 min)*
+### Challenge Two — The water *(~15 min; 20 if the table is flying)*
 
 The crossing. A boat, a barge, or the long way round. Whatever they choose,
 the cost is **noise**, and noise is the Runner clock.
@@ -401,7 +420,7 @@ outside, and they will not come.
 | 3 | The family's radio has heard nothing from the field since midday | Flatbush porch | **Automatic** if they talk to the family at all | First crack. Dated to midday — which is when the order arrived | Essential |
 | 4 | Chits are being bought and sold outside the wire | The family, or any corpse with a pocket | `[TWDU: Manipulation]`, or automatic from the family | There is a market. There may be a fourth chit | Essential |
 | 5 | The field's northern side backs onto marsh and the fence there is old | The street atlas `H1-A` | `[TWDU: Survival or Scout]` | Act Three's timer, planted an hour early | Optional |
-| 6 | Soldiers have been seen *leaving* the field, walking inland | The family | `[TWDU: Manipulation — hard success]` | Somebody has already decided it is over | Optional |
+| 6 | Soldiers have been seen *leaving* the field, walking inland | The family | `[TWDU: Manipulation — two or more successes]` | Somebody has already decided it is over | Optional |
 
 **Fallbacks:** clue 3 is volunteered by the family's child through a window if
 the adults refuse; clue 4 is on a body by the roadside with a chit-shaped hole
@@ -420,7 +439,7 @@ act and the only place clues 3 and 4 live.
 
 ---
 
-## ACT TWO — *The Line* *(~90 minutes)*
+## ACT TWO — *The Line* *(~75 minutes)*
 
 **Shape:** the tent city outside the wire. The chit market, the families,
 Vasquez, and the processing tent. The long act, and almost entirely social.
@@ -454,11 +473,11 @@ things that can be done to people.
 | **Buy** from Mrs Adeyemi, who has two and needs insulin | Medicine the doctor is carrying | A named diabetic woman goes without, in front of them, and she thanks them |
 | **Buy** from the Tatum brothers, who deal properly | Fuel, weapons, or a favour at the wire | The favour is collected in Act Three at the worst possible moment |
 | **Steal** from a sleeping family | `[TWDU: Mobility, opposed]` | It works. The family is still there in Act Three, at the fence, and the child recognises a face |
-| **Forge** | `[TWDU: Tech — hard success]`, and a blank | The serial is in the wrong range. It passes a tired soldier and fails Okonjo |
+| **Forge** | `[TWDU: Tech — two or more successes]`, and a blank | The serial is in the wrong range. It passes a tired soldier and fails Okonjo |
 | **Be given** one by Vasquez | Telling him something true about the crowd | He uses it. See below |
 | **Take** one from another PC | PvP, if the table said yes at Slot Zero | Written below. Not punished, not rewarded |
 
-### The fourth chit *(clue 14 — at four players, make sure they find it)*
+### The fourth chit *(clue 14 — offer it; never steer to it)*
 
 A genuine fourth chit exists in the tent city: **Mrs Adeyemi has two**, one for
 herself and one for a husband who died on Tuesday and whose face no longer
@@ -530,7 +549,7 @@ her office to tell the crowd, she lets them go, and she watches them do it.
 | 7 | The market is open and chits have a price | `H2-A`, the board | **Automatic** on entering the tent city | Routes exist | Essential |
 | 8 | No aircraft has taken off since midday | Anyone who has been here a day; the sky | **Automatic** if anyone asks or looks up | Something stopped at midday | Essential |
 | 9 | The line has not advanced in four hours, but it is still being processed | Watching, or asking anyone in it | `[TWDU: Scout]`, or automatic after 20 minutes in the tent city | They are stamping chits and nothing is moving | Essential |
-| 10 | Soldiers' families are being walked to the apron separately, after dark | The eastern wire | `[TWDU: Scout — hard success]`, or Vasquez | Who is actually boarding | Essential |
+| 10 | Soldiers' families are being walked to the apron separately, after dark | The eastern wire | `[TWDU: Scout — two or more successes]`, or Vasquez | Who is actually boarding | Essential |
 | 11 | A forged or dead man's chit passes a tired corporal and fails an officer | The market, or trying it | **Automatic** once a forgery exists | The forgery is a trap with a delay on it | Essential |
 | 12 | **The airlift was cancelled eighteen hours ago** | Vasquez; or `H3-A` taken from him | **Automatic** from Vasquez, who is trying to tell them | The floor of the scenario | Essential |
 | 13 | **The queue is the containment** | Okonjo, stated plainly; or deduced from 9 + 10 | Automatic if they reach Okonjo; `[TWDU: Scout]` to deduce | Why nobody has been told | Essential |
@@ -552,11 +571,23 @@ chit count is no longer three.** Up or down — bought, stolen, forged, spent or
 lost — the number must have moved, because Act Three is a conversation about a
 number and it has to be a live one.
 
-**Cuts, in order:** drop Okonjo's scene and let Vasquez carry 12 and 13 alone
-(a real loss — her arithmetic speech is the scenario's spine, so cut it only
-past 2:30); then drop clue 16; then collapse the market to a single trade.
+**"We should just walk north" is a real option and it has to be taken here.**
+If anyone proposes abandoning the field, **say plainly, out of character, that
+it is one of the four endings and that it is only cheap before the fence goes
+at 2:45.** After that it still works and it costs more — see Act Three. What
+must not happen is a table discovering at 2:50 that the ending they wanted
+expired while nobody mentioned it was on a clock.
 
-**At 2:45 the northern fence goes, whatever the table is doing.**
+**Cuts, in order — the act is planned at 75 minutes, so expect to take the
+first one:**
+1. **Collapse the market to a single trade.** Cheapest cut in the act.
+2. Drop clue 16.
+3. Drop Okonjo's scene and let Vasquez carry 12 and 13 alone. **This is the
+   cut that costs the scenario its spine** — her arithmetic speech is the whole
+   argument — so take it only past 2:30 and only if you must.
+
+**Act Two is planned to end at 2:30, and at 2:45 the northern fence goes,
+whatever the table is doing.**
 
 ---
 
@@ -580,48 +611,57 @@ set-piece is on a clock.
 
 ### THE SET-PIECE: THE LINE — GM quick-reference
 
-**The crowd is a pressure track, 0 to 6.** It starts at **2**. Every two
-minutes of real time, and on every event below, it moves. At **6** the crowd
+**THE LINE is a pressure track, 1 to 5.** It starts at **2**. Every two
+minutes of real time, and on every event below, it moves. At **5** the crowd
 goes over the wire and the scenario's ending is decided by where people are
 standing.
 
-| Track | The crowd is... | What the players see |
+> **THE LINE IS NOT THE THREAT LEVEL.** Track them separately, on separate
+> lines of your sheet. The Threat Level is the system's own, it is doing its
+> own thing at the northern fence, and it moves whenever a PC messes up a roll.
+> THE LINE is four thousand people in a wet field and only the events below
+> move it. Two 0–6 tracks live at once in this act in v1; that was the bug.
+
+| THE LINE | The crowd is... | What the players see |
 |---|---|---|
-| 0–1 | Still believing | Quiet. A man reading aloud to his children |
+| 1 | Still believing | Quiet. A man reading aloud to his children |
 | **2** | **Starting** | People at the back are looking north, not forward |
 | 3 | Rippling | The line is four abreast and has become five. Nobody decided this |
-| 4 | Pressing | The first shout. A soldier takes his rifle off his shoulder and does not know what to do with it |
-| 5 | Breaking | The barriers bow. Somebody small goes down and is picked up again — **this time** |
-| **6** | **Gone** | Ten minutes, from here to the apron, and no authority of any kind |
+| 4 | Pressing, then breaking | The first shout. A soldier takes his rifle off his shoulder and does not know what to do with it. The barriers bow, and somebody small goes down and is picked up again — **this time** |
+| **5** | **Gone** | Ten minutes, from here to the apron, and no authority of any kind |
 
-**Events that move the track:**
+**Events that move THE LINE:**
 
-| Event | Track |
+| Event | THE LINE |
 |---|---|
 | The engine starts on the apron | **+1** (automatic, at the top of the act) |
 | The northern fence is breached and visible | **+1** per two minutes |
-| A player tells the crowd the truth, loudly | **+3 immediately** |
+| A player tells the crowd the truth, loudly | **+2 immediately** |
 | A player tells one family quietly | +1, delayed two minutes |
 | Soldiers fire a warning shot | +2 |
-| Okonjo speaks to the crowd herself | **−2**, once only, and it costs her the apron |
+| Okonjo speaks to the crowd herself | **−2** (floor 1), once only, and it costs her the apron |
 | A player does something visibly calm and ordinary at the head of the line | **−1**, once per player |
 | The players board without speaking | no change — **and that is the point** |
 
-**Idle players get jobs.** Hand out the **crowd cards**: each sidelined player
-runs one person in the line — the man reading to his children, the woman with
-the dog, the boy with a chit and no adult, the two sisters with one chit. When
-the track moves, the GM asks the crowd-card players what their person does.
-**This is how the scenario makes four thousand people real with six people at
-a table.**
+**Idle players get jobs.** Hand out the **crowd cards — print five**: each
+sidelined player runs one person in the line. The man reading to his children,
+the woman with the dog, the boy with a chit and no adult, the two sisters with
+one chit, the nurse who has been awake for two days. **Hand one to every player
+who is not at the processing tent**; at four players expect to use one, at six
+expect three or four. **Never cut the boy with a chit and no adult, or the two
+sisters with one chit** — those two are the Act Three decision, stated by
+somebody other than a PC. When THE LINE moves, ask the crowd-card players what
+their person does. **This is how the scenario makes four thousand people real
+with six people at a table.**
 
 ### The Choices
 
 | Choice | What happens | What it costs |
 |---|---|---|
-| **Say nothing and board** | Three (or four) of them walk to the processing tent, show their faces, and are passed through. It works | They are on the apron when the track hits 6. They hear it. The aircraft lifts at first light with the detachment, their families, and whoever had a chit and kept their mouth shut |
-| **Tell the crowd** | Track +3. The fence is already going. Several hundred people reach the marsh in the dark | The window closes. Nobody at this table boards. **Okonjo does not stop them, and afterwards she says it was the braver arithmetic and still the wrong one** |
+| **Say nothing and board** | Three (or four) of them walk to the processing tent, show their faces, and are passed through. It works | They are on the apron when THE LINE hits 5. They hear it. The aircraft lifts at first light with the detachment, their families, and whoever had a chit and kept their mouth shut |
+| **Tell the crowd** | THE LINE +2. The fence is already going. Several hundred people reach the marsh in the dark | The window closes. Nobody at this table boards. **Okonjo does not stop them, and afterwards she says it was the braver arithmetic and still the wrong one** |
 | **Force the wire** | PvP-adjacent and fully written. A chit taken, a gate rushed, a soldier put down | It can succeed. Vasquez's seat, the Tatums' favour, and the stolen family's child all arrive in the same ninety seconds |
-| **Go north instead** | Abandon the field entirely and walk into the marsh before the fence fails | The only ending in which the whole party survives together, and the only one in which nobody gets on a plane. **It is not a trick.** Write it as a real option |
+| **Go north instead** | Abandon the field entirely and walk into the marsh. **Cheap before 2:45, expensive after** — and Act Three begins after. Now it means going out **through the breach, in the dark, past whatever came through it**: one `[TWDU: Scout]` or `[TWDU: Mobility]` roll, and on a failure the party reaches the marsh having left something behind, GM's choice from what they are carrying | The ending in which the party survives **together**, and the only one in which nobody gets on a plane. **It is not a trick, and it is not a free pass either.** If nobody raised it in Act Two, offer it here once, flatly, as a fourth column — do not sell it |
 
 **Compromise endings players will invent:**
 - **Board the ones with chits, tell the crowd after** — somebody has to stay
@@ -641,22 +681,22 @@ opposed roll `[TWDU: Force or Mobility, opposed — unverified]`, and then it is
 over and the scenario does not comment. No NPC punishes it. The consequence is
 entirely social and entirely at the table, which is the only place it belongs.
 The person who lost the chit still has an Act Three: **they are standing in the
-crowd when the track hits 6, and they have a crowd card like everyone else.**
+crowd when THE LINE hits 5, and they have a crowd card like everyone else.**
 
 **If the table said PvP is off:** chits cannot be taken from PCs. *Force the
 wire* becomes a group action. Everything else is unchanged.
 
-**If someone shoots a soldier:** the track goes to 6 immediately. There is no
+**If someone shoots a soldier:** THE LINE goes to 5 immediately. There is no
 version of this where that does not happen.
 
 ### Pacing Note — Act Three
 
 **Must be true before the Epilogue:** the decision is made and a player has
-said it out loud; the aircraft's fate is resolved; the track has resolved to 6
+said it out loud; the aircraft's fate is resolved; THE LINE has resolved to 5
 or the plane has gone.
 
-**If you are behind:** skip the track's slow rungs. Start at 4 and move every
-ninety seconds. The decision is the act; the crowd is the pressure on it.
+**If you are behind:** skip THE LINE's slow rungs. Start at **3** and move
+every ninety seconds. The decision is the act; the crowd is the pressure on it.
 
 **No new information.**
 
@@ -748,7 +788,7 @@ water, queue barriers, tarpaulins. **No gore** — the violence is in the text.
 | `H2-A` | The tent city market board | A4, hand-painted look |
 | `H2-B` | The fourth chit | Same stock as `H0-A`, **serial visibly in the wrong range** |
 | `H3-A` | The cancellation order, 18 hours old | A5, signed and counter-signed, creased from a pocket |
-| — | **Crowd cards** ×4 | Business-card size: one person in the line each. Handed to idle players in Act Three |
+| — | **Crowd cards** ×5 | Business-card size: one person in the line each. Handed to every player not at the processing tent in Act Three. The boy with a chit and no adult, and the two sisters with one chit, are the two that never get cut |
 
 ---
 
@@ -803,7 +843,10 @@ Let them stand in it. Then call time.
    table at 2:30 on a Thursday morning may not sit still for it. If it drags,
    the fix is to make her ask *them* to do the arithmetic out loud, and shut
    up while they do.
-3. **The crowd cards are untested.** Four cards for idle players is a good
+3. **The crowd cards are untested.** *(Desk pass 1: the count is fixed at
+   five and the two uncuttable cards are named — but the question itself is
+   still open, because pass 1 never put a card in a player's hand. Flag for
+   pass 2.)* Four cards for idle players is a good
    idea on paper. If they turn out to be a distraction during the Line, cut
    them to two: the boy with a chit and no adult, and the two sisters with one
    chit between them.
