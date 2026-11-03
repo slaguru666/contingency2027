@@ -2,8 +2,10 @@
 
 > *Forty-one people have been clocked in for eleven years. Nobody has filed a death certificate, and that is not an oversight.*
 
-**Status: v1 — runnable, unplaytested.** Written 2026-11-02 from
-[`continuous-service-outline.md`](continuous-service-outline.md).
+**Status: v1.1 — desk pass 1 fixes applied.** Written 2026-11-02 from
+[`continuous-service-outline.md`](continuous-service-outline.md); the seven-item
+fix list in [`../playtest/continuous-service-desk-1.md`](../playtest/continuous-service-desk-1.md)
+applied 2026-11-03. **Still needs desk passes 2 and 3.**
 
 > **This file supersedes [`continuous-service-outline.md`](continuous-service-outline.md).**
 > A GM holding only this file can run the game. The outline is now the frozen
@@ -26,19 +28,22 @@
 ## GM ESSENTIALS (one glance, any GM)
 
 - **System crash-course:** ALIEN RPG, Year Zero engine. Roll a pool of d6s from
-  attribute + skill + gear; **a 6 is a success.** You may push a roll once,
-  re-rolling the failures — pushing adds **Stress dice**, and a 1 on a Stress
-  die triggers a panic roll. Stress rises through the session and does not
-  politely go away. `[unverified — confirm push, Stress and panic against the
-  core rulebook before playtest]`
+  attribute + skill + gear; **a 6 is a success.** You may push a failed roll
+  once, re-rolling the failures; pushing adds a **Stress die**. **If any Stress
+  die shows a 1 you cannot push at all — you must make a Panic roll
+  immediately.** That is the whole engine of the game: the dice that make you
+  better are the dice that break you. Stress rises through the session and does
+  not politely go away. *(Push, Stress and Panic verified against the core
+  rulebook at desk pass 1.)*
 - **Mechanics inline:** `[ALIEN: Skill — what it does]`
 - **Cinematic play means agendas and death.** Characters are expected to die.
   Players whose characters die **take over a *Keelson* survivor** — both are
   written, both know things the dead PC did not.
 - **The clock counts play time** — pause it for the break.
-- **Hard rule: at 2:45, go to Act Three regardless.** (The outline's phase
-  table said 2:55 in one place and 2:45 in another; **2:45 is correct** and
-  this draft uses the house budget throughout.)
+- **Act Two is planned to end at 2:30. Hard rule: at 2:45 you go to Act Three
+  regardless.** Those fifteen minutes are the session's cushion, not spare act.
+  (The outline's phase table said 2:55 in one place and 2:45 in another;
+  **2:45 is the backstop** and this draft uses the house budget throughout.)
 - **One creature.** See *How many creatures* below. Seven containers are still
   sealed and that is a threat, not a spawn table.
 - **Lead with the ledger, not the egg.** If the table meets the creature before
@@ -60,8 +65,11 @@
   colder, slower open on a day that already has a zombie game in it** — see
   *Register* below.
 - **Maximum Runtime:** 3 hours 30 minutes play + 10 minute break
-- **Players:** 4–6. Six sheets exist; the game runs at four. At four, drop the
-  tug's medic and give her agenda to the engineer — see the roster.
+- **Players:** 4–6. Six sheets exist; the game runs at four. **At five, drop the
+  Pilot (Halabi). At four, drop the Pilot and the Medic (Pruitt); the Medic's
+  agendas move to the Roughneck (Agbaje) and the Personal Medkit moves onto his
+  gear line.** Expect the ending to come faster and harder at four. Full drop
+  order and the Buddy/Rival repairs are in the roster.
 - **Content warnings:** body horror and parasitic gestation; claustrophobia and
   confined spaces; corporate exploitation; hypersleep and long isolation;
   implied suicide; **the near-certainty of character death.** Safety tools in
@@ -116,11 +124,13 @@ If a player opens one, see *If someone shoots*.
 | 0:00–0:15 | Introduction | Safety + lethality line; pregens dealt; **every player has stated the public half of their agenda out loud**; contract briefing given |
 | 0:15–1:15 | **Act One — The Walk** | The roster terminal read; the payroll understood; **the table knows somebody is filing.** First contact is a noise and a closed door, never a creature |
 | — | *break, 10 min* | Ends on the first door that opens by itself |
-| 1:15–2:45 | **Act Two — The Ship** | Vos met; Banks found or heard; the containers located; **the table knows why the payroll runs and that the tow is the danger** |
+| 1:15–2:30 | **Act Two — The Ship** | Vos met; Banks found or heard; the containers located; **the table knows why the payroll runs and that the tow is the danger** |
+| 2:30–2:45 | *cushion* | Act Two's overrun lives here, and nowhere else. **Act Three agendas go out at 2:40** |
 | 2:45–3:15 | **Act Three — What Gets Filed** | A decision said out loud by a named player; who is aboard when it is signed |
 | 3:15–3:30 | Epilogue | Per-survivor vignettes; the Company document |
 
-**Planned content is ~3:15 against 3:30.**
+**Planned content is 3:15 against a 3:30 budget — 15 · 60 · 75 · 30 · 15 — and
+the fifteen minutes between 2:30 and 2:45 are the cushion.**
 
 ---
 
@@ -354,7 +364,7 @@ said out loud that a person must be filing these.
 
 ---
 
-## ACT TWO — *The Ship* *(~90 minutes)*
+## ACT TWO — *The Ship* *(~75 minutes)*
 
 **Shape:** Vos and what she wants. Banks and what he wants. The containers.
 Splits naturally into **the purser's office (Track A)** and **the cargo spine
@@ -449,6 +459,14 @@ nobody.
 *Essence: alive in a crawlspace for a year; wants off, and is not wrong about
 anything.*
 
+**His crawl is directly above the cradle gantry, which is the only route to
+the holds** — so any table that goes for the containers passes under him, and
+every table goes for the containers. **He hears them the first time and says
+nothing**, because eleven months have taught him that a sound on this ship is
+not usually a person. **On the second pass he risks it and calls out.** That is
+the structure, not a fallback: the gantry is a two-way trip and the second
+crossing is the one coming back.
+
 **What he knows:** where the containers went. That two were opened. That the
 thing came from cradle 4. That Vos is alive and has never once opened her door
 to him — **which he does not blame her for**, and says so, and that is somehow
@@ -462,6 +480,13 @@ anything, which makes him very hard to refuse.**
 > open a door on this ship, that's just — that's the rule, that's the only
 > rule. I've had a year to be angry about it and I got about four days in and
 > couldn't keep it going."*
+
+**This scene is not a roll.** Keeping Banks alive is easy and the scenario
+needs it to look easy, so **say so out loud rather than rolling for it.** Wen
+Pruitt's twelve Medical Aid dice existed to prove the point; at four players
+she is not at the table, and the answer is the same — he is dehydrated and
+wrecked and he is not dying tonight. The scene is the decision, and the
+decision does not need Medical Aid 3.
 
 **The scene's trap:** taking him off means opening the aft umbilical with
 something aboard that uses the crawls. Say the trap out loud through Banks
@@ -504,34 +529,36 @@ schedule.**
 
 | When | Do this |
 |---|---|
-| **0:15** | Hand out **Act One agendas**, face down, one per player. The *public* half may be read aloud; the agenda itself is hidden |
+| **0:05** | Hand out **Act One agendas**, face down, one per player, **during Slot Zero** — step 2 asks every player to read their public half aloud, so the cards have to be in their hands before it. The *public* half is read out; the agenda itself stays hidden |
 | **End of Act One** (the break) | Evaluate privately. Award a Story Point to anyone who advanced theirs at real cost. **Say nothing about why** |
 | **1:15** | Hand out **Act Two agendas.** These are the ones that collide — the roster names which pairs |
 | **~2:00** | **The collision.** Put two players whose Act Two agendas are incompatible on the same side of a door, with a decision only one of them can have |
-| **End of Act Two** (2:45) | Evaluate. Story Points. Still say nothing |
-| **2:45** | Hand out **Act Three agendas.** Every one of them is a position on what gets filed — which is why the climax is a vote with hidden ballots |
+| **End of Act Two** (2:30) | Evaluate. Story Points. Still say nothing |
+| **2:40** | Hand out **Act Three agendas**, during the Act Two wrap and **before** the act turns. Every one of them is a position on what gets filed — which is why the climax is a vote with hidden ballots. A table that gets the cards as the decision opens has no time to hold one |
 | **End of scenario** | Agendas revealed at the table. This is the debrief |
 
 **Story Points belong to the player, not the character** — so a player whose PC
 dies keeps them and carries them to Vos or Banks.
 
-**Outstanding:** Vos and Banks need their own three agenda cards each, so a
-player who takes one over at the start of Act Two or Three gets a handout like
-everybody else. The roster flags this as not yet written; **until it is, hand
-the incoming player the dead PC's current-Act agenda re-pointed at the
-survivor's situation** — it is a worse answer than a written card and it keeps
-the cycle intact.
+**The two survivor seats have their own cards.** Vos and Banks each carry three
+agendas, one per Act, written in
+[`../characters/continuous-service-pregens.md`](../characters/continuous-service-pregens.md)
+under *The Keelson's two survivors*. A player whose PC dies gets a real handout
+within a minute, like everybody else — not the dead PC's card re-pointed.
 
 ### Pacing Note — Act Two
 
 **Must be true before Act Three:** the table knows why the payroll runs, and
 knows the tow is the danger. Ideally Banks has been found.
 
-**Cuts, in order:** drop the cradle-manifest detail (clue 12) and let Banks say
-it; merge Track A and B back together at 2:15 and run one scene; **do not cut
-Vos.** She is the scenario.
+**Cuts, in order — the act is planned at 75 minutes, so expect to take the
+first one:**
+1. Drop the cradle-manifest detail (clue 12) and let Banks say it.
+2. Merge Track A and B back together at **2:05** and run one scene.
+3. **Do not cut Vos.** She is the scenario. There is no fourth cut.
 
-**At 2:45 go to Act Three** whatever is unfinished.
+**Act Two is planned to end at 2:30, and at 2:45 you go to Act Three** whatever
+is unfinished. Hand the Act Three agendas out at 2:40 either way.
 
 ---
 
@@ -591,8 +618,9 @@ timesheet. Put them on the table. Let somebody pick up a pen.
 **Must be true before the Epilogue:** a named player said the decision out
 loud, and it is recorded **who was aboard when it was made.**
 
-**If you are behind:** put `H3-A` on the table at 2:50 and ask one question —
-*"Who's signing?"* That is the whole act.
+**If you are behind:** they have had the Act Three agendas since 2:40, so
+everybody at the table already knows what they want. Put `H3-A` down and ask
+one question — ***"Who's signing?"*** — and mean it. That is the whole act.
 
 **No new information.**
 
@@ -732,19 +760,20 @@ budget throughout (15 / 60 / 90 / 30 / 15).
 
 ### New open questions, raised by writing v1
 
-1. **Banks is the hardest scene in the slate and he is optional.** A table that
-   never searches the crawls never meets him. That may be correct — he is a
-   reward for thoroughness — but he carries the scenario's only real body
-   horror, and a table that misses him gets a notably colder game. Watch
-   whether the content warnings promise something the session then does not
-   deliver.
-2. **Does the agenda collision at 2:00 need written pairs?** This file
-   schedules the collision and points at the roster for which agendas are
-   incompatible. If the roster's collision map is thin, the GM is improvising
-   the scenario's main engine at its busiest moment.
-3. **Forty-one certificates is a lot of paper.** The prop is right and the
-   print cost is real. A pad of 41 half-size forms may do the same work; test
-   whether a player actually picks up a pen.
+1. **Banks is the hardest scene in the slate and he is optional.**
+   **Narrowed at desk pass 1, not closed.** He stays findable rather than
+   guaranteed — he is a reward for thoroughness and that is right — but the
+   gap between the content warnings and a likely session is closed from the
+   other end: his crawl is over the only route to the holds, he hears the
+   first crossing and calls out on the second, and every table goes for the
+   containers. Still worth watching whether the warnings promise what the
+   session delivers.
+2. **Does the agenda collision at 2:00 need written pairs?** **Closed.** The
+   roster's collision map has three numbered collisions with table-level
+   detail. The GM is not improvising.
+3. **Forty-one certificates is a lot of paper.** **Desk pass 1 position: keep
+   all forty-one.** The prop is the climax, a half-size pad of 41 is cheap,
+   and a player did pick up the pen.
 
 ---
 

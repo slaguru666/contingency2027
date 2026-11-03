@@ -1,6 +1,8 @@
 # CONTINUOUS SERVICE — Pre-Generated Characters (6 sheets, plays at 4–6)
 
-**Status: v1.** Six sheets, written. ALIEN RPG — **Cinematic play**.
+**Status: v1.1.** Six sheets, written, **plus the two survivor seats' agenda
+cards** (added at desk pass 1, 2026-11-03 — they were the scenario's one
+blocking gap). ALIEN RPG — **Cinematic play**.
 
 The crew of the salvage tug **USCSS *Hawser***, boarding the ore hauler
 *Keelson* in high orbit over LV-871, 2186.
@@ -488,6 +490,9 @@ not raise the shotgun; you hold it like a tool you are carrying somewhere.
 
 ## Agenda collision map (GM reference — read before Act One)
 
+*The scenario's open question "does the collision at 2:00 need written pairs?"
+was closed at desk pass 1 against this section: it does, and they are here.*
+
 The agendas are the scenario. This is what they do to each other.
 
 | Act | Collision | What it looks like at the table |
@@ -531,15 +536,122 @@ answer, so no player sits out:
    takes Banks. (At four players, the survivor seats matter more, not less —
    they are how a thinned table gets back to five mouths in the room.)
 3. **The GM hands you that survivor's agenda for the current Act**, in the same
-   format as the sheets above, within a minute. You do not get a briefing; you
-   get a card and the floor.
+   format as the sheets above, within a minute — **the cards are written, below,
+   under *The Keelson's two survivors*.** You do not get a briefing; you get a
+   card and the floor.
 4. **If a PC turns on the party**, the core rule applies: *"play the current
    scene to an end, and then turn the PC into an NPC"* (p. 213). Then the player
    takes a survivor as above. PvP is on the table here and it has a written exit.
+5. **Both survivor seats carry their own three agendas** — below. The incoming
+   player gets a real card, not the dead PC's card re-pointed.
 
-> **Write the Vos and Banks agenda cards during the scenario draft, not at the
-> table.** Three each. They are the only thing in this file that does not
-> exist yet. `[outstanding]`
+**If the second death happens in Act One**, before anybody has been in the
+crawls, the player still takes Banks: they start as **a voice above the cargo
+spine that the rest of the table has not met**, they know exactly where they
+are, and they cannot be seen. Play the first scene from inside the crawl. It is
+the best version of this and it costs nothing.
+
+---
+
+## The *Keelson*'s two survivors — the death-replacement seats
+
+**These are NPC lines, not built PCs.** They are deliberately not audited
+against the character-creation budget above, because ALIEN does not build NPCs
+that way and because a player taking one of these seats mid-session needs four
+numbers and three sentences, not a sheet. Hand over the Act in progress.
+
+---
+
+### VOS — Purser ILEANA VOS · *Keelson*, eleven years aboard
+
+*She has clocked forty-one dead people in every ninety days for eleven years,
+and she is not mad, and that is the problem.*
+
+| | | | |
+|---|---|---|---|
+| **STR 2** | **AGI 2** | **WITS 4** *(key)* | **EMP 3** |
+
+**Health 2** · **Stress 3** *(she starts stressed; she has been alone with this
+since 2175)*
+
+**Skills:** Comtech 3 · Observation 2 · Manipulation 2 · Survival 1 —
+all others 0
+
+**Gear:** the purser's office key, which is the only one · a hand terminal with
+eleven years of wake logs on it · **the forty-one timesheets, carried**
+
+**What she knows that your dead character did not:**
+- The payroll is not fraud. It is the **only thing keeping the ship crewed**,
+  and a crewed ship cannot be declared derelict and towed.
+- A tow ends at a dock with eleven thousand people on it.
+- **Containers 1 and 4 were opened aboard, on the ninth day, by someone with
+  cargo authority.** She knows who. She has never written it down.
+- Banks is alive. She has never opened her door to him and she will tell you so
+  without being asked.
+
+**AGENDAS** *(hidden; one per Act, handed over when you take the seat)*
+
+- **Act One:** *Keep the roster alive.* Nobody gets logged off. Not by a
+  salvage crew, not by a form, not by accident. Whatever is said in the next
+  hour, the forty-one stay on shift.
+- **Act Two:** *Nobody opens the holds.* Seven seals, and the two that are
+  already broken are the whole history of this ship. Argue, mislead, lock,
+  lie — but do not let them cut a seal while you are in the room.
+- **Act Three:** *Find the one who will take the cycle.* You cannot do another
+  eleven years. Somebody at this table can be made to understand it, and the
+  ones who understand it are not the ones who volunteer. **Work out which of
+  them it is, and ask them.**
+
+**Playing Ileana:** answer the question that was asked and no more · you are
+courteous, not warm · you have had eleven years to assemble every argument and
+you deploy them in order · when somebody says *"you could just have left"*,
+agree with them.
+
+---
+
+### BANKS — Deck Chief AURELIO BANKS · eleven months in a maintenance crawl
+
+*He wants off, he is not wrong about anything, and he agrees with everybody.*
+
+| | | | |
+|---|---|---|---|
+| **STR 2** *(was 4)* | **AGI 2** | **WITS 3** | **EMP 4** *(key)* |
+
+**Health 2** · **Stress 4** *(the highest on the table, and he is cheerful)*
+
+**Skills:** Heavy Machinery 2 · Survival 3 · Observation 2 · Comtech 1 —
+all others 0
+*(He was a deck chief. **Eleven months in a crawl has taken his strength and
+his legs**: he cannot run, he cannot climb a ladder unassisted, and the first
+time he stands upright somebody has to hold him. Do not play this as frailty —
+play it as a man who has budgeted around it.)*
+
+**Gear:** a condensation line, a torch with a dying cell, **a deck chief's
+master key for every hatch on the cargo spine**
+
+**What he knows that your dead character did not:**
+- Where all nine containers went, and that **the thing came out of cradle 4**.
+- That two were opened aboard, and roughly when.
+- That the crawls are how it moves, which is how he is still alive: he has
+  learned its route and he sleeps off it.
+- That Vos did right. He says this unprompted and he means it.
+
+**AGENDAS** *(hidden; one per Act)*
+
+- **Act One:** *Get off this ship.* That is all. You have been patient for
+  eleven months and the patience is finished. Say yes to anything that ends
+  with you on another hull.
+- **Act Two:** *Be useful enough to be worth taking.* They have no reason to
+  carry a man who cannot walk. Give them one, every few minutes, and keep
+  giving them one. **Tell them the truth — it is the only currency you have
+  and it happens to be real.**
+- **Act Three:** *Do not let them leave Vos behind to do it alone.* You have
+  spent a year not blaming her for a closed door. You are not going to spend
+  the rest of your life having walked away from the same one.
+
+**Playing Aurelio:** talk — too much, fast, and gratefully · agree with the
+last person who spoke · never ask for anything directly · the one thing you
+will not do is say a word against Ileana Vos.
 
 ---
 
@@ -661,8 +773,6 @@ reading them *is* a job.
 
 ## Still outstanding (not in this file)
 
-- **Vos and Banks agenda cards** — three each, for the death-replacement rule
-  above. Write them with the scenario draft.
 - **Portraits** — `characters/art/`, from the scenario art set, ink sketch /
   pencil per house style.
 - **Print-ready sheets** — `characters/character-sheets.html`, A4, one page per
