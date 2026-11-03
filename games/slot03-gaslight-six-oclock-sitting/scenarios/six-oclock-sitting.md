@@ -2,12 +2,16 @@
 
 > *Every trick in this room is a trick. One thing is not, and she doesn't know which.*
 
-**Status: v1 — runnable, unplaytested.** Written 2026-11-02 from
-[`six-oclock-sitting-outline.md`](six-oclock-sitting-outline.md).
+**Status: v1.1 — desk pass 1 fixes applied.** Written 2026-11-02 from
+[`six-oclock-sitting-outline.md`](six-oclock-sitting-outline.md); the eight-item
+fix list in [`../playtest/six-oclock-sitting-desk-1.md`](../playtest/six-oclock-sitting-desk-1.md)
+applied 2026-11-03. **Still needs desk passes 2 and 3.**
 
 > **This file supersedes [`six-oclock-sitting-outline.md`](six-oclock-sitting-outline.md).**
-> A scenario is self-contained — a GM holding only this file can run the game —
-> so the plot truth lives here. The outline is now the frozen design record.
+> A scenario is self-contained — a GM holding only this file can run the game;
+> Act Two's **third** detail is richer with the roster's private-grief table and
+> has a written whole-table substitute without it — so the plot truth lives
+> here. The outline is now the frozen design record.
 
 > **Player characters are referred to by office** — the conjuror, the
 > physician, the shorthand writer, the journalist, the believer, the
@@ -19,8 +23,9 @@
 ## GM ESSENTIALS (one glance, any GM)
 
 - **System crash-course:** Call of Cthulhu 7e, Gaslight. Roll d100 under the
-  skill; under half is a hard success, under a fifth extreme. 01–05 critical,
-  96–00 fumble. A failed roll may be *pushed* by describing doing more of it —
+  skill; under half is a hard success, under a fifth extreme. **01 is a
+  critical. 100 is always a fumble; if the skill is under 50, 96–00 fumbles.**
+  A failed roll may be *pushed* by describing doing more of it —
   fail the push and the Keeper imposes a real consequence. Sanity: lose the
   points, then roll d100 against current Sanity; **over** means a temporary
   bout of madness.
@@ -30,11 +35,14 @@
 - **The fraud is meant to be caught.** Every mechanism is findable. A table
   that catches all ten is the scenario *working*.
 - **The clock counts play time** — pause it for the break.
-- **Hard rule: at 2:45, go to Act Three regardless**, even mid-sitting. Bring
-  the lamps up on a half-finished effect; that is a better scene anyway.
-- **Sanity on offer: 2 at best, 7 at worst** — the three true details (0/1,
-  1/1D2, 1/1D3) and Arthur's letter (0/1). A thorough table typically takes 3
-  or 4. Do not add losses; this is a game about grief, not about damage.
+- **Act Two is planned to end at 2:30. Hard rule: at 2:45 you go to Act Three
+  regardless**, even mid-sitting. Those fifteen minutes are the session's
+  cushion, not spare act. Bring the lamps up on a half-finished effect; that is
+  a better scene anyway.
+- **Sanity on offer:** the three true details (0/1, 1/1D2, 1/1D3) and Arthur's
+  letter (0/1). **For the investigator detail three names: 2 at best, 7 at
+  worst. For everyone else: 1 at best, 5 at worst.** A thorough table typically
+  takes 3 or 4. Do not add losses; this is a game about grief, not about damage.
 - **Safety:** state the tool in use (X-card / open door) during seating, and
   **in the same breath offer the darkness as a choice** — see below. Thirty
   seconds, no ceremony. The bereavement material is the whole scenario and the
@@ -117,12 +125,19 @@ hesitates, keep the lights up. The scenario does not depend on it.
 | 0:00–0:15 | — | Introduction | Pregens dealt, safety + darkness line, the Society's brief read aloud |
 | 0:15–1:15 | 5:00–6:00 pm | **Act One — Before** | Room searched, cabinet found, all four sitters spoken to, **Rée registered as a person** |
 | — | — | *break, 10 min* | Ends as the lamps go down |
-| 1:15–2:45 | 6:00–8:10 pm | **Act Two — The Sitting** | Tricks caught and *named on the ledger*; three true details delivered; Rée's question asked at 8:03 |
+| 1:15–2:30 | 6:00–8:10 pm | **Act Two — The Sitting** | Tricks caught and *named on the ledger*; three true details delivered; Rée's question asked at 8:03 |
+| 2:30–2:45 | — | *cushion* | Act Two's overrun lives here, and nowhere else |
 | 2:45–3:15 | 8:30 pm | **Act Three — After** | The decision made out loud, in front of both Veale and Rée |
 | 3:15–3:30 | — | Epilogue | Per-PC vignettes; what the Society published; what was on the plates |
 
-**Planned content is ~3:10 against a 3:30 budget.** Act Two is written long on
-purpose and is where the slack goes.
+**Planned content is 3:15 against a 3:30 budget — 15 · 60 · 75 · 30 · 15 — and
+the fifteen minutes between 2:30 and 2:45 are the cushion.**
+
+**Act One maps to fiction 1:1** (session 0:15 is five o'clock), so a fiction
+time in Act One is a session time minus fifteen minutes. **Act Two does not**:
+it compresses 130 fiction minutes into 75 session minutes, which is why every
+beat in it carries a session figure as well as a clock time. Trust the session
+figure.
 
 ---
 
@@ -245,13 +260,13 @@ delay it, because her sitters have paid.
 
 | Clock | Fiction | What happens |
 |---|---|---|
-| 0:30 | 5:30 | The other sitters arrive together: Rée, Miss Carrow, and two who do not matter. Tea. This is the only chance to interview them unhurried |
+| 0:45 | 5:30 | The other sitters arrive together: Rée, Miss Carrow, and two who do not matter. Tea. This is the only chance to interview them unhurried |
 | 1:10 | 5:55 | Mrs Veale asks everyone to take a seat, whether the search is finished or not |
 | 1:15 | 6:00 | **The lamps go down.** Act Two begins on the hour and will not wait |
-| 1:50 | 6:40 | Hobbs, under the floor, is cramped and getting careless. Every trick from here is one step easier to catch |
-| 2:15 | 7:25 | Mrs Veale is tiring and goes to her stock patter — which is where the true details have been arriving |
-| 2:35 | 8:03 | **Rée asks his question.** This happens on the fictional clock regardless of where the table is |
-| 2:45 | 8:10 | Mrs Veale breaks trance badly, frightened, and calls for the lamps herself. **Act Three** |
+| 1:38 | 6:40 | Hobbs, under the floor, is cramped and getting careless. Every trick from here is one step easier to catch |
+| 2:04 | 7:25 | Mrs Veale is tiring and goes to her stock patter — which is where the true details have been arriving |
+| 2:25 | 8:03 | **Rée asks his question.** This happens on the fictional clock regardless of where the table is |
+| 2:30 | 8:10 | Mrs Veale breaks trance badly, frightened, and calls for the lamps herself. **Act Three** |
 
 **If the table stalls**, the lever is Mrs Veale's schedule: she has paying
 sitters and a room booked and she moves things along, politely, without
@@ -425,7 +440,7 @@ scenario.
 
 ---
 
-## ACT TWO — *The Sitting* *(~90 minutes)*
+## ACT TWO — *The Sitting* *(~75 minutes)*
 
 **Shape:** lamps down, played long and slow. Run it as a **trick ledger** —
 every mechanism the players catch is named aloud and scored, so the table feels
@@ -474,7 +489,14 @@ not happen. Say so. The absence is better than the effect.
 
 ### The three true details
 
-These are the scenario. They arrive **inside her ordinary patter**, in her
+**These are the three things that must happen, and here is when.** Detail one
+**~1:45**, detail two **~2:07**, detail three **~2:20**, Rée's question
+**~2:25**, lamps up **2:30**. The fiction times below are the clock in the
+room; the session figures are the ones to run by. **If you are at 2:10 with
+only one detail delivered, merge two and three** — cut 2 in the Pacing Note
+tells you how — and do not drop detail three to save detail two.
+
+They arrive **inside her ordinary patter**, in her
 ordinary voice, with no effect attached and no theatre around them — that is
 why they land. Do not foreshadow them with a sound cue. **No roll detects
 them**; `[CoC: no roll resolves these. They are simply said, and they are
@@ -482,7 +504,7 @@ simply true.]`
 
 ---
 
-**DETAIL ONE — the regimental number.** *(~6:50, after trick 4 or 5)*
+**DETAIL ONE — the regimental number.** *(session ~1:45 · fiction ~6:50, after trick 4 or 5)*
 
 > *"— and there's a young man here, and he's very warm about it, he says the
 > number, he says one-nine-seven-four-one, he says you'll know the number —"*
@@ -496,7 +518,7 @@ investigator who understands what just happened.
 
 ---
 
-**DETAIL TWO — the letter.** *(~7:30, after the ledger is mostly full)*
+**DETAIL TWO — the letter.** *(session ~2:07 · fiction ~7:30, after the ledger is mostly full)*
 
 > *"He says — this is a funny thing to say — he says he never posted it, and
 > he's sorry about the second page."*
@@ -507,7 +529,8 @@ late wife. **Nobody in the room can account for this.**
 
 Mrs Veale, in trance, says it the way she says everything. Hobbs, under the
 floor, hears it and stops breathing — if anyone is down there with him, they
-feel him go rigid. **Sanity 1/1D2.**
+feel him go rigid. **Sanity 1/1D2** for every investigator who understands what
+has just been said.
 
 Rée asks, for the first time in forty-two sittings, a second question:
 *"Which second page?"* And the medium's patter rolls straight past it, because
@@ -515,7 +538,21 @@ Rée asks, for the first time in forty-two sittings, a second question:
 
 ---
 
-**DETAIL THREE — the one addressed to a player character.** *(~7:55)*
+**THE FLASH — prompted, never scheduled.** *(session ~2:10, between details two
+and three)* The photographer's magnesium flash is the one piece of hard theatre
+in a dark room, and the scenario does not fire it for him. **Put the choice in
+front of him once, in Miss Carrow's voice, and then leave it alone:**
+
+> *"Are you going to use the thing, young man? Only I should like to be looking
+> the right way."*
+
+He may fire it, refuse it, or save it for Act Three. All three are good. If he
+fires it, describe the flash and the after-image and **nothing on the plate** —
+what it caught is not known until the Epilogue, and that is the point.
+
+---
+
+**DETAIL THREE — the one addressed to a player character.** *(session ~2:20 · fiction ~7:55)*
 
 **This is built from the roster, not from this file.** Open
 [`../characters/six-oclock-sitting-pregens.md`](../characters/six-oclock-sitting-pregens.md)
@@ -548,7 +585,7 @@ material via the safety tool**, use this instead, addressed to the whole table:
 and it's only this: she says, when you write it up, do be accurate."*
 That is a colder beat and an acceptable substitute.
 
-### Rée's question — 8:03 on the fictional clock
+### Rée's question — session ~2:25, 8:03 on the fictional clock
 
 This happens **whatever the table is doing**. If they are arguing, if the lamps
 are up, if Hobbs is being hauled out of the floor by his collar — Edmund Rée
@@ -597,7 +634,8 @@ clues, numbered on from Act One.
 delivered**; Rée's question asked and answered.
 
 **Cuts, in this order:**
-1. Drop tricks 6, 9 and 10. Seven caught mechanisms feel like ten.
+1. Drop tricks **8, 9 and 10** — the three `H1-A` does not print. Seven caught
+   mechanisms feel like ten, and the table never sees a row it could not reach.
 2. Merge details one and two into a single speech — the number *and* the second
    page in one breath at about 7:20. It is less patient and it works.
 3. **Never cut detail three.** It is the reason the scenario is not just a
@@ -758,6 +796,13 @@ One each, second person, three sentences.
   of it. **Plate seven is the one he develops last**, and it shows the circle
   in the dark, and it shows one more pair of hands flat on the cloth than there
   were people in that room, and the hands are not nearly finished.
+  **If the photographer is not in play** — he is the first sheet dropped at
+  four — plate seven survives anyway, because the *Society* sent the camera and
+  the Society's own clerk develops the plates whether or not an investigator
+  stood behind it. Give this vignette to the table instead of to a PC: a note
+  arrives from Pyne a fortnight later, with plate seven in it and no comment.
+  **Never let the scenario end without plate seven.** It is the last image in
+  the game and it does not depend on anyone having chosen to take it.
 
 ### Table debrief
 
@@ -812,7 +857,7 @@ the players' heads before Act Two.
 
 | ID | What | Print |
 |---|---|---|
-| `H1-A` | The Society's exposure checklist — **doubles as the Trick Ledger scoresheet** | A4, ten numbered items with tick boxes. Players will write on it |
+| `H1-A` | The Society's exposure checklist — **doubles as the Trick Ledger scoresheet** | A4, **seven** numbered items with tick boxes **and three blank write-in lines**. Print seven, not ten: tricks 8–10 are the first cut, and a printed row nobody can reach reads as the table's failure. The blanks invite them to name mechanisms the Society did not anticipate. Players will write on it |
 | `H1-B` | Dr Pyne's letter of instruction | A5, Society letterhead. The last line must be on its own |
 | `H2-A` | Shorthand transcript form | A4, ruled, filled in live by the player |
 | `H3-A` | Arthur Rée's unsent letter, two pages | A5, soft-creased, two separate sheets. **Page one is cheerful and about horses** — print it, so the second page has something to sit beside |
@@ -868,19 +913,21 @@ getting better. Then call time.
 
 ### New open questions, raised by writing v1
 
-1. **Does the flash fire in Act Two?** The photographer's magnesium flash is
-   the one piece of hard theatre available in a dark room, and v1 deliberately
-   does *not* schedule it — the three true details are quiet by design and a
-   flash competes with them. Current intent: the player chooses when to fire
-   it, once, and whatever it catches is on a plate nobody sees until the
-   Epilogue. **Untested, and it may need a written beat.**
-2. **Is Mrs Veale too likeable to expose?** Act One is instructed to make the
-   table like her. If a playtest shows the decision becoming obvious — nobody
-   wants to ruin her — she needs one unlikeable beat: she has done this to a
-   bereaved mother and it is in the ledger.
+1. **Does the flash fire in Act Two?** **Answered in v1.1.** It is prompted
+   once, at ~2:10, in Miss Carrow's voice, and never scheduled — so the quiet
+   details keep the room — and plate seven now has a written route to the
+   Epilogue that does not require a photographer at the table at all. The
+   player still chooses; the image no longer depends on the choice.
+2. **Is Mrs Veale too likeable to expose?** **Desk pass 1 position: no, and do
+   not add the unlikeable beat yet.** At four players the brief's "the Society
+   has no interest in the sitters" plus a ledger showing forty-one paid
+   sittings off a bereaved man carries enough edge on its own. Keep the
+   bereaved-mother beat in reserve and re-test it in pass 3.
 3. **Six in a circle of eight.** With six investigators, the circle is almost
    all professionals and the sitters stop being people. Watch whether Rée
    disappears at six players, because if he does, the scenario has no subject.
+   **Still open after desk pass 1** — that run was played at four, so it tested
+   nothing here. **Flag for pass 3 specifically.**
 
 ---
 

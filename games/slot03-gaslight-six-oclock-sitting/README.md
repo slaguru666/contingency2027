@@ -3,19 +3,20 @@
 *Every trick in this room is a trick. One thing is not, and she doesn't know which.*
 
 **System:** Call of Cthulhu 7e — **Gaslight (1894)** · **4–6 players** · 4-hour slot
-(3h30 play) · **one room, one evening** · pure table-talk · no chase, no fight, no
+(3h30 budget, 3h15 planned) · **one room, one evening** · pure table-talk · no chase, no fight, no
 props beyond three handouts.
 
 | File | What it is |
 |---|---|
 | [`scenarios/six-oclock-sitting-outline.md`](scenarios/six-oclock-sitting-outline.md) | Synopsis, design intent, plot truth, act skeleton, open questions |
-| [`scenarios/six-oclock-sitting.md`](scenarios/six-oclock-sitting.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
-| [`characters/six-oclock-sitting-pregens.md`](characters/six-oclock-sitting-pregens.md) | Pregen design brief and pre-v1 audit checklist &mdash; no sheets written yet |
+| [`scenarios/six-oclock-sitting.md`](scenarios/six-oclock-sitting.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
+| [`characters/six-oclock-sitting-pregens.md`](characters/six-oclock-sitting-pregens.md) | **Six pregens**, audited against 7e creation, with the private-grief table Act Two's third detail draws on |
+| [`playtest/six-oclock-sitting-desk-1.md`](playtest/six-oclock-sitting-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, eight-item fix list (all applied) |
 
-**Status:** outline. Next: full scenario draft to v1.
+**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2 (stress re-run of Act Two with the session-clock times), then pass 3 from the player chair &mdash; **at six players**, which pass 1 did not test.
 
-**Remaining prep:** scenario v1 · 6 pregens · handouts (the Society's exposure
-checklist, the sitter's notebook, one unsent letter) · desk playtest ×2 · print
+**Remaining prep:** handouts (the Society's exposure
+checklist, the sitter's notebook, one unsent letter) · desk passes 2–3 · print
 pack. **No art budget, no map, no set-piece page** — the cheapest game on the
 slate to produce, deliberately.
 
