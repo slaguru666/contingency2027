@@ -13,12 +13,13 @@ a document and a hole in a dry riverbed.
 | [`scenarios/provenance.md`](scenarios/provenance.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
 | [`characters/provenance-pregens.md`](characters/provenance-pregens.md) | **Six pregens**, built to Outgunned Adventure 1.1, with the fullest provenance section in the repo |
 | [`playtest/provenance-desk-1.md`](playtest/provenance-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, four findings (all addressed) and the Outgunned ladder closed against the printed book |
+| [`playtest/provenance-desk-2.md`](playtest/provenance-desk-2.md) | Desk pass 2 &mdash; Act Two stress re-run at four players. **The act is fixed: 70 of 75 with the Run narrated, cushion untouched.** Three-item fix list, one critical (not yet applied) |
 
-**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2, to re-measure Act Two at 75 with the Run cut, then pass 3 from the player chair.
+**Status:** **v1.1 — desk pass 1 applied; desk pass 2 run.** Next: apply pass 2's three fixes &mdash; **three stale `2:45`s survive the hard-stop change and one of them is in GM ESSENTIALS**, which is the critical one &mdash; then the four `[unverified]` roster items against the Outgunned PDF, then pass 3.
 
 **Remaining prep:** **the provenance file — four handouts
 that are the whole argument** · a map of the Barranco de Sant Grau · the
-survey column's order of march · art · desk passes 2–3 · print pack.
+survey column's order of march · art · pass-2 fixes, then desk pass 3 · print pack.
 
 **Slot note:** this is the **last game of the convention**, and it deliberately
 changes the closer's character. The slot used to hold THE PERPETUAL ORDER — one

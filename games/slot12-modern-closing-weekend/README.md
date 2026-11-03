@@ -14,12 +14,13 @@ weapon.
 | [`scenarios/closing-weekend.md`](scenarios/closing-weekend.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
 | [`characters/closing-weekend-pregens.md`](characters/closing-weekend-pregens.md) | **Six counsellors + four second characters**, with the consent question now resolved (Option A, print the (A) bullet) |
 | [`playtest/closing-weekend-desk-1.md`](playtest/closing-weekend-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, two criticals and seven more findings (all addressed) |
+| [`playtest/closing-weekend-desk-2.md`](playtest/closing-weekend-desk-2.md) | Desk pass 2 &mdash; Act Three stress re-run at four players in the near-certain case: **all four counsellors dead and the table running the second characters.** The forty minutes are right (38 of 40) and the shooting ruling is now the best-tested rule in the game. Five-item fix list, one critical (not yet applied) |
 
-**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2, to re-measure Act Two at 70 minutes and Act Three at 40, then pass 3 from the player chair.
+**Status:** **v1.1 — desk pass 1 applied; desk pass 2 run.** Next: apply pass 2's five fixes &mdash; **only one second character can say the name, and Act Three is not written for a table of them**, which is the critical one &mdash; then pass 3 from the player chair with a table that walks forward immediately, and one that wears the mask.
 
 **Remaining prep:** the camp map — the centrepiece
 prop · handouts (1931 and 1954 newspaper clippings, the camp's incident log, a
-Polaroid) · art · desk passes 2–3 · print pack.
+Polaroid) · art · pass-2 fixes, then desk pass 3 · print pack.
 
 **Slot note:** moved here from Thursday afternoon on 2026-10-25. **Saturday
 night is where this game always wanted to be** — a slasher at 7.30 on the

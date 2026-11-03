@@ -12,12 +12,13 @@ map, a forecast and a deadline at dawn.
 | [`scenarios/london-particular.md`](scenarios/london-particular.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
 | [`characters/london-particular-pregens.md`](characters/london-particular-pregens.md) | **Six pregens**, audited against 7e creation |
 | [`playtest/london-particular-desk-1.md`](playtest/london-particular-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, seven-item fix list (all applied) |
+| [`playtest/london-particular-desk-2.md`](playtest/london-particular-desk-2.md) | Desk pass 2 &mdash; the **Limehouse pursuit** stress re-run at four players, window woman as NPC, cut 2 taken. The set-piece and the window-woman fix hold completely; **the pursuit is scheduled after the beat the act is said to end on.** Four-item fix list (not yet applied) |
 
-**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2 (re-measure the Act Two track balance and re-test Benjamin), then pass 3 from the player chair &mdash; **at six players**.
+**Status:** **v1.1 — desk pass 1 applied; desk pass 2 run.** Next: apply pass 2's four fixes &mdash; the pursuit/reunion scheduling collision, and `Crale (5)` naming the works chemist &mdash; then pass 3 from the player chair with a table that shoots Edward, **at six players**.
 
 **Remaining prep:** handouts (**the London map with the
 four deaths — the centrepiece prop**, the Meteorological Office fog register, a
-mortuary report, the works' process sheet) · art · desk passes 2–3 · print pack.
+mortuary report, the works' process sheet) · art · pass-2 fixes, then desk pass 3 · print pack.
 
 **Why it is this shape.** It is the slate's **fourth Gaslight game** and the only
 mobile one — the other three (Slots 3, 8, 14) are all quiet single-location

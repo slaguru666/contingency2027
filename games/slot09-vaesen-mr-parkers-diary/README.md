@@ -11,12 +11,13 @@
 | [`scenarios/mr-parkers-diary.md`](scenarios/mr-parkers-diary.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
 | [`characters/mr-parkers-diary-pregens.md`](characters/mr-parkers-diary-pregens.md) | **Six pregens**, audited against Vaesen creation, with the Mementos and the drop order |
 | [`playtest/mr-parkers-diary-desk-1.md`](playtest/mr-parkers-diary-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, three criticals and five more findings (all addressed) |
+| [`playtest/mr-parkers-diary-desk-2.md`](playtest/mr-parkers-diary-desk-2.md) | Desk pass 2 &mdash; Act Two stress re-run at four players. **The act is fixed: 62 of 70, eight minutes of real slack, neither cut needed.** Five-item fix list, one critical and **unresolvable without the Vaesen core book** (not yet applied) |
 
-**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2 (stress re-run of Act Two), then pass 3 from the player chair.
+**Status:** **v1.1 — desk pass 1 applied; desk pass 2 run.** Next: **open the Vaesen core rulebook at p. 68** and settle the Fear die bonus, which the scenario and its own roster state differently &mdash; then the other four fixes, then pass 3. Do not apply either reading of the Fear rule until the book has been read.
 
 **Remaining prep:** handouts (three diary
 spreads — Parker's hand early, Parker's hand wrong, and the page that describes
-the players) · the burnt parish register · art · desk passes 2–3 · print pack.
+the players) · the burnt parish register · art · pass-2 fixes, then desk pass 3 · print pack.
 
 ---
 *Vaesen © Free League Publishing, based on the work of Johan Egerkrans. Private

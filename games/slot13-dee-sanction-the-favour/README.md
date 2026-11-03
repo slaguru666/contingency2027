@@ -19,9 +19,9 @@ returning pregens' seams are the routes through it.
 | [`scenarios/the-favour.md`](scenarios/the-favour.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
 | [`characters/the-favour-pregens.md`](characters/the-favour-pregens.md) | **Pointer to the seven shared *Princes Bride* agents** &mdash; taglines, seams re-pointed at this case, seat and drop order, the Sanction rhyme |
 | [`playtest/the-favour-desk-1.md`](playtest/the-favour-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, six findings (all addressed) and **both Dee Sanction rules items closed against the book** |
+| [`playtest/the-favour-desk-2.md`](playtest/the-favour-desk-2.md) | Desk pass 2 &mdash; Act Two stress re-run at four players. **The safest clue engine on the slate, verified: two Falters, two clues delivered.** 66 of 75 minutes. Five-item fix list, **two criticals** (not yet applied) |
 
-**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2, then pass 3
-from the player chair.
+**Status:** **v1.1 — desk pass 1 applied; desk pass 2 run.** Next: apply pass 2's five fixes &mdash; **the Favour and an Unravelling step live in the scene the scenario cuts first**, and **Agnes, a named route to Ending 4, does not exist in the document** &mdash; then pass 3 from the player chair with a table that teaches Garratt nothing.
 
 **Remaining prep:** per-agent mission inserts for *this* case (the seven sheets
 themselves port in unchanged) · handouts (Garratt's ledger spread,

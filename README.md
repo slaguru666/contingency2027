@@ -18,20 +18,20 @@ deliberately clear.
 
 | # | Day | Session | System | Game | PCs | Status |
 |---|---|---|---|---|---|---|
-| 1 | Wed 27 | Morning | CoC — **Gaslight** (1895) | [**THE PERPETUAL ORDER**](games/slot01-gaslight-the-perpetual-order/) | 4 | **v1.1 — pass 1 fixes applied** |
+| 1 | Wed 27 | Morning | CoC — **Gaslight** (1895) | [**THE PERPETUAL ORDER**](games/slot01-gaslight-the-perpetual-order/) | 4 | **v1.1 — pass 2 run, fixes pending** |
 | 2 | Wed 27 | Afternoon | Blade Runner RPG | [**AFTERIMAGE**](games/slot02-blade-runner-afterimage/) | 4 | **Port — con-ready (source v3.6.0)** |
-| 3 | Wed 27 | Evening | CoC — **Gaslight** (1894) | [**THE SIX O'CLOCK SITTING**](games/slot03-gaslight-six-oclock-sitting/) | 4 | **v1.1 — pass 1 fixes applied** |
-| 4 | Thu 28 | Morning | The Walking Dead Universe (modified) | [**BLACK SUMMER — Last Flight Out**](games/slot04-black-summer/) | 5 | **v1.1 — pass 1 fixes applied** |
-| 5 | Thu 28 | Afternoon | **ALIEN RPG** — Cinematic | [**CONTINUOUS SERVICE**](games/slot05-alien-continuous-service/) | 5 | **v1.1 — pass 1 fixes applied** |
-| 6 | Thu 28 | **Evening** | CoC — **Gaslight** (1896) | [**THE LONDON PARTICULAR**](games/slot06-gaslight-the-london-particular/) | 5 | **v1.1 — pass 1 fixes applied** |
+| 3 | Wed 27 | Evening | CoC — **Gaslight** (1894) | [**THE SIX O'CLOCK SITTING**](games/slot03-gaslight-six-oclock-sitting/) | 4 | **v1.1 — pass 2 run, fixes pending** |
+| 4 | Thu 28 | Morning | The Walking Dead Universe (modified) | [**BLACK SUMMER — Last Flight Out**](games/slot04-black-summer/) | 5 | **v1.1 — pass 2 run, fixes pending** |
+| 5 | Thu 28 | Afternoon | **ALIEN RPG** — Cinematic | [**CONTINUOUS SERVICE**](games/slot05-alien-continuous-service/) | 5 | **v1.1 — pass 2 run, fixes pending** |
+| 6 | Thu 28 | **Evening** | CoC — **Gaslight** (1896) | [**THE LONDON PARTICULAR**](games/slot06-gaslight-the-london-particular/) | 5 | **v1.1 — pass 2 run, fixes pending** |
 | 7 | Fri 29 | Morning | — | *clear* | — | — |
-| 8 | Fri 29 | Afternoon | CoC 7e — **1920s** | [**VIVA VOCE**](games/slot08-coc-viva-voce/) | 5 | **v1.1 — pass 1 fixes applied** |
-| 9 | Fri 29 | **Evening** | **Vaesen** | [**THE CURIOUS CASE OF MR PARKER'S DIARY**](games/slot09-vaesen-mr-parkers-diary/) | 4 | **v1.1 — pass 1 fixes applied** |
+| 8 | Fri 29 | Afternoon | CoC 7e — **1920s** | [**VIVA VOCE**](games/slot08-coc-viva-voce/) | 5 | **v1.1 — pass 2 run, fixes pending** |
+| 9 | Fri 29 | **Evening** | **Vaesen** | [**THE CURIOUS CASE OF MR PARKER'S DIARY**](games/slot09-vaesen-mr-parkers-diary/) | 4 | **v1.1 — pass 2 run, fixes pending** |
 | 10 | Sat 30 | Morning | — | *clear* | — | — |
-| 11 | Sat 30 | Afternoon | Blade Runner RPG | [**PAPER CHILDREN**](games/slot11-blade-runner-paper-children/) — companion to AFTERIMAGE | 4 | **v1.1 — pass 1 fixes applied** |
-| 12 | Sat 30 | **Evening** | CoC 7e — **modern** (1986) | [**CLOSING WEEKEND**](games/slot12-modern-closing-weekend/) | 6 | **v1.1 — pass 1 fixes applied** |
-| 13 | Sun 31 | Morning | The Dee Sanction | [**THE FAVOUR**](games/slot13-dee-sanction-the-favour/) — sequel to *The Princes Bride* | 5 | **v1.1 — pass 1 fixes applied** |
-| 14 | Sun 31 | Afternoon | **Outgunned** | [**PROVENANCE**](games/slot14-outgunned-provenance/) | 5 | **v1.1 — pass 1 fixes applied** |
+| 11 | Sat 30 | Afternoon | Blade Runner RPG | [**PAPER CHILDREN**](games/slot11-blade-runner-paper-children/) — companion to AFTERIMAGE | 4 | **v1.1 — pass 2 run, fixes pending** |
+| 12 | Sat 30 | **Evening** | CoC 7e — **modern** (1986) | [**CLOSING WEEKEND**](games/slot12-modern-closing-weekend/) | 6 | **v1.1 — pass 2 run, fixes pending** |
+| 13 | Sun 31 | Morning | The Dee Sanction | [**THE FAVOUR**](games/slot13-dee-sanction-the-favour/) — sequel to *The Princes Bride* | 5 | **v1.1 — pass 2 run, fixes pending** |
+| 14 | Sun 31 | Afternoon | **Outgunned** | [**PROVENANCE**](games/slot14-outgunned-provenance/) | 5 | **v1.1 — pass 2 run, fixes pending** |
 | 15 | Sun 31 | Evening | — | *clear* | — | — |
 
 > ### Desk playtest pass 1 — complete, and the fixes are applied, 2026-11-03
@@ -70,9 +70,52 @@ deliberately clear.
 >   v3.6** — advantage/disadvantage, Close Combat, and a frontmatter version
 >   that had been wrong since v3.3 — which fixed slots 2 and 11 at once.
 >
-> **Still to do:** pass 2 (stress re-run of each game's weakest act) and pass 3
-> (player chair, contrarian). Every game's remaining risk is named at the foot
-> of its pass-1 document.
+---
+
+> ### Desk pass 2 — the stress re-runs, 2026-11-03 *(findings written, fixes not applied)*
+>
+> A stress re-run of **each game's weakest act**, with the act taken from each
+> pass-1 document's own *next pass* line rather than chosen fresh — and slot 2
+> given a **port verification** instead, because re-playtesting a Continuum
+> scenario with six playtest documents of its own would be re-testing finished
+> work. **Forty-eight fixes, eleven of them critical, all left for a separate
+> pass with a version bump.** Full write-up: `docs/playtest-slate-findings.md`
+> §10.
+>
+> **The good news first: timing is fixed.** Every act measured fits — slot 9's
+> Act Two came in at 62 of 70 against pass 1's "over by 5–15 with no slack",
+> slot 13's at 66 of 75, slot 14's at 70 of 75, slot 12's Act Three at 38 of
+> 40, and slot 1's 80-minute Act Two was absorbed by the new cushion to land
+> the session at 3:20. Pass 1's finding 1 is answered. **Three timing problems
+> remain and all three are rates, not lengths:** slot 4's LINE empties in four
+> minutes of a thirty-minute act, slot 11 has no room for the V-K it forbids
+> blocking, and slot 12's hard-stop path lands to the minute with no slack.
+>
+> **The pattern of the pass, in seven of the twelve games: a pass-1 fix landed
+> where it was written, not where it is played.** Slot 3's new FLASH beat has
+> no addressee at four or five players; slot 8's Dean was added to the vote
+> arithmetic and never to the act he votes in; slot 13's revived Favour lives
+> in the scene the scenario cuts first; slot 14's *"2:40 everywhere below"*
+> left GM ESSENTIALS, which is above it, still saying 2:45; slot 6's newly
+> scheduled reunion collides with a Countdown row the file already carried;
+> slot 2's rename reached the source and none of eleven generated files. **A
+> fix is finished when every place it is played from agrees with it.**
+>
+> **And the four-player designed table is where v1.1 breaks** — seven games
+> produced findings that exist only there. Pass 1 *ran* at four; pass 1's
+> fixes were written against the six-player text.
+>
+> **Six asserted figures were independently re-measured and all six hold**,
+> including slot 1's Sanity budget (3/4/5/6 against "best 3, worst 10, typical
+> 5") and slot 3's re-derived session clock, which reproduces to the minute.
+> **One rules question is deliberately unresolved:** slot 9's Fear die bonus is
+> stated two different ways in two of its own files, and the Vaesen core book
+> is not on disk — it needs p. 68 read before either reading is applied.
+>
+> **Still to do:** apply pass 2's forty-eight fixes, then **pass 3** (player
+> chair, contrarian). Nothing has yet been tested at **six players**, and five
+> things now wait on that table: slots 3, 6 and 8 at six, slot 4's crowd cards
+> in a real hand, and slot 8's viva, which its own resolved question asks for.
 
 **The shape of the slate:** **nine systems across twelve games** — three Cthulhu
 by Gaslight, one 1920s Call of Cthulhu, one modern-day Call of Cthulhu, two

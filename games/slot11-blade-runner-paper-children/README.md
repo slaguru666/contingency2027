@@ -17,10 +17,9 @@ the payoff on Saturday.
 | [`scenarios/paper-children.md`](scenarios/paper-children.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
 | [`characters/paper-children-pregens.md`](characters/paper-children-pregens.md) | **Pointer to the four shared AFTERIMAGE sheets** &mdash; essences, this case's hooks, the 2+2 split, what a missing seat costs |
 | [`playtest/paper-children-desk-1.md`](playtest/paper-children-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, two criticals and six more findings (all addressed) |
+| [`playtest/paper-children-desk-2.md`](playtest/paper-children-desk-2.md) | Desk pass 2 &mdash; Act Two stress re-run at four players, V-K run twice with no re-rolls. **Both Shifts burned, nothing learned &mdash; the scenario working as designed.** Four-item fix list, one critical (not yet applied) |
 
-**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2, to re-measure
-Act Two now that the Voight-Kampff costs a Shift, then pass 3 from the player
-chair.
+**Status:** **v1.1 — desk pass 1 applied; desk pass 2 run.** Next: apply pass 2's four fixes &mdash; **the V-K is rolled on one die against the file's own two-dice rule**, which nearly halves it, and that is the critical one &mdash; then pass 3 from the player chair with a table that retires one of the four in Act Two.
 
 **Why this one is cheap:** the pregens, character sheets, portraits, chase
 quick-reference, GM console module and art direction all exist and port straight

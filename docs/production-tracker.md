@@ -2,9 +2,14 @@
 
 Legend: **—** not started · **◐** in progress · **✔** done · **n/a** not required
 
-**Playtest column:** `◐ desk 1 · fixed` means the game has had desk pass 1 from
-the GM chair **and its fix list has been applied with a version bump to v1.1.**
-Passes 2 and 3 are still outstanding on all eleven written games.
+**Playtest column:** `◐ desk 1 ✔ · desk 2 run` means the game has had desk pass 1
+from the GM chair **with its fix list applied and a version bump to v1.1**, and
+**desk pass 2 — a stress re-run of its weakest act — run, with findings written
+and fixes not yet applied.** **Pass 3 (player chair, contrarian) is outstanding
+on all eleven written games, and nothing has been tested at six players.**
+Pass 2's forty-eight fixes, eleven of them critical, are listed per game in
+`games/*/playtest/*-desk-2.md` and summarised in `playtest-slate-findings.md`
+§10.
 **Pregens marked *pointer*** are the two games whose sheets live in
 `Continuum2026`; the file in `characters/` wires those sheets into this case
 rather than copying them. **Slot 2's print cell is now a hard requirement** —
@@ -13,18 +18,18 @@ regenerated from the corrected HTML.
 
 | # | Slot | Game | PCs | Outline | Scenario v1 | Pregens | Handouts | Art | Playtest | Print | Console |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | n/a | ◐ desk 1 · **fixed** | — | — |
-| 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×6 *(source **v3.6.0**)* | ◐ **reprint required** | ◐ port |
-| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | n/a | ◐ desk 1 · **fixed** | — | — |
-| 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
-| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | ✔ **v1.1** | ✔ **+ survivor cards** | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
-| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
-| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
-| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
-| 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | ✔ **v1.1** | ✔ *pointer* | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | *(shared)* |
-| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
-| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | ✔ **v1.1** | ✔ *pointer* | — | ✔ 5/5 | ◐ desk 1 · **fixed** | — | — |
-| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 6/6 | ◐ desk 1 · **fixed** | — | — |
+| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | n/a | ◐ desk 1 ✔ · **desk 2 run, fixes pending** | — | — |
+| 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×6 *(source **v3.6.0**)* · ◐ port verified | ◐ **reprint required — 11 stale files, incl. the combined pack** | ◐ port |
+| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | n/a | ◐ desk 1 ✔ · **desk 2 run, fixes pending** | — | — |
+| 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 ✔ · **desk 2 run, fixes pending** | — | — |
+| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | ✔ **v1.1** | ✔ **+ survivor cards** | — | ✔ 5/5 | ◐ desk 1 ✔ · **desk 2 run, fixes pending** | — | — |
+| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 ✔ · **desk 2 run, fixes pending** | — | — |
+| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 ✔ · **desk 2 run, fixes pending** | — | — |
+| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 ✔ · **desk 2 run, fixes pending** | — | — |
+| 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | ✔ **v1.1** | ✔ *pointer* | — | ✔ 5/5 | ◐ desk 1 ✔ · **desk 2 run, fixes pending** | — | *(shared)* |
+| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 5/5 | ◐ desk 1 ✔ · **desk 2 run, fixes pending** | — | — |
+| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | ✔ **v1.1** | ✔ *pointer* | — | ✔ 5/5 | ◐ desk 1 ✔ · **desk 2 run, fixes pending** | — | — |
+| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | ✔ **v1.1** | ✔ | — | ✔ 6/6 | ◐ desk 1 ✔ · **desk 2 run, fixes pending** | — | — |
 
 > ### Slots 1 and 3 stay art-free — settled 2026-11-02
 >

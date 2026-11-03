@@ -18,6 +18,7 @@ scenario), three different endings reached, all inside the slot, art complete.
 | [`scenarios/afterimage.md`](scenarios/afterimage.md) | **The port checklist.** What to copy from Continuum 2026, and what to change |
 | [`characters/afterimage-pregens.md`](characters/afterimage-pregens.md) | Pregen brief &mdash; **the sheets port in**, they are not new writing |
 | [`playtest/afterimage-port-fitness.md`](playtest/afterimage-port-fitness.md) | Desk pass 1 &mdash; port-fitness check rather than a play run (the scenario is already playtested six times at source). Three findings, all applied |
+| [`playtest/afterimage-port-verification.md`](playtest/afterimage-port-verification.md) | Desk pass 2 &mdash; **port verification, not a re-run.** All three pass-1 remediations landed in source; **eleven generated files are still stale**, including `print/CONTINUUM-2026-PRINT-PACK.pdf`, which nothing had identified |
 
 **Remaining prep:** copy the Continuum 2026 package in · apply the port changes ·
 **regenerate the print PDFs and the console build** (the existing ones still say

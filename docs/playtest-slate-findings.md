@@ -346,3 +346,180 @@ Recorded because they are the pass's own judgement calls, not the playtest's.
   six**, and **slot 4's crowd cards in a player's hand** — four things pass 1
   could not test because it ran at four, each flagged in its own document for
   the pass that can.
+
+---
+
+## 10. Desk pass 2 — the stress re-runs, 2026-11-03
+
+Twelve passes, one per game: a stress re-run of each game's weakest act against
+v1.1, with the act chosen from each pass-1 document's own *next pass* line
+rather than picked fresh. Slot 2 got a **port verification** instead of a
+re-run, because re-playtesting a Continuum scenario that carries six playtest
+documents of its own would be re-testing finished work.
+
+### 10.1 The pattern of this pass: a fix landed where it was written, not where it is played
+
+**Seven of the twelve games produced the same shape of finding**, and it is the
+single most useful thing pass 2 found:
+
+| Slot | The pass-1 fix | Where it did not reach |
+|---|---|---|
+| **3** | THE FLASH block, with the choice put to the photographer | The photographer **leaves at the interval** at five players and does not exist at four. Two files now answer the same gap differently |
+| **5** | The agenda collision map, closed as *"it does, and they are here"* | **No four-player column.** Three of the four Act Two collisions need a dropped seat |
+| **6** | The reunion scheduled at 2:15 and called *"the act's last one"* | A **Countdown row the file already carried** puts the pursuit at 2:20 |
+| **8** | Dean Trowbridge added, question closed as *"he is on the page now"* | He is on the **arithmetic** page. **Act Three never mentions him**, and he is a quarter of the committee |
+| **13** | The Favour and the Unravelling track given homes | Both homes are **scene 4**, which the Pacing Note cuts first and the four-player note cuts outright |
+| **14** | *"Hard rule: at 2:40 — not 2:45. **2:40 everywhere below.**"* | **GM ESSENTIALS is above that line.** The one-glance block still says 2:45 |
+| **2** | CLOSE COMBAT renamed in source | **Eleven generated files**, including a print pack nobody had identified |
+
+**The lesson, stated for the next fix pass:** a fix is not finished when the
+sentence is correct. It is finished when **every place that sentence is played
+from** agrees with it — the one-glance block, the other player counts, the
+roster, the Countdown, the cut list, and anything built from the file. *"X
+everywhere below"* is a true statement about an edit and a false one about a
+document.
+
+### 10.2 The four-player table is where v1.1 breaks
+
+**Seven games produced findings that exist only at four players** — slots 3,
+4, 5, 6, 8, 12 and 13. Pass 1 *ran* at four; pass 1's **fixes were written
+against the six-player text**, and that is the gap.
+
+The worst cases are not subtle:
+- **Slot 3:** a beat with neither a speaker nor an addressee.
+- **Slot 13:** a mechanic with nowhere to be spent.
+- **Slot 12:** three of four players holding characters who cannot perform the
+  act's only action.
+- **Slot 4:** *"at four players expect to use one"* crowd card, and *"never
+  cut"* two of them.
+
+**Recommendation for the fix pass:** after editing any scene, re-read it once
+as the four-player table. It is the designed table in ten of the twelve games
+and it is the table that will actually show up.
+
+### 10.3 Timing is fixed, and this is the good news
+
+**Every act measured fits**, which was not true at pass 1:
+
+| Slot | Act | Planned | Measured |
+|---|---|---|---|
+| 1 | Two | 75 | **80** — absorbed by the new cushion, session 3:20 |
+| 3 | Two | 75 | **75**, cushion unspent |
+| 4 | Three | 30 | **28** |
+| 5 | Two | 75 | **75**, including a death and a handover |
+| 6 | pursuit | — | **15** under cut 2 *(needs a slot; see 10.1)* |
+| 8 | Three | 30 | **31** |
+| 9 | Two | 70 | **62** — eight minutes spare |
+| 11 | Two | 75 | **73** *before any V-K* |
+| 12 | Three | 40 | **38** |
+| 13 | Two | 75 | **66** at four players |
+| 14 | Two | 75 | **70** with the Run narrated |
+
+Pass 1's finding 1 — *"every scenario budgets the whole 210"* — is answered.
+**Three timing problems remain**, and all three are rates rather than lengths:
+
+1. **Slot 4's LINE empties in four minutes** of a thirty-minute act, because it
+   moves +1 per two minutes from an opening position of 3. Its "if you are
+   behind" fast-track runs at the same speed as its default, which means it has
+   no fast-track.
+2. **Slot 11 has no room for the move it forbids blocking.** 73 of 75 before a
+   V-K; a played-out test is eight minutes.
+3. **Slot 12's hard-stop path has zero slack** — 2:35 + 40 + 15 = 3:30 exactly.
+
+### 10.4 Claims that were checked and are correct
+
+Pass 1 found a slate full of asserted arithmetic. **This pass re-measured six
+such claims independently and all six hold:**
+
+- **Slot 1's Sanity budget** — *"best case 3, worst case 10, typical 5"*. Four
+  honest runs gave 3, 4, 5, 6, mean 4.5, and the best case actually occurred.
+  The eight-band figures check too.
+- **Slot 3's session clock** — all four derived figures reproduce from the
+  scenario's own 130-fiction-into-75-session ratio, to the minute. This was the
+  fix I was least sure of when applying it.
+- **Slot 9's Condition budget** — *"four Fear 2 tests is about three expected
+  mental Conditions"*. Computed: 2.5, or 2.7 with the disputed per-Condition
+  penalty. Accurate either way.
+- **Slot 12's bout of madness** — *"roughly one at the table all night"* has a
+  real mechanism, the 1/1D6 at the first body. ~0.5 expected at four players,
+  0.8 at six.
+- **Slot 14's playtest count and version** — six documents on disk, 01–06,
+  `version: "3.6.0"`; the port notes agree.
+- **Slot 13's clue safety** — *"the system cannot lose a clue to a die"*. Two
+  of five rolls Faltered and both delivered, one of them the act's central
+  fact off a natural 1.
+
+### 10.5 A slate-wide fact worth printing: madness is almost impossible
+
+Measured, in the CoC and CoC-adjacent games:
+
+| Slot | Largest single Sanity loss in the tested act | Bout of madness possible? |
+|---|---|---|
+| 1 | 1D3 | **No** |
+| 3 | 1D3 | **No** |
+| 6 | 1D4 | **No** |
+| 8 | 1D2 | **No** |
+| 12 | 1D4 in Act Three; **1D6** at the first body | **Only at the first body** |
+
+A bout needs five points from one roll. **Four of the five games cannot produce
+one in the act tested**, and that is clearly deliberate — these are scenarios
+whose climaxes are decisions, and a player in a bout cannot take part in one.
+**It should be printed**, because it is what licenses *"do not add losses"* and
+a Keeper who does not know it will defuse an act trying to be safe. Only slot 1
+currently prints a Sanity budget at all; slots 3, 6 and 8 print the threshold
+rule and no budget.
+
+### 10.6 Two bespoke clue types have appeared
+
+- **Slot 9:** `Optional-but-wanted` (clues 17, 18)
+- **Slot 13:** `Optional but load-bearing` (clue 17)
+
+Neither appears anywhere else; `docs/house-standards.md` has **Essential** and
+**Optional**. Either both become Optional with the weight said in prose, or the
+house standard gains **one** third type that both use. Two different third
+types is the thing to avoid.
+
+### 10.7 An unresolved rules question — and it needs the book
+
+**Slot 9's Fear die bonus contradicts itself between the scenario and its own
+roster**, in the exact rule pass 1 went in to fix:
+
+- Scenario: *"one die per PC present, **yourself included**… a lone PC rolls
+  attribute **+1**"*, citing **core p. 68**.
+- Roster: *"a PC alone in a Fear scene rolls **a bare attribute**"*.
+- A fan cheat sheet on disk agrees with the roster: *"1 die for each **other**
+  PCs present"* — and carries a second modifier the scenario never mentions,
+  *"remove 1 die for each Mental Condition"*.
+
+**This was not resolved and must not be applied either way until the Vaesen
+core rulebook is opened at p. 68.** Unlike ALIEN's — which this pass used to
+read the Panic Table and trigger list for slot 5 — the Vaesen core book is
+**not on disk**, and a cited page should not be overturned on a fan PDF. This
+is the **third** correction to this one rule; the next one should be the last
+and should cite a page somebody has read.
+
+### 10.8 Tooling
+
+`tools/playtest_roller.py`'s `yz` mode resolves against **one** success and
+printed *"success"* for three Vaesen Fear 2 rolls that failed. The dice were
+read and the labels ignored, and nothing was re-rolled — but any future Vaesen
+or Fear-value pass needs a `--need N` argument or it will record the wrong
+outcomes.
+
+### 10.9 What pass 2 did not do
+
+- **No fixes were applied.** **Forty-eight** numbered fixes across twelve
+  documents — counted, not estimated (`grep -c "^### [0-9]\." games/slot*/playtest/*desk-2.md`
+  plus the port verification) — all left for a separate pass with a version
+  bump, per protocol. **Eleven are marked critical**, spread across ten games
+  — slot 13 has two (the Favour's home, and writing Agnes); slots 6 and 2 have
+  none.
+- **No act other than the nominated one was re-run**, though two findings are
+  adjacent by necessity: slot 1's Act One move arithmetic (it decides whether
+  Act Two starts at 1:15) and slot 14's GM ESSENTIALS hard stop.
+- **Slot 14's four `[unverified]` roster items** are still unchecked. None is
+  load-bearing for Act Two, which ran without touching any of them.
+- **Nothing was tested at six players.** Pass 1 could not, and neither could
+  this; the four things named at the foot of §9 are still outstanding, and
+  slot 8's own resolved question 1 explicitly asks for a six-player re-test of
+  the viva.

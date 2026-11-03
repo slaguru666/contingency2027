@@ -18,7 +18,7 @@ is a decision about paperwork.
 
 **Remaining prep:** deck plans for the *Keelson* —
 the centrepiece prop · handouts (a payroll ledger, a survey contract, eleven
-years of 90-day wake logs) · art · desk passes 2–3 · print pack.
+years of 90-day wake logs) · art · pass-2 fixes, then desk pass 3 · print pack.
 
 ---
 *ALIEN RPG © Free League Publishing. Private convention play materials — not for

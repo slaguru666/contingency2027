@@ -12,11 +12,12 @@ props beyond three handouts.
 | [`scenarios/six-oclock-sitting.md`](scenarios/six-oclock-sitting.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
 | [`characters/six-oclock-sitting-pregens.md`](characters/six-oclock-sitting-pregens.md) | **Six pregens**, audited against 7e creation, with the private-grief table Act Two's third detail draws on |
 | [`playtest/six-oclock-sitting-desk-1.md`](playtest/six-oclock-sitting-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, eight-item fix list (all applied) |
+| [`playtest/six-oclock-sitting-desk-2.md`](playtest/six-oclock-sitting-desk-2.md) | Desk pass 2 &mdash; Act Two stress re-run at the **four-player designed table** with the session clock applied. **75 of 75, cushion unspent**, and the re-derived clock reproduces to the minute. Four-item fix list, one critical (not yet applied) |
 
-**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2 (stress re-run of Act Two with the session-clock times), then pass 3 from the player chair &mdash; **at six players**, which pass 1 did not test.
+**Status:** **v1.1 — desk pass 1 applied; desk pass 2 run.** Next: apply pass 2's four fixes &mdash; **THE FLASH has no addressee at four or five players**, which is the critical one &mdash; then pass 3 from the player chair **at six**, which nothing has tested.
 
 **Remaining prep:** handouts (the Society's exposure
-checklist, the sitter's notebook, one unsent letter) · desk passes 2–3 · print
+checklist, the sitter's notebook, one unsent letter) · pass-2 fixes, then desk pass 3 · print
 pack. **No art budget, no map, no set-piece page** — the cheapest game on the
 slate to produce, deliberately.
 

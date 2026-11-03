@@ -12,11 +12,11 @@ opening game**: small, finite, quiet, and nasty.
 | [`scenarios/perpetual-order.md`](scenarios/perpetual-order.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
 | [`characters/perpetual-order-pregens.md`](characters/perpetual-order-pregens.md) | **Six pregens**, audited against 7e creation, with the Sanity keepsakes |
 | [`playtest/perpetual-order-desk-1.md`](playtest/perpetual-order-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, ten-item fix list (all applied) |
+| [`playtest/perpetual-order-desk-2.md`](playtest/perpetual-order-desk-2.md) | Desk pass 2 &mdash; Act Two stress re-run at four players (door-first, bracketing, the vault question). **80 of 75 minutes, absorbed by the cushion; session 3:20.** Four-item fix list, one critical (not yet applied) |
 
-**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2 (stress re-run of
-Act Two), then pass 3 from the player chair.
+**Status:** **v1.1 — desk pass 1 applied; desk pass 2 run.** Next: apply pass 2's four fixes (the six-band read has no answer for a dropped-band crate &mdash; that is the critical one), then pass 3 from the player chair with a table that reads crate 101 first, refuses to sort, and tries to take crate 102 home.
 
-**Remaining prep:** desk passes 2–3 · handouts (the 1794 banker's order with its
+**Remaining prep:** pass-2 fixes, then desk pass 3 · handouts (the 1794 banker's order with its
 renewal endorsements, three crate inventories, the label on crate 102) · print
 pack. **One location, no art pipeline, no set-piece
 page** — the second-cheapest build on the slate after
