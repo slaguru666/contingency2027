@@ -58,8 +58,8 @@ no voice in the room and the most dangerous information in the building.*
 | Players | PC examiners | NPC examiners | PC votes of total | What it costs |
 |---|---|---|---|---|
 | **6** | Keel · Ott · Hallowes · Calloway | Sze | **4 of 5** | Nothing. The table can carry any outcome on its own; Lyle's casting vote only matters if the four split 2–2. |
-| **5** | Keel · Ott · Hallowes | Sze + **the Dean** (takes the external seat) | **3 of 5** | The three PC examiners must vote together to carry anything. Lyle has two reliable votes; the table has three and no margin. |
-| **4** | Keel · Ott | Sze + the Dean | **2 of 4** | **You must win Dr Sze in Act Two or you cannot carry the vote.** Two PC votes plus Sze beats the Dean 3–1; two PC votes alone tie and Lyle breaks the tie to pass. |
+| **5** | Keel · Ott · Hallowes | Sze + **Dean Trowbridge** (takes the external seat) | **3 of 5** | The three PC examiners must vote together to carry anything. Lyle has two reliable votes; the table has three and no margin. |
+| **4** | Keel · Ott | Sze + Dean Trowbridge | **2 of 4** | **You must win Dr Sze in Act Two or you cannot carry the vote.** Two PC votes plus Sze beats the Dean 3–1; two PC votes alone tie and Lyle breaks the tie to pass. |
 
 The two non-voting sheets never drop. They are the leverage sheets, and at four
 players they are half the party.

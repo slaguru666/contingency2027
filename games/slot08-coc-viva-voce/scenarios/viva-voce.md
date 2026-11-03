@@ -2,8 +2,10 @@
 
 > *Four hundred pages on the drainage of the Miskatonic valley. Three examiners have read it. The viva is at three o'clock.*
 
-**Status: v1 — runnable, unplaytested.** Written 2026-11-02 from
-[`viva-voce-outline.md`](viva-voce-outline.md).
+**Status: v1.1 — desk pass 1 fixes applied.** Written 2026-11-02 from
+[`viva-voce-outline.md`](viva-voce-outline.md); the eight-item fix list in
+[`../playtest/viva-voce-desk-1.md`](../playtest/viva-voce-desk-1.md) applied
+2026-11-03. **Still needs desk passes 2 and 3.**
 
 > **This file supersedes [`viva-voce-outline.md`](viva-voce-outline.md).**
 > A GM holding only this file can run the game. The outline is the frozen
@@ -20,21 +22,27 @@
 ## GM ESSENTIALS (one glance, any GM)
 
 - **System crash-course:** Call of Cthulhu 7e, 1920s. d100 under the skill;
-  under half is a hard success, under a fifth extreme. 01–05 critical, 96–00
-  fumble. Push a failed roll by doing more of it — a failed push earns a real
+  under half is a hard success, under a fifth extreme. **01 is a critical. 100
+  is always a fumble; if the skill is under 50, 96–00 fumbles.** Push a failed
+  roll by doing more of it — a failed push earns a real
   consequence. Sanity: lose the points, then roll d100 against current Sanity;
   **over** means a temporary bout of madness.
 - **Mechanics inline:** `[CoC: Skill — what it reveals or does]`
 - **There is nothing to fight and nothing to find.** A table that goes looking
   for a creature should find a reading list.
 - **The clock counts play time** — pause it for the break.
-- **Hard rule: at 2:45, go to Act Three regardless.** The viva is at three
-  o'clock in the fiction and at 2:45 on the clock, and it happens.
+- **Act Two is planned to end at 2:30. Hard rule: at 2:45 you go to Act Three
+  regardless.** Those fifteen minutes are the session's cushion, not spare act.
+  The viva is at three o'clock in the fiction and at 2:45 on the clock, and it
+  happens.
 - **The four Extracts are the scenario.** Everything else is scaffolding. Print
   them properly and hand them over; do not paraphrase them.
-- **Sanity on offer: 3 at best, 10 at worst** — Extract Three read attentively
-  (1/1D4), Hark's hundred and ten pages (1/1D3), Amory's last entry (0/1), and
-  Extract Four in Pell's own hand (1/1D2).
+- **Sanity on offer: 3 at best — and only if Extract Three is read attentively
+  and somebody asks about chapter twelve. For a table that skims and never
+  asks, 1. At worst, 10.** Extract Three read attentively (1/1D4), Hark's
+  hundred and ten pages (1/1D3), Amory's last entry (0/1), and Extract Four in
+  Pell's own hand (1/1D2) — and the last of those is conditional on the viva
+  going a particular way.
 - **Safety:** mental illness with period attitudes and institutional
   indifference; involuntary committal; academic coercion over a young person's
   life; a suicide in the backstory; **a character whose deterioration cannot be
@@ -85,11 +93,16 @@ is an NPC examiner. The Registrar's clerk and the Keeper of the Collection
 **attend and do not vote.** Simple majority of Examiners; the Chair votes only
 to break a tie.
 
+**At five and four players the Dean takes the external seat as a second NPC
+examiner, and he votes with the Chair to pass.** He has not read the thesis. He
+is not an obstacle so much as a weight: at four players he is the vote the
+table has to out-number, and the only way to out-number him is Dr Sze.
+
 | Players | PC examiner votes | Of | What it means |
 |---|---|---|---|
-| **6** | 4 | 5 | The PCs can carry any outcome by themselves |
-| **5** | 3 | 5 | A majority, with no margin — one defection decides it |
-| **4** | 2 | 4 | **Winning Dr Sze in Act Two becomes mandatory, not optional** |
+| **6** | 4 | 5 | The PCs can carry any outcome by themselves. Sze is the fifth and the Dean is not needed |
+| **5** | 3 | 5 | The three PC examiners must vote together to carry anything. Sze **and the Dean** are the other two — a majority with no margin, and one defection decides it |
+| **4** | 2 | 4 | PCs: Keel and Ott. Non-PCs: Sze **and the Dean**. **Two PC votes plus Sze beats the Dean 3–1; two PC votes alone tie it, and Lyle breaks the tie to pass.** So **winning Dr Sze in Act Two is mandatory, not optional** — and that is the designed tension, not an unfairness |
 
 **Two sheets never drop** — the Keeper and the secretary — because they hold
 the catalogue and the minute, and neither has a vote. That is deliberate: the
@@ -110,9 +123,13 @@ that room past Statute XI is the real climax.
 | 0:00–0:15 | Introduction | Safety line; pregens; the favour accepted; **Extract One handed out and read** |
 | 0:15–1:15 | **Act One — The Morning** | The abstract disagrees with the binding; **the dating error in the bibliography is found**; Hark's pages seen. **Extract Two** |
 | — | *break, 10 min* | Ends on a page of Hark's handwriting |
-| 1:15–2:45 | **Act Two — The Afternoon** | Sze met; Amory's notes found; **the two borrowing slips known**; Pell met in the corridor. **Extract Three** |
+| 1:15–2:30 | **Act Two — The Afternoon** | Sze met; Amory's notes found; **the two borrowing slips known**; Pell met in the corridor. **Extract Three** |
+| 2:30–2:45 | *cushion* | Act Two's overrun lives here, and nowhere else |
 | 2:45–3:15 | **Act Three — The Viva** | Three o'clock. No new information. **A vote taken, each player saying which way and why** |
 | 3:15–3:30 | Epilogue | Per-PC vignettes keyed to the vote; the borrowing slips are the last line |
+
+**Planned content is 3:15 against a 3:30 budget — 15 · 60 · 75 · 30 · 15 — and
+the fifteen minutes between 2:30 and 2:45 are the cushion.**
 
 ---
 
@@ -386,12 +403,26 @@ two bibliography entries that do not exist, and Hark's pages. **Brisk.**
 |---|---|---|---|---|---|
 | 1 | The chapter order in the bound copy is not the abstract's order | Extract One vs the bound thesis | **Automatic** on any comparison | Somebody re-ordered it after submission, deliberately | Essential |
 | 2 | **A bibliography entry dated 1928** | `H1-A` | **Automatic** to anyone reading the bibliography; `[CoC: Library Use]` to confirm no such work exists | **The Act One checkpoint.** It is 1927 | Essential |
-| 3 | A second entry — Pell, *Completion* — exists nowhere | `H1-A` | `[CoC: Library Use]` | He has cited a thing he has not written | Essential |
+| 3 | A second entry — Pell, *Completion* — exists nowhere | `H1-A` | `[CoC: Library Use]` | He has cited a thing he has not written | **Optional** — the act's checkpoint is clue 2, which is Automatic |
 | 4 | Amory's notes are real, uncatalogued, and in the stacks | `H1-A` + the Keeper | **Automatic** for the Keeper PC | Where it came from. Points Act Two at the library | Essential |
 | 5 | Hark read it in two sittings on 1 March and was committed on the 2nd | Department diary; the Dean's office | **Automatic** on any enquiry | The warning | Essential |
 | 6 | **Hark's hundred and ten pages** — the same four sentences | Arkham Sanatorium | `[CoC: Persuade or Credit Rating]` to be admitted; the medical officer PC goes in automatically | **Sanity 1/1D3** | Essential |
 | 7 | The four sentences are from chapter twelve, slightly wrong, getting wronger | Comparing Hark's pages to the thesis | `[CoC: Library Use or Science (Mathematics) — hard success]` | He is not raving. He is still revising | Optional |
 | 8 | Sze read it slowly and is at the department today | Department | **Automatic** | Act Two's best source | Essential |
+
+**Fallbacks, one per rolled clue** — this act has three rolls in it and none of
+them may be allowed to stop the morning:
+
+- **3:** Pell volunteers it himself in the corridor, going pink, because he
+  knows he should have taken it out before submission. He already does this for
+  clue 2; let him do both in the same breath if the roll has gone.
+- **6:** **the medical officer PC is admitted automatically** — it is written
+  into the clue and it is easy to miss, so it is repeated here. No Persuade, no
+  Credit Rating, no roll: he signed the committal nine days ago and the
+  Sanatorium knows his hand.
+- **7:** Dr Sze has already noticed and says so, flatly, in Act Two — *"They
+  are the sentences from chapter twelve. They are not quite right. They are
+  less right on page ninety than on page nine."*
 
 ### Hark at the Sanatorium
 
@@ -413,19 +444,53 @@ frightening as handwriting than as a man who explains.]`
 he writes one new line, hands the page to whoever is nearest, and goes back to
 work. It reads: **"Ask her what she cannot hear."**
 
+### Miss Veale has read it more attentively than anyone now alive
+
+**Answer this in Act One, the first time a player works it out** — and a
+player will, because the scenario's own mechanism is attentive reading and she
+typed four hundred and six pages of it in January, in order, for eleven
+dollars.
+
+**She is already affected, and she has told nobody.** One symptom, smaller than
+Sze's and of exactly the same kind: **she can no longer read her own shorthand
+back.** The outlines are hers, the hand is hers, and when she looks at a page
+from January she can see that it says something and not what. She has been
+typing from the longhand fair copy ever since and has not mentioned it to a
+living soul, because she is the Faculty secretary and the minute has to be
+taken at three o'clock.
+
+**What this is for:**
+- It makes her **the second warning beside Hark** — and the quieter one, which
+  is worse. Hark is a hundred and ten pages in a day room. She is at her desk,
+  working.
+- It gives the player **something to decide about disclosure** in a room where
+  Statute XI says she may not speak unless spoken to. Telling the committee
+  costs her the minute and possibly her post. Not telling it is the whole of
+  her character.
+- It **sharpens the Epilogue rather than replacing it.** *"Nobody has asked her
+  how she is"* lands harder when the answer has been on the page since the
+  first hour.
+
+**If the secretary is a PC** — and she is one of the two sheets that never
+drop — hand this to her player privately, on a slip, early, and do not raise
+it again. It is hers. **If she is not in play**, give the symptom to the
+scenario: she mentions it once, to nobody in particular, while looking for a
+pencil, and does not repeat it.
+
 ### Pacing Note — Act One
 
 **Must be true before Act Two:** the 1928 citation is found, and somebody has
 said out loud that it is impossible.
 
-**Cuts:** drop clues 3 and 7. **Do not cut Hark's pages** — they are the only
+**Cuts:** drop clues 3 and 7 — both now Optional, and the fallbacks above
+mean neither costs the act anything. **Do not cut Hark's pages** — they are the only
 thing in Act One that frightens anybody.
 
 **Place the break here**, on a page of Hark's handwriting.
 
 ---
 
-## ACT TWO — *The Afternoon* *(~90 minutes)*
+## ACT TWO — *The Afternoon* *(~75 minutes)*
 
 **Shape:** Sze and what she cannot hear. Amory's notes in the stacks. The
 borrowing slips. Pell in the corridor, being pleasant. **Extract Three.**
@@ -491,6 +556,15 @@ below Garrison Brook, which is the brook from §12.5.
 **The first slip is a PC's seam** — the Keeper's. The roster carries why he
 filled it in. **Do not resolve it for him**; it is his to say, in a room where
 Statute XI says he may not speak.
+
+**And the Keeper knows who asked.** A reader stood at his counter on the sixth,
+asked for the Restricted copy, and he wrote Hark's name on the slip and passed
+it across. **That reader has not brought it back.** The scenario does not name
+them and does not need to — the point is that there is a third person in
+Arkham reading this thesis, nobody has looked for them, and the only man who
+could describe them is sitting in a room where he may not speak unless spoken
+to. **It is his to say or not.** If his player says nothing, it stays unsaid,
+and the Epilogue's borrowing slip is the answer.
 
 **Miss Agnes Thurlow**, 23, is findable, alive, polite and **four hundred pages
 in.** She is enjoying it. She says it is the clearest thing she has read all
@@ -616,7 +690,10 @@ character.** Form 14 is signed and goes back to the Registrar by five.
 - **Go and take the book off Agnes Thurlow first.** The best thing any table
   can do and it is not on this table, because it is not a vote. If somebody
   leaves the room at three o'clock to do it, **let them**, and let the vote
-  happen without them.
+  happen without them. **At five and four players, state the price before they
+  go:** leaving the room costs that PC their vote, and at four it hands the
+  decision to Dr Sze. Thurlow stays easy to reach — she is not meant to be
+  hard — and doing the right thing costs the right thing.
 
 ### If someone destroys the thesis
 
@@ -629,8 +706,15 @@ the vote still happens at three.**
 **Must be true before the Epilogue:** a vote was taken and every player said
 which way and why.
 
+**At six players the round-table is six speeches**, and it is the part of the
+act that scales with the table. **Cap each speech at two sentences**, say so
+before you start it, and have Lyle take the vote at **3:08**. That is what
+chairs do, and it is what the act is for — the content is the deciding, not
+the oratory.
+
 **If you are behind:** Lyle calls the vote at 3:05 whether the questioning is
-finished or not. That is what chairs do.
+finished or not. The viva can be ten minutes instead of twelve; the vote cannot
+be shortened, because every player saying which way and why *is* the ending.
 
 ---
 
@@ -696,6 +780,7 @@ Do not say whose. Let the table decide which of them it is.
 | **Prof. Josiah Hark**, 58 | *Wants to finish the sentence, and cannot.* | — | Arkham Sanatorium. **Pages, not dialogue** |
 | **Dr Eleanor Sze**, 41 | *Cannot hear running water; wants the committee to do what she could not do alone.* | Pell passed, the thesis sealed | The department. **The best source; the pacing valve** |
 | **Prof. Bertram Lyle**, 63 | *Skimmed it, as he skims everything.* | A doctorate this year and a tidy department | The Chair. **His skimming is his protection** |
+| **Dean Merrick Trowbridge**, 61 | *Has not read it and will not pretend otherwise.* Courteous, unhurried, immovable. | A doctorate awarded and nothing in writing that the Trustees could read | **External examiner at five and four players only.** Votes with the Chair, to pass |
 | **Miss Agnes Thurlow**, 23 | *Four hundred pages in and enjoying it.* | To finish it over the weekend | The reading room. **The Countdown with a face** |
 | **Corliss Amory**, d. 1851 | *Walked the valley, wrote it down, drowned in nine inches.* | — | The stacks |
 
@@ -768,20 +853,22 @@ Let them stand in it. Then call time.
 
 ### New open questions, raised by writing v1
 
-1. **Does the viva survive ten minutes of actual hydrology?** The act is
-   written to run as a real examination before anything strange is raised. If a
-   convention table finds that dull rather than excruciating, the fix is to
-   have Lyle call for the vote much earlier and make the whole act a fight to
-   delay it.
-2. **Agnes Thurlow may be too good an answer.** Fetching the book off her is
-   obviously right, costs nothing, and is available from 2:10. If every
-   playtest table simply does it, she needs to be harder to reach — a locked
-   reading room, or an essay deadline that makes her refuse.
-3. **Statute XI at four players.** With two of four votes and two non-voting
-   sheets, the PCs cannot carry the vote without Sze. That is written as
-   deliberate, but it means a four-player table that mishandles Sze has no
-   route to its preferred ending, which may read as the scenario being unfair
-   rather than tight.
+1. **Does the viva survive ten minutes of actual hydrology?** **Desk pass 1 at
+   four players: yes — keep it.** Pell being genuinely excellent on silt is
+   what makes the vote hard, and an examination that the candidate is winning
+   is the only version of this act that works. The two-sentence cap and the
+   3:08 vote are held in reserve for six players. **Re-test at six in pass 3.**
+2. **Agnes Thurlow may be too good an answer.** **Closed: no, and do not lock
+   the reading room.** She is meant to be easy to reach. The price is now
+   stated instead — at five and four players, leaving the room to fetch the
+   book costs that PC their vote and hands the decision to Sze. Taking the
+   right action should cost something, not be made difficult.
+3. **Statute XI at four players.** **Closed.** The arithmetic was always right;
+   it was its presentation that was missing, because the Dean existed only in
+   the roster. He is on the page now and the four-player sum is printed in
+   full: two PC votes plus Sze beats him 3–1, two alone tie and Lyle breaks it
+   to pass. The tension is correctly designed — a four-player table that
+   mishandles Sze has lost something real, which is the point of Act Two.
 
 ---
 
