@@ -2,7 +2,7 @@
 
 *Every suspect has a perfect human identity. One of them was born in 1989 and died in 1990.*
 
-**System:** Blade Runner RPG · **4 players** · 4-hour slot (3h30 play) ·
+**System:** Blade Runner RPG · **4 players** · 4-hour slot (3h30 budget, 3h15 planned) ·
 investigation · a list that must not be read · the case is solved by Act Two and
 the scenario is what you do next.
 
@@ -14,10 +14,13 @@ the payoff on Saturday.
 | File | What it is |
 |---|---|
 | [`scenarios/paper-children-outline.md`](scenarios/paper-children-outline.md) | Synopsis, design intent, plot truth, act skeleton, open questions |
-| [`scenarios/paper-children.md`](scenarios/paper-children.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
-| [`characters/paper-children-pregens.md`](characters/paper-children-pregens.md) | Pregen brief and pre-v1 audit checklist &mdash; **the sheets port in**, they are not new writing |
+| [`scenarios/paper-children.md`](scenarios/paper-children.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
+| [`characters/paper-children-pregens.md`](characters/paper-children-pregens.md) | **Pointer to the four shared AFTERIMAGE sheets** &mdash; essences, this case's hooks, the 2+2 split, what a missing seat costs |
+| [`playtest/paper-children-desk-1.md`](playtest/paper-children-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, two criticals and six more findings (all addressed) |
 
-**Status:** outline. Next: full scenario draft to v1.
+**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2, to re-measure
+Act Two now that the Voight-Kampff costs a Shift, then pass 3 from the player
+chair.
 
 **Why this one is cheap:** the pregens, character sheets, portraits, chase
 quick-reference, GM console module and art direction all exist and port straight

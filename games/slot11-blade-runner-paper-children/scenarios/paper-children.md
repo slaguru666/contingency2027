@@ -2,7 +2,9 @@
 
 > *Every suspect has a perfect human identity. One of them was born in 1989 and died in 1990.*
 
-**Status: v1 — runnable, unplaytested.** Written 2026-11-02 from
+**Status: v1.1 — desk pass 1 fixes applied.** All eight findings in
+[`../playtest/paper-children-desk-1.md`](../playtest/paper-children-desk-1.md)
+addressed, 2026-11-03. **Still needs desk passes 2 and 3.** Previously: v1 — runnable, unplaytested. Written 2026-11-02 from
 [`paper-children-outline.md`](paper-children-outline.md).
 
 > **This file supersedes [`paper-children-outline.md`](paper-children-outline.md).**
@@ -17,20 +19,36 @@
 
 ## GM ESSENTIALS (one glance, any GM)
 
-- **System crash-course:** Blade Runner RPG (Year Zero). Roll a pool of d6s
-  from attribute + skill; **6s are successes.** Push a roll to re-roll failures
-  at the cost of attribute or health damage. Competence is high and most rolls
-  are about *how cleanly*, not *whether*. `[unverified — confirm push costs
-  against the core rulebook; a Blade Runner cheat sheet exists in the repo's
-  old convention backups]`
+- **System crash-course:** Blade Runner RPG. **This is not a dice-pool game.**
+  Every attribute and skill is a letter rating — **A = d12, B = d10, C = d8,
+  D = d6** — and you roll **two dice**: your attribute die and your skill die.
+  **6 or higher on either die is a success; 10 or higher on a single die is
+  two successes** (only possible on a d10 or d12). One success is usually
+  enough; more means cleaner. Competence is high and most rolls are about *how
+  cleanly*, not *whether*.
+- **Pushing:** on a failure you may re-roll **every die that is not showing a
+  1**. Each **1** on the table then costs you **one point of damage** (if you
+  rolled Strength or Agility) or **one point of stress** (if you rolled
+  Intelligence or Empathy). **Humans may push a skill roll once. Replicants
+  may push twice, and always take stress instead of damage.**
+- **That asymmetry is the only mechanical difference between the people at this
+  table, and this is the scenario to say it out loud in.** Two of the four PCs
+  are human and two are Nexus-9s; the case is about who counts as a person.
+  Say it in Slot Zero, flatly, as a rules note, and then never mention it
+  again.
 - **Mechanics inline:** `[BR: Skill — what it reveals or does]`
 - **The clock counts play time** — pause it for the break.
-- **Hard rule: at 2:45, the captain calls.** Act Three happens on schedule.
+- **Act Two is planned to end at 2:30. Hard rule: at 2:45 the captain calls**
+  whatever the table is doing. Those fifteen minutes are the session's cushion,
+  not spare act. Act Three happens on schedule.
 - **The murder is solved by Act Two and that is deliberate.** Do not protect
   the whodunnit; the case is the easy half.
-- **The Voight-Kampff answers everything in ten minutes.** Do not block it —
-  see *The obvious professional move* below. The scenario is about whether
-  answering it is justice.
+- **The Voight-Kampff is six hours and a maybe.** One test burns a **Shift**,
+  the roll is **INSIGHT opposed by the subject's Empathy**, and a failure comes
+  back ***inconclusive*** — another operator, another Shift. **The file is due
+  at eight tomorrow.** So the table has time for one test, perhaps two, and
+  they must choose who. See *The obvious professional move* below. The scenario
+  is about whether answering it is justice.
 - **No villain.** A murderer with a reason, four suspects who have done nothing
   but want to exist, and a procedure that will do more harm than any of them.
 - **Safety:** infant death as a records-and-grief theme, discussed throughout
@@ -67,9 +85,11 @@
 2. **The murder is solved by Act Two.** Deliberately. The whodunnit is the easy
    half and the scenario knows it. **What the case leaves on the table
    afterwards is the actual game.**
-3. **The Voight-Kampff settles everything in ten minutes, and that is the
-   problem.** The players have a tool that answers the question instantly. The
-   scenario is about whether answering it is justice.
+3. **The Voight-Kampff settles everything — at six hours a head, with a
+   maybe at the end of it, and a file due at eight tomorrow.** The players have
+   a tool that answers the question and barely enough night to use it twice.
+   The scenario is about whether answering it is justice, **and about which of
+   the four they do it to.**
 4. **No villain.**
 5. **Cheap to produce, by design.** No new pregens, no new art pipeline, no new
    console build. The slate needs a Saturday game that costs a case and nothing
@@ -91,9 +111,13 @@ who has not met these four before must not feel late.
 | 0:00–0:15 | Introduction | Pregens dealt, safety line, the clinic scene |
 | 0:15–1:15 | **Act One — The Clinic** | The business understood; **the ledger known to exist and to be missing**; two clients identified |
 | — | *break, 10 min* | Ends on the first client answering their own front door |
-| 1:15–2:45 | **Act Two — The Four** | All four met; **Teale identified and taken**; the list in the players' hands |
+| 1:15–2:30 | **Act Two — The Four** | All four met; **Teale identified and taken**; the list in the players' hands |
+| 2:30–2:45 | *cushion* | Act Two's overrun lives here, and nowhere else |
 | 2:45–3:15 | **Act Three — The Call** | The department asks for the file. **The answer given** |
 | 3:15–3:30 | Epilogue | Per-PC vignettes keyed to the answer |
+
+**Planned content is 3:15 against a 3:30 budget — 15 · 60 · 75 · 30 · 15 — and
+the fifteen minutes between 2:30 and 2:45 are the cushion.**
 
 ---
 
@@ -107,6 +131,13 @@ certificate filed in another.**
 From 2023 she sold that gap: a real name, a real certificate, a real hospital,
 real parents, and a child who died at four months and has no competing
 footprint anywhere. A **paper child**.
+
+**The four the players meet are Nexus-8s** — old models, at large for years,
+ocular implants removed long ago. **This is exactly the case the Voight-Kampff
+still exists for**: the advanced N-9s have made V-Ks obsolete, and the N-8s
+still hiding among us are why the machine is still in the car. It also means
+the two replicant PCs are a *newer generation* than the four people they are
+deciding about, and nobody in the fiction will remark on that.
 
 She was not a monster and not a philanthropist. She charged what the traffic
 bore, vetted her clients carefully, and kept a ledger because she was, at
@@ -200,13 +231,34 @@ What you will also have is the list.
 
 ## The obvious professional move — the Voight-Kampff
 
-**Do not block it. Do not fudge it. Do not invent a reason it fails.**
+**Do not block it and do not fudge it.** It works, and every one of the four
+tests positive if the test completes. What it is not is quick.
 
-The players are Rep-Detect. They carry a machine that answers *is this person a
-replicant* in about ten minutes, and they will use it, and **it works.** Every
-one of the four tests positive.
+> **The Voight-Kampff is six hours and a maybe.** One test burns a **Shift**.
+> The roll is **INSIGHT opposed by the subject's Empathy rating** — they roll
+> one Base Die against you. **If the roll fails, the result is *inconclusive*:
+> not negative, not positive. Another operator, another Shift.**
+>
+> **The file is due at eight tomorrow morning.** That is time for one test,
+> perhaps two. **So the scenario's question is not *do we retire them*. It is
+> which one of these four do we do this to, and what do we tell ourselves
+> about the other three.**
 
-**What the scenario does instead is make the answer cost something:**
+**If the roll comes back inconclusive, say so flatly and let the Shift be
+gone.** It is the most expensive nothing in the game, and it is not a GM
+cheat — it is in the machine. Do not re-roll it, do not soften it, and do not
+apologise for it.
+
+**The cheaper third route, and take it when it is offered.** The four are
+**Nexus-8s**, long at large, and an N-8 at large has had its **ocular implant
+removed** — which leaves a scar, a gap in a medical record, and something a
+careful look can find. `[BR: Medical Aid or Observation]`. It costs no Shift,
+it needs no machine, and **it is still a violation of somebody who has done
+nothing**, performed on a person who can see you deciding to do it. Put it
+beside the V-K deliberately: the choice should be **graded**, not binary, and
+the cheap option being easier is the point.
+
+**What the scenario does with all of this is make the answer cost something:**
 
 - **A VK is not a casual act.** It is administered, logged, and the subject
   knows exactly what it means. Running one on a schoolteacher in front of her
@@ -266,7 +318,7 @@ last page was **torn out rather than taken.**
 ### The filing
 
 Fourteen years, immaculate, cross-referenced, and comprehensible to anyone
-patient. `[BR: Investigation or Insight]` opens it; nothing here needs a
+patient. `[BR: Observation or Insight]` opens it; nothing here needs a
 special skill, which is the point — the horror is legible to a clerk.
 
 Each entry: a dead infant's name, date of birth, date of death, county of
@@ -280,15 +332,18 @@ hand, a **current address, a profession and a date of sale.**
 | 1 | The scene is undisturbed and nothing was stolen | The clinic | **Automatic** | Not a robbery | Essential |
 | 2 | The weapon is Sang's own paper-knife; the wound is close and repeated | The body | `[BR: Medical Aid or Observation]`; automatic for a Blade Runner | **Rage, not profession** | Essential |
 | 3 | The business: dead infants' identities, sold | The cabinets | **Automatic** on reading any file | The whole case | Essential |
-| 4 | The administrative gap is real — deaths never reconcile to births | `[BR: Investigation]`, or any county clerk | Automatic | She was not a forger. **Every document she sold is genuine** | Essential |
+| 4 | The administrative gap is real — deaths never reconcile to births | `[BR: Observation]`, or any county clerk | Automatic | She was not a forger. **Every document she sold is genuine** | Essential |
 | 5 | **The ledger's last page is torn out, not cut, and the book was left** | The desk | **Automatic** | Somebody wanted the names and did not want the money | Essential |
-| 6 | The ledger's remaining pages identify four local clients | The ledger | `[BR: Investigation]` | Act Two | Essential |
-| 7 | Forty-one entries over fourteen years; thirty-one not marked deceased | Counting | `[BR: Investigation]` | **The scale.** Say the number out loud | Essential |
+| 6 | The ledger's remaining pages identify four local clients | The ledger | `[BR: Observation]` | Act Two | Essential |
+| 7 | Forty-one entries over fourteen years; thirty-one not marked deceased | Counting | `[BR: Observation]` | **The scale.** Say the number out loud | Essential |
 | 8 | A visitor five days ago, not an appointment, argued, left | Appointment book; the neighbour | `[BR: Observation or Connections]` | Teale, unnamed | Optional |
 | 9 | Sang's own vetting notes — she turned clients away | The files | `[BR: Insight]` | She was careful, and she was not kind | Optional |
 
-**Fallbacks:** if nobody counts the entries, the ledger has a running total in
-Sang's hand on the inside cover; the neighbour volunteers clue 8 when canvassed.
+**Fallbacks:** **clue 6** — if the roll fails, **Sang's own cross-reference
+index is in the top drawer** and does the work for them: she was a records
+officer for nineteen years and she indexed her own ledger. If nobody counts the
+entries (clue 7), the ledger has a running total in Sang's hand on the inside
+cover. The neighbour volunteers clue 8 when canvassed.
 
 ### Pacing Note — Act One
 
@@ -300,7 +355,7 @@ answering their own front door.
 
 ---
 
-## ACT TWO — *The Four* *(~90 minutes)*
+## ACT TWO — *The Four* *(~75 minutes)*
 
 **Shape:** four interviews in four districts, run as **2+2 parallel tracks**
 with a cross-team payoff. **Each client is a complete person in six lines, and
@@ -366,7 +421,7 @@ resist, does not run, and is almost relieved.**
 | # | Clue | Location / Source | How Found | What It Reveals | Type |
 |---|---|---|---|---|---|
 | 10 | All four alibis are almost good enough | The interviews | **Automatic** | They are frightened of something other than a murder charge | Essential |
-| 11 | All four are replicants | Inference, or a VK | **Automatic by inference** from the ledger; a VK confirms it at a cost | What they are frightened of | Essential |
+| 11 | All four are replicants | Inference, or a V-K, or an ocular-implant scar | **Automatic by inference** from the ledger — the ledger is the proof and it costs nothing. A V-K confirms **one** of them at a Shift and a maybe; the implant scar confirms one at a look and a violation | What they are frightened of | Essential |
 | 12 | A man asked questions in the spring — Track A | Adeyemi, Vicario | **Automatic** | Half of Teale | Essential |
 | 13 | Transit stop, med-alert band, a freight company — Track B | Oyelaran, Lindqvist | **Automatic** | The other half. **Cross-team payoff** | Essential |
 | 14 | **Aaron Teale**, freight dispatcher, Vernon | Both halves together | **Automatic** once the pairs compare | The murderer | Essential |
@@ -481,13 +536,20 @@ anything, in the end, except everything?"** Do not answer it.
 
 ## NPC Roster Summary (GM quick sheet)
 
-| Who | Essence | Wants | Where |
-|---|---|---|---|
-| **Aaron Teale**, 40, human | *Wants someone else to know.* Cooperative, unrepentant, grieving a brother he never met. | To not hold it alone | Freight depot, Vernon. **Surrenders the page** |
-| **Noor Adeyemi** | *Wants to get through the lesson.* Eleven years of other people's children. | To be left in post | Glendale |
-| **Esteban Vicario** | *Wants to finish his shift.* **Better than the people deciding his fate.** | To go back to work | **The hardest interview** |
-| **Tam Oyelaran** | *Wants a lawyer, correctly.* | Due process | The obvious suspect, and wrong |
-| **Grace Lindqvist** | *Wants to be there at four o'clock.* | Four o'clock | East LA. **Pilar is never on screen** |
+| Who | Essence | Wants | Where | **EMP** (V-K) |
+|---|---|---|---|---|
+| **Aaron Teale**, 40, human | *Wants someone else to know.* Cooperative, unrepentant, grieving a brother he never met. | To not hold it alone | Freight depot, Vernon. **Surrenders the page** | — |
+| **Noor Adeyemi** | *Wants to get through the lesson.* Eleven years of other people's children. | To be left in post | Glendale | **C (d8)** — eleven years of keeping a room calm |
+| **Esteban Vicario** | *Wants to finish his shift.* **Better than the people deciding his fate.** | To go back to work | **The hardest interview** | **A (d12)** — runs into fires; the hardest of the four to read |
+| **Tam Oyelaran** | *Wants a lawyer, correctly.* | Due process | The obvious suspect, and wrong | **B (d10)** — has been in a room like this before |
+| **Grace Lindqvist** | *Wants to be there at four o'clock.* | Four o'clock | East LA. **Pilar is never on screen** | **C (d8)** — and she is watching the clock, not you |
+
+**The V-K is an opposed roll:** the operator's **INSIGHT** against the
+subject's **Empathy** above, one Base Die each. Those four ratings are the
+whole stat line any of them needs — nobody fights, nobody runs. **Vicario is
+deliberately the hardest to read and the most sympathetic**, so the test most
+likely to burn a Shift for nothing is the one the players will most want to
+believe.
 | **Capt. Alma Reyes** | *Wants the file.* Not cruel, not interested. | A complete case by eight | A voice on a phone |
 | **Dr Mireille Sang**, dec. | *Wanted to run a tidy office.* | — | **Her ledger is the most humane document in the scenario and is also the kill list** |
 
@@ -562,11 +624,15 @@ knife.
    cross-team payoff that names Teale. If playtests find Act Two slack, the fix
    is not to hide Teale — it is to make one of the four actively obstruct, and
    Oyelaran is built for it.
-2. **The VK framing is the scenario's biggest bet.** Making the *test* the
-   irreversible act rather than the retirement is what gives Act Two its
-   weight. If a table simply tests everyone in the first ten minutes and shrugs,
-   the scenario still works but becomes much colder — watch whether that reads
-   as a legitimate ending or as the game failing.
+2. **The VK framing is the scenario's biggest bet — and desk pass 1 found the
+   bet was being placed on a wrong rule.** Making the *test* the irreversible
+   act is still right; what has changed is that the machine now costs what the
+   book says it costs. **A table cannot test everyone**: one Shift each, a
+   file due at eight, and a 40% chance of *inconclusive* per test. So the
+   question is forced into the shape the scenario always wanted — **which
+   one** — and the ocular-implant route gives a graded alternative. **Watch in
+   pass 2 whether the arithmetic now does the work the framing was doing on its
+   own.**
 3. **Thirty-one is an abstraction.** The players meet four. The other
    twenty-seven are a number, and numbers do not weigh much at a table. The
    closing scene tries to fix this with three specific people; it may need a
