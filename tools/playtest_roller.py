@@ -55,9 +55,16 @@ RULES = {
         "[unverified] note in PROVENANCE.",
     ),
     "dee": (
-        False,
-        "The Dee Sanction step die. Neither the die ladder nor Falter has been "
-        "checked against the published sheets.",
+        True,
+        "The Dee Sanction: roll the single Resource die (Physicall, "
+        "Intellectuall or Supernaturall) on the d4-d12 ladder. 'If the result "
+        "is a 1 or 2, then that Challenge Falters'; 'Any other result on the "
+        "Die means Success.' A Falter is failing forward - 'the Agent makes "
+        "progress, but with adverse complications'; in a non-combat Challenge "
+        "it 'means achieving the desired effect in a way that complicates "
+        "things'. Difficulty is Step-Up/Step-Down of the die (max d12, min "
+        "d4; below d4 is a Call to Fail), never a target number. Source: The "
+        "Dee Sanction core rulebook, The Heart of the Game / Challenges.",
     ),
 }
 
@@ -135,7 +142,8 @@ def roll_dee(rng, die):
     if die not in STEP_DICE:
         sys.exit(f"unknown step die {die!r}; use one of {sorted(STEP_DICE)}")
     v = rng.randint(1, STEP_DICE[die])
-    return f"{die}={v} (outcome mapping unverified; raw die only)"
+    outcome = "FALTER (succeeds with a Consequence; a Hit in a fight)" if v <= 2 else "success"
+    return f"{die}={v} -> {outcome}"
 
 
 def dispatch(rng, system, args):
