@@ -204,9 +204,13 @@ desk playtest yet, and the house standard is that a scenario is not
 next stage of work, not a caveat on this one.
 
 Pregen rosters exist for the nine games that need new sheets; slots 2, 11 and 13
-port theirs. Art is generating from [`tools/art_queue.tsv`](tools/art_queue.tsv)
-(46 live assets across ten games) via `tools/gen_art.sh`, which is idempotent and
-can be re-run to fill gaps. **Slots 1 and 3 are art-free by design** — the two
+port theirs. Art is **complete: 46 of 46 assets**, generated from
+[`tools/art_queue.tsv`](tools/art_queue.tsv) via `tools/gen_art.sh`, which is
+idempotent and can be re-run to fill gaps. Every game that takes art has its
+full set. Note for anyone adding prompts: the word **`bare`** silently kills a
+Midjourney job — the filter matches substrings, returns no refusal, and the
+bridge just times out after 30 minutes. It cost seven assets here, as did
+"four **abreast**". Use *leafless / empty / open* instead. **Slots 1 and 3 are art-free by design** — the two
 Gaslight single-location games are the slate's ballast, their queue rows are
 commented out, and the seven images generated for them in error on 2026-11-02
 were deleted.

@@ -7,15 +7,15 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 | 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a | — | — | — |
 | 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×3 | ◐ reprint | ◐ port |
 | 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a | — | — | — |
-| 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
-| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
-| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
-| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
-| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
-| 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | ✔ | *(shared)* | — | ◐ generating | — | — | *(shared)* |
-| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
-| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | ✔ | *(reuse)* | — | ◐ generating | — | — | — |
-| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | ✔ | ✔ | — | ◐ generating | — | — | — |
+| 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | — | — | — |
+| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | — | — | — |
+| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | — | — | — |
+| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | — | — | — |
+| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | — | — | — |
+| 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | ✔ | *(shared)* | — | ✔ 5/5 | — | — | *(shared)* |
+| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | — | — | — |
+| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | ✔ | *(reuse)* | — | ✔ 5/5 | — | — | — |
+| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 6/6 | — | — | — |
 
 > ### Slots 1 and 3 stay art-free — settled 2026-11-02
 >
