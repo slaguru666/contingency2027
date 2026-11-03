@@ -2,7 +2,9 @@
 
 > *The last twenty pages are in his hand. He has been dead a month.*
 
-**Status: v1 — runnable, unplaytested.** Written 2026-11-02 from
+**Status: v1.1 — desk pass 1 fixes applied.** All eight findings in
+[`../playtest/mr-parkers-diary-desk-1.md`](../playtest/mr-parkers-diary-desk-1.md)
+addressed, 2026-11-03. **Still needs desk passes 2 and 3.** Previously: v1 — runnable, unplaytested. Written 2026-11-02 from
 [`mr-parkers-diary-outline.md`](mr-parkers-diary-outline.md).
 
 > **This file supersedes [`mr-parkers-diary-outline.md`](mr-parkers-diary-outline.md).**
@@ -21,14 +23,24 @@
   attribute + skill; **a 6 is a success.** You may push a roll once, re-rolling
   failures, and a push costs a **Condition**. Physical and mental Conditions
   each have four steps; all four means Broken. **Fear tests** are rolled when
-  you confront a vaesen — and **each additional player character present adds a
-  die, to a maximum of +3**, which is why this scenario never leaves one PC
-  alone in a Fear scene.
+  you confront a vaesen — and **add one die per player character present in the
+  scene, yourself included, to a maximum of +3** (core p. 68). So a lone PC
+  rolls attribute **+1**, a pair +2, three or more +3: which is why this
+  scenario never leaves one PC alone in a Fear scene.
+- **Mental Conditions will accumulate, and the scenario is built knowing it.**
+  Four Fear 2 tests in a session is about **three expected mental Conditions**,
+  and three is the whole budget before Broken — so **say the recovery out loud
+  when it is needed.** The **Memento** heals one (interact with it, explain
+  how); a **Rest** scene heals two, once per day; **INSPIRATION** in a safe
+  space heals three per success. **Ström's presbytery and the mill guest house
+  are both safe spaces**, and the scenario gives you two natural places to use
+  them: before the ice, and after.
 - **Mechanics inline:** `[VAESEN: Skill — what it does]`
 - **The diary is the monster's vehicle, and the players read it in the
   Introduction.** That is the scenario starting, not a clue being given.
 - **The clock counts play time** — pause it for the break.
-- **Hard rule: at 2:45, go to Act Three regardless.**
+- **Act Two is planned to end at 2:30. Hard rule: at 2:45 you go to Act Three
+  regardless.** Those fifteen minutes are the session's cushion, not spare act.
 - **One vaesen, seen twice** — once in glimpse from the ice, once at the
   climax. Vaesen's monsters shrink when overexposed.
 - **Safety:** drowning; **dead children**; an implied suicide in a journal; a
@@ -131,12 +143,19 @@ children are **mylingar**, used exactly as the bestiary writes them.
 
 | Time | Section | GM Checkpoint — is this true yet? |
 |---|---|---|
-| 0:00–0:15 | Introduction | Pregens dealt, safety line, **the diary read at the castle**, `H2-B` blanks filled |
-| 0:15–1:15 | **Act One — Hällvattnet** | Parish reached; Lind met; **the 1894 works identified** |
+| 0:00–0:20 | Introduction | Pregens dealt — **only the sheets in play** — safety line, **the diary read at the castle**, `H2-B` blanks filled in ink |
+| 0:20–1:20 | **Act One — Hällvattnet** | Parish reached; Lind met; **the 1894 works identified** |
 | — | *break, 10 min* | Ends on the first glimpse from the ice |
-| 1:15–2:45 | **Act Two — The Register** | The burning known; **both routes to the name open**; Parker spoken to |
+| 1:20–2:30 | **Act Two — The Register** | The burning known; **the telegram sent**; Parker spoken to |
+| 2:30–2:45 | *cushion* | Act Two's overrun lives here, and nowhere else |
 | 2:45–3:15 | **Act Three — The Old Inlet** | Night on the ice; the name spoken, or not |
 | 3:15–3:30 | Epilogue | Per-PC vignettes; what happened to the diary |
+
+**Planned content is 3:15 against a 3:30 budget — 20 · 60 · 70 · 30 · 15.**
+The Introduction gets twenty minutes because the reading *is* the scenario
+starting: `H0-A`, `H2-A`, then `H2-B` with its two blanks filled in ink at the
+table after the sheets are chosen. Do not rush it, and **pitch only as many
+sheets as you have players** — the roster's drop order says which.
 
 ---
 
@@ -182,7 +201,11 @@ constitute an easement.
    telegram — hours to answer, and the answer arrives in Act Three if it has
    to.
 2. **Kerstin Aho**, 79, the one person in the parish old enough to have heard
-   it, **who will not say it aloud for any money.**
+   it. **She refuses — three times, and the refusal is the content.** There is
+   exactly one ruling on this in the scenario and it is in Act Three: a player
+   who *genuinely* persuades her gets the name, and she dies within the year,
+   and she knew that and said yes. **No other reading of her refusal is
+   correct, at any player count.** Nothing in the roster overrides it.
 
 ### Timeline
 
@@ -270,7 +293,7 @@ filling them.** Just do it, in front of everyone, and hand it back.
 
 ---
 
-## Introduction — *Castle Gyllencreutz* *(~15 minutes)*
+## Introduction — *Castle Gyllencreutz* *(~20 minutes)*
 
 ### Slot Zero
 
@@ -381,7 +404,7 @@ on the glimpse.
 
 ---
 
-## ACT TWO — *The Register* *(~90 minutes)*
+## ACT TWO — *The Register* *(~70 minutes)*
 
 **Shape:** the archival heart. The presbytery, the mill's legal file, an old
 woman who will not speak, and a telegram to Härnösand that takes hours to
@@ -389,9 +412,10 @@ answer. **Meanwhile Parker can be talked to — the scene the whole scenario is
 built to earn.**
 
 **Splits 2+2 (2+2+2 at six).** The roster gives the recommended pairs. **Never
-2+1 in this scenario** — Fear tests add a die per PC present, so a lone PC in a
-Fear scene rolls a bare attribute. If a table insists on three ways, the lone
-PC gets the daylight scene.
+2+1 in this scenario** — Fear tests add one die per PC present including the
+roller, so a lone PC in a Fear scene rolls attribute **+1** where a pair rolls
++2 and a trio +3. If a table insists on three ways, the lone PC gets the
+daylight scene.
 
 ### Track A — the presbytery and the mill's legal file
 
@@ -414,8 +438,8 @@ feel clean about him either.**
 
 ### Track B — Kerstin Aho, and the telegram
 
-**Kerstin Aho** heard the name as a girl at the last Michaelmas before the dam.
-She will give them everything *except* the name: what the rite looked like, who
+**Kerstin Aho** heard the name as a girl, and every Michaelmas after it until
+the dam. She will give them everything *except* the name: what the rite looked like, who
 spoke it, that it was spoken over open water, that the speaker had to be
 someone the water had already noticed.
 
@@ -426,12 +450,26 @@ someone the water had already noticed.
 
 **She will come to the inlet.** She will not speak.
 
+**One ruling, and it is Act Three's.** She refuses three times; a player who
+genuinely persuades her gets the name, **and she dies within the year, and she
+knew.** Do not let her say it "straight" at any player count and do not let a
+small table buy it cheaply — at four players the route that opens instead is
+**the telegram**, which is now guaranteed. See below.
+
 **The telegram to Härnösand** — the dean's visitation transcript of 1893 — is
-sent from the mill office or the station. `[VAESEN: Learning or Manipulation to
-get it sent at all; Lind controls the wire]`. **It answers in hours, not
-minutes**, and the GM should let it land *during Act Three* if the table is
-behind — a boy running onto the ice with a telegram is a better scene than a
-clerk handing one over.
+sent from the mill office or the station.
+
+> **The telegram is sent and the reply arrives. Full stop, at every player
+> count.** It is the only working route to the name — Kerstin's is closed by
+> design — so it is not allowed to fail. Lind controls the wire and Lind wants
+> the easement question closed, and **he sends it anyway**, because refusing a
+> Society party in front of his own clerk is not a thing he will do.
+>
+> **What the roll decides is *when*.** `[VAESEN: Learning or Manipulation — a
+> success buys the reply during Act Two; a failure means the telegram boy runs
+> onto the ice at 3:05 with it in his hand]`. That makes the roll matter
+> without making the climax contingent on it, and the failure is the better
+> scene.
 
 ### Parker — the scene the scenario is built to earn
 
@@ -469,20 +507,23 @@ appears.
 | 11 | The 1895 legal opinion — the easement | The mill's file | `[VAESEN: Learning]` | **Why.** And it was not malice | Essential |
 | 12 | The rite: a name, over open water, at the inlet, each Michaelmas | Kerstin Aho | **Automatic** once she is found | The shape of the weakness | Essential |
 | 13 | The speaker had to be someone the water had noticed | Kerstin Aho | **Automatic** | **Only a reader of the diary can do it** | Essential |
-| 14 | Kerstin will not say the name | Kerstin Aho | **Automatic** | Route two is closed by her, not by the GM | Essential |
+| 14 | Kerstin will not say the name | Kerstin Aho | **Automatic** | Route two is closed by her, not by the GM — **and the one ruling on breaking it is in Act Three, where it costs her life** | Essential |
 | 15 | The Härnösand transcript exists and can be wired for | The mill office; the station | `[VAESEN: Learning]` | Route one, on a delay | Essential |
 | 16 | **Parker answers written questions** | The diary | **Automatic** if anyone tries | The scene. Fear 2 | Essential |
-| 17 | Parker was asked, not taken, and agreed | Parker | **Automatic** on asking | He is not a victim, which is worse | Essential |
-| 18 | The four children are still in the water, uncarried | Parker, or the mylingar at the inlet | `[VAESEN: Vigilance]` at the lake | What releasing the office actually fixes | Essential |
+| 17 | Parker was asked, not taken, and agreed | Parker | **Automatic** on asking | He is not a victim, which is worse | **Optional-but-wanted** — carried entirely by Parker's own written answers |
+| 18 | The four children are still in the water, uncarried | Parker, or the mylingar at the inlet | `[VAESEN: Vigilance]` at the lake | What releasing the office actually fixes | **Optional-but-wanted** — re-delivered by the mylingar in Act Three and by four sets of small prints in the Epilogue |
 
 **Fallbacks:** Ström carries 9, 10 and 11 if the legal file is never opened;
-Parker carries 12 and 13 if Kerstin is never found; and the telegram carries
-the name in Act Three if both human routes fail.
+Parker carries 12 and 13 if Kerstin is never found; and **the name itself is
+guaranteed by the telegram** — see Track B. Note that the telegram is route
+*one* of the two, not a fallback for the routes: Kerstin is closed by design,
+so the telegram is not allowed to fail and the roll only sets its arrival time.
 
 ### Pacing Note — Act Two
 
-**Must be true before Act Three:** the burning is known; **at least one route
-to the name is open**; Parker has been spoken to.
+**Must be true before Act Three:** the burning is known; **the telegram has
+been sent** (it is the route to the name, and it does not fail); Parker has
+been spoken to.
 
 **Cuts:** drop the legal file and have Lind confess; compress Kerstin to one
 scene. **Do not cut Parker.**
@@ -511,6 +552,15 @@ kilometres out and round the point. Something keeps pace underneath.*
 | **3. The mylingar** | Four children under the ice, keeping pace, not threatening, **waiting to be carried** | **Fear 2.** This is the scene's cost |
 | **4. Open water** | The channel's head is open — black water, two metres across, steaming | — |
 
+**Terrified on the ice.** A fourth mental Condition means Broken; a PC who
+fails a Fear test badly is Terrified for **D6 rounds**, and on this set-piece
+**the rounds are the danger, not the vaesen.** The book gives four behaviours:
+**freeze and faint are survivable because Kerstin has roped them together.
+Attack accomplishes nothing — see below. Flee is the one to adjudicate: they
+run, and the open water is nine metres away, and somebody on the rope has to
+decide whether to brace or follow.** That is the scene, and it is better than
+any attack.
+
 **If someone goes through the ice:** `[VAESEN: Force or Agility to get them
 out; Medicine within minutes]`. They do not drown. **The ferryman will not take
 them, because taking them is the one thing it cannot do.** A PC in that water
@@ -523,7 +573,7 @@ Revelation 12 available.
 
 | Choice | What it takes | What happens |
 |---|---|---|
-| **Speak the name** | The name, open water, the old inlet, **and a reader of the diary to say it** | The office is given back and then ended. The ferryman carries the four children across, and Parker, and then itself. **This is the ending that costs a player something**: whoever speaks has been looked at, and is standing at open water, and has to say it anyway |
+| **Speak the name** | The name, open water, the old inlet, **and a reader of the diary to say it** | The office is given back and then ended — **read *Sighting two* below, it is written.** **This is the ending that costs a player something**: whoever speaks has been looked at, and is standing at open water, and has to say it anyway |
 | **Hand the diary on** | Post it to someone else | Saves nothing, dooms a stranger. **At least two NPCs will suggest it helpfully** — Lind, because it removes the problem from his parish, and Ström, because he wants it out of his church. It is easy, it works, and the players will never meet the person it happens to |
 | **Burn the diary** | A fire | Parker is not in the diary. Nothing happens, and the recruitment simply resumes the next time anyone looks at that lake attentively |
 | **Take the post** | A PC volunteers | Written, because someone will. Parker is released, the children are carried, and **the player's character does not go home.** Give them the Epilogue's last word |
@@ -537,6 +587,39 @@ Revelation 12 available.
 - **Have Kerstin speak it after all.** She will refuse three times. If a player
   genuinely persuades her, she does it, and she dies within the year, and she
   knew that and said yes, and the scenario does not soften it.
+
+### Sighting two — read this aloud
+
+**This is the second and last sighting, and the climax of the scenario.** It
+needs **no Fear test** — by the book, a second encounter with a known creature
+does not call for one, and a roll here would cost you the scene. Say it slowly.
+Four sentences, then stop.
+
+> The name goes out over the open water and the water does not move, and for a
+> moment nothing at all happens.
+>
+> Then the ferryman comes up through the channel the way a man stands up from a
+> chair he has been sitting in too long — and it is not large, and it is not
+> terrible, and it is wearing a parish clerk's coat two hundred years out of
+> fashion, and it looks at the one of you who spoke with an expression you will
+> spend the rest of your life trying not to name as **gratitude**.
+>
+> It takes the four children out of the ice one at a time, without hurry,
+> the way you would lift things that had been left out in the cold, and it
+> carries them across and sets them down on the far bank where there is nothing
+> and nobody waiting, and they go.
+>
+> Then it comes back for Mr Parker, who is a column of handwriting standing on
+> rotten ice, and does the same. And then it steps into the channel itself and
+> the channel closes over it like a mouth, and the inlet is a frozen inlet two
+> kilometres from anywhere, and it is eleven o'clock at night in February.
+
+**Then say nothing.** Let the table speak first. Whoever said the name has the
+next line in the Epilogue whatever it is.
+
+**If Kerstin spoke it**, she is standing at the open water and does not watch
+the children, and she says *"Well"*, and that is the last word she has in the
+scenario.
 
 ### If someone attacks it
 
@@ -671,13 +754,14 @@ Witness was not pressed."*
    Society is used to English correspondents.
 4. **4–6 players.** → **Built for six, plays at four.** And one mechanical
    consequence is written into the splits: **never 2+1**, because Fear tests
-   add a die per PC present and a lone PC rolls a bare attribute.
+   add one die per PC present including the roller — so a pair rolls +2 where
+   a trio rolls +3, and a lone PC rolls +1.
 
 ### New open questions, raised by writing v1
 
-1. **Fear 2 for the Ferryman is asserted, not verified.** It matches the
-   bestiary's band for the terrible, and the myling comparison supports it, but
-   the Fear table was not checked line by line. One rules pass fixes it.
+1. **Fear 2 for the Ferryman is asserted, not verified.** → **Closed at desk
+   pass 1: Fear 2 is correct**, checked line by line against the Fear Value
+   table — terrible, the band that holds dead children. No change needed.
 2. **Parker may be too likeable to leave in the lake.** He is written to be
    decent, and the hand-it-on ending depends on the table being tempted. If
    every playtest speaks the name immediately, the temptation needs teeth —

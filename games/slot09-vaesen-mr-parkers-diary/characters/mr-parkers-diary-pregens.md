@@ -578,8 +578,13 @@ standing closest to the hole. That is on purpose. Put the line in Teddy's hands.
 - **Drop 1 — OSKAR THULIN (Private detective).** Goes first because his lane is
   the most recoverable: Etta has INVESTIGATION 7 and takes the **Shadowmaker**
   office as well as the Librarian's.
-  **What it costs:** (a) the Elementary safety valve — without it, the GM must
-  run the Act Two pacing note as written and let Kerstin say it straight;
+  **What it costs:** (a) the Elementary safety valve — without it, the GM runs
+  the Act Two pacing note as written and **leans on the telegram**, which the
+  scenario guarantees at every player count. **Kerstin still does not say the
+  name straight.** Her refusal has exactly one ruling and it is Act Three's: a
+  player who genuinely persuades her gets it and she dies within the year.
+  Earlier drafts of this note told the GM to break her at four players; that was
+  wrong, and it cost the scenario its hardest ending;
   (b) the 1897 guilt seam, which is the roster's sharpest. Recover it as a
   *document*, not a confession: the "accidental" finding goes into Lind's legal
   file in Oskar's hand, signed, and one of the parents recognises the name on
@@ -587,9 +592,12 @@ standing closest to the hole. That is on purpose. Put the line in Teddy's hands.
   weaker, and is the actual price of the smaller table;
   (c) the telegram to Härnösand. **At four players, stop making the table earn
   it** — put it on the Countdown and have the clerk's reply arrive.
-- **Drop 2 — PASTOR BRANDT (Priest).** Costs the Confessor route into Kerstin,
-  so her refusal must break on Vivian's MANIPULATION 7, on Mats being her kind
-  of people, or on the Härnösand reply. Also costs the four-children grief its
+- **Drop 2 — PASTOR BRANDT (Priest).** Costs the Confessor route into Kerstin.
+  **Her refusal does not have to break at all** — the name comes from the
+  **Härnösand reply**, which is guaranteed. Vivian's MANIPULATION 7 and Mats
+  being her kind of people buy her *company* at the inlet and everything she
+  will say short of the name; if a player does genuinely persuade her, apply
+  Act Three's ruling and its price. Also costs the four-children grief its
   spokesman at the table: give those lines to **Pastor Ström**, who is already
   praying about it and only needs permission to say what about.
 - **Walk-up +1 at seven?** Vaesen has no bolt-on sidekick rule and the
