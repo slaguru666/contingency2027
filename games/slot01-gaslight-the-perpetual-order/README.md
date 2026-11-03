@@ -3,20 +3,22 @@
 *A banker's order has paid the rent on vault 114 every quarter since 1794.*
 
 **System:** Call of Cthulhu 7e — **Gaslight (1895)** · **4–6 players** · 4-hour slot
-(3h30 play) · one site, one afternoon · the convention's closing game: small,
-finite, quiet, and nasty.
+(3h30 budget, 3h15 planned) · one site, one afternoon · **the convention's
+opening game**: small, finite, quiet, and nasty.
 
 | File | What it is |
 |---|---|
 | [`scenarios/the-perpetual-order-outline.md`](scenarios/the-perpetual-order-outline.md) | Synopsis, design intent, plot truth, act skeleton, open questions |
-| [`scenarios/perpetual-order.md`](scenarios/perpetual-order.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
-| [`characters/perpetual-order-pregens.md`](characters/perpetual-order-pregens.md) | Pregen design brief and pre-v1 audit checklist &mdash; no sheets written yet |
+| [`scenarios/perpetual-order.md`](scenarios/perpetual-order.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
+| [`characters/perpetual-order-pregens.md`](characters/perpetual-order-pregens.md) | **Six pregens**, audited against 7e creation, with the Sanity keepsakes |
+| [`playtest/perpetual-order-desk-1.md`](playtest/perpetual-order-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, ten-item fix list (all applied) |
 
-**Status:** outline. Next: full scenario draft to v1.
+**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2 (stress re-run of
+Act Two), then pass 3 from the player chair.
 
-**Remaining prep:** scenario v1 · 6 pregens · handouts (the 1794 banker's order
-with its renewal endorsements, three crate inventories, the label on crate 102) ·
-desk playtest ×2 · print pack. **One location, no art pipeline, no set-piece
+**Remaining prep:** desk passes 2–3 · handouts (the 1794 banker's order with its
+renewal endorsements, three crate inventories, the label on crate 102) · print
+pack. **One location, no art pipeline, no set-piece
 page** — the second-cheapest build on the slate after
 [THE SIX O'CLOCK SITTING](../slot03-gaslight-six-oclock-sitting/).
 

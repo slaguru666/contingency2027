@@ -2,8 +2,10 @@
 
 > *A hundred and one crates. All the same day. None of them quite the same.*
 
-**Status: v1 — runnable, unplaytested.** Written 2026-11-02 from
-[`the-perpetual-order-outline.md`](the-perpetual-order-outline.md).
+**Status: v1.1 — desk pass 1 fixes applied.** Written 2026-11-02 from
+[`the-perpetual-order-outline.md`](the-perpetual-order-outline.md); the ten-item
+fix list in [`../playtest/perpetual-order-desk-1.md`](../playtest/perpetual-order-desk-1.md)
+applied 2026-11-03. **Still needs desk passes 2 and 3.**
 
 > **This file supersedes [`the-perpetual-order-outline.md`](the-perpetual-order-outline.md).**
 > House rule is that a scenario is self-contained — a GM holding only this file
@@ -21,8 +23,8 @@
 
 - **System crash-course:** Call of Cthulhu 7e, Gaslight. Roll d100 against a
   skill. Equal or under = success; under half = hard success; under a fifth =
-  extreme. 01–05 is a critical, 96–00 a fumble (100 always fumbles if the skill
-  is under 50). Push a failed roll by stating what the investigator does *more*
+  extreme. **01 is a critical. 100 is always a fumble; if the skill is under 50,
+  96–00 fumbles.** Push a failed roll by stating what the investigator does *more*
   of — on a second failure the Keeper imposes a real consequence. Sanity: lose
   the stated points, then roll d100 against current Sanity; **over** it means a
   temporary bout of madness.
@@ -30,11 +32,15 @@
 - **There is no monster, no antagonist and no combat.** If you find yourself
   reaching for a threat, reach for a piece of paper instead.
 - **The clock counts play time** — pause it for the break.
-- **Hard rule: at 2:45, go to Act Three regardless.** Act Two will happily eat
-  the whole session; it must not.
-- **Sanity on offer: 3 points at best, 12 at worst** across eight crate
-  bands (four at 0/1, two at 1/1D3, one at 1/1D2) — so a thorough table
-  typically takes 6 or 7. This is a quiet game. Do not add losses.
+- **Act Two is planned to end at 2:30. Hard rule: at 2:45 you go to Act Three
+  regardless.** Those fifteen minutes are the session's cushion, not spare act.
+  Act Two will happily eat the whole session; it must not.
+- **Sanity on offer: 3 at best, 10 at worst** on the default six-band read
+  (two at 0/1, two at 1/1D3, one at 1/1D2), typically 5 — or **3 to 12,
+  typically 6–7**, if you run all eight bands. **Each pregen also carries one
+  once-per-game keepsake that restores 1 Sanity point**, so the table has 4–6
+  points of recovery in its pockets. That keepsake is a scenario rule, not core
+  7e, and it lives on the sheets. This is a quiet game. Do not add losses.
 - **Safety:** state the tool in use (X-card / open door) during seating — 30
   seconds, no ceremony. The identity-loss material in Act Three wants the exit
   ramp genuinely available.
@@ -101,13 +107,15 @@ deliberate and is the reason the game is cheap to produce.
 | 0:00–0:15 | Introduction | Pregens dealt, safety line said, all four reasons for being here spoken aloud at the table |
 | 0:15–1:15 | **Act One — The Paperwork** | The order's impossible age established; at least two of the three previous buildings traced; the padlock struck |
 | — | *break, 10 min* | Ends on the first crate opened and nothing happening |
-| 1:15–2:45 | **Act Two — The Crates** | The drift read in sequence, not as a loop; crate 101 reached; the Shadwell direction found |
+| 1:15–2:30 | **Act Two — The Crates** | The drift read in sequence, not as a loop; crate 101 reached; the Shadwell direction found |
+| 2:30–2:45 | *cushion* | Act Two's overrun lives here, and nowhere else |
 | 2:45–3:15 | **Act Three — The Order** | Shearing written to or consciously not; the decision made and owned; crate 102 seen |
 | 3:15–3:30 | Epilogue | Per-PC vignettes; whose papers are in crate 102 |
 
-**Planned content is ~3:15 against a 3:30 budget.** The slack is real and Act
-Two is where it gets spent. If you are at 2:45 and the table is still sorting,
-stop sorting: the Act Two Pacing Note names what to drop.
+**Planned content is 3:15 against a 3:30 budget — 15 · 60 · 75 · 30 · 15 — and
+the fifteen minutes between 2:30 and 2:45 are the cushion.** Act Two is where
+it gets spent, and the six-band read in its Pacing Note is the default, not a
+contingency. If you are at 2:45 and the table is still sorting, stop sorting.
 
 ---
 
@@ -177,10 +185,11 @@ a signature — the rope goes slack.
 |---|---|
 | Thu 12 Jun 1794 | Shearing walks into the river at Wapping Stairs. |
 | Fri 13 Jun 1794 | The mooring. The banker's order is drawn on Coutts & Co. |
-| 1795–1828 | Crates 1–34, stored in a cellar under a chandler's in Wapping Wall. |
-| 1829 | The chandler's is pulled down; Garrow's Bonded Wharf is built. The order's direction changes by endorsement. |
-| 1836 | A bonded store in Rotherhithe burns; the intermediate crates are *not* lost, which is itself a problem. |
-| 1835–1894 | Crates 35–101. Three buildings, one vault number. |
+| 1794–1827 | Crates 1–34, stored in a cellar under a chandler's in Wapping Wall. |
+| 1828 | The chandler's is pulled down. The crates go to a bonded store in Rotherhithe. |
+| 1829 | Garrow's Bonded Wharf is built. The order goes on paying Rotherhithe. |
+| 1836 | The Rotherhithe store burns; the crates are *not* lost, because they were out of it before the fire and nobody saw who moved them — which is itself a problem. The order's direction changes to Garrow's vault 114 **by endorsement**, which is why there is an endorsement to find. |
+| 1828–1894 | Crates 35–101. Three buildings, one vault number. |
 | Jun 1894 | Crate 101 filed. Crate 102 knocked together and labelled. |
 | Nov 1894 | The wharf sold for demolition; the clearance instruction issued. |
 | 24 Dec 1894 | The account flagged dormant by a junior at the bank, in error, for the sixty-first time. |
@@ -213,11 +222,11 @@ contains **no new information** — only confirmation and consequence.
 
 ## Player Experience
 
-Vault 114 has been paid for by a banker's order every quarter since June 1794.
-Garrow's Bonded Wharf was built in 1829. Before that the order paid a bonded
-store in Rotherhithe that burned, and before that a cellar under a chandler's
-that was pulled down, and before that there is a ledger reference and no
-building at all.
+The order has been paid every quarter since June 1794. Garrow's Bonded Wharf
+was built in 1829 and has held vault 114 since 1836. Before that the order
+paid a bonded store in Rotherhithe that burned in that year, and before that a
+cellar under a chandler's that was pulled down in 1828, and before that there
+is a ledger reference and no building at all.
 
 Nobody has ever opened it. The dock company wants the vault cleared because the
 wharf comes down in March, and the bank wants the account closed because it has
@@ -245,9 +254,9 @@ Advance it when the table circles.
 |---|---|---|
 | 0:40 | The fog thickens off the river. | The counting-house windows go from grey to white. The gas is lit at eleven in the morning. |
 | 1:10 | The dock company's lighter is confirmed for **four o'clock** to take the vault's contents. | A boy brings a note. Six hours, then five, then four. |
-| 1:50 | The lamp. There is no light in the vault but what they carry, and the wharf keeps **one** spare canister of oil. | "That's about four hours of burning, sirs, if you don't turn it up." |
-| 2:20 | The agent's second letter arrives, having crossed the first. It asks whether the vault is cleared and reminds them Lady Day is Lady Day. | Read it aloud. It does not mention crates. It does not know there are crates. |
-| 2:40 | The lighterman starts loading from the **far** stack — the high numbers — because that stack is nearest the door. | If the players have not read crate 101 yet, this is how they are made to. |
+| 2:05 | The lamp. There is no light in the vault but what they carry, and the wharf keeps **one** spare canister of oil. | "That's about four hours of burning, sirs, if you don't turn it up." |
+| 2:15 | The agent's second letter arrives, having crossed the first. It asks whether the vault is cleared and reminds them Lady Day is Lady Day. | Read it aloud. It does not mention crates. It does not know there are crates. |
+| 2:25 | The lighterman starts clearing the **far** stack first — the high numbers, furthest from the door and hard against the damp brick, so they go before the rest. | He carries crate 101 the length of the room and sets it down in front of them. If they have not read it yet, this is how they are made to. |
 | 3:05 | Four o'clock. The lighter casts off, loaded or not. | The tide does not wait, and the tide-table in crate 3 is still correct. |
 
 **If the table stalls at any point**, the lever is always the same shape: *a
@@ -370,7 +379,7 @@ what his letters say. Let them go if they want; the scenario is better if they
 do not, and Garrow will say so.
 
 **Mr Pike, the lighterman.** *Wants to know which stack, and to catch his
-tide.* Arrives at 2:40 on the clock. Phlegmatic, helpful, utterly incurious,
+tide.* Arrives at 2:20 on the clock. Phlegmatic, helpful, utterly incurious,
 and the only person in the scenario with somewhere else to be. He is the
 instrument of the Countdown's last turn. **He will carry crates out if asked**,
 and he will not notice anything about them.
@@ -379,7 +388,7 @@ and he will not notice anything about them.
 
 | # | Clue | Location / Source | How Found | What It Reveals | Type |
 |---|---|---|---|---|---|
-| 1 | The rent on 114 has been paid every quarter since 1829, by order, never in person | Wharf rent ledgers | **Automatic** on reading the ledgers at all | The payer is a standing instruction, not a person | Essential |
+| 1 | The rent on 114 has been paid every quarter since 1836, by order, never in person — and the order itself is older still | Wharf rent ledgers | **Automatic** on reading the ledgers at all | The payer is a standing instruction, not a person | Essential |
 | 2 | The order predates the building | The bank's day-book + `H1-A` | **Automatic** when the bank's clerk opens his satchel | 1794. The wharf is 1829. Something is wrong with the arithmetic | Essential |
 | 3 | A hundred renewal endorsements, all in one unchanging hand | `H1-A` | Automatic on handling; `[CoC: Accounting or Art/Craft (Penmanship) — the hand is one hand, not a clerk's copy of a hand]` | Whoever renews it has been doing so personally for a century | Essential |
 | 4 | The direction for correspondence: a receiving-house in **Shadwell** | `H1-A`, small print, margin | `[CoC: Spot Hidden]` **or automatic** if anyone reads the order aloud in full | Where a letter can be sent in Act Three | Essential |
@@ -404,23 +413,41 @@ and he will not notice anything about them.
 Players at this table are *professionals*, and they will do competent things.
 Each of these has a written result that moves the trail forward:
 
-- **"I write to the bank for the account's opening papers."** A reply is
-  possible by the afternoon post: the account was opened 12 June 1794 in the
-  name of **Peter Shearing, clerk, of Wapping**, and has had no other signatory.
-  This is Revelation 10, delivered early, and that is fine.
-- **"I check the parish register for Shearing."** St John's, Wapping, ten
-  minutes' walk. There is a burial entry for 14 June 1794 — *and* a coroner's
-  marginal note that no body was recovered. Both are in the same ledger. This is
-  Revelation 11 and it is better found here than in the letter.
-- **"I go to the receiving-house now."** Shadwell is twenty-five minutes in
-  fog. They will take a letter. They will not say who collects, because the
-  arrangement is older than anyone working there and is paid annually.
-- **"I value the contents for the demolition."** The surveyor's own job. A
-  hundred and one crates of waste paper, worth eleven shillings as pulp. Write
-  the figure down; it will be funny and then it will not be.
-- **"I refuse to open it without written authority."** Garrow produces the
-  clearance instruction. It is written authority. The scenario cannot be
-  stonewalled from inside.
+**Each answer below carries its cost in table time, and what the PCs who stay
+behind are doing meanwhile.** The act is sixty minutes and it must end at the
+padlock; two of these moves fit, four do not.
+
+- **"I write to the bank for the account's opening papers."** *Costs nothing —
+  it is a letter, and he writes it at the table.* A reply is possible by the
+  afternoon post: the account was opened 12 June 1794 in the name of **Peter
+  Shearing, clerk, of Wapping**, and has had no other signatory. This is
+  Revelation 10, delivered early, and that is fine.
+- **"I check the parish register for Shearing."** *Eight minutes of table
+  time; split the table and cut between them.* St John's, Wapping, ten minutes'
+  walk. There is a burial entry for 14 June 1794 — *and* a coroner's marginal
+  note that no body was recovered. Both are in the same ledger. This is
+  Revelation 11 and it is better found here than in the letter. **The PCs who
+  stay find clue 7 in the day-book while they wait** — hand it to them without
+  a roll, because they asked for something to do.
+- **"I go to the receiving-house now."** *Ten minutes of table time, and it
+  costs the break.* Shadwell is twenty-five minutes in fog. They will take a
+  letter. They will not say who collects, because the arrangement is older than
+  anyone working there and is paid annually. **The PCs who stay strike the
+  padlock without them**, which is a real consequence and a good one: say so
+  before they go.
+- **"I value the contents for the demolition."** *Costs nothing — it happens
+  at the table in a sentence.* The surveyor's own job. A hundred and one crates
+  of waste paper, worth eleven shillings as pulp. Write the figure down; it
+  will be funny and then it will not be.
+- **"I refuse to open it without written authority."** *Costs nothing.* Garrow
+  produces the clearance instruction. It is written authority. The scenario
+  cannot be stonewalled from inside.
+- **"I go to Leadenhall Street and find the agent."** *This one costs the act.*
+  Say so plainly, out of character, before they commit: it is an hour each way
+  in the fog, the agent says exactly what his letters say, and **the act ends
+  with the padlock unstruck — Act Two then opens in the corridor with the
+  chisel in somebody's hand.** Garrow will tell them it is a waste of an
+  afternoon, and he is right. Let them go if they still want to.
 
 ### Story Hooks (if players stall)
 
@@ -455,7 +482,7 @@ straight to the door. **Nothing in Act One is worth Act Two's time.**
 
 ---
 
-## ACT TWO — *The Crates* *(~90 minutes)*
+## ACT TWO — *The Crates* *(~75 minutes)*
 
 **Shape:** the scenario's whole body. A hundred and one crates, read in
 whatever order the players choose — **and the order they choose is the game**,
@@ -471,11 +498,34 @@ except the one. Nothing behind anybody. Just paper.
 > boards and a batten, the sort a counting-house throws together for its own
 > storage. Each has a number brushed on the end in black: a column of ones and
 > twos and threes, rising. The air is dry. The brick is dry. A hundred and one
-> crates in a room that has been shut for a hundred and one years, and there is
-> no dust on any of them.
+> crates in a room nobody has opened in living memory, and there is no dust on
+> any of them.
 
 Say the no-dust line once and do not explain it. Nobody in the fiction can
 explain it either.
+
+**The layout, stated once and then held to.** The four stacks run **1–25,
+26–50, 51–75, 76–101 from the door inward.** The low numbers are nearest the
+door, so a table reading its way in reads the real day first; crate 101 is in
+the far corner, hard against the damp brick, which is why Pike clears that
+stack first at 2:25.
+
+**GM note — "how does anything get into a sealed vault?"** This is the first
+question a professional table asks, and it has three written answers and one
+honest one.
+
+- **There is no second entrance.** No shaft, no grating, no hatch, no
+  communicating door to 113 or 115. Let them look; let the looking take two
+  minutes and settle it.
+- **The brick is eighteen inches of 1829 London stock.** A chisel makes dust
+  and noise and no progress.
+- **A vault watched all afternoon stays exactly as it is.** Post a watch if
+  they like. Nothing happens while anyone is looking, and nothing is different
+  afterwards.
+
+The honest line is *"you cannot find out, and that is the answer."* The
+delivery stays unexplained on purpose. What must not happen is the table
+believing you are withholding a procedure they could discover.
 
 ### How reading a crate works
 
@@ -513,25 +563,36 @@ the ticket and the **tell** — the one thing in that band that is wrong.
 | **96–100** | A sheet of paper with the date on it and nothing else. Then two. Then a column of figures. | None. | None. | He is still filing. There is nothing left to file, and he is still filing. | 0/1 |
 | **101** | — | **One receipted bill, from Garrow's Bonded Wharf, for the quarter's rent on vault 114, dated 13 June 1794, in a currency that is sterling and is not.** | — | He paid this wharf, from inside this wharf's own vault, with money from a country that does not exist, and this wharf gave him a receipt. Hand over `H2-C`. | 1/1D3 |
 
-**Sanity budget check.** A player who reads every band rolls against seven
-entries: 0/1 four times, 1/1D3 twice, 1/1D2 once. **Best case 3, worst case
-12, typical 6–7** — survivable by design, and the whole scenario's budget.
-**Do not add losses.** If a
-player does something brave or terrible, the cost is in Act Three, not here.
+**Sanity budget check.** On the **default six-band read** — 41–60 and 81–94
+dropped, see the Act Two Pacing Note — a player rolls against five entries:
+0/1 twice, 1/1D3 twice, 1/1D2 once. **Best case 3, worst case 10, typical 5.**
+On the **full eight-band read** it is seven entries, 0/1 four times, 1/1D3
+twice, 1/1D2 once: **best case 3, worst case 12, typical 6–7.** Both are
+survivable by design, and whichever you run is the whole scenario's budget.
+Each pregen also carries one once-per-game keepsake worth 1 Sanity point back,
+so the table holds 4–6 points of recovery without you offering anything.
+**Do not add losses.** If a player does something brave or terrible, the cost
+is in Act Three, not here.
 
-### Running 90 minutes of reading paper without it sagging
+### Running 75 minutes of reading paper without it sagging
 
 Break the act into three movements. Each has a checkpoint, and each ends on a
 pull.
 
-**Movement One — "They're all the same day" (~25 min).** Let them open four or
+**Movement One — "They're all the same day" (~20 min).** Let them open four or
 five crates from anywhere. The discovery is the date, repeated. Players will
 say *loop*. Let them. Let them build the theory, and let one of them write it
 down.
 *Ends on:* somebody comparing two crates side by side and finding they
 disagree.
+*If it will not end:* a table that starts at the door reads only band 1–20,
+where **nothing is wrong**, and can sit there all act. When four crates have
+come out of the nearest stack and all four agree, Garrow walks down to the far
+corner and fetches one — *"to see if they're all this dull, sirs"* — and puts a
+76–101 crate on the table beside a low one. That is the comparison, and it is
+his idea, not yours.
 
-**Movement Two — "It's not a loop" (~40 min).** The sort. This is the heart of
+**Movement Two — "It's not a loop" (~30 min).** The sort. This is the heart of
 the scenario and the table should be physically moving paper around. Push them
 toward sequence: *which way does it get worse?* The drift reads in one
 direction, and establishing the direction is the actual puzzle.
@@ -573,7 +634,7 @@ which is on the Countdown anyway.
 | 14 | The tide-tables are correct in every single crate | Any two tide-tables + `[CoC: Natural World]` | Roll, or automatic for the lighterman/surveyor | Whatever this is, it is moored to the river | Optional |
 | 15 | The wrong-facing coin | Band 61–80 | **Automatic** — put it in a player's hand | Physical proof that leaves the vault with them | Essential |
 | 16 | A name in the 41–60 deaths column reappears, alive, in a later crate | Thorough sorting | `[CoC: Library Use — hard success]` | The drift is not just losing accuracy. It is gaining people | Optional |
-| 17 | Crate 101's receipt: this wharf, 1794, impossible currency | `H2-C` | **Automatic** at the end of the act, or forced by Pike at 2:40 | He is paying from inside. The loop is closed and it is not a loop | Essential |
+| 17 | Crate 101's receipt: this wharf, 1794, impossible currency | `H2-C` | **Automatic** at the end of the act, or forced by Pike at 2:25 | He is paying from inside. The loop is closed and it is not a loop | Essential |
 
 **Fallbacks:**
 - **12:** if they will not sort, Garrow does it. He is a wharfinger; stacking
@@ -582,23 +643,29 @@ which is on the Countdown anyway.
   obliged to verify signatures.
 - **15:** Pike picks the coin up, bites it, says *"that's a good penny, that"*,
   and hands it back the wrong way up.
-- **17:** the Countdown at 2:40 — Pike loads from the high-numbered stack
-  because it is nearest the door, so crate 101 physically arrives in their
-  hands.
+- **17:** the Countdown at 2:25 — Pike clears the far stack first, because it
+  is the one against the damp brick, and carries crate 101 the length of the
+  room into their hands.
 
 ### Pacing Note — Act Two
 
 **Must be true before Act Three:** the drift is understood as a *direction*,
 not a repetition; crate 101 has been read; the Shadwell direction is known.
 
-**Cuts, in the order to take them:**
-1. Drop bands 41–60 and 81–94 entirely. Six bands tell the story as well as
-   eight; nobody is counting.
-2. Drop Revelations 14 and 16 (tide-tables, the reappearing name).
-3. Collapse Movement Three into Act Three's letter — the letter carries
+**The six-band read is the default, not a contingency.** Seventy-five minutes
+is six bands: run **1–20, 21–40, 61–80, 95, 96–100 and 101**, and leave 41–60
+and 81–94 out of the drift table unless the table is flying. Six bands tell
+the story as well as eight and nobody is counting. **The eight-band read is
+the expansion for a fast table**, and if you run it, say so to yourself before
+Act Two starts rather than discovering it at 2:25.
+
+**Further cuts, in the order to take them:**
+1. Drop Revelations 14 and 16 (tide-tables, the reappearing name).
+2. Collapse Movement Three into Act Three's letter — the letter carries
    Shearing's identity on its own.
 
-**At 2:45 you go to Act Three whether or not any of this is true.** If the
+**Act Two is planned to end at 2:30, and at 2:45 you go to Act Three whether
+or not any of this is true.** If the
 table has only got as far as "it's a loop", Act Three still works: the letter
 corrects them, and being corrected by the letter is a better scene than
 working it out.
@@ -768,8 +835,8 @@ Give each player one. Second person, three sentences, no more.
 - **The bank's clerk.** Whatever he signed, he filed it, because that is the
   job. *Continuance:* the quarterly entry appears in his own day-book in his
   own hand, and he has started checking it against the tide. *Lapse:* the
-  dormancy flag is withdrawn for the sixty-second time, by a junior, in error,
-  and he lets it stand.
+  sixty-first dormancy flag — raised by a junior, in error, the Christmas
+  before — is the first one nobody withdraws, and he is the nobody.
 - **The wharfinger.** He walks the corridor at the right speed now, and has
   worked out why he used not to. The dog still will not go past the door, and
   there is no longer a door.
@@ -807,7 +874,7 @@ it.
 |---|---|---|---|
 | **Peter Shearing**, clerk, 34 for a hundred and one years | *Wants to keep his filing in order.* Polite, precise, exhausted, and will not ask. | To have the record make sense to somebody | **Read, never seen.** `H3-A` |
 | **Garrow**, wharfinger | *Eleven years here, and this week he noticed he always walks faster past 114.* | To get this over with and go home | Counting-house, then the corridor. *Usually a PC* |
-| **Mr Pike**, lighterman | *Wants to know which stack, and to catch his tide.* Utterly incurious. | The four o'clock tide | Arrives 2:40. *Sometimes a PC* |
+| **Mr Pike**, lighterman | *Wants to know which stack, and to catch his tide.* Utterly incurious. | The four o'clock tide | Arrives 2:20; clears the far stack at 2:25. *Sometimes a PC* |
 | **The dock company's agent** | *A deadline with a signature.* Never appears. | The vault cleared by Lady Day | Two letters, 1:10 and 2:20 |
 | **The dog** | *Will not go past the door, and is right.* | Not to go past the door | Planted Act One, pays off 1:50 |
 
