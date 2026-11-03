@@ -18,21 +18,40 @@ deliberately clear.
 
 | # | Day | Session | System | Game | PCs | Status |
 |---|---|---|---|---|---|---|
-| 1 | Wed 27 | Morning | CoC — **Gaslight** (1895) | [**THE PERPETUAL ORDER**](games/slot01-gaslight-the-perpetual-order/) | 4 | **v1 — unplaytested** |
-| 2 | Wed 27 | Afternoon | Blade Runner RPG | [**AFTERIMAGE**](games/slot02-blade-runner-afterimage/) | 4 | **Port — con-ready (v2.2)** |
-| 3 | Wed 27 | Evening | CoC — **Gaslight** (1894) | [**THE SIX O'CLOCK SITTING**](games/slot03-gaslight-six-oclock-sitting/) | 4 | **v1 — unplaytested** |
-| 4 | Thu 28 | Morning | The Walking Dead Universe (modified) | [**BLACK SUMMER — Last Flight Out**](games/slot04-black-summer/) | 5 | **v1 — unplaytested** |
-| 5 | Thu 28 | Afternoon | **ALIEN RPG** — Cinematic | [**CONTINUOUS SERVICE**](games/slot05-alien-continuous-service/) | 5 | **v1 — unplaytested** |
-| 6 | Thu 28 | **Evening** | CoC — **Gaslight** (1896) | [**THE LONDON PARTICULAR**](games/slot06-gaslight-the-london-particular/) | 5 | **v1 — unplaytested** |
+| 1 | Wed 27 | Morning | CoC — **Gaslight** (1895) | [**THE PERPETUAL ORDER**](games/slot01-gaslight-the-perpetual-order/) | 4 | **v1 — desk pass 1 done** |
+| 2 | Wed 27 | Afternoon | Blade Runner RPG | [**AFTERIMAGE**](games/slot02-blade-runner-afterimage/) | 4 | **Port — con-ready (source v3.2.0)** |
+| 3 | Wed 27 | Evening | CoC — **Gaslight** (1894) | [**THE SIX O'CLOCK SITTING**](games/slot03-gaslight-six-oclock-sitting/) | 4 | **v1 — desk pass 1 done** |
+| 4 | Thu 28 | Morning | The Walking Dead Universe (modified) | [**BLACK SUMMER — Last Flight Out**](games/slot04-black-summer/) | 5 | **v1 — desk pass 1 done** |
+| 5 | Thu 28 | Afternoon | **ALIEN RPG** — Cinematic | [**CONTINUOUS SERVICE**](games/slot05-alien-continuous-service/) | 5 | **v1 — desk pass 1 done** |
+| 6 | Thu 28 | **Evening** | CoC — **Gaslight** (1896) | [**THE LONDON PARTICULAR**](games/slot06-gaslight-the-london-particular/) | 5 | **v1 — desk pass 1 done** |
 | 7 | Fri 29 | Morning | — | *clear* | — | — |
-| 8 | Fri 29 | Afternoon | CoC 7e — **1920s** | [**VIVA VOCE**](games/slot08-coc-viva-voce/) | 5 | **v1 — unplaytested** |
-| 9 | Fri 29 | **Evening** | **Vaesen** | [**THE CURIOUS CASE OF MR PARKER'S DIARY**](games/slot09-vaesen-mr-parkers-diary/) | 4 | **v1 — unplaytested** |
+| 8 | Fri 29 | Afternoon | CoC 7e — **1920s** | [**VIVA VOCE**](games/slot08-coc-viva-voce/) | 5 | **v1 — desk pass 1 done** |
+| 9 | Fri 29 | **Evening** | **Vaesen** | [**THE CURIOUS CASE OF MR PARKER'S DIARY**](games/slot09-vaesen-mr-parkers-diary/) | 4 | **v1 — desk pass 1 done** |
 | 10 | Sat 30 | Morning | — | *clear* | — | — |
-| 11 | Sat 30 | Afternoon | Blade Runner RPG | [**PAPER CHILDREN**](games/slot11-blade-runner-paper-children/) — companion to AFTERIMAGE | 4 | **v1 — unplaytested** |
-| 12 | Sat 30 | **Evening** | CoC 7e — **modern** (1986) | [**CLOSING WEEKEND**](games/slot12-modern-closing-weekend/) | 6 | **v1 — unplaytested** |
-| 13 | Sun 31 | Morning | The Dee Sanction | [**THE FAVOUR**](games/slot13-dee-sanction-the-favour/) — sequel to *The Princes Bride* | 5 | **v1 — unplaytested** |
-| 14 | Sun 31 | Afternoon | **Outgunned** | [**PROVENANCE**](games/slot14-outgunned-provenance/) | 5 | **v1 — unplaytested** |
+| 11 | Sat 30 | Afternoon | Blade Runner RPG | [**PAPER CHILDREN**](games/slot11-blade-runner-paper-children/) — companion to AFTERIMAGE | 4 | **v1 — desk pass 1 done** |
+| 12 | Sat 30 | **Evening** | CoC 7e — **modern** (1986) | [**CLOSING WEEKEND**](games/slot12-modern-closing-weekend/) | 6 | **v1 — desk pass 1 done** |
+| 13 | Sun 31 | Morning | The Dee Sanction | [**THE FAVOUR**](games/slot13-dee-sanction-the-favour/) — sequel to *The Princes Bride* | 5 | **v1 — desk pass 1 done** |
+| 14 | Sun 31 | Afternoon | **Outgunned** | [**PROVENANCE**](games/slot14-outgunned-provenance/) | 5 | **v1 — desk pass 1 done** |
 | 15 | Sun 31 | Evening | — | *clear* | — | — |
+
+> ### Desk playtest pass 1 — complete, 2026-11-03
+>
+> **All twelve games have had a full desk pass** from the GM chair, with honest
+> seeded dice and every rules claim checked against the book on disk. One
+> document per game in its `playtest/` directory; findings that cross games are
+> in [`docs/playtest-slate-findings.md`](docs/playtest-slate-findings.md).
+>
+> **The headline:** the cases are sound — the player-hat ledgers ran 7 to 9 out
+> of 10 — and **the defects are concentrated in the system crash-course block**,
+> which is materially wrong or incomplete in nine of the eleven written
+> scenarios. Those are paragraph fixes, and several can be copied from a
+> sibling file in this repo that is already correct. Two standing rules
+> questions are now closed: **The Dee Sanction's step die and Falter**, and
+> **Outgunned's success ladder**.
+>
+> Passes 2 (stress re-run of the weakest act) and 3 (player chair, contrarian)
+> are still to do, and **no fixes have been applied yet** — the protocol keeps
+> them to a separate pass with a version bump.
 
 **The shape of the slate:** **nine systems across twelve games** — three Cthulhu
 by Gaslight, one 1920s Call of Cthulhu, one modern-day Call of Cthulhu, two

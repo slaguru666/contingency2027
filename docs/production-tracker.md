@@ -4,18 +4,18 @@ Legend: **—** not started · **◐** in progress · **✔** done · **n/a** no
 
 | # | Slot | Game | PCs | Outline | Scenario v1 | Pregens | Handouts | Art | Playtest | Print | Console |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a | — | — | — |
-| 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×3 | ◐ reprint | ◐ port |
-| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a | — | — | — |
-| 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | — | — | — |
-| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | — | — | — |
-| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | — | — | — |
-| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | — | — | — |
-| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | — | — | — |
-| 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | ✔ | *(shared)* | — | ✔ 5/5 | — | — | *(shared)* |
-| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | — | — | — |
-| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | ✔ | *(reuse)* | — | ✔ 5/5 | — | — | — |
-| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 6/6 | — | — | — |
+| 1 | Wed am | THE PERPETUAL ORDER *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a | ◐ desk 1 | — | — |
+| 2 | Wed pm | AFTERIMAGE | 4 | ✔ | ✔ *(port)* | ✔ | ✔ | ✔ | ✔ ×6 *(source v3.2.0)* | ◐ reprint | ◐ port |
+| 3 | Wed eve | THE SIX O'CLOCK SITTING *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | n/a | ◐ desk 1 | — | — |
+| 4 | Thu am | BLACK SUMMER | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | ◐ desk 1 | — | — |
+| 5 | Thu pm | **CONTINUOUS SERVICE** *(ALIEN)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | ◐ desk 1 | — | — |
+| 6 | Thu eve | THE LONDON PARTICULAR *(Gaslight)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | ◐ desk 1 | — | — |
+| 8 | Fri pm | **VIVA VOCE** *(CoC 1920s)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | ◐ desk 1 | — | — |
+| 9 | Fri eve | MR PARKER'S DIARY *(Vaesen)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | ◐ desk 1 | — | — |
+| 11 | Sat pm | PAPER CHILDREN | 4 | ✔ | ✔ | ◐ *scaffold* | — | ✔ 5/5 | ◐ desk 1 | — | *(shared)* |
+| 12 | Sat eve | CLOSING WEEKEND *(CoC modern)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 5/5 | ◐ desk 1 | — | — |
+| 13 | Sun am | THE FAVOUR *(Dee Sanction)* | 4–6 | ✔ | ✔ | ◐ *scaffold* | — | ✔ 5/5 | ◐ desk 1 | — | — |
+| 14 | Sun pm | **PROVENANCE** *(Outgunned)* | 4–6 | ✔ | ✔ | ✔ | — | ✔ 6/6 | ◐ desk 1 | — | — |
 
 > ### Slots 1 and 3 stay art-free — settled 2026-11-02
 >
