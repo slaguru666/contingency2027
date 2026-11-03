@@ -2,7 +2,11 @@
 
 > *He kept his side of it. That is the problem.*
 
-**Status: v1 — runnable, unplaytested.** Written 2026-11-02 from
+**Status: v1.1 — desk pass 1 fixes applied.** All six findings in
+[`../playtest/the-favour-desk-1.md`](../playtest/the-favour-desk-1.md)
+addressed, 2026-11-03, including **both of the rules items this file flagged as
+unverified — now checked against the published rulebook and corrected.**
+**Still needs desk passes 2 and 3.** Previously: v1 — runnable, unplaytested. Written 2026-11-02 from
 [`the-favour-outline.md`](the-favour-outline.md).
 
 > **This file supersedes [`the-favour-outline.md`](the-favour-outline.md).**
@@ -19,16 +23,48 @@
 ## GM ESSENTIALS (one glance, any GM)
 
 - **System crash-course:** The Dee Sanction. Agents are condemned people
-  working off a sentence for Dr John Dee. Roll the die of your relevant
-  Attribute/skill step against a difficulty; **Falter** when you fail and the
-  situation turns against you. `[unverified — confirm the step-die and Falter
-  wording against the rulebook; the house lesson is that an inherited
-  quick-reference once had an entirely different game's dice mechanic, so
-  verify from the published sheets, not from memory]`
-- **Mechanics inline:** `[DEE: Skill — what it does]`
+  working off a sentence for Dr John Dee. **Roll one die for the Resource at
+  stake** — **Physicall, Intellectuall or Supernaturall** — on the
+  **d4 · d6 · d8 · d10 · d12** ladder. **1 or 2 is a Falter; any other result
+  succeeds.** There is **no target number and no difficulty roll.** Difficulty
+  is the die itself: **Step-Up** when they are prepared, equipped or have the
+  dale's goodwill, **Step-Down** when they are not — and below d4 it becomes a
+  **Call to Fail**, where the GM asks whether they drop out or take the pain
+  for the cause. Maximum d12, minimum d4.
+- **A Falter is failing forward, not failure.** In a fight it is a Hit and/or a
+  Consequence. **In any other Challenge the Agent still gets the thing they
+  wanted**, in a way that complicates matters — something breaks, clatters, or
+  is overheard by the wrong person. **In this scenario that means no clue is
+  ever lost to a die.** Narrate the complication, hand over the clue.
+- **An Ability that plainly covers the task gives the fact with no roll at
+  all**, in any ordinary, unhurried situation. Each agent has three, from their
+  Back Story, and this is a scenario made of archives and conversations: expect
+  to use this more often than the dice. Its other half is the GM's: **"Lack of
+  Expertise"** is grounds for ruling a task simply beyond an agent with no
+  relevant Ability.
+- **Each agent has 3 Hits, a D8 Unravelling track, one Fortune token and one
+  Favour.**
+- **Unravelling — the ruling for this scenario.** Step the track **once at the
+  exhumation** and **once if anyone stands at the mouth of the adit and
+  speaks**, and **nowhere else.** Those are the two places the dale touches
+  something older than itself. Do not step it for the hanging, the ledger or
+  the argument — this is a scenario about people, and a track that moves every
+  scene stops meaning anything.
+- **Favours are welcome at the workings and almost nowhere else.** Every agent
+  has one and most tables will never think to spend it. **Scene 4 is the
+  invitation**: a boarded adit that somebody re-boards, and no villager who
+  will go up. If an Agent burns their Favour there, let it work, and let it be
+  the reason they learn what the courtesies are for.
+- **Fortune and Hits are deliberately quiet here.** Act Three's *If someone
+  draws* resolves without them, on purpose: four of Cave's men against agents
+  in a cell is not a fight to roll, it is an outcome. Say so rather than
+  reaching for dice.
+- **Mechanics inline:** `[DEE: Resource — what it does]`
 - **The clock counts play time** — pause it for the break.
-- **Hard rule: at 2:45, the visitation begins.** Act Three happens on
-  schedule.
+- **Act Two is planned to end at 2:30 — its six scenes are twelve minutes
+  each, which is seventy-two, not ninety. Hard rule: at 2:45 the visitation
+  begins** whatever the table is doing. Those fifteen minutes are the session's
+  cushion, not spare act.
 - **The debt runs the wrong way.** Dee does not hold this favour. **Garratt
   does.**
 - **The tidy answer is a murder, and it works.** The village will offer the
@@ -50,9 +86,17 @@
   Yorkshire — **April 1587**, six months after Faversholme.
 - **Tone:** Cold, procedural, Elizabethan. Frightened people being polite.
 - **Maximum Runtime:** 3 hours 30 minutes play + 10 minute break
-- **Players:** 4–6. **Seven sheets exist** (the *Princes Bride* agents); deal
-  any four to six. Nothing essential lives on one agent — every seam has a
-  written alternate route.
+- **Players:** 4–6. **Seven sheets exist** (the *Princes Bride* agents).
+  **Written for five.** At four, **drop Thomas Lynton first** — healing is a
+  luxury here. **Henry Poter is the seventh sheet, held for a walk-up.**
+  Nothing essential lives on one agent and every seam has a written alternate
+  route, but **know which routes a small table loses:**
+  - **Without Henry**, Ending 4 depends on **the teaching** rather than on his
+    old courtesies — Garratt asks once in Act Two and *any* agent may answer.
+    Clue 17's third route is Agnes.
+  - **Without Meg**, clue 7 — the hinge — is an Intellectuall roll rather than
+    automatic, and a Falter still delivers it.
+  - **Without Graves**, clues 5 and 11 are Intellectuall rolls rather than free.
 - **Content warnings:** as in GM Essentials. Safety tools in use.
 - **Art Style:** Ink sketch / pencil illustration. Direction: **lead dale,
   April, no leaves yet.** A gibbet field, a church chest, a mine mouth. **The
@@ -96,9 +140,15 @@ scoreboard.
 | 0:00–0:15 | Introduction | Pregens dealt, safety line, **Dee's one-line instruction read aloud**, Garratt on the road with them |
 | 0:15–1:15 | **Act One — Skelthwaite** | The village turned cold; **Anne's grave found**; at least two of the eleven households identified |
 | — | *break, 10 min* | Ends on the parish's offer being made |
-| 1:15–2:45 | **Act Two — The Ledger and the Register** | The 1581 evidence reconstructed; **the Quiet Rent understood**; the meadowsweet taught or refused; **the list substantially filled** |
+| 1:15–2:30 | **Act Two — The Ledger and the Register** | The 1581 evidence reconstructed; **the Quiet Rent understood**; the meadowsweet taught or refused; **the list substantially filled** |
+| 2:30–2:45 | *cushion* | Act Two's overrun lives here, and nowhere else |
 | 2:45–3:15 | **Act Three — Sunday, Dawn** | The visitation; the choice made and paid for |
 | 3:15–3:30 | Epilogue | Per-PC vignettes keyed to each agent's Sanction rhyme |
+
+**Planned content is 3:15 against a 3:30 budget — 15 · 60 · 75 · 30 · 15 — and
+the fifteen minutes between 2:30 and 2:45 are the cushion.** Act Two's budget
+is **derived from its own scene list**: six scenes of twelve minutes is
+seventy-two, so seventy-five is the honest figure and ninety never was.
 
 ---
 
@@ -292,11 +342,11 @@ dinner.* Arrives Sunday. **Not corrupt, merely busy, which is worse.**
 |---|---|---|---|---|---|
 | 1 | Garratt is recognised within the hour | The village | **Automatic** | The dale closes | Essential |
 | 2 | Anne's grave is unmarked, outside the wall — **with fresh flowers** | North side | **Automatic** on looking | Somebody here has not forgotten, and is afraid to say so | Essential |
-| 3 | The gibbet field is empty and carefully maintained | The field | `[DEE: observation]`, or automatic | It is kept ready | Essential |
-| 4 | The village is frightened rather than hostile | The alehouse | `[DEE: a social approach]` | Reframes the whole act | Essential |
-| 5 | Three lawful deaths: ~1520, ~1551, 1581 | Rye, or the register | `[DEE: letters/learning]` | **The pattern** | Essential |
+| 3 | The gibbet field is empty and carefully maintained | The field | `[DEE: Intellectuall — or no roll at all for an Agent whose Ability covers fieldcraft or the country]` | It is kept ready | Essential |
+| 4 | The village is frightened rather than hostile | The alehouse | `[DEE: Intellectuall, Step-Up if they drink with the dale first]` | Reframes the whole act | Essential |
+| 5 | Three lawful deaths: ~1520, ~1551, 1581 | Rye, or the register | `[DEE: Intellectuall — **no roll for Robert Graves**, whose Ability is making evidence]` | **The pattern** | Essential |
 | 6 | Judith Ollerenshaw was nine and was there | Any gossip | **Automatic** | The witness | Essential |
-| 7 | **Anne named households from the ladder; she did not curse** | Judith | `[DEE: a gentle approach]`; Meg Alder's route is automatic | **The scenario's hinge** | Essential |
+| 7 | **Anne named households from the ladder; she did not curse** | Judith | `[DEE: Intellectuall, Step-Up for Meg Alder — widow to widow, and **no roll at all on her seam**]` | **The scenario's hinge** | Essential |
 | 8 | Two of the eleven names can be had at once | Judith | **Automatic** once she talks | **The list starts filling** | Essential |
 
 ### The offer — end of Act One
@@ -326,7 +376,7 @@ Judith.**
 
 ---
 
-## ACT TWO — *The Ledger and the Register* *(~90 minutes)*
+## ACT TWO — *The Ledger and the Register* *(~75 minutes — six scenes of twelve, and three to spare)*
 
 **Shape: six short scenes of about twelve minutes, alternating paper and dale,
 around one object that fills up.**
@@ -353,7 +403,7 @@ them.
 | 1 | Paper | **Garratt's ledger** — `H2-A`. Fees in a steady hand, verdicts in a shaky one. The £4 6s for 1581 | 1 name (who paid him) |
 | 2 | Dale | **Judith Ollerenshaw, properly** — she gets to four more before she stops | 3–4 names |
 | 3 | Paper | **The 1581 deposition** — `H2-B`, forged, and **readable as forged.** Robert Graves recognises the workmanship at a glance | 1 name (the deponent) |
-| 4 | Dale | **The workings** — spoil heaps, a boarded adit, and the boards are new. Somebody re-boards it. **Nobody goes up** | 0, but delivers Revelation 10 |
+| 4 | Dale | **The workings** — spoil heaps, a boarded adit, and the boards are new. Somebody re-boards it. **Nobody goes up.** *This is the scene to spend a Favour in, and the only one; see GM Essentials* | 0, but delivers Revelation 10 |
 | 5 | Paper | **The register chest** — `H2-C`, the page with the careful gap, and ~1520 and ~1551 in two earlier hands | 2 names |
 | 6 | Dale | **Rye, or Winterbourne, breaks** — whichever the Agents have worked on. The Quiet Rent said out loud | the rest |
 
@@ -395,8 +445,8 @@ nobody does, Act Three has three endings and the scenario is still complete.
 |---|---|---|---|---|---|
 | 9 | Garratt's ledger: £4 6s, 1581, and who paid it | `H2-A` | **Automatic** | A name for the list | Essential |
 | 10 | The verdict column is half filled in a shakier hand | `H2-A` | **Automatic** | What he has been doing since February | Essential |
-| 11 | **The 1581 deposition is forged, and well** | `H2-B` | **Automatic** for a forger; `[DEE: letters]` otherwise | The evidence was made | Essential |
-| 12 | One lawful death per generation, 1520 / 1551 / 1581 | `H2-C` + the register | `[DEE: letters]` | **The Quiet Rent's shape** | Essential |
+| 11 | **The 1581 deposition is forged, and well** | `H2-B` | `[DEE: **no roll for Graves** — it is his native language; Intellectuall for anyone else]` | The evidence was made | Essential |
+| 12 | One lawful death per generation, 1520 / 1551 / 1581 | `H2-C` + the register | `[DEE: Intellectuall]` | **The Quiet Rent's shape** | Essential |
 | 13 | The adit boards are new | The workings | **Automatic** on going up | Somebody maintains it | Essential |
 | 14 | **The deaths are a payment** | Winterbourne or Rye | **Automatic** when either breaks | The Quiet Rent, named | Essential |
 | 15 | **The 1581 payment was spoiled by the naming** | Winterbourne | **Automatic** with 14 | Why it is six years outstanding | Essential |

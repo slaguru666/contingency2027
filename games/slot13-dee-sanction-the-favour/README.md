@@ -2,7 +2,8 @@
 
 *He kept his side of it. That is the problem.*
 
-**System:** The Dee Sanction · **4–6 players** · 4-hour slot (3h30 play) ·
+**System:** The Dee Sanction · **4–6 players, written for five** · 4-hour slot
+(3h30 budget, 3h15 planned) ·
 **the only Dee Sanction game on the slate** ·
 the debt runs the wrong way · a public visitation on a clock · four written
 endings, all costly.
@@ -15,13 +16,15 @@ returning pregens' seams are the routes through it.
 | File | What it is |
 |---|---|
 | [`scenarios/the-favour-outline.md`](scenarios/the-favour-outline.md) | Synopsis, design intent, plot truth, act skeleton, returning-pregen seams, open questions |
-| [`scenarios/the-favour.md`](scenarios/the-favour.md) | **The scenario.** v0 skeleton, primed from the outline &mdash; not yet runnable |
-| [`characters/the-favour-pregens.md`](characters/the-favour-pregens.md) | Pregen brief and pre-v1 audit checklist &mdash; **the sheets port in**, they are not new writing |
+| [`scenarios/the-favour.md`](scenarios/the-favour.md) | **The scenario.** v1.1 &mdash; runnable; desk pass 1 fixes applied |
+| [`characters/the-favour-pregens.md`](characters/the-favour-pregens.md) | **Pointer to the seven shared *Princes Bride* agents** &mdash; taglines, seams re-pointed at this case, seat and drop order, the Sanction rhyme |
+| [`playtest/the-favour-desk-1.md`](playtest/the-favour-desk-1.md) | Desk pass 1 &mdash; GM chair, full session, six findings (all addressed) and **both Dee Sanction rules items closed against the book** |
 
-**Status:** outline. Next: full scenario draft to v1.
+**Status:** **v1.1 — desk pass 1 applied.** Next: desk pass 2, then pass 3
+from the player chair.
 
-**Remaining prep:** scenario v1 · pregens (intent: reuse the seven *Princes
-Bride* sheets, re-inserted for this case) · handouts (Garratt's ledger spread,
+**Remaining prep:** per-agent mission inserts for *this* case (the seven sheets
+themselves port in unchanged) · handouts (Garratt's ledger spread,
 the forged 1581 deposition, the register gap, the eleven names) · art · desk
 playtest ×2 · print pack.
 
