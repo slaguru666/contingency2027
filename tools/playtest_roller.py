@@ -40,10 +40,12 @@ RULES = {
         "bane. Source: ALIEN Core Rules; same core in Vaesen and TWDU.",
     ),
     "br": (
-        False,
-        "Blade Runner RPG step dice (attribute + skill from d6/d8/d10/d12), "
-        "success on 6+. The handling of 10+ on a single die has NOT been "
-        "checked against the rulebook; treated here as one success.",
+        True,
+        "Blade Runner RPG: two Base Dice (attribute + skill, each d6-d12 by "
+        "rating A=d12/B=d10/C=d8/D=d6). 'Any roll of 6 or higher on a Base "
+        "Dice is called a success'; 'A roll of 10 or higher on a die (only "
+        "possible with a D10 or D12) means two successes.' Source: Blade "
+        "Runner RPG Core Rulebook, Dice and Rolls.",
     ),
     "og": (
         False,
@@ -113,7 +115,7 @@ def roll_br(rng, dice):
         if d not in STEP_DICE:
             sys.exit(f"unknown step die {d!r}; use one of {sorted(STEP_DICE)}")
         rolls.append((d, rng.randint(1, STEP_DICE[d])))
-    successes = sum(1 for _, v in rolls if v >= 6)
+    successes = sum(2 if v >= 10 else 1 for _, v in rolls if v >= 6)
     shown = ", ".join(f"{d}={v}" for d, v in rolls)
     return f"{shown} successes={successes} -> " + ("success" if successes else "FAIL")
 
