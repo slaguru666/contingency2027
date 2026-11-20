@@ -1,0 +1,416 @@
+[
+  {
+    "id": "S4-NPC-01",
+    "scenario": "BLACK SUMMER: LAST FLIGHT OUT",
+    "system": "The Walking Dead Universe RPG (modified)",
+    "name": "Major Ruth Okonjo",
+    "role": "Major commanding the Floyd Bennett Field detachment",
+    "essence": "Counted it both ways and is holding four thousand people still with a lie. Courteous, exhausted, will not perform guilt.",
+    "wants": "The last aircraft loaded before the field finds out",
+    "where": "Act Two: processing tent or her office in the old hangar; needs a chit and some nerve",
+    "play": [
+      "Courteous, exhausted, will not perform guilt. Not a villain and must not be played as one.",
+      "Told they know, she does not deny it: asks them to sit down and says the ten-minute number.",
+      "Never threatens or removes them; lets them walk out to tell the crowd. Will not change course."
+    ],
+    "knows": [
+      "Clue 13: the queue is the containment. Told, the crowd overruns the wire in under ten minutes.",
+      "Clue 16: thirty-one soldiers for four thousand. If she speaks to the crowd: THE LINE -2, once."
+    ],
+    "stats": "STR 3, AGI 2, WITS 4, EMP 4. Leadership 3, Manipulation 2, Ranged Combat 2, Scout 1. Health 3.",
+    "stats_source": "draft",
+    "stats_note": "Drafted on the file's PC budget (13 attribute points, Health 3). No stats in file; she never threatens.",
+    "check": "No age given in the scenario, so the role line has none. A forged or wrong-face chit passes a tired soldier and fails her (line 476)."
+  },
+  {
+    "id": "S4-NPC-02",
+    "scenario": "BLACK SUMMER: LAST FLIGHT OUT",
+    "system": "The Walking Dead Universe RPG (modified)",
+    "name": "Mrs Adeyemi",
+    "role": "Widow at the tent-city market board",
+    "essence": "Has two chits and a dead husband's face on one of them.",
+    "wants": "Insulin for her sister",
+    "where": "Act Two: at the market board when they arrive; asks the doctor directly for insulin",
+    "play": [
+      "Opens with her need, not her chit: asks the doctor, directly, for insulin for her sister.",
+      "Will trade her own good chit only for insulin, and she will not come with them.",
+      "Not a villain: doing the most defensible thing she can. Offer her; never steer to her."
+    ],
+    "knows": [
+      "Clue 14: her own good chit, a genuine fourth seat, traded only for her sister's insulin.",
+      "Her husband died on Tuesday: his chit has his face, so it is another chit C unless forged."
+    ],
+    "stats": "STR 2, AGI 2, WITS 3, EMP 3. Manipulation 2, Endure 1, Survival 1. Health 3.",
+    "stats_source": "draft",
+    "stats_note": "Drafted as an ordinary civilian survivor. No stats in file; her scenes are purely social.",
+    "check": "No first name or age given. Unclear whether handout H2-B ('the fourth chit', serial in the wrong range) is her chit or the forgery. Line 473 says a named diabetic woman goes without if they buy; lines 488-493 say the price is insulin for her sister: the two readings do not obviously agree."
+  },
+  {
+    "id": "S5-NPC-01",
+    "scenario": "CONTINUOUS SERVICE",
+    "system": "ALIEN RPG (cinematic)",
+    "name": "Ileana Vos",
+    "role": "61, purser of the Keelson",
+    "essence": "Awake forty minutes every ninety days for eleven years; wants the ship to stay crewed, and is right.",
+    "wants": "File nothing, leave, let her keep working; failing that, one of them takes the cycle on",
+    "where": "Act Two, Track A: purser's office, behind the pressure door. Playable on first PC death",
+    "play": [
+      "Courteous, not warm. Plain language; answer the question that was asked and no more.",
+      "She is right: play her as correct, not mad or sinister. Eleven years of arguments, in order.",
+      "Will not leave. Told 'you could just have left', she agrees. Nobody opens the holds."
+    ],
+    "knows": [
+      "Clues 13, 14, 17: a crewed ship is not towed to a dock of 11,000; filing makes the tow legal.",
+      "Containers 1 and 4 were opened aboard on the ninth day; she knows who. Banks is alive."
+    ],
+    "stats": "STR 2, AGI 2, WITS 4 (key), EMP 3. Health 2, Stress 3. Comtech 3, Observation 2, Manipulation 2, Survival 1; all others 0.",
+    "stats_source": "scenario",
+    "stats_note": "characters/continuous-service-pregens.md lines 572-578. Scenario line 607: shot, she dies easily.",
+    "check": "Stats come from the pregens file (survivor seats), not the scenario file itself. Her three per-Act agenda cards are at pregens lines 594-603. The scenario file heads its title '2186: CONTINUOUS SERVICE'; the year is omitted here."
+  },
+  {
+    "id": "S5-NPC-02",
+    "scenario": "CONTINUOUS SERVICE",
+    "system": "ALIEN RPG (cinematic)",
+    "name": "Aurelio Banks",
+    "role": "44, deck chief of the Keelson",
+    "essence": "Alive in a crawlspace for a year; wants off, and is not wrong about anything.",
+    "wants": "Off this ship. That is all.",
+    "where": "Act Two, Track B: crawl above the cradle gantry; calls out on the party's second pass",
+    "play": [
+      "Talks too much, fast and gratefully; agrees with the last person who spoke.",
+      "Never asks for anything directly. Tells the truth: it is the only currency he has.",
+      "Will not say a word against Vos: 'She did right.' Cannot run or climb; not played as frailty."
+    ],
+    "knows": [
+      "Where all nine containers went; two were opened aboard; the thing came out of cradle 4.",
+      "The crawls are how it moves. The trap: taking him off means opening the aft umbilical."
+    ],
+    "stats": "STR 2 (was 4), AGI 2, WITS 3, EMP 4 (key). Health 2, Stress 4. Heavy Machinery 2, Survival 3, Observation 2, Comtech 1; all others 0.",
+    "stats_source": "scenario",
+    "stats_note": "characters/continuous-service-pregens.md lines 618-623. Scenario line 484: this scene is not a roll.",
+    "check": "Stats come from the pregens file (survivor seats), not the scenario file itself. Strongest body-horror beat: the scenario says give the table warning. Time in the crawl is given variously as 'a year', 'most of a year' and 'eleven months'. Playable on the second PC death; carries a master key for every hatch on the cargo spine."
+  },
+  {
+    "id": "S6-NPC-01",
+    "scenario": "THE LONDON PARTICULAR",
+    "system": "Call of Cthulhu 7e (Gaslight)",
+    "name": "Benjamin Hollis",
+    "role": "54, ill; Hollis & Son coal-tar works",
+    "essence": "Wants to hand the chimneys to someone who understands them before he dies. Ill, unrepentant, right more often than is comfortable.",
+    "wants": "To be relieved of it: to hand the chimneys to someone who understands them before he dies",
+    "where": "Act Two, Track A: the works on the Lea, at night. Reunion with Edward at about 2:15",
+    "play": [
+      "Ill, with the cough the works gave him; exhausted; entirely unrepentant. Play him straight.",
+      "Once he sees the register he denies nothing: he is relieved, and that is the upsetting part.",
+      "Asks what they would have done, 'and mind you answer the part about the five hundred men'."
+    ],
+    "knows": [
+      "Clues 10-12, his three rules: thick air carries it, clear air strands it, a chimney steers it.",
+      "H2-C: the 1893 process sheet, three carboys of reagent, the only method. His terms: silence."
+    ],
+    "stats": "STR 45 CON 30 SIZ 60 DEX 45 APP 50 INT 80 POW 70 EDU 75; HP 9; Science (Chemistry) 80, Persuade 55, Accounting 50, Natural World 45",
+    "stats_source": "draft",
+    "stats_note": "Drafted for an ill 54-year-old works proprietor. No stats in file; the scenario has no combat.",
+    "check": "The file never states his title (owner, proprietor), so the role line avoids one. Pacing lever: he gives rules, schedule and reagent in one ninety-second speech, and names the Act Three answer at 2:40 if the table is stuck. If shot, the ending is Pyrrhic (line 611)."
+  },
+  {
+    "id": "S6-NPC-02",
+    "scenario": "THE LONDON PARTICULAR",
+    "system": "Call of Cthulhu 7e (Gaslight)",
+    "name": "The Met Office duty clerk",
+    "role": "Duty clerk, Meteorological Office, Victoria Street",
+    "essence": "Wants his register back by six. Comic, obstructive.",
+    "wants": "To go home",
+    "where": "Act One: the Met Office, Victoria Street, before six; a fallback for clue 17 in Act Two",
+    "play": [
+      "Comic and obstructive. Will not be fobbed off; he stands between the party and the register.",
+      "Eats lunch with Peck, who must steal from his own office or talk him into breaking a rule.",
+      "Wants to go home more than he wants the ledger: gives way to be rid of them."
+    ],
+    "knows": [
+      "H2-A, the fog register (clue 5). If they cannot get it he reads the relevant nights out loud.",
+      "Clue 17: tonight's wind is ENE, light, backing north before dawn. Given to be rid of them."
+    ],
+    "stats": "STR 50 CON 50 SIZ 55 DEX 50 APP 45 INT 60 POW 45 EDU 65; HP 10; Library Use 50, Accounting 40, Science (Meteorology) 40, Fast Talk 30",
+    "stats_source": "draft",
+    "stats_note": "Drafted as an ordinary government clerk. No stats in file; the scenario has no combat.",
+    "check": "Unnamed and no age given. H2-A is signed out in Peck's name and due back at six (the act break): either Peck copies the fortnight into his notebook or the clerk relents on condition it is back by Monday."
+  },
+  {
+    "id": "S8-NPC-01",
+    "scenario": "VIVA VOCE",
+    "system": "Call of Cthulhu 7e (1920s)",
+    "name": "Ardwin Pell",
+    "role": "24, doctoral candidate, Miskatonic University",
+    "essence": "Found something real and finished it properly. Polite, nervous, correct about everything.",
+    "wants": "The doctorate he has honestly earned",
+    "where": "Corridor outside the examination room from 2:30; the room at three",
+    "play": [
+      "Not a villain: meet every push to make him sinister with politeness and a reasonable answer",
+      "Nervous in the ordinary way, courteous; answers every question correctly; superb on hydrology",
+      "Goes pink over the 1928 citation; lights up about Amory; proudest of chapter twelve"
+    ],
+    "knows": [
+      "Re-ordered the chapters in February; the 1928 entry is a placeholder he should have removed",
+      "Asked to explain chapter twelve, he hands over H3-A, Extract Four (Sanity 1/1D2)"
+    ],
+    "stats": "STR 50 CON 55 SIZ 60 DEX 55 APP 55 INT 80 POW 60 EDU 80; HP 11; Science (Geology) 70%, Library Use 65%, Natural World 50%, Persuade 30%",
+    "stats_source": "draft",
+    "stats_note": "Draft: able graduate student. No stats in file; nothing to fight, no combat (lines 31, 78).",
+    "check": "Scenario insists he is innocent and never sinister (lines 81-83, 877). Art rule: nothing the thesis describes is depicted."
+  },
+  {
+    "id": "S8-NPC-02",
+    "scenario": "VIVA VOCE",
+    "system": "Call of Cthulhu 7e (1920s)",
+    "name": "Dr Eleanor Sze",
+    "role": "41, examiner who read the thesis slowly",
+    "essence": "Cannot hear running water; wants the committee to do what she could not do alone.",
+    "wants": "Pell passed, the thesis sealed: not published, catalogued or lent",
+    "where": "The department, Act Two (Track B); sits as an examiner at the viva",
+    "play": [
+      "Precise, tired, entirely sane; right about everything and still cannot solve it",
+      "Hopes the committee is cleverer than she is; has deliberately written nothing down",
+      "Pacing valve: if the clock beats the table she says it all plainly and asks what they intend"
+    ],
+    "knows": [
+      "Cannot hear running water (tap or river demo); read it over a fortnight with breaks, so intact",
+      "The thesis is a method; reading it in order performs it. A copy was catalogued on the 4th"
+    ],
+    "stats": "STR 45 CON 50 SIZ 50 DEX 55 APP 55 INT 80 POW 70 EDU 90; HP 10; Science (Geology) 75%, Library Use 70%, Psychology 50%, Persuade 45%",
+    "stats_source": "draft",
+    "stats_note": "Draft: senior academic of 41. No stats in file; nothing to fight, no combat (lines 31, 78).",
+    "check": "Her discipline is not stated; drafted skills assume a hydrology examiner. At four players winning her vote is mandatory (line 105)."
+  },
+  {
+    "id": "S9-NPC-01",
+    "scenario": "THE CURIOUS CASE OF MR PARKER'S DIARY",
+    "system": "Vaesen",
+    "name": "Kerstin Aho",
+    "role": "79, oldest parishioner; heard the name",
+    "essence": "Wants not to be the one who says it. Her refusal is the last correct instinct in the parish.",
+    "wants": "To be left alone, and to come anyway",
+    "where": "The village in Act Two (Track B); then on the ice at the old inlet, Act Three",
+    "play": [
+      "Tells everything about the rite except the name; her refusal is not stubbornness",
+      "Comes to the inlet, ropes the party together, will not be hurried; will not speak it",
+      "Refuses three times; only genuine persuasion wins the name, and she dies within the year"
+    ],
+    "knows": [
+      "The rite: a name spoken over open water at the old inlet each Michaelmas, until the 1894 dam",
+      "The speaker must be someone the water has noticed: only a reader of the diary can do it"
+    ],
+    "stats": "Physique 2, Precision 2, Logic 3, Empathy 4; Vigilance 3, Observation 2, Inspiration 2; Physical Toughness 1, Mental Toughness 2",
+    "stats_source": "draft",
+    "stats_note": "Draft: frail but sharp woman of 79. No stats for her in the scenario or its outline.",
+    "check": "Speaking the name kills her within the year; never let her say it cheaply (lines 203-208, 453-457)."
+  },
+  {
+    "id": "S9-NPC-02",
+    "scenario": "THE CURIOUS CASE OF MR PARKER'S DIARY",
+    "system": "Vaesen",
+    "name": "Pastor Elias Ström",
+    "role": "Parish pastor; keeps the presbytery",
+    "essence": "Wants the four children to have been carried.",
+    "wants": "Absolution he will not name",
+    "where": "The presbytery, Hällvattnet: Act One, and Act Two (Track A)",
+    "play": [
+      "The easiest person in the parish to open, and opening him is unkind",
+      "Has prayed about it for four years without telling anyone what about; ask him kindly",
+      "Helpfully suggests posting the diary on to someone else: he wants it out of his church"
+    ],
+    "knows": [
+      "Volunteers the lapsed Michaelmas rite at the old inlet; shows the 1893 gap in the registers",
+      "Pressed: Lind burned the 1893 register in 1895; he watched, said nothing, has prayed since"
+    ],
+    "stats": "Physique 3, Precision 2, Logic 3, Empathy 4; Inspiration 3, Learning 2, Observation 2; Physical Toughness 2, Mental Toughness 2",
+    "stats_source": "draft",
+    "stats_note": "Draft: rural parish priest. No stats for him in the scenario or its outline.",
+    "check": "No age given in the scenario, so the role line omits it. His presbytery is a safe space for recovery (line 35)."
+  },
+  {
+    "id": "S11-NPC-01",
+    "scenario": "PAPER CHILDREN",
+    "system": "Blade Runner RPG",
+    "name": "Aaron Teale",
+    "role": "40, human freight dispatcher; the murderer",
+    "essence": "Wants someone else to know. Cooperative, unrepentant, grieving a brother he never met.",
+    "wants": "To not hold it alone",
+    "where": "Freight depot, Vernon, near the end of Act Two; then in custody",
+    "play": [
+      "Does not resist, does not run, almost relieved; quiet and cooperative. Nobody shouts",
+      "Will not say sorry, as it comes out a lie; asks them only to know, not to do anything",
+      "Right that somebody should know, wrong about all else: not a crank, and not vindicated"
+    ],
+    "knows": [
+      "Hands over the torn ledger page unasked: H3-A, thirty-one living names",
+      "Human; twin Daniel died at four months, 1997. Asked Sang twice; remembers nine of the names"
+    ],
+    "stats": "STR C, AGI C, INT B, EMP C; Observation C, Connections C, Driving C, Hand-to-Hand Combat D; Health 4, Resolve 5",
+    "stats_source": "draft",
+    "stats_note": "Draft: ordinary human civilian. Roster line 541 gives no EMP; unarmed and cooperative (line 489).",
+    "check": "Human, so no V-K Empathy rating in the roster. Infant death is never depicted; no child in any art."
+  },
+  {
+    "id": "S11-NPC-02",
+    "scenario": "PAPER CHILDREN",
+    "system": "Blade Runner RPG",
+    "name": "Esteban Vicario",
+    "role": "Decorated paramedic; Nexus-8 paper child",
+    "essence": "Wants to finish his shift. Better than the people deciding his fate.",
+    "wants": "To go back to work",
+    "where": "Act Two interview (Track A), on shift; the hardest interview",
+    "play": [
+      "Not frightened and not defiant; he is busy. Tired and procedural, never shouts",
+      "If tested, he puts his arm out without being asked",
+      "Decorated; pulled nine people out of the Sector 9 fire in 2035 and has the burns"
+    ],
+    "knows": [
+      "With Adeyemi: a man came asking questions in the spring, half of Teale's identity (automatic)",
+      "Alibi almost good enough; a replicant on Sang's ledger who did not kill her"
+    ],
+    "stats": "STR B, AGI B, INT C, EMP A (d12, for V-K); Medical Aid A, Stamina B, Observation C; Health 5, Resolve 5",
+    "stats_source": "mixed",
+    "stats_note": "EMP A (d12) from roster line 543; rest drafted. Lines 548-549: EMP is all he needs, nobody fights.",
+    "check": "No age or district given in the scenario. V-K is INSIGHT vs his EMP d12; a failed roll is inconclusive and burns a Shift."
+  },
+  {
+    "id": "S12-NPC-01",
+    "scenario": "CLOSING WEEKEND",
+    "system": "Call of Cthulhu 7e",
+    "name": "Hollis Yeardley",
+    "role": "61, camp cook, eight summers",
+    "essence": "Eight summers; has read the log and said nothing.",
+    "wants": "Someone to make him say it",
+    "where": "Mess hall kitchen, on the point all along; second replacement PC; Act Two pacing valve",
+    "play": [
+      "Feed people before you tell them anything.",
+      "He has seen this before and says so flatly, once.",
+      "He cannot run (MOV 4), so he chooses a room and stays in it."
+    ],
+    "knows": [
+      "Says clues 8, 14, 15 outright: the log's bad years (H2-A); the mask comes off by name (H2-B).",
+      "Knew Denny before, so he can say the name. Has the rota: who went under the boathouse in June."
+    ],
+    "stats": "STR 55 CON 55 SIZ 65 DEX 45 APP 40 POW 60 INT 55 EDU 63. HP 12, MOV 4, SAN 60, Luck 40. Cooking 70, Listen 50, Psychology 50, Spot Hidden 45, Brawl 35 (carving knife 1D4+2), Dodge 22.",
+    "stats_source": "scenario",
+    "stats_note": "Sheet S2 in characters/closing-weekend-pregens.md, lines 705-736. Playable second character.",
+    "check": "Sheet's Private box says he was at the camp in 1954 and 1962, which conflicts with 'eight summers'. Roster calls him the cook, not a caretaker."
+  },
+  {
+    "id": "S12-NPC-02",
+    "scenario": "CLOSING WEEKEND",
+    "system": "Call of Cthulhu 7e",
+    "name": "Deputy Carol Prine",
+    "role": "34, deputy, county sheriff's office",
+    "essence": "Wants this to be kids and beer.",
+    "wants": "A quiet shift",
+    "where": "Pulls up at cabin four in a county cruiser after the first PC death; first replacement PC",
+    "play": [
+      "Take names and write them down; ask the boring question first, twice.",
+      "Not frightened yet; when she is, she will not say so.",
+      "Holds her line that this is kids and beer for as long as she can."
+    ],
+    "knows": [
+      "Dispatch logged a complaint from the camp's own office phone at 8.50; nobody admits calling.",
+      "Did not know Denny before, so she cannot say the name. Cruiser radio cannot raise the county."
+    ],
+    "stats": "STR 60 CON 60 SIZ 55 DEX 60 APP 50 POW 60 INT 60 EDU 60. HP 11, MOV 9, SAN 60, Luck 50. Brawl 55, Handgun 50 (.38 revolver 1D10), Spot Hidden 50, Psychology 45, Dodge 45. Maglite as club 1D6.",
+    "stats_source": "scenario",
+    "stats_note": "Sheet S1 in characters/closing-weekend-pregens.md, lines 637-668. Playable second character.",
+    "check": "Sheet gives Dodge 30 in the derived line (641) but Dodge 45 in the skill list (659, 30 base + 15); card uses 45."
+  },
+  {
+    "id": "S13-NPC-01",
+    "scenario": "THE FAVOUR",
+    "system": "The Dee Sanction",
+    "name": "Witch Finder Garratt",
+    "role": "53, witch finder, of York",
+    "essence": "Wants one name off his ledger, and will not accept a private absolution. Unhurried, courteous, shares method and never conclusion.",
+    "wants": "Anne Suddaby cleared, publicly, on the record, before a magistrate",
+    "where": "Rides into Skelthwaite with the Agents; with them throughout; speaks at Sunday visitation",
+    "play": [
+      "Unhurried, courteous, professional; shares method and never conclusion.",
+      "Never asks forgiveness; declines absolution courteously. Never repentant in a warm way.",
+      "Will not fight or resist the Agents. Money, threats and pleading do not move him."
+    ],
+    "knows": [
+      "His ledger (H2-A): £4 6s for 1581 and who paid it. Points out the forgery in H2-B himself.",
+      "Asks once, in Act Two, what the meadowsweet meant. Ending 4 exists only if he is taught."
+    ],
+    "stats": "Physicall d6, Intellectuall d10, Supernaturall d4. Hits 2. Abilities: Examination, Law. Will not fight.",
+    "stats_source": "draft",
+    "stats_note": "Drafted for an ageing professional examiner. Scenario gives no stats and says he will not fight.",
+    "check": "Not confident of The Dee Sanction's printed NPC format; draft kept minimal, verify against the rulebook. Scenario wants no fight rolled."
+  },
+  {
+    "id": "S13-NPC-02",
+    "scenario": "THE FAVOUR",
+    "system": "The Dee Sanction",
+    "name": "Ezra Winterbourne",
+    "role": "71, churchwarden of Skelthwaite",
+    "essence": "Wants the rent paid before he dies, so his son never has to know. The parish's decency and its horror in one man.",
+    "wants": "The offer accepted: the parish given the witch finder",
+    "where": "His farm; comes to the Agents with the offer at the end of Act One; at the visitation",
+    "play": [
+      "Frightened, not wicked; must not be played as wicked. He has rehearsed his speech.",
+      "He is sorry, and would be relieved to be thought a villain.",
+      "His offer is a real solution; do not undermine it. Accuses Garratt Sunday unless pre-empted."
+    ],
+    "knows": [
+      "When he breaks: the Quiet Rent, the spoiled 1581 payment, why clearing Anne calls the debt in.",
+      "One of the eleven names on H2-D. Fallback: says revelations 7, 8, 9 and 12 in one speech."
+    ],
+    "stats": "Physicall d4, Intellectuall d8, Supernaturall d6. Hits 1. Abilities: Parish Custom, Husbandry. Not a combatant.",
+    "stats_source": "draft",
+    "stats_note": "Drafted for a frightened 71-year-old farmer and churchwarden. Scenario gives no stats.",
+    "check": "Not confident of The Dee Sanction's printed NPC format; draft kept minimal, verify against the rulebook."
+  },
+  {
+    "id": "S14-NPC-01",
+    "scenario": "PROVENANCE",
+    "system": "Outgunned Adventure",
+    "name": "Dr Albrecht Ritter",
+    "role": "51, Ahnenerbe scholar with the survey column",
+    "essence": "Ahnenerbe scholar; wants to repair a two-century-old wrong, is correct about every fact, and is sincere.",
+    "wants": "The restoration, Thursday at first light, done correctly",
+    "where": "The camp in the barranco, from first contact in Act One; he invites the party in",
+    "play": [
+      "Likeable, careful, sincere: not smug, not a fanatic, not secretly cruel.",
+      "Offers coffee, answers every question truthfully, shows the file unprompted. Has every fact.",
+      "Translates Fournel's note aloud and reads it as a formality. Keep him apart from Degen."
+    ],
+    "knows": [
+      "Hands over the provenance file and 1932 export licence (H1). All genuine; there is no forgery.",
+      "Lets them read the 1811 requisition (H2/H3). Says the reliquary does nothing for its holder."
+    ],
+    "stats": "No block of his own. With the column, one Enemy: Grit 8, Attack 2 Basic, Defense Critical. Alone (draft): Goon, Grit 3, Attack Basic, Defense Basic. Weak spot: a scholar, not a soldier.",
+    "stats_source": "mixed",
+    "stats_note": "Column block from provenance.md lines 515-520; lone figures drafted. Killable; the schedule survives him.",
+    "check": "Binding constraints: no uniforms or regalia as spectacle (field kit, clipboard); never a secretly good German. Lone-Ritter Enemy line is a draft."
+  },
+  {
+    "id": "S14-NPC-02",
+    "scenario": "PROVENANCE",
+    "system": "Outgunned Adventure",
+    "name": "Rosalía Benach",
+    "role": "74, villager of Sant Grau, Nuria's grandmother",
+    "essence": "Wants the reliquary back in the niche, for the opposite reason to Ritter's, and will not explain herself twice.",
+    "wants": "The lock shut: the reliquary back in the niche",
+    "where": "Outside the church in Sant Grau, Act Two; at the niche at first light, Act Three",
+    "play": [
+      "States it once and goes back to her beans; she does not argue and will not say it twice.",
+      "If Nuria is at the table she talks to her, not the party. Give that scene room.",
+      "At the niche she will not stop anybody and will not help. Never cut her."
+    ],
+    "knows": [
+      "The niche is a fitting, a lock, open since 1811; the village has known since. She has no proof.",
+      "Fallback at 2:25: Fournel took it away for safety. Says revelations 8, 9, 10, 11 in one speech."
+    ],
+    "stats": "No Enemy block: a 74-year-old villager who is never fought. If a roll to move her is wanted (draft): Critical difficulty, and she still will not argue back.",
+    "stats_source": "draft",
+    "stats_note": "Scenario gives no stats; she neither stops nor helps anyone (provenance.md 591-592). Difficulty drafted.",
+    "check": "The scenario says never cut her (Act Two fallback). Suggested difficulty is a draft, not from the text."
+  }
+]
